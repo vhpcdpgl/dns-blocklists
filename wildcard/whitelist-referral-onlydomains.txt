@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Dec 2024 11:52 UTC
-# Version: 2024.1214.1152.09
+# Last modified: 16 Dec 2024 11:57 UTC
+# Version: 2024.1216.1157.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 1751
+# Number of entries: 1747
 #
 l.1mp.ru
 t.1und1.de
@@ -1103,11 +1103,6 @@ mkto-lon100159.com
 mkto-lon100168.com
 mkto-lon100178.com
 mkto-lon100192.com
-mkto-lon120001.com
-mkto-lon120002.com
-mkto-lon120003.com
-mkto-lon120004.com
-mkto-lon120005.com
 mkto-lon120006.com
 mkto-lon120007.com
 mkto-lon120008.com
@@ -1136,6 +1131,7 @@ mkto-mlm10030019.com
 mkto-mlm10030020.com
 mkto-n0168.com
 mkto-n0199.com
+mkto-n0208.com
 mkto-n0243.com
 mkto-nld1010023.com
 mkto-nld1020078.com
