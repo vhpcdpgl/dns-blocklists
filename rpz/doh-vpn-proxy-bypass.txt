@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734366480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734409020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Dec 2024 16:28 UTC
-; Version: 2024.1216.1628.47
+; Last modified: 17 Dec 2024 04:17 UTC
+; Version: 2024.1217.0417.50
 ; Syntax: RPZ
-; Number of entries: 7442
+; Number of entries: 7422
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1650,6 +1650,8 @@ kyoheitensai.com CNAME .
 *.kyoheitensai.com CNAME .
 largero.com CNAME .
 *.largero.com CNAME .
+iterator.lazada.com CNAME .
+*.iterator.lazada.com CNAME .
 le-vpn.com CNAME .
 *.le-vpn.com CNAME .
 leekemx.com CNAME .
@@ -3106,8 +3108,6 @@ yunyun.is.my.waifu.cz CNAME .
 *.yunyun.is.my.waifu.cz CNAME .
 dns.novali.date CNAME .
 *.dns.novali.date CNAME .
-0000a-fast-proxy.de CNAME .
-*.0000a-fast-proxy.de CNAME .
 1and1-dns.de CNAME .
 *.1and1-dns.de CNAME .
 2proxy.de CNAME .
@@ -3612,8 +3612,6 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
-dns.auapi.fun CNAME .
-*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -3926,8 +3924,6 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 ivpn.info CNAME .
 *.ivpn.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lalal.info CNAME .
@@ -3996,16 +3992,12 @@ proxygogo.info CNAME .
 *.proxygogo.info CNAME .
 proxysan.info CNAME .
 *.proxysan.info CNAME .
-redproxy.info CNAME .
-*.redproxy.info CNAME .
 redschool.info CNAME .
 *.redschool.info CNAME .
 revko.info CNAME .
 *.revko.info CNAME .
 saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
-shyf.info CNAME .
-*.shyf.info CNAME .
 sitework.info CNAME .
 *.sitework.info CNAME .
 skynetwork.info CNAME .
@@ -4038,8 +4030,6 @@ usafastproxy.info CNAME .
 *.usafastproxy.info CNAME .
 uskt.info CNAME .
 *.uskt.info CNAME .
-vblocker.info CNAME .
-*.vblocker.info CNAME .
 vpnanonym.info CNAME .
 *.vpnanonym.info CNAME .
 vpnapp.info CNAME .
@@ -4512,8 +4502,6 @@ honeygain.me CNAME .
 *.honeygain.me CNAME .
 dns.indust.me CNAME .
 *.dns.indust.me CNAME .
-iportal.me CNAME .
-*.iportal.me CNAME .
 jkdns.me CNAME .
 *.jkdns.me CNAME .
 dns.karadag.me CNAME .
@@ -5170,8 +5158,6 @@ securenet.mhsystems.net CNAME .
 *.securenet.mhsystems.net CNAME .
 mobilevpn.net CNAME .
 *.mobilevpn.net CNAME .
-nue2.moderateinfra.net CNAME .
-*.nue2.moderateinfra.net CNAME .
 monthlyssh.net CNAME .
 *.monthlyssh.net CNAME .
 zrh1-ns01.monzoon.net CNAME .
@@ -5630,8 +5616,6 @@ jupitervpn.ninja CNAME .
 *.jupitervpn.ninja CNAME .
 dns.linkr.ninja CNAME .
 *.dns.linkr.ninja CNAME .
-ninjaproxy.ninja CNAME .
-*.ninjaproxy.ninja CNAME .
 ns3.bit-trail.nl CNAME .
 *.ns3.bit-trail.nl CNAME .
 dutchproxy.nl CNAME .
@@ -5830,8 +5814,6 @@ cantblockthis.org CNAME .
 *.cantblockthis.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
-tysonsbackagain.capnorthshore.org CNAME .
-*.tysonsbackagain.capnorthshore.org CNAME .
 console.carestyle.org CNAME .
 *.console.carestyle.org CNAME .
 catdns.org CNAME .
@@ -6512,8 +6494,6 @@ united-arab-emirates.privacy-dns.pw CNAME .
 *.united-arab-emirates.privacy-dns.pw CNAME .
 prox.pw CNAME .
 *.prox.pw CNAME .
-proxys.pw CNAME .
-*.proxys.pw CNAME .
 ant.dns.qwer.pw CNAME .
 *.ant.dns.qwer.pw CNAME .
 dog.dns.qwer.pw CNAME .
