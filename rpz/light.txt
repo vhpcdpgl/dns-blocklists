@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734401580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734455520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Dec 2024 02:13 UTC
-; Version: 2024.1217.0213.33
+; Last modified: 17 Dec 2024 17:12 UTC
+; Version: 2024.1217.1712.03
 ; Syntax: RPZ
-; Number of entries: 140098
+; Number of entries: 140096
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -6855,8 +6855,8 @@ securite.01net.com CNAME .
 *.0342b40dd6.com CNAME .
 03505ed0f4.com CNAME .
 *.03505ed0f4.com CNAME .
-44dfc0c053.03935e5357.com CNAME .
-*.44dfc0c053.03935e5357.com CNAME .
+03935e5357.com CNAME .
+*.03935e5357.com CNAME .
 03a17e7986.com CNAME .
 *.03a17e7986.com CNAME .
 03b5f525af.com CNAME .
@@ -33809,8 +33809,6 @@ eecmaivie.com CNAME .
 *.eecmaivie.com CNAME .
 eeecc0e343.com CNAME .
 *.eeecc0e343.com CNAME .
-eef857d1fa.com CNAME .
-*.eef857d1fa.com CNAME .
 eefa308edc.com CNAME .
 *.eefa308edc.com CNAME .
 eegroosoad.com CNAME .
@@ -59329,8 +59327,8 @@ nobodylightenacquaintance.com CNAME .
 *.nobodylightenacquaintance.com CNAME .
 nockerlmrs.com CNAME .
 *.nockerlmrs.com CNAME .
-tracker.nocodelytics.com CNAME .
-*.tracker.nocodelytics.com CNAME .
+nocodelytics.com CNAME .
+*.nocodelytics.com CNAME .
 nocturnalloom.com CNAME .
 *.nocturnalloom.com CNAME .
 noddus.com CNAME .
@@ -59771,6 +59769,8 @@ nsfwadds.com CNAME .
 *.nsfwadds.com CNAME .
 nsfxaffiliates.com CNAME .
 *.nsfxaffiliates.com CNAME .
+nsfxopckqflk.com CNAME .
+*.nsfxopckqflk.com CNAME .
 nsjyfpo.com CNAME .
 *.nsjyfpo.com CNAME .
 nskwqto.com CNAME .
@@ -66667,8 +66667,6 @@ publicus.com CNAME .
 *.publicus.com CNAME .
 publift.com CNAME .
 *.publift.com CNAME .
-publipagos.com CNAME .
-*.publipagos.com CNAME .
 publir.com CNAME .
 *.publir.com CNAME .
 publisher-network.com CNAME .
@@ -75201,8 +75199,8 @@ diff3.smartadserver.com CNAME .
 *.diff3.smartadserver.com CNAME .
 documentation.smartadserver.com CNAME .
 *.documentation.smartadserver.com CNAME .
-euw1.smartadserver.com CNAME .
-*.euw1.smartadserver.com CNAME .
+euw2.smartadserver.com CNAME .
+*.euw2.smartadserver.com CNAME .
 go.smartadserver.com CNAME .
 *.go.smartadserver.com CNAME .
 help.smartadserver.com CNAME .
@@ -75711,6 +75709,8 @@ sneernodaccommodating.com CNAME .
 *.sneernodaccommodating.com CNAME .
 sneezeboring.com CNAME .
 *.sneezeboring.com CNAME .
+snhcnjjxrlqkml.com CNAME .
+*.snhcnjjxrlqkml.com CNAME .
 snhtvtp.com CNAME .
 *.snhtvtp.com CNAME .
 adsales.snidigital.com CNAME .
@@ -86869,8 +86869,6 @@ viihloln.com CNAME .
 *.viihloln.com CNAME .
 viiiaypg.com CNAME .
 *.viiiaypg.com CNAME .
-viiietcombank.com CNAME .
-*.viiietcombank.com CNAME .
 viiigbxo.com CNAME .
 *.viiigbxo.com CNAME .
 viiigle.com CNAME .
@@ -87633,8 +87631,6 @@ metrics.vonage.com CNAME .
 *.metrics.vonage.com CNAME .
 smetrics.vonage.com CNAME .
 *.smetrics.vonage.com CNAME .
-vongquay88.com CNAME .
-*.vongquay88.com CNAME .
 vongquaykimcuong79.com CNAME .
 *.vongquaykimcuong79.com CNAME .
 vongquaymienphi.com CNAME .
@@ -97751,6 +97747,8 @@ standartnews.eu CNAME .
 *.standartnews.eu CNAME .
 tagvideo.eu CNAME .
 *.tagvideo.eu CNAME .
+service.techzine.eu CNAME .
+*.service.techzine.eu CNAME .
 hcbox.tesla-electronics.eu CNAME .
 *.hcbox.tesla-electronics.eu CNAME .
 analytics.ticketmaster.eu CNAME .
@@ -100191,6 +100189,8 @@ xjtosdof.icu CNAME .
 *.xjtosdof.icu CNAME .
 xliuits.icu CNAME .
 *.xliuits.icu CNAME .
+xpicj0.icu CNAME .
+*.xpicj0.icu CNAME .
 xu6.icu CNAME .
 *.xu6.icu CNAME .
 xxqmtod.icu CNAME .
@@ -109857,6 +109857,8 @@ awheecethe.net CNAME .
 *.awheecethe.net CNAME .
 awhoonule.net CNAME .
 *.awhoonule.net CNAME .
+awooshimtay.net CNAME .
+*.awooshimtay.net CNAME .
 aws-itcloud.net CNAME .
 *.aws-itcloud.net CNAME .
 axf8.net CNAME .
@@ -137539,6 +137541,8 @@ hmuylvbwbpead.xyz CNAME .
 *.hmuylvbwbpead.xyz CNAME .
 hoctor-pharity.xyz CNAME .
 *.hoctor-pharity.xyz CNAME .
+hoicksfq.xyz CNAME .
+*.hoicksfq.xyz CNAME .
 homepig4.xyz CNAME .
 *.homepig4.xyz CNAME .
 honknl.xyz CNAME .
@@ -138851,8 +138855,6 @@ qzsvwo.xyz CNAME .
 *.qzsvwo.xyz CNAME .
 qzvzluu.xyz CNAME .
 *.qzvzluu.xyz CNAME .
-ra1.xyz CNAME .
-*.ra1.xyz CNAME .
 ravzbd.xyz CNAME .
 *.ravzbd.xyz CNAME .
 raxetyrw.xyz CNAME .
@@ -139053,8 +139055,6 @@ sgwsss.xyz CNAME .
 *.sgwsss.xyz CNAME .
 shaeian.xyz CNAME .
 *.shaeian.xyz CNAME .
-shareman.xyz CNAME .
-*.shareman.xyz CNAME .
 sharion.xyz CNAME .
 *.sharion.xyz CNAME .
 shinep.xyz CNAME .
@@ -139971,8 +139971,6 @@ zajh3a.xyz CNAME .
 *.zajh3a.xyz CNAME .
 zauwaigojeew.xyz CNAME .
 *.zauwaigojeew.xyz CNAME .
-zcchywruyc.xyz CNAME .
-*.zcchywruyc.xyz CNAME .
 zdf3q.xyz CNAME .
 *.zdf3q.xyz CNAME .
 zdjtxjp.xyz CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Dec 2024 04:15 UTC
-# Version: 2024.1217.0415.38
+# Last modified: 17 Dec 2024 19:24 UTC
+# Version: 2024.1217.1924.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1861
+# Number of entries: 1860
 #
 local=/000a.de/
 local=/000space.com/
@@ -992,7 +992,6 @@ local=/homestead.com/
 local=/hop.ru/
 local=/host.sk/
 local=/hostami.me/
-local=/hosteurope.de/
 local=/hostfree.pw/
 local=/hostingas.in/
 local=/hostinger.de/

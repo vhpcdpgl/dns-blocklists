@@ -84,7 +84,7 @@
  22 |      68% |  21% |     11% | Denylist Community Advanced
  23 |      74% |  18% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
- 25 |      75% |  16% |      9% | Aggressive Extension
+ 25 |      79% |  13% |      8% | Aggressive Extension
  26 |      99% |   0% |      1% | Denylist Community Aggressive
 ```
 #### ULTIMATE
@@ -113,11 +113,11 @@
  21 |      68% |  21% |     11% | Denylist Community Advanced
  22 |      74% |  18% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |     100% |   0% |      0% | Pop-Up Ads
- 24 |      75% |  16% |      9% | Aggressive Extension
+ 24 |      79% |  13% |      8% | Aggressive Extension
  25 |      99% |   0% |      1% | Denylist Community Aggressive
  26 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  27 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
- 28 |      82% |  14% |      4% | Ultimate Extension
+ 28 |      82% |  15% |      3% | Ultimate Extension
  29 |      88% |   6% |      6% | Denylist Aggressive
  30 |      70% |  27% |      3% | Denylist Community Ultimate
 ```

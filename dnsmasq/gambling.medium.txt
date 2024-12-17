@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Dec 2024 04:07 UTC
-# Version: 2024.1217.0407.31
+# Last modified: 17 Dec 2024 19:16 UTC
+# Version: 2024.1217.1916.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 174476
+# Number of entries: 174498
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -80678,6 +80678,7 @@ local=/bbqwin.com/
 local=/bbr2bet.com/
 local=/bbr77.com/
 local=/bbr996.com/
+local=/bbrbet0002.com/
 local=/bbrbet001.mx/
 local=/bbrbet03.com/
 local=/bbrbet05.com/
@@ -82724,10 +82725,24 @@ local=/betfast.io/
 local=/betfero.com/
 local=/betfero2.com/
 local=/betfiery.com/
+local=/betfiery01.com/
+local=/betfiery02.com/
 local=/betfiery03.com/
+local=/betfiery04.com/
+local=/betfiery05.com/
+local=/betfiery06.com/
+local=/betfiery07.com/
+local=/betfiery08.com/
+local=/betfiery09.com/
+local=/betfiery1.com/
 local=/betfiery2.com/
+local=/betfiery3.com/
+local=/betfiery4.com/
 local=/betfiery5.com/
+local=/betfiery6.com/
 local=/betfiery7.com/
+local=/betfiery8.com/
+local=/betfiery9.com/
 local=/betfinal.com/
 local=/betfinex.com/
 local=/betfire777.com/
@@ -86630,6 +86645,7 @@ local=/braqqq.com/
 local=/brarr1.com/
 local=/brarr8.com/
 local=/brasil10.bet/
+local=/m.brasil777bet.com/
 local=/brasilbets365.net/
 local=/brasilbingo.com/
 local=/brasildasorte.com/
@@ -118711,6 +118727,7 @@ local=/jilibdtspin.com/
 local=/jilibdttaka.com/
 local=/jilibet.com/
 local=/jilibet.today/
+local=/jilibet020.com/
 local=/jilibet023.com/
 local=/jilibet028.com/
 local=/jilibet88.com/
@@ -119643,6 +119660,7 @@ local=/jogooob.com/
 local=/jogoooo.com/
 local=/jogoooo.net/
 local=/jogorico.com/
+local=/jogos.app/
 local=/jogos-pg.com/
 local=/jogos1.life/
 local=/jogos2.life/
@@ -131530,6 +131548,7 @@ local=/mggmmw.xyz/
 local=/mgh3cm.com/
 local=/mgjogo.com/
 local=/mgjogo1.com/
+local=/mgjogo666.com/
 local=/mgm-mirage.com/
 local=/mgm0245.com/
 local=/mgm0402.com/
@@ -136512,6 +136531,7 @@ local=/ogabet.com/
 local=/ogcasino.online/
 local=/ogcasino.top/
 local=/ogjogo.com/
+local=/ogjogo666.com/
 local=/ogjogo888.com/
 local=/ogonbar.ru/
 local=/ogpalace.com/
@@ -144346,6 +144366,7 @@ local=/r-oppabet.com/
 local=/r0309.com/
 local=/r034034.com/
 local=/r03641.com/
+local=/r06.com/
 local=/r065wic.com/
 local=/r0907.com/
 local=/r1-skins.com/
@@ -146047,6 +146068,7 @@ local=/rickycasino8.com/
 local=/rickycasinoau.com/
 local=/ricobet.win/
 local=/ricostacosmoya.net/
+local=/rider7777.com/
 local=/ridercasino.com/
 local=/ridika.com/
 local=/riding168.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Dec 2024 02:53 UTC
-# Version: 2024.1217.0253.00
+# Last modified: 17 Dec 2024 17:52 UTC
+# Version: 2024.1217.1752.39
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 87401
+# Number of entries: 87418
 #
 *.0.org
 *.0.to
@@ -75,7 +75,7 @@
 *.0342b40dd6.com
 *.03505ed0f4.com
 *.0373.info
-*.44dfc0c053.03935e5357.com
+*.03935e5357.com
 *.03a17e7986.com
 *.03b5f525af.com
 *.03bdb617ed.com
@@ -532,6 +532,7 @@
 *.16games.it
 *.16gang.com
 *.16handsgallery.com
+*.16lordfilm-0.xyz
 *.16pr72tb5.de
 *.16systems.com
 *.1704598c25.com
@@ -11357,6 +11358,7 @@
 *.adconfigproxy.azurewebsites.net
 *.adv-web-tracking-logs.azurewebsites.net
 *.app-fnsp-matomo-analytics-prod.azurewebsites.net
+*.bgteamtestapp.azurewebsites.net
 *.click360v2-ingest.azurewebsites.net
 *.cookietracking.azurewebsites.net
 *.ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
@@ -11384,6 +11386,8 @@
 *.adsninja.b-cdn.net
 *.adsninjacdn.b-cdn.net
 *.beamanalytics.b-cdn.net
+*.bot-check-v6.b-cdn.net
+*.bot-check-v8.b-cdn.net
 *.bs-adserver.b-cdn.net
 *.core-apps.b-cdn.net
 *.creatopy-adtag-production.b-cdn.net
@@ -11396,6 +11400,7 @@
 *.gigachadlitics.b-cdn.net
 *.hornylitics.b-cdn.net
 *.mellowads.b-cdn.net
+*.newverifyyourself-system.b-cdn.net
 *.performance-check.b-cdn.net
 *.popcashjs.b-cdn.net
 *.predataclient.b-cdn.net
@@ -11408,6 +11413,11 @@
 *.system-beta.b-cdn.net
 *.system-debug-1.b-cdn.net
 *.unibotscdn.b-cdn.net
+*.verification-module-v4.b-cdn.net
+*.verification-module-v5.b-cdn.net
+*.verification-module-v6.b-cdn.net
+*.verification-module-v7.b-cdn.net
+*.verification-module-v8.b-cdn.net
 *.verify-human.b-cdn.net
 *.voldffgkdsllkjthlkjt.b-cdn.net
 *.b-click.net
@@ -15421,6 +15431,7 @@
 *.t.buyist.app
 *.buyma.site
 *.track.buyma.com
+*.buymiraclebust.com
 *.buysellads.com
 *.buysellads.net
 *.buysoci.al
@@ -21296,6 +21307,7 @@
 *.analytics.com.ua
 *.analytics.com.vn
 *.infos.anz.com.au
+*.api.com.mk
 *.apis.com.br
 *.securemetrics.apple.com.cn
 *.applepc.com.my
@@ -29562,7 +29574,6 @@
 *.chstats01.eedition.net
 *.eeecc0e343.com
 *.eeei3rvgfk.ru
-*.eef857d1fa.com
 *.eefa308edc.com
 *.eefounsaig.com
 *.eegamaub.net
@@ -41067,6 +41078,7 @@
 *.infinityweet.com
 *.infinityweet.me
 *.infirmaryboss.com
+*.infis.net
 *.infisecure.com
 *.inflateimpediment.com
 *.inflationhumanity.com
@@ -41889,7 +41901,6 @@
 *.sentry.ionos.com
 *.t.ionos.com
 *.tif.ionos.com
-*.s3.eu-central-3.ionoscloud.com
 *.ionproxy.com
 *.ionscormationwind.info
 *.ionwin88.net
@@ -42554,6 +42565,7 @@
 *.jaineshy.com
 *.jaipauchoz.com
 *.jajja.com
+*.jajnekem.com
 *.jakescribble.com
 *.jakid.xyz
 *.analytics.jako.io
@@ -46861,6 +46873,7 @@
 *.lizardslaugh.com
 *.data.crm.lizearle.com
 *.smetrics.lizearle.com
+*.lizellen.com
 *.lizijing12.top
 *.lizzieforcepincers.com
 *.ljbrbz.xyz
@@ -50757,7 +50770,6 @@
 *.ec.moengage.com
 *.image.moengage.com
 *.sdk-03.moengage.com
-*.sdk-04.moengage.com
 *.sdk-100.moengage.com
 *.websdk.moengage.com
 *.moera.xyz
@@ -53695,7 +53707,7 @@
 *.nobodyengagement.com
 *.nobodylightenacquaintance.com
 *.nockerlmrs.com
-*.tracker.nocodelytics.com
+*.nocodelytics.com
 *.nocompromise.house
 *.nocsnqothfr.com
 *.nocturnalloom.com
@@ -54103,6 +54115,7 @@
 *.nsfsfn.xyz
 *.nsfwadds.com
 *.nsfxaffiliates.com
+*.nsfxopckqflk.com
 *.nshypdry.xyz
 *.cdn.nsimg.net
 *.nsjnmx.icu
@@ -62211,6 +62224,7 @@
 *.pramenterpriseamy.com
 *.pramudyanardatarsicia.online
 *.pranavafolksey.com
+*.pranavida.org
 *.analytics.prankhotline.com
 *.cdn.pranmcpkx.com
 *.analytics.praquin.com
@@ -63263,7 +63277,6 @@
 *.publicunloadbags.com
 *.publicus.com
 *.publift.com
-*.publipagos.com
 *.publir.com
 *.publisher-network.com
 *.publisherads.click
@@ -65346,7 +65359,6 @@
 *.r7ls.net
 *.hlul6k.r8w0.com
 *.r9ljguu1k4.ru
-*.ra1.xyz
 *.raab3frog.com
 *.raac33.net
 *.analytics.rabanne.com
@@ -68985,6 +68997,7 @@
 *.scrapejav128.fun
 *.scrapembarkarms.com
 *.scrapesleep.com
+*.scrapyland-blog.com
 *.scratch2cash.com
 *.analytics.scratchaddons.com
 *.scratchconsonant.com
@@ -69921,6 +69934,7 @@
 *.analytics.shapez.io
 *.shapshap.net
 *.shardycacalia.shop
+*.h5.share-ng.com
 *.share-server.com
 *.events.shareably.net
 *.shareadspace.com
@@ -69937,7 +69951,6 @@
 *.shareinstock.com
 *.smetrics.sharekhan.com
 *.sharele.cn
-*.shareman.xyz
 *.sharemedia.rs
 *.sharemefiles.ru
 *.sharemyads.com
@@ -70632,6 +70645,7 @@
 *.simpleanalyticscdn.com
 *.simpleanalyticsexternal.com
 *.matomo.simplebooklet.com
+*.simplebutgood.net
 *.ad.simpledesign.ltd
 *.simplehitcounter.com
 *.adsystem.simplemachines.org
@@ -71523,6 +71537,7 @@
 *.snebbubbled.com
 *.sneernodaccommodating.com
 *.sneezeboring.com
+*.snhcnjjxrlqkml.com
 *.snhtvtp.com
 *.adsales.snidigital.com
 *.analytics.snidigital.com
@@ -71849,6 +71864,7 @@
 *.sat.soluall.net
 *.solubleallusion.com
 *.securedata.solucious.be
+*.solussoundstudios.com
 *.solution-solutions.com
 *.mkt.solution-tree.com
 *.solutionscore.com
@@ -74033,6 +74049,7 @@
 *.svgvector.com
 *.sviluppo.host
 *.svindel.info
+*.svitske.tv
 *.svk-native.ru
 *.svkmxwssih.com
 *.svntrk.com
@@ -75097,6 +75114,7 @@
 *.img.techweb.com
 *.reg.techweb.com
 *.techwizz.net
+*.service.techzine.eu
 *.tecominchisel.com
 *.ziwewm.tecovas.com
 *.trelleborg.tecs1.com
@@ -79390,8 +79408,7 @@
 *.iads.unity3d.com
 *.ecommerce.iap.unity3d.com
 *.events.iap.unity3d.com
-*.o.isx.unity3d.com
-*.w.isx.unity3d.com
+*.isx.unity3d.com
 *.plausible.it.unity3d.com
 *.mediation.unity3d.com
 *.mz.unity3d.com
@@ -81172,7 +81189,6 @@
 *.viiguqam.com
 *.viihloln.com
 *.viiiaypg.com
-*.viiietcombank.com
 *.viiigbxo.com
 *.viiigle.com
 *.viiinfo.com
@@ -81839,7 +81855,6 @@
 *.smetrics.vonage.com
 *.vongaiptim.net
 *.vongquay.net
-*.vongquay88.com
 *.vongquaykimcuong79.com
 *.vongquaymienphi.com
 *.vonkol.com
@@ -82885,6 +82900,7 @@
 *.webringporn.com
 *.mysite.webroot.com
 *.analitica.webrpp.com
+*.webrunr.com
 *.webscouldlearnof.info
 *.is2.websearch.com
 *.webseeds.com
@@ -84399,6 +84415,7 @@
 *.metrics.writefull.ai
 *.writeme.me
 *.writemypaperbuyefp.com
+*.writerbloggermom.com
 *.writhehawm.com
 *.writingpaperrick.org
 *.wrongwayfarer.com
@@ -85246,6 +85263,7 @@
 *.xpeeps.com
 *.xperiafirmware.com
 *.elq.xperthr.nl
+*.xpicj0.icu
 *.xpicj1.cc
 *.xpicj6.cc
 *.xpicj8.cc
@@ -86464,7 +86482,6 @@
 *.z0a.de
 *.z2adigital.com
 *.r.z3.fm
-*.h5.z3v2.com
 *.z54a.xyz
 *.z5x.net
 *.z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
@@ -86618,7 +86635,6 @@
 *.zbtlgd.com
 *.zbwp6ghm.com
 *.zca31.com
-*.zcchywruyc.xyz
 *.zcegukojll.com
 *.zchtpzu.com
 *.zcigwuqfydm.com
@@ -87135,6 +87151,7 @@
 *.zonealta.com
 *.zoneoccupee.com
 *.zonewedgeshaft.com
+*.static.zongheng.com
 *.analytics.zonky.cz
 *.zononi.com
 *.zonst.com
