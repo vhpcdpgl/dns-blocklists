@@ -51,8 +51,8 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 | :green_book:[Light](#light)             | 140835<br>70049     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | 420504<br>154567     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 499377<br>176249         |  | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 601261<br>201546 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |:yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 662198<br>219213 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 685591<br>245374 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  |:yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 746525<br>263036 | :green_circle: | :green_circle: | :green_circle: | :green_circle: |  | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -168,7 +168,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > **Referral domains (affiliate and tracking links):**           
 > A few referral domains that also function as normal trackers are blocked. For further details see: [Referral domains](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
-**Entries:** 601261 domains/hosts - 66807 compressed hosts - 201546 compressed domains
+**Entries:** 685591 domains/hosts - 76177 compressed hosts - 245374 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -216,7 +216,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
-**Entries:** 662198 domains/hosts - 73578 compressed hosts - 219213 compressed domains
+**Entries:** 746525 domains/hosts - 82948 compressed hosts - 263036 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -273,12 +273,12 @@ A blocklist for annoying and malicious pop-up ads.
 
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       | TIF      |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------:|
-| Included in | :x: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: |
+| Included in | :x: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: | :yellow_square: |
 
 :green_circle: yes :yellow_square: partially :x: no
 
 > [!NOTE]
-> In the combination of the Pro or higher and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro or higher and also the TIF medium or full, you no longer need to add this list separately.
+> Fully included in Pro++ and Ultimate. Partially in Pro. In the combination of the Pro and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro and also the TIF medium or full, you no longer need to add this list separately.
 
 **Entries:** 84653 compressed domains
 

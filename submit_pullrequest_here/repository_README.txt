@@ -273,12 +273,12 @@ A blocklist for annoying and malicious pop-up ads.
 
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       | TIF      |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------:|
-| Included in | :x: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: |
+| Included in | :x: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: | :yellow_square: |
 
 :green_circle: yes :yellow_square: partially :x: no
 
 > [!NOTE]
-> In the combination of the Pro or higher and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro or higher and also the TIF medium or full, you no longer need to add this list separately.
+> Fully included in Pro++ and Ultimate. Partially in Pro. In the combination of the Pro and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro and also the TIF medium or full, you no longer need to add this list separately.
 
 **Entries:** popupads_cp compressed domains
 
