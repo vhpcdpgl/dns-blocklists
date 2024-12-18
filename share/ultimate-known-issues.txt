@@ -3,10 +3,12 @@
 tags.tiqcdn.com
 
 # Bild.de - Adblock-Detection
-ast.bild.de
 ast.bild.de.greylabeldelivery.com
 cdn.opecloud.com
 www.asadcdn.com
 
 # Telekom MagentaCloud - Login
 tags-eu.tiqcdn.com
+
+# CMP - Breaks some Apps/Sites
+fundingchoicesmessages.google.com
