@@ -2710,6 +2710,13 @@
       }
     },
     {
+      "PK": "watcher.guru",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "wbs.legal",
       "action": {
         "do": 1,

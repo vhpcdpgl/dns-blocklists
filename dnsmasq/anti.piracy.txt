@@ -4,12 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Dec 2024 04:13 UTC
-# Version: 2024.1217.0413.16
+# Last modified: 19 Dec 2024 04:25 UTC
+# Version: 2024.1219.0425.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9829
+# Number of entries: 9826
 #
-local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
 local=/0123movie.net/
@@ -1484,7 +1483,6 @@ local=/tracker.btschool.club/
 local=/btsearch.love/
 local=/btshoufa.net/
 local=/btsow.online/
-local=/bttrack.com/
 local=/tracker.btzero.net/
 local=/btzone.org/
 local=/tracker.btzoo.eu/
@@ -7373,7 +7371,6 @@ local=/tracker.skynetcloud.site/
 local=/skynetonlinebd.net/
 local=/skytorrents.lol/
 local=/skytorrents.to/
-local=/tracker.skyts.cn/
 local=/tracker.skyts.net/
 local=/sladinki007.net/
 local=/slam.ws/
