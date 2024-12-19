@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Dec 2024 00:35 UTC
-# Version: 2024.1207.0035.21
+# Last modified: 19 Dec 2024 22:43 UTC
+# Version: 2024.1219.2243.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 300
+# Number of entries: 318
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -304,6 +304,24 @@
 0.0.0.0 slb-apisnd-in.heytapmobile.com
 0.0.0.0 api-id.theme.heytapmobile.com
 0.0.0.0 report-sg.uc.heytapmobile.com
+0.0.0.0 ads.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 adx-id.ads.oppomobile.com
+0.0.0.0 adx-in.ads.oppomobile.com
+0.0.0.0 bdapi.ads.oppomobile.com
+0.0.0.0 bdapi-id.ads.oppomobile.com
+0.0.0.0 bdapi-in.ads.oppomobile.com
+0.0.0.0 bjdata.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 data-f.ads.oppomobile.com
+0.0.0.0 data-id.ads.oppomobile.com
+0.0.0.0 data-in.ads.oppomobile.com
+0.0.0.0 dataf.ads.oppomobile.com
+0.0.0.0 sapi.ads.oppomobile.com
+0.0.0.0 sms.ads.oppomobile.com
+0.0.0.0 wifi.ads.oppomobile.com
+0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 dhfs-id.oppomobile.com
 0.0.0.0 dhfs-in.oppomobile.com
 0.0.0.0 dhfs-th.oppomobile.com
