@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734524040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734599160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Dec 2024 12:14 UTC
-; Version: 2024.1218.1214.04
+; Last modified: 19 Dec 2024 09:06 UTC
+; Version: 2024.1219.0906.07
 ; Syntax: RPZ
-; Number of entries: 23672
+; Number of entries: 23686
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -59,6 +59,8 @@ geopro.app CNAME .
 *.geopro.app CNAME .
 immediate-connect.app CNAME .
 *.immediate-connect.app CNAME .
+immediateevista.app CNAME .
+*.immediateevista.app CNAME .
 immediateproair.app CNAME .
 *.immediateproair.app CNAME .
 pdfmaster.app CNAME .
@@ -6861,6 +6863,8 @@ immediateconnect.com CNAME .
 *.immediateconnect.com CNAME .
 immediateewave.com CNAME .
 *.immediateewave.com CNAME .
+immediatefolex.com CNAME .
+*.immediatefolex.com CNAME .
 immediategranimator.com CNAME .
 *.immediategranimator.com CNAME .
 immediateproair.com CNAME .
@@ -8653,6 +8657,8 @@ mt4invest.com CNAME .
 *.mt4invest.com CNAME .
 muaythaisite.com CNAME .
 *.muaythaisite.com CNAME .
+mubassa.com CNAME .
+*.mubassa.com CNAME .
 muckbootdanmark.com CNAME .
 *.muckbootdanmark.com CNAME .
 muckbootsnl.com CNAME .
@@ -10679,6 +10685,8 @@ rockshoxrabatt.com CNAME .
 *.rockshoxrabatt.com CNAME .
 rocolee.com CNAME .
 *.rocolee.com CNAME .
+rocteceurope.com CNAME .
+*.rocteceurope.com CNAME .
 rod-tek.com CNAME .
 *.rod-tek.com CNAME .
 rodaalhandel.com CNAME .
@@ -11503,6 +11511,8 @@ smart0trade.com CNAME .
 *.smart0trade.com CNAME .
 smartausrustung.com CNAME .
 *.smartausrustung.com CNAME .
+smartbotfx.com CNAME .
+*.smartbotfx.com CNAME .
 smartinvestsas.com CNAME .
 *.smartinvestsas.com CNAME .
 smartlightingshop.com CNAME .
@@ -13443,6 +13453,8 @@ valaisimete.com CNAME .
 *.valaisimete.com CNAME .
 valentinocanada.com CNAME .
 *.valentinocanada.com CNAME .
+valeureux.com CNAME .
+*.valeureux.com CNAME .
 valora-shop.com CNAME .
 *.valora-shop.com CNAME .
 valorexe.com CNAME .
@@ -20093,6 +20105,8 @@ barbelli.net CNAME .
 *.barbelli.net CNAME .
 barbourpolska.net CNAME .
 *.barbourpolska.net CNAME .
+basup.net CNAME .
+*.basup.net CNAME .
 bb-consult.net CNAME .
 *.bb-consult.net CNAME .
 bcseagles.net CNAME .

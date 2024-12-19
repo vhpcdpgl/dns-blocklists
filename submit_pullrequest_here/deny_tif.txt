@@ -1,5 +1,8 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4637
+paquet1nfopabox.com
+
 # Lago666 Malware C&C
 lago666.com
 lago666.xyz

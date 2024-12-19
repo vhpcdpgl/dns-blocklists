@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Dec 2024 12:14 UTC
-# Version: 2024.1218.1214.04
+# Last modified: 19 Dec 2024 09:06 UTC
+# Version: 2024.1219.0906.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11836
+# Number of entries: 11843
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -931,6 +931,7 @@ local=/baseothernature.shop/
 local=/basia-kauf.de/
 local=/basketballussite.com/
 local=/basketpastapan.com/
+local=/basup.net/
 local=/bateg24.de/
 local=/bathtimeoasis.com/
 local=/batroni.de/
@@ -5278,7 +5279,9 @@ local=/immediateconnect.com/
 local=/immediateconnect.me/
 local=/immediatedexair.net/
 local=/immediateeuraxai.org/
+local=/immediateevista.app/
 local=/immediateewave.com/
+local=/immediatefolex.com/
 local=/immediategranimator.ai/
 local=/immediategranimator.com/
 local=/immediategranimator.io/
@@ -7035,6 +7038,7 @@ local=/mt4gestion.com/
 local=/mt4invest.com/
 local=/mth14.at/
 local=/muaythaisite.com/
+local=/mubassa.com/
 local=/muckbootdanmark.com/
 local=/muckbootsnl.com/
 local=/muckbootsosterreich.at/
@@ -8774,6 +8778,7 @@ local=/rockportzapatos.com/
 local=/rockshoxrabatt.com/
 local=/rockwell-berlin.de/
 local=/rocolee.com/
+local=/rocteceurope.com/
 local=/rod-tek.com/
 local=/rodaalhandel.com/
 local=/rodetis.com/
@@ -9478,6 +9483,7 @@ local=/smart-research.net/
 local=/smart-stocks-etf.de/
 local=/smart0trade.com/
 local=/smartausrustung.com/
+local=/smartbotfx.com/
 local=/smarte-aktien.de/
 local=/smarter-fit24.de/
 local=/smarthome4u.shop/
@@ -11002,6 +11008,7 @@ local=/valaisimete.com/
 local=/valana-berlin.de/
 local=/valdins.de/
 local=/valentinocanada.com/
+local=/valeureux.com/
 local=/validcalling.pro/
 local=/cfd.valkyriegloballtd.org/
 local=/valora-shop.com/
