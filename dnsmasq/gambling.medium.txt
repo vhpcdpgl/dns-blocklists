@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Dec 2024 13:11 UTC
-# Version: 2024.1219.1311.24
+# Last modified: 20 Dec 2024 04:20 UTC
+# Version: 2024.1220.0420.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 174572
+# Number of entries: 174573
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -134747,6 +134747,7 @@ local=/neoonlinecasino.com/
 local=/neopoker.fr/
 local=/neosoho.pro/
 local=/neospin.app/
+local=/neospin.casino/
 local=/neospin.com/
 local=/neospin1.com/
 local=/neospin2.com/

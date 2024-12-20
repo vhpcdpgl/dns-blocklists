@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Dec 2024 09:06 UTC
-# Version: 2024.1219.0906.07
+# Last modified: 20 Dec 2024 00:13 UTC
+# Version: 2024.1220.0013.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11843
+# Number of entries: 11837
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -457,7 +457,6 @@ local=/anhanger-behalter.de/
 local=/anhanger-kaufen.de/
 local=/anhanger360.com/
 local=/anhangerdienst.com/
-local=/anhangershop24.com/
 local=/ani--zoo.com/
 local=/anigame.shop/
 local=/animondasupplyde.com/
@@ -1811,6 +1810,7 @@ local=/caterpillarbootscanada.net/
 local=/caterpillarchaussure.net/
 local=/caterpillareutschlandshop.de/
 local=/caterpillarnorge.org/
+local=/caterpillarosterreich.at/
 local=/caterpillarschuhe.at/
 local=/caterpillarschuhe.de/
 local=/caterpillarschuhedeutschland.com/
@@ -2166,7 +2166,6 @@ local=/commoditycutter.com/
 local=/commoditysurf.com/
 local=/commoditysurfnew.com/
 local=/commoditytopbuzzy.com/
-local=/compact-shop.de/
 local=/allinstockgmbh.company.site/
 local=/besttobuy.company.site/
 local=/eco-pellet.company.site/
@@ -6137,7 +6136,6 @@ local=/leipziger-spielwaren.com/
 local=/lekaren-slovenska24.com/
 local=/lekaren-slovenska247.com/
 local=/lekarenslovenska.com/
-local=/lekarenslovenska24.com/
 local=/lekarnaslo.com/
 local=/lektra.de/
 local=/leladeverkauf.com/
@@ -7904,7 +7902,6 @@ local=/painthotsale.com/
 local=/pajardeutschland.de/
 local=/palacedeutschland.com/
 local=/paletten-pellets-dienstleistung.de/
-local=/paletteofwalls.com/
 local=/palima-maschinenhandel.de/
 local=/palladiumfi.com/
 local=/palladiumfi.me/
@@ -8536,7 +8533,6 @@ local=/rath-reifenhandel.shop/
 local=/raum-lust.de/
 local=/raumemobel.com/
 local=/rauwolf-tech.de/
-local=/raybansales.us/
 local=/raybanslovensko.sk/
 local=/razerwien.at/
 local=/rbcglobal-asset.com/
@@ -11377,7 +11373,6 @@ local=/wattcafe.fr/
 local=/wavehawaiide.shop/
 local=/waxify.de/
 local=/waxjacketsale.com/
-local=/waxtuningtools.com/
 local=/waykitchenette.com/
 local=/wayofwade.at/
 local=/wayofwadeshoesuk.com/
@@ -11501,7 +11496,6 @@ local=/widelytrendyitem.com/
 local=/wiecel.com/
 local=/wiegmann-modehaus.de/
 local=/wiesmann-mode.de/
-local=/wihasale.com/
 local=/wilax.de/
 local=/wildanimal.shop/
 local=/wildcatwork.com/

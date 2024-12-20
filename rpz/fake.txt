@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734599160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734653580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Dec 2024 09:06 UTC
-; Version: 2024.1219.0906.07
+; Last modified: 20 Dec 2024 00:13 UTC
+; Version: 2024.1220.0013.14
 ; Syntax: RPZ
-; Number of entries: 23686
+; Number of entries: 23674
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -153,6 +153,8 @@ camperschuhe.at CNAME .
 *.camperschuhe.at CNAME .
 carshades.at CNAME .
 *.carshades.at CNAME .
+caterpillarosterreich.at CNAME .
+*.caterpillarosterreich.at CNAME .
 caterpillarschuhe.at CNAME .
 *.caterpillarschuhe.at CNAME .
 cbdhanf.at CNAME .
@@ -1629,8 +1631,6 @@ anhanger360.com CNAME .
 *.anhanger360.com CNAME .
 anhangerdienst.com CNAME .
 *.anhangerdienst.com CNAME .
-anhangershop24.com CNAME .
-*.anhangershop24.com CNAME .
 ani--zoo.com CNAME .
 *.ani--zoo.com CNAME .
 animondasupplyde.com CNAME .
@@ -7743,8 +7743,6 @@ lekaren-slovenska247.com CNAME .
 *.lekaren-slovenska247.com CNAME .
 lekarenslovenska.com CNAME .
 *.lekarenslovenska.com CNAME .
-lekarenslovenska24.com CNAME .
-*.lekarenslovenska24.com CNAME .
 lekarnaslo.com CNAME .
 *.lekarnaslo.com CNAME .
 leladeverkauf.com CNAME .
@@ -9755,8 +9753,6 @@ painthotsale.com CNAME .
 *.painthotsale.com CNAME .
 palacedeutschland.com CNAME .
 *.palacedeutschland.com CNAME .
-paletteofwalls.com CNAME .
-*.paletteofwalls.com CNAME .
 palladiumfi.com CNAME .
 *.palladiumfi.com CNAME .
 palladiumshoesireland.com CNAME .
@@ -13793,8 +13789,6 @@ watermotionod.com CNAME .
 *.watermotionod.com CNAME .
 waxjacketsale.com CNAME .
 *.waxjacketsale.com CNAME .
-waxtuningtools.com CNAME .
-*.waxtuningtools.com CNAME .
 waykitchenette.com CNAME .
 *.waykitchenette.com CNAME .
 wayofwadeshoesuk.com CNAME .
@@ -13917,8 +13911,6 @@ widelytrendyitem.com CNAME .
 *.widelytrendyitem.com CNAME .
 wiecel.com CNAME .
 *.wiecel.com CNAME .
-wihasale.com CNAME .
-*.wihasale.com CNAME .
 wildcatwork.com CNAME .
 *.wildcatwork.com CNAME .
 wildflowercasesphilippines.com CNAME .
@@ -15235,8 +15227,6 @@ comfie.de CNAME .
 *.comfie.de CNAME .
 comfyy.de CNAME .
 *.comfyy.de CNAME .
-compact-shop.de CNAME .
-*.compact-shop.de CNAME .
 computerdive.de CNAME .
 *.computerdive.de CNAME .
 computerprada.de CNAME .
@@ -23523,8 +23513,6 @@ nikeairvapormax.us CNAME .
 *.nikeairvapormax.us CNAME .
 nikeoutletstoreonlineshopping.us CNAME .
 *.nikeoutletstoreonlineshopping.us CNAME .
-raybansales.us CNAME .
-*.raybansales.us CNAME .
 roujeusa.us CNAME .
 *.roujeusa.us CNAME .
 track718.us CNAME .

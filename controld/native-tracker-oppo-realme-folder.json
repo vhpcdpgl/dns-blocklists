@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "adsfs.oppomobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adsfs-sdkconfig.heytapimage.com",
       "action": {
         "do": 0,
@@ -51,6 +58,13 @@
     },
     {
       "PK": "ads.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads.oppomobile.com",
       "action": {
         "do": 0,
         "status": 1
