@@ -1,5 +1,8 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4654
+crm-b2c-26477.de
+
 # https://github.com/hagezi/dns-blocklists/issues/4637
 paquet1nfopabox.com
 

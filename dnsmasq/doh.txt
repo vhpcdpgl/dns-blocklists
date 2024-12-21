@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Dec 2024 13:20 UTC
-# Version: 2024.1219.1320.26
+# Last modified: 20 Dec 2024 23:52 UTC
+# Version: 2024.1220.2352.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1487
+# Number of entries: 1489
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -277,6 +277,7 @@ local=/agh.workfordemo.co.in/
 local=/dns.coderoria.com/
 local=/jpdns.cola16.app/
 local=/dns.colorfreedom.org/
+local=/dns.7sec.com.br/
 local=/dns.ceai.com.tw/
 local=/dns.cloud88.com.au/
 local=/adguard.frutuozo.com.br/
@@ -634,6 +635,7 @@ local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
 local=/performance.gosami.xyz/
 local=/dot.libredns.gr.com/
+local=/greatideasforlife.lol/
 local=/dnsblock.grisumedia.de/
 local=/dns.grqu.de/
 local=/dns.guard.io/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Dec 2024 13:19 UTC
-# Version: 2024.1219.1319.26
+# Last modified: 20 Dec 2024 23:54 UTC
+# Version: 2024.1220.2354.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1862
+# Number of entries: 1866
 #
 local=/000a.de/
 local=/000space.com/
@@ -237,6 +237,7 @@ local=/anschiessen.de/
 local=/answerblogs.com/
 local=/kwid9.appsoft.xyz/
 local=/ar.gp/
+local=/ar1i1.net/
 local=/arcadepages.com/
 local=/arcor-ip.net/
 local=/arien.cl/
@@ -1150,6 +1151,8 @@ local=/livebloggs.com/
 local=/livedoor.biz/
 local=/livedoor.jp/
 local=/livehost.fr/
+local=/llli1i.net/
+local=/llliww.cloud/
 local=/logdown.com/
 local=/loggy.nl/
 local=/loginblogin.com/
@@ -1214,6 +1217,7 @@ local=/mw.hu/
 local=/mx.gp/
 local=/my.gp/
 local=/1lunatic1icepick.my.id/
+local=/ajsik.my.id/
 local=/dew4.my.id/
 local=/inclaim.my.id/
 local=/jekar.my.id/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Dec 2024 14:40 UTC
-# Version: 2024.1217.1440.51
+# Last modified: 20 Dec 2024 23:17 UTC
+# Version: 2024.1220.2317.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 1745
+# Number of entries: 1748
 #
 l.1mp.ru
 t.1und1.de
@@ -349,6 +349,7 @@ suite22.emarsys.net
 suite24.emarsys.net
 suite25.emarsys.net
 suite26.emarsys.net
+suite27.emarsys.net
 suite29.emarsys.net
 suite29-cf.emarsys.net
 suite3.emarsys.net
@@ -491,6 +492,7 @@ app.getresponse.com
 ggopjn.com
 glnk.io
 track.glovoapp.com
+go.link
 go2jump.org
 adservice.google.ae
 adservice.google.al
@@ -1552,6 +1554,7 @@ rxfc49ebb.cc.rs6.net
 ry9kgedab.cc.rs6.net
 rye9jgzab.cc.rs6.net
 rypni4cbb.cc.rs6.net
+rza6mzmab.cc.rs6.net
 rzeyu9wab.cc.rs6.net
 rzl9jxcab.cc.rs6.net
 r20.rs6.net

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Dec 2024 13:20 UTC
-# Version: 2024.1219.1320.26
+# Last modified: 20 Dec 2024 23:52 UTC
+# Version: 2024.1220.2352.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1665
+# Number of entries: 1667
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -353,6 +353,7 @@
 0.0.0.0 dns.coderoria.com
 0.0.0.0 jpdns.cola16.app
 0.0.0.0 dns.colorfreedom.org
+0.0.0.0 dns.7sec.com.br
 0.0.0.0 dns.ceai.com.tw
 0.0.0.0 dns.cloud88.com.au
 0.0.0.0 adguard.frutuozo.com.br
@@ -762,6 +763,7 @@
 0.0.0.0 google-public-dns-b.google.com
 0.0.0.0 performance.gosami.xyz
 0.0.0.0 dot.libredns.gr.com
+0.0.0.0 greatideasforlife.lol
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io

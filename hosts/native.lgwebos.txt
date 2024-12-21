@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Nov 2024 00:26 UTC
-# Version: 2024.1130.0026.41
+# Last modified: 21 Dec 2024 00:33 UTC
+# Version: 2024.1221.0033.25
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1123
+# Number of entries: 1127
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
@@ -707,6 +707,8 @@
 0.0.0.0 tkacr466.alphonso.tv
 0.0.0.0 tkacr467.alphonso.tv
 0.0.0.0 tkacr468.alphonso.tv
+0.0.0.0 tkacr469.alphonso.tv
+0.0.0.0 tkacr470.alphonso.tv
 0.0.0.0 tkacr471.alphonso.tv
 0.0.0.0 tkacr472.alphonso.tv
 0.0.0.0 tkacr473.alphonso.tv
@@ -851,6 +853,7 @@
 0.0.0.0 tkacr620.alphonso.tv
 0.0.0.0 tkacr621.alphonso.tv
 0.0.0.0 tkacr622.alphonso.tv
+0.0.0.0 tkacr623.alphonso.tv
 0.0.0.0 tkacr624.alphonso.tv
 0.0.0.0 tkacr625.alphonso.tv
 0.0.0.0 tkacr626.alphonso.tv
@@ -935,6 +938,7 @@
 0.0.0.0 tkacr706.alphonso.tv
 0.0.0.0 tkacr707.alphonso.tv
 0.0.0.0 tkacr708.alphonso.tv
+0.0.0.0 tkacr709.alphonso.tv
 0.0.0.0 tkacr710.alphonso.tv
 0.0.0.0 tkacr711.alphonso.tv
 0.0.0.0 tkacr712.alphonso.tv

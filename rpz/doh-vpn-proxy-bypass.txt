@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734614460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734738660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Dec 2024 13:21 UTC
-; Version: 2024.1219.1321.39
+; Last modified: 20 Dec 2024 23:51 UTC
+; Version: 2024.1220.2351.20
 ; Syntax: RPZ
-; Number of entries: 7422
+; Number of entries: 7428
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -206,6 +206,8 @@ unblocked.black CNAME .
 *.unblocked.black CNAME .
 dns.ovpn.bond CNAME .
 *.dns.ovpn.bond CNAME .
+dns.7sec.com.br CNAME .
+*.dns.7sec.com.br CNAME .
 adguard.frutuozo.com.br CNAME .
 *.adguard.frutuozo.com.br CNAME .
 dns.joaofidelix.com.br CNAME .
@@ -4356,6 +4358,8 @@ eduacation.lol CNAME .
 *.eduacation.lol CNAME .
 geoguessr.lol CNAME .
 *.geoguessr.lol CNAME .
+greatideasforlife.lol CNAME .
+*.greatideasforlife.lol CNAME .
 ilysk.lol CNAME .
 *.ilysk.lol CNAME .
 stuffyschicken.isreallycool.lol CNAME .
@@ -5732,6 +5736,8 @@ sutausfjsajfas.englishpapers.online CNAME .
 *.sutausfjsajfas.englishpapers.online CNAME .
 inpssh.online CNAME .
 *.inpssh.online CNAME .
+letscomply.online CNAME .
+*.letscomply.online CNAME .
 okado.online CNAME .
 *.okado.online CNAME .
 login.readinghelper.online CNAME .

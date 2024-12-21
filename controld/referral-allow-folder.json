@@ -1555,6 +1555,13 @@
       }
     },
     {
+      "PK": "go.link",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "go.microsoft.com",
       "action": {
         "do": 1,

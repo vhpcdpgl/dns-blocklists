@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Dec 2024 00:13 UTC
-# Version: 2024.1220.0013.14
+# Last modified: 21 Dec 2024 00:43 UTC
+# Version: 2024.1221.0043.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11837
+# Number of entries: 11843
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -24,6 +24,7 @@ local=/1rx-pharmacy.com/
 local=/1ticketmarket.com/
 local=/200pills.com/
 local=/eoutlet.2022factorysale.ru/
+local=/zpb.2023bp.top/
 local=/eoutlet.2023shoponline.com/
 local=/20mg-tadalafil-cheapest-price.com/
 local=/247-healthstore.com/
@@ -46,6 +47,7 @@ local=/303e.com/
 local=/3racingparts.com/
 local=/4rxofficial.com/
 local=/5-drugs.com/
+local=/5shop.lol/
 local=/6-drugs.com/
 local=/7-drugs.com/
 local=/7-order.com/
@@ -2251,6 +2253,7 @@ local=/cowboybootsoff.com/
 local=/cowboyk.com/
 local=/coxfurnitureoff.com/
 local=/coyojo.com/
+local=/coyrty.buzz/
 local=/cozyhomeus.com/
 local=/cozysapparels.com/
 local=/cp24.pl/
@@ -3230,7 +3233,6 @@ local=/ersatzteilerabatt.com/
 local=/ersatzteilesales.com/
 local=/erste-apo.de/
 local=/ersterkatzenladen.de/
-local=/ersthands.com/
 local=/erstmal-kaffee.com/
 local=/erzinex.com/
 local=/esalesson.de/
@@ -4409,6 +4411,7 @@ local=/goodjutear.live/
 local=/goodlzflow.life/
 local=/goodmarketshop.com/
 local=/goodmedsshops.com/
+local=/goodpolysk.best/
 local=/goodpricedrugs.com/
 local=/goodqualitypot.com/
 local=/goodsfunmk.best/
@@ -6136,6 +6139,7 @@ local=/leipziger-spielwaren.com/
 local=/lekaren-slovenska24.com/
 local=/lekaren-slovenska247.com/
 local=/lekarenslovenska.com/
+local=/lekarenslovenska24.com/
 local=/lekarnaslo.com/
 local=/lektra.de/
 local=/leladeverkauf.com/
@@ -6476,6 +6480,7 @@ local=/malennachzahlenerwachsene.shop/
 local=/malerbedarf-sales.com/
 local=/malisen.de/
 local=/mall-outdoors.com/
+local=/malls-36.top/
 local=/malschule-wetzlar.de/
 local=/maltanewstime.com/
 local=/fritteusekaufen.mamemavmarket.com/
@@ -8373,6 +8378,7 @@ local=/pumaosterreich.at/
 local=/pumpeprada.com/
 local=/punkrave.ch/
 local=/puntoblancoshop.com/
+local=/puotsovf.com/
 local=/puppyrope.shop/
 local=/fr.puprime.net/
 local=/fr.puprime.online/
@@ -8862,7 +8868,6 @@ local=/rusty-surf.com/
 local=/rvcajapan.net/
 local=/rvfrance.com/
 local=/rvs-versand.de/
-local=/rwb-stuttgart.com/
 local=/rwcstore.com/
 local=/rwgebaudedienst.com/
 local=/rx-10.com/
@@ -9181,6 +9186,7 @@ local=/selectedmedsonline.com/
 local=/selfridges-work.com/
 local=/sellercenter.shop/
 local=/sellerusapparel.com/
+local=/sellgfvs.best/
 local=/sellhqvs.best/
 local=/sellingcamp.store/
 local=/sellingkitchen.com/

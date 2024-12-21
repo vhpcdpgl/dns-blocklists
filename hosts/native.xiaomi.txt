@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Dec 2024 00:34 UTC
-# Version: 2024.1214.0034.10
+# Last modified: 21 Dec 2024 00:38 UTC
+# Version: 2024.1221.0038.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 482
+# Number of entries: 479
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 ad.intl.xiaomi.com.edgesuite.net
@@ -190,8 +190,6 @@
 0.0.0.0 api.vip.miui.com
 0.0.0.0 www.miui.net
 0.0.0.0 intl.up.w.xk.miui.com
-0.0.0.0 rus-mi.com
-0.0.0.0 www.rus-mi.com
 0.0.0.0 traffic-media.co
 0.0.0.0 imgg.traffic-media.co
 0.0.0.0 www.traffic-media.co
@@ -386,7 +384,6 @@
 0.0.0.0 11-c3.bigdata.ctc.neo.xiaomi.com
 0.0.0.0 5-c3.bigdata.ctc.neo.xiaomi.com
 0.0.0.0 tj1.staging.nfcpay.xiaomi.com
-0.0.0.0 3rdupgrade.pandora.xiaomi.com
 0.0.0.0 appstore.pandora.xiaomi.com
 0.0.0.0 bossadmin.pandora.xiaomi.com
 0.0.0.0 box.pandora.xiaomi.com
