@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734738840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734842340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Dec 2024 23:54 UTC
-; Version: 2024.1220.2354.06
+; Last modified: 22 Dec 2024 04:39 UTC
+; Version: 2024.1222.0439.01
 ; Syntax: RPZ
-; Number of entries: 3732
+; Number of entries: 3726
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -203,8 +203,6 @@ tie.cl CNAME .
 *.tie.cl CNAME .
 webnode.cl CNAME .
 *.webnode.cl CNAME .
-llliww.cloud CNAME .
-*.llliww.cloud CNAME .
 wapka.club CNAME .
 *.wapka.club CNAME .
 asia.cm CNAME .
@@ -2943,8 +2941,6 @@ a0001.net CNAME .
 *.a0001.net CNAME .
 acidblog.net CNAME .
 *.acidblog.net CNAME .
-ar1i1.net CNAME .
-*.ar1i1.net CNAME .
 arcor-ip.net CNAME .
 *.arcor-ip.net CNAME .
 bigheadhosting.net CNAME .
@@ -3047,8 +3043,6 @@ kolido.net CNAME .
 *.kolido.net CNAME .
 kulichki.net CNAME .
 *.kulichki.net CNAME .
-llli1i.net CNAME .
-*.llli1i.net CNAME .
 macao.net CNAME .
 *.macao.net CNAME .
 megabyet.net CNAME .

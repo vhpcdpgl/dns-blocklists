@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Dec 2024 23:51 UTC
-# Version: 2024.1220.2351.20
+# Last modified: 22 Dec 2024 04:41 UTC
+# Version: 2024.1222.0441.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3714
+# Number of entries: 3712
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -764,6 +764,7 @@ local=/dns.daarrk.tech/
 local=/dabmix.com/
 local=/dailyvpn.io/
 local=/dns.dallinbryce.com/
+local=/danhcan.top/
 local=/dns.home.daniil.it/
 local=/adguard.dantynes.cyou/
 local=/darkfat.com/
@@ -882,7 +883,6 @@ local=/kiv01.dnscry.pt/
 local=/las01.dnscry.pt/
 local=/lax01.dnscry.pt/
 local=/lax02.dnscry.pt/
-local=/lim01.dnscry.pt/
 local=/lim02.dnscry.pt/
 local=/lis01.dnscry.pt/
 local=/llk01.dnscry.pt/
@@ -1313,7 +1313,6 @@ local=/giveproxy.com/
 local=/gizlen.net/
 local=/gizlibaglanti.com/
 local=/h.gjrick.tw/
-local=/sdns22.gkonuralp.com/
 local=/glacius.top/
 local=/dns.glf.wtf/
 local=/globalchatinc.com/
@@ -1699,7 +1698,6 @@ local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
 local=/adguard.kss.ovh/
 local=/dns.kukal.cz/
-local=/dns.kumoumi.net/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
 local=/kx-97795-tr.xyz/

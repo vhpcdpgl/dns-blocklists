@@ -1,5 +1,15 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# Phishing - Fake Ledger mails
+ledger-clearsign-request.com
+
+# Malware hosts
+volam2k5.com
+yilutech.com
+
+# https://github.com/hagezi/dns-blocklists/issues/4663
+happymod.cloud
+
 # https://github.com/hagezi/dns-blocklists/issues/4654
 crm-b2c-26477.de
 

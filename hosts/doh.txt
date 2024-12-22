@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Dec 2024 23:52 UTC
-# Version: 2024.1220.2352.48
+# Last modified: 22 Dec 2024 04:40 UTC
+# Version: 2024.1222.0440.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1667
+# Number of entries: 1664
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -522,7 +522,6 @@
 0.0.0.0 las01.dnscry.pt
 0.0.0.0 lax01.dnscry.pt
 0.0.0.0 lax02.dnscry.pt
-0.0.0.0 lim01.dnscry.pt
 0.0.0.0 lim02.dnscry.pt
 0.0.0.0 lis01.dnscry.pt
 0.0.0.0 llk01.dnscry.pt
@@ -743,7 +742,6 @@
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org
 0.0.0.0 h.gjrick.tw
-0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 glacius.top
 0.0.0.0 dns.glf.wtf
 0.0.0.0 dns.api.globus.org
@@ -915,7 +913,6 @@
 0.0.0.0 xray.krnl.eu
 0.0.0.0 adguard.kss.ovh
 0.0.0.0 dns.kukal.cz
-0.0.0.0 dns.kumoumi.net
 0.0.0.0 dns.kusoneko.moe
 0.0.0.0 dns.kuuhaku.moe
 0.0.0.0 kx-97795-tr.xyz

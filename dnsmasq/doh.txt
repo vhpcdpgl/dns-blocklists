@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Dec 2024 23:52 UTC
-# Version: 2024.1220.2352.48
+# Last modified: 22 Dec 2024 04:40 UTC
+# Version: 2024.1222.0440.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1489
+# Number of entries: 1486
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -414,7 +414,6 @@ local=/kiv01.dnscry.pt/
 local=/las01.dnscry.pt/
 local=/lax01.dnscry.pt/
 local=/lax02.dnscry.pt/
-local=/lim01.dnscry.pt/
 local=/lim02.dnscry.pt/
 local=/lis01.dnscry.pt/
 local=/llk01.dnscry.pt/
@@ -615,7 +614,6 @@ local=/adguard.maison.gifino.fr/
 local=/dns.ginovs.nl/
 local=/dns.girino.org/
 local=/h.gjrick.tw/
-local=/sdns22.gkonuralp.com/
 local=/glacius.top/
 local=/dns.glf.wtf/
 local=/dns.api.globus.org/
@@ -784,7 +782,6 @@ local=/adblock.krctech.dev/
 local=/xray.krnl.eu/
 local=/adguard.kss.ovh/
 local=/dns.kukal.cz/
-local=/dns.kumoumi.net/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
 local=/kx-97795-tr.xyz/
