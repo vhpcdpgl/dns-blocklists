@@ -274,6 +274,20 @@
       }
     },
     {
+      "PK": "boo.dating",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "boo.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "broke.lol",
       "action": {
         "do": 1,
@@ -856,6 +870,13 @@
     },
     {
       "PK": "gamesindustry.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gaudi.dating",
       "action": {
         "do": 1,
         "status": 1

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Dec 2024 00:15 UTC
-# Version: 2024.1222.0015.23
+# Last modified: 22 Dec 2024 12:16 UTC
+# Version: 2024.1222.1216.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11865
+# Number of entries: 11862
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -6257,7 +6257,6 @@ local=/litroux.de/
 local=/litschidee.de/
 local=/littledreamersshop.com/
 local=/littlefoxxde.shop/
-local=/littlemaryshoe.com/
 local=/littlemde.shop/
 local=/liujoukshop.com/
 local=/livaxxen.com/
@@ -6762,7 +6761,6 @@ local=/metrodocks-tech.de/
 local=/mewens.de/
 local=/mewlovear.best/
 local=/mfayechauhan.com/
-local=/mfootwearus.com/
 local=/mg-tr.com/
 local=/mh-baumarkt.com/
 local=/mh-garten24.de/
@@ -7471,7 +7469,6 @@ local=/nuran24.de/
 local=/nurseryfurnitures.com/
 local=/nursingaccessoriesstore.com/
 local=/nutripurde.com/
-local=/nuubu.com/
 local=/nuxxu.de/
 local=/nv-marketing.de/
 local=/nvgtndeutschland.de/
