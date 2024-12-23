@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Dec 2024 00:21 UTC
-# Version: 2024.1214.0021.22
+# Last modified: 23 Dec 2024 10:53 UTC
+# Version: 2024.1223.1053.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 346
+# Number of entries: 352
 #
 local=/in.appcenter.ms/
 local=/applicationinsights.azure.com/
@@ -149,7 +149,10 @@ local=/track.notif.careersppe.microsoft.com/
 local=/clarity.microsoft.com/
 local=/events.data.microsoft.com/
 local=/events-sandbox.data.microsoft.com/
+local=/settings.data.microsoft.com/
 local=/settings-sandbox.data.microsoft.com/
+local=/settings-win.data.microsoft.com/
+local=/settings-win-ppe.data.microsoft.com/
 local=/vortex.data.microsoft.com/
 local=/vortex-sandbox.data.microsoft.com/
 local=/vortex-win.data.microsoft.com/
@@ -260,6 +263,7 @@ local=/adsdk.trafficmanager.net/
 local=/agps-location-livenet.trafficmanager.net/
 local=/analytics.trafficmanager.net/
 local=/analytics-listener.trafficmanager.net/
+local=/atm-settingsfe-prod-geo2.trafficmanager.net/
 local=/beacons.trafficmanager.net/
 local=/bf-analytics-tracker-tm.trafficmanager.net/
 local=/bf-tracker-release-tm.trafficmanager.net/
@@ -292,6 +296,8 @@ local=/rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net/
 local=/sconsentit9.trafficmanager.net/
 local=/self-events-data.trafficmanager.net/
 local=/settingsfd-geo.trafficmanager.net/
+local=/settingsfd-ppe.trafficmanager.net/
+local=/settingsfd-sandbox.trafficmanager.net/
 local=/ssp-prod-eastus-nonmutt.trafficmanager.net/
 local=/stats-partner.trafficmanager.net/
 local=/teams-events-data.trafficmanager.net/

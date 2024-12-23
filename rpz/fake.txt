@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734869760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734956100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Dec 2024 12:16 UTC
-; Version: 2024.1222.1216.11
+; Last modified: 23 Dec 2024 12:15 UTC
+; Version: 2024.1223.1215.59
 ; Syntax: RPZ
-; Number of entries: 23724
+; Number of entries: 23718
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -177,6 +177,8 @@ micheles.co.at CNAME .
 *.micheles.co.at CNAME .
 vanss.co.at CNAME .
 *.vanss.co.at CNAME .
+veja.co.at CNAME .
+*.veja.co.at CNAME .
 coachoutlet.at CNAME .
 *.coachoutlet.at CNAME .
 comme-des-garcons.at CNAME .
@@ -2939,8 +2941,6 @@ brumatedeutschland.com CNAME .
 *.brumatedeutschland.com CNAME .
 brunetsludmila.com CNAME .
 *.brunetsludmila.com CNAME .
-bryanbumgardner.com CNAME .
-*.bryanbumgardner.com CNAME .
 bse-capital.com CNAME .
 *.bse-capital.com CNAME .
 btc-analytics.com CNAME .
@@ -4085,8 +4085,6 @@ dessertspoonshop.com CNAME .
 *.dessertspoonshop.com CNAME .
 detischwelt.com CNAME .
 *.detischwelt.com CNAME .
-deutschapotheke.com CNAME .
-*.deutschapotheke.com CNAME .
 deutsche-fahrrader.com CNAME .
 *.deutsche-fahrrader.com CNAME .
 deutscheazimmer.com CNAME .
@@ -8091,8 +8089,6 @@ mainresourcetool.com CNAME .
 *.mainresourcetool.com CNAME .
 major-etf.com CNAME .
 *.major-etf.com CNAME .
-makeupgeneric.com CNAME .
-*.makeupgeneric.com CNAME .
 makeusbike.com CNAME .
 *.makeusbike.com CNAME .
 makita-offiziell.com CNAME .
@@ -10369,8 +10365,6 @@ rabattbike.com CNAME .
 *.rabattbike.com CNAME .
 rabattchemikalien.com CNAME .
 *.rabattchemikalien.com CNAME .
-rabattdamen.com CNAME .
-*.rabattdamen.com CNAME .
 rabattfahrrad.com CNAME .
 *.rabattfahrrad.com CNAME .
 rabattfahrradneu.com CNAME .

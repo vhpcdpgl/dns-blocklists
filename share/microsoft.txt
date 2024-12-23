@@ -40,3 +40,13 @@ in.appcenter.ms
 # https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk?tabs=javascriptwebsdkloaderscript
 js.monitor.azure.com
 
+# Microsoft endpoint associated with the telemetry and diagnostic data collection in Windows operating systems.
+# Also be used to fetch configuration data or updates for settings related to diagnostics and privacy: Settings > Privacy > Diagnostics & feedback
+settings.data.microsoft.com
+settings-win.data.microsoft.com
+settings-sandbox.data.microsoft.com
+settings-win-ppe.data.microsoft.com
+# CNAMES
+atm-settingsfe-prod-geo2.trafficmanager.net
+settingsfd-sandbox.trafficmanager.net
+settingsfd-ppe.trafficmanager.net

@@ -69,7 +69,7 @@
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |     100% |   0% |      0% | Native Tracker TikTok (Fingerprinting)
-  9 |      97% |   0% |      3% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      96% |   0% |      4% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      86% |  12% |      2% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      91% |   9% |      0% | Denylist Community non-Aggressive
@@ -86,7 +86,7 @@
  23 |      68% |  21% |     11% | Denylist Community Advanced
  24 |      76% |  16% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
- 26 |      81% |  10% |      9% | Aggressive Extension
+ 26 |      82% |   9% |      9% | Aggressive Extension
  27 |      99% |   0% |      1% | Denylist Community Aggressive
 ```
 #### ULTIMATE
@@ -99,7 +99,7 @@
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
-  8 |      99% |   0% |      1% | Native Tracker Microsoft (Windows, Office, MSN)
+  8 |      98% |   0% |      2% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      87% |  12% |      1% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
  11 |      91% |   9% |      0% | Denylist Community non-Aggressive
@@ -116,11 +116,11 @@
  22 |      68% |  21% |     11% | Denylist Community Advanced
  23 |      76% |  16% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
- 25 |      81% |  10% |      9% | Aggressive Extension
+ 25 |      82% |   9% |      9% | Aggressive Extension
  26 |      99% |   0% |      1% | Denylist Community Aggressive
  27 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  28 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
- 29 |      85% |  14% |      1% | Ultimate Extension
+ 29 |      82% |  15% |      3% | Ultimate Extension
  30 |      88% |   6% |      6% | Denylist Aggressive
  31 |      70% |  27% |      3% | Denylist Community Ultimate
 ```

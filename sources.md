@@ -40,6 +40,7 @@ https://easylist-downloads.adblockplus.org/ruadlist.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://gamingcommission.be/en/gaming-commission/illegal-games-of-chance/list-of-illegal-gambling-sites
+https://github.com/criminalip/Daily-Mal-Phishing/archive/refs/heads/main.zip
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
@@ -59,6 +60,7 @@ https://phish.sinking.yachts/v2/text
 https://radar.cloudflare.com/domains
 https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
+https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
 https://raw.githubusercontent.com/2004gixxer600/BlockLists/refs/heads/main/MaliciousDomain.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
@@ -200,6 +202,7 @@ https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishi
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt

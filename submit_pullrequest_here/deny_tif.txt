@@ -1,5 +1,17 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4670
+cshrewards.net
+
+# https://github.com/hagezi/dns-blocklists/issues/4667
+bitbitquark.com
+bvox11.cc
+fxnovus.co
+hkeusy.com
+kcczai.com
+maicoinmn.com
+uslasry.com
+
 # Phishing - Fake Ledger mails
 ledger-clearsign-request.com
 
