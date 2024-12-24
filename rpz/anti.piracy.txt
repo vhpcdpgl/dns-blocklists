@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734885060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735020240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Dec 2024 16:31 UTC
-; Version: 2024.1222.1631.14
+; Last modified: 24 Dec 2024 06:04 UTC
+; Version: 2024.1224.0604.29
 ; Syntax: RPZ
-; Number of entries: 19654
+; Number of entries: 19672
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3937,6 +3937,8 @@ ns2.floads.com CNAME .
 *.ns2.floads.com CNAME .
 flynetbd.com CNAME .
 *.flynetbd.com CNAME .
+fmoviesz-to.com CNAME .
+*.fmoviesz-to.com CNAME .
 fn-bd.com CNAME .
 *.fn-bd.com CNAME .
 fnetctg.com CNAME .
@@ -7911,6 +7913,8 @@ u.peer-exchange.download CNAME .
 *.u.peer-exchange.download CNAME .
 streamingcommunity.download CNAME .
 *.streamingcommunity.download CNAME .
+kinogo.ec CNAME .
+*.kinogo.ec CNAME .
 forum.wawa-mania.ec CNAME .
 *.forum.wawa-mania.ec CNAME .
 wawacity.ec CNAME .
@@ -8045,6 +8049,8 @@ jpopsuki.eu CNAME .
 *.jpopsuki.eu CNAME .
 kickasstorrent.eu CNAME .
 *.kickasstorrent.eu CNAME .
+kinogo.eu CNAME .
+*.kinogo.eu CNAME .
 kleverig.eu CNAME .
 *.kleverig.eu CNAME .
 knaben.eu CNAME .
@@ -8971,6 +8977,8 @@ vumoo.in CNAME .
 *.vumoo.in CNAME .
 watchwrestling.in CNAME .
 *.watchwrestling.in CNAME .
+kinogo.inc CNAME .
+*.kinogo.inc CNAME .
 abcvg.info CNAME .
 *.abcvg.info CNAME .
 allseek.info CNAME .
@@ -10373,6 +10381,8 @@ movies.levrx.lol CNAME .
 *.movies.levrx.lol CNAME .
 limetorrents.lol CNAME .
 *.limetorrents.lol CNAME .
+lordfilmhd.lol CNAME .
+*.lordfilmhd.lol CNAME .
 myflixer.lol CNAME .
 *.myflixer.lol CNAME .
 nyafilmer.lol CNAME .
@@ -13213,6 +13223,8 @@ wiflix.nl CNAME .
 *.wiflix.nl CNAME .
 fleira.no CNAME .
 *.fleira.no CNAME .
+kinogo.no CNAME .
+*.kinogo.no CNAME .
 justpaid.co.nr CNAME .
 *.justpaid.co.nr CNAME .
 crack.nu CNAME .
@@ -13415,6 +13427,8 @@ italia-film.online CNAME .
 *.italia-film.online CNAME .
 jkanime.online CNAME .
 *.jkanime.online CNAME .
+kinogo.online CNAME .
+*.kinogo.online CNAME .
 limetorrents.online CNAME .
 *.limetorrents.online CNAME .
 masterflix.online CNAME .
@@ -15181,6 +15195,8 @@ eurostreaming.pink CNAME .
 *.eurostreaming.pink CNAME .
 guardaserie.pink CNAME .
 *.guardaserie.pink CNAME .
+kinogo.pink CNAME .
+*.kinogo.pink CNAME .
 tantifilm.pink CNAME .
 *.tantifilm.pink CNAME .
 guardaserie.pizza CNAME .
@@ -15345,6 +15361,8 @@ putlockers.plus CNAME .
 *.putlockers.plus CNAME .
 streamingcommunity.plus CNAME .
 *.streamingcommunity.plus CNAME .
+g4.zona.plus CNAME .
+*.g4.zona.plus CNAME .
 tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
 tor.rev.pm CNAME .

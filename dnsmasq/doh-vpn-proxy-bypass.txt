@@ -5,17 +5,16 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Dec 2024 04:41 UTC
-# Version: 2024.1222.0441.16
+# Last modified: 24 Dec 2024 06:09 UTC
+# Version: 2024.1224.0609.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3712
+# Number of entries: 3707
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
 local=/052419.xyz/
 local=/0ms.dev/
 local=/dns.0ooo.icu/
-local=/dns.0rz.ing/
 local=/0x3d.lu/
 local=/dns.0x55.net/
 local=/108023.xyz/
@@ -2372,13 +2371,9 @@ local=/printruns.us/
 local=/printtools.us/
 local=/privacy.io/
 local=/hungary.privacy-dns.pw/
-local=/india.privacy-dns.pw/
 local=/las-vegas.privacy-dns.pw/
 local=/luxembourg.privacy-dns.pw/
 local=/romania.privacy-dns.pw/
-local=/sweden.privacy-dns.pw/
-local=/switzerland.privacy-dns.pw/
-local=/united-arab-emirates.privacy-dns.pw/
 local=/privacyprotector.eu/
 local=/privado.io/
 local=/dns.privado.ovh/

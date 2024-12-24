@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Dec 2024 12:15 UTC
-# Version: 2024.1223.1215.59
+# Last modified: 24 Dec 2024 08:20 UTC
+# Version: 2024.1224.0820.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11859
+# Number of entries: 11849
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -49,7 +49,6 @@ local=/4rxofficial.com/
 local=/5-drugs.com/
 local=/6-drugs.com/
 local=/7-drugs.com/
-local=/7-order.com/
 local=/74invest.com/
 local=/77options.com/
 local=/93mobiles.com/
@@ -688,7 +687,6 @@ local=/atomicfundvest.ltd/
 local=/aton-invest.com/
 local=/atossy.de/
 local=/attirebaseball.com/
-local=/attiremen.com/
 local=/attireowner.com/
 local=/attraktivgarten.com/
 local=/atu0utlet.shop/
@@ -941,6 +939,7 @@ local=/basketpastapan.com/
 local=/basup.net/
 local=/bateg24.de/
 local=/bates-boots.com/
+local=/bathroomselling.com/
 local=/bathtimeoasis.com/
 local=/batroni.de/
 local=/battlefordboutiqde.shop/
@@ -2092,7 +2091,6 @@ local=/stussyindiastore.co.in/
 local=/tom-ford.co.za/
 local=/uggs-southafrica.co.za/
 local=/vanss.co.at/
-local=/veja.co.at/
 local=/victoriasecretssouthafrica.co.za/
 local=/yeti-southafrica.co.za/
 local=/coach-florian.com/
@@ -2241,7 +2239,6 @@ local=/cosco-container.com/
 local=/cosmeticsyy.com/
 local=/cosmopoint.de/
 local=/cosplayshow.com/
-local=/coswomens.com/
 local=/cotex-kredit.com/
 local=/cotovip.com/
 local=/cotswoldluxde.shop/
@@ -8055,7 +8052,6 @@ local=/pfeil-handel.de/
 local=/pferdedeckende.com/
 local=/pflanzmaschine.com/
 local=/pg99.cc/
-local=/pharm-24h.com/
 local=/pharm-discount.com/
 local=/pharma-bonnegrace.com/
 local=/pharma-versandhandel.de/
@@ -8325,7 +8321,6 @@ local=/produit-structure.com/
 local=/produktretter.at/
 local=/produktretter.com/
 local=/produkttester-anmeldung.com/
-local=/proeuromeds.com/
 local=/profi-rasenmaher.com/
 local=/profibikes.de/
 local=/profikauf.com/
@@ -8911,7 +8906,6 @@ local=/safe-trading-gpt.de/
 local=/safebestar.shop/
 local=/safecaps.io/
 local=/safenordicsolutions.com/
-local=/safepillsnow.com/
 local=/saferx-md.com/
 local=/safewayus.com/
 local=/safgea.top/
@@ -9139,7 +9133,6 @@ local=/schubertmaterialien.com/
 local=/schuhcenter-de.shop/
 local=/schuhe-unisa.de/
 local=/schuhechoice.com/
-local=/schuheclarks.de/
 local=/schuhegunstignice.de/
 local=/schuhepaulgreen.de/
 local=/schuhesalede.de/
@@ -9567,7 +9560,6 @@ local=/solarplatten24.de/
 local=/solarwind-shop.com/
 local=/soldeimaginations.com/
 local=/solden-hotels.com/
-local=/soleildocrehome.com/
 local=/soleode.shop/
 local=/solidinvest.co/
 local=/sollerts.de/
@@ -10225,7 +10217,6 @@ local=/telefoonshop.net/
 local=/telektronics.com/
 local=/telesys-market.com/
 local=/teller-store.com/
-local=/tellwalkandtalk.com/
 local=/telnegozio.com/
 local=/temperaent.com/
 local=/temptlife.com/
@@ -11024,7 +11015,6 @@ local=/valaisimete.com/
 local=/valana-berlin.de/
 local=/valdins.de/
 local=/valentinocanada.com/
-local=/valeureux.com/
 local=/validcalling.pro/
 local=/cfd.valkyriegloballtd.org/
 local=/valora-shop.com/
@@ -11241,6 +11231,7 @@ local=/vitacola-gratis.de/
 local=/vitalgesund.at/
 local=/vitawellshop.shop/
 local=/vitiwine.com/
+local=/viva-markets.com/
 local=/viva-stores.com/
 local=/vivabestvs.best/
 local=/vivaia-schuhe.de/
@@ -11671,7 +11662,6 @@ local=/xeodis.com/
 local=/xeond.com/
 local=/xera.pro/
 local=/xerofootwearuk.com/
-local=/xeroschweiz.com/
 local=/xeroshoesaustralia.com/
 local=/xeroshoesnz.com/
 local=/xeskagep.shop/
