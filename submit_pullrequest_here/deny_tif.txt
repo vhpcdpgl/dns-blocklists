@@ -1,5 +1,9 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4680
+xai467k.com
+xaiwallets.net
+
 # https://github.com/hagezi/dns-blocklists/issues/4670
 cshrewards.net
 
