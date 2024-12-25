@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734842340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735102260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Dec 2024 04:39 UTC
-; Version: 2024.1222.0439.01
+; Last modified: 25 Dec 2024 04:51 UTC
+; Version: 2024.1225.0451.07
 ; Syntax: RPZ
-; Number of entries: 3726
+; Number of entries: 3734
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -47,6 +47,8 @@ webnode.com.ar CNAME .
 *.webnode.com.ar CNAME .
 prima.net.ar CNAME .
 *.prima.net.ar CNAME .
+114.at CNAME .
+*.114.at CNAME .
 115.at CNAME .
 *.115.at CNAME .
 131.at CNAME .
@@ -527,6 +529,8 @@ blogcdn.com CNAME .
 *.blogcdn.com CNAME .
 blogchaat.com CNAME .
 *.blogchaat.com CNAME .
+blogcheese.com CNAME .
+*.blogcheese.com CNAME .
 blogcindario.com CNAME .
 *.blogcindario.com CNAME .
 blogcn.com CNAME .
@@ -855,6 +859,8 @@ eb2a.com CNAME .
 *.eb2a.com CNAME .
 eblogmall.com CNAME .
 *.eblogmall.com CNAME .
+ecomplanet.com CNAME .
+*.ecomplanet.com CNAME .
 ecrater.com CNAME .
 *.ecrater.com CNAME .
 editboard.com CNAME .
@@ -977,6 +983,8 @@ freehostingcloud.com CNAME .
 *.freehostingcloud.com CNAME .
 freehostingeu.com CNAME .
 *.freehostingeu.com CNAME .
+freehostingking.com CNAME .
+*.freehostingking.com CNAME .
 freehostplace.com CNAME .
 *.freehostplace.com CNAME .
 freehostyou.com CNAME .
@@ -2135,6 +2143,8 @@ blog-online.eu CNAME .
 *.blog-online.eu CNAME .
 blogsport.eu CNAME .
 *.blogsport.eu CNAME .
+ch2.eu CNAME .
+*.ch2.eu CNAME .
 community24.eu CNAME .
 *.community24.eu CNAME .
 im-internet.eu CNAME .
@@ -2483,16 +2493,12 @@ blogspot.co.id CNAME .
 *.blogspot.co.id CNAME .
 1lunatic1icepick.my.id CNAME .
 *.1lunatic1icepick.my.id CNAME .
-ajsik.my.id CNAME .
-*.ajsik.my.id CNAME .
 dew4.my.id CNAME .
 *.dew4.my.id CNAME .
 inclaim.my.id CNAME .
 *.inclaim.my.id CNAME .
 jekar.my.id CNAME .
 *.jekar.my.id CNAME .
-ktt55.my.id CNAME .
-*.ktt55.my.id CNAME .
 melayuu.my.id CNAME .
 *.melayuu.my.id CNAME .
 private-x.my.id CNAME .
@@ -2943,6 +2949,8 @@ acidblog.net CNAME .
 *.acidblog.net CNAME .
 arcor-ip.net CNAME .
 *.arcor-ip.net CNAME .
+batcave.net CNAME .
+*.batcave.net CNAME .
 bigheadhosting.net CNAME .
 *.bigheadhosting.net CNAME .
 blog4ever.net CNAME .
