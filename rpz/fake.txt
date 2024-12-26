@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735171980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735215240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Dec 2024 00:13 UTC
-; Version: 2024.1226.0013.53
+; Last modified: 26 Dec 2024 12:14 UTC
+; Version: 2024.1226.1214.29
 ; Syntax: RPZ
-; Number of entries: 24608
+; Number of entries: 24624
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -2063,6 +2063,8 @@ ay-grunflache.com CNAME .
 *.ay-grunflache.com CNAME .
 shopde.aygul-hotel.com CNAME .
 *.shopde.aygul-hotel.com CNAME .
+az-directy.com CNAME .
+*.az-directy.com CNAME .
 azr-capital.com CNAME .
 *.azr-capital.com CNAME .
 b-tinvest.com CNAME .
@@ -2837,6 +2839,8 @@ bnrmarkets.com CNAME .
 *.bnrmarkets.com CNAME .
 bo-bank.com CNAME .
 *.bo-bank.com CNAME .
+boatworkssupply.com CNAME .
+*.boatworkssupply.com CNAME .
 bobbyananta.com CNAME .
 *.bobbyananta.com CNAME .
 bobochosesstore.com CNAME .
@@ -3313,8 +3317,6 @@ cb-sport.com CNAME .
 *.cb-sport.com CNAME .
 cbhandlife.com CNAME .
 *.cbhandlife.com CNAME .
-cbikestore.com CNAME .
-*.cbikestore.com CNAME .
 cbleurope.com CNAME .
 *.cbleurope.com CNAME .
 cbsstyles.com CNAME .
@@ -4925,6 +4927,8 @@ eu-f1store4-formula1.com CNAME .
 *.eu-f1store4-formula1.com CNAME .
 eu-mangos.com CNAME .
 *.eu-mangos.com CNAME .
+eu-unityfahrschule.com CNAME .
+*.eu-unityfahrschule.com CNAME .
 eufootwear.com CNAME .
 *.eufootwear.com CNAME .
 eugeneoutlet.com CNAME .
@@ -5423,6 +5427,8 @@ fitandelite.com CNAME .
 *.fitandelite.com CNAME .
 fitflopromania.com CNAME .
 *.fitflopromania.com CNAME .
+fitnessbezogen.com CNAME .
+*.fitnessbezogen.com CNAME .
 fitnessbox-arena.com CNAME .
 *.fitnessbox-arena.com CNAME .
 fitouthometool.com CNAME .
@@ -8459,6 +8465,8 @@ marianahas.com CNAME .
 *.marianahas.com CNAME .
 marinadecoration.com CNAME .
 *.marinadecoration.com CNAME .
+marinepartdepots.com CNAME .
+*.marinepartdepots.com CNAME .
 marionmaurer.com CNAME .
 *.marionmaurer.com CNAME .
 mariplum.com CNAME .
@@ -13917,8 +13925,6 @@ usvoguevaults.com CNAME .
 *.usvoguevaults.com CNAME .
 uswestnews.com CNAME .
 *.uswestnews.com CNAME .
-uswomenshoe.com CNAME .
-*.uswomenshoe.com CNAME .
 utcinvest.com CNAME .
 *.utcinvest.com CNAME .
 uudet-huonekalut.com CNAME .
@@ -15621,6 +15627,8 @@ buttons-shop.de CNAME .
 *.buttons-shop.de CNAME .
 buxtownbeacher.de CNAME .
 *.buxtownbeacher.de CNAME .
+buyado.de CNAME .
+*.buyado.de CNAME .
 buyfamgift.de CNAME .
 *.buyfamgift.de CNAME .
 byberlin.de CNAME .
@@ -18323,6 +18331,8 @@ music-musik.de CNAME .
 *.music-musik.de CNAME .
 musikhaus-hoffmann.de CNAME .
 *.musikhaus-hoffmann.de CNAME .
+musikhaus-lehmann.de CNAME .
+*.musikhaus-lehmann.de CNAME .
 musikhaus-schumacher.de CNAME .
 *.musikhaus-schumacher.de CNAME .
 musikwelt-lindner.de CNAME .
@@ -20929,6 +20939,8 @@ boomforex.net CNAME .
 *.boomforex.net CNAME .
 boursecapital.net CNAME .
 *.boursecapital.net CNAME .
+braintester.net CNAME .
+*.braintester.net CNAME .
 btceprex.net CNAME .
 *.btceprex.net CNAME .
 budgethardware.net CNAME .
@@ -22429,6 +22441,8 @@ crunchysnacks.shop CNAME .
 *.crunchysnacks.shop CNAME .
 curiosi.shop CNAME .
 *.curiosi.shop CNAME .
+daleofnorway-eu.shop CNAME .
+*.daleofnorway-eu.shop CNAME .
 danysmusicshopcheap.shop CNAME .
 *.danysmusicshopcheap.shop CNAME .
 dcjperformance.shop CNAME .
@@ -22531,6 +22545,8 @@ eigensinnig-wien.shop CNAME .
 *.eigensinnig-wien.shop CNAME .
 eisenachalsfeld.shop CNAME .
 *.eisenachalsfeld.shop CNAME .
+ekomia.shop CNAME .
+*.ekomia.shop CNAME .
 ekomiade.shop CNAME .
 *.ekomiade.shop CNAME .
 electo.shop CNAME .

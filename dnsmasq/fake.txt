@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Dec 2024 00:13 UTC
-# Version: 2024.1226.0013.53
+# Last modified: 26 Dec 2024 12:14 UTC
+# Version: 2024.1226.1214.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12304
+# Number of entries: 12312
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -821,6 +821,7 @@ local=/ayasalemar.best/
 local=/aybl.at/
 local=/shopde.aygul-hotel.com/
 local=/aynosa.de/
+local=/az-directy.com/
 local=/az-motora.de/
 local=/azestcorner.co/
 local=/azr-capital.com/
@@ -1464,6 +1465,7 @@ local=/bnrmarkets.com/
 local=/bo-bank.com/
 local=/boardgameaster.shop/
 local=/boardlandia.shop/
+local=/boatworkssupply.com/
 local=/bobbyananta.com/
 local=/bobochosesstore.com/
 local=/bocancilowa.com/
@@ -1556,6 +1558,7 @@ local=/braha-moebelhandel.de/
 local=/brain-base.de/
 local=/brain-metric.com/
 local=/brainety.com/
+local=/braintester.net/
 local=/brakediscshop.com/
 local=/bralettesstore.com/
 local=/brand-bestsellers.com/
@@ -1707,6 +1710,7 @@ local=/fr.buxberg.com/
 local=/buxtownbeacher.de/
 local=/buy-pills.site/
 local=/buy-viagra.site/
+local=/buyado.de/
 local=/buyamsale.ru/
 local=/buyathome24.shop/
 local=/buycapapparel.com/
@@ -1900,7 +1904,6 @@ local=/cbddiscounter.shop/
 local=/cbddiscounteronline.shop/
 local=/cbdhanf.at/
 local=/cbhandlife.com/
-local=/cbikestore.com/
 local=/cbleurope.com/
 local=/cbsstyles.com/
 local=/cbtwohousehold.com/
@@ -2478,6 +2481,7 @@ local=/dailymirrornewstoday.com/
 local=/dailystarnewstoday.com/
 local=/dailytelegraphnewstoday.com/
 local=/dainesemotorrad.com/
+local=/daleofnorway-eu.shop/
 local=/dalilincase.com/
 local=/dalmatinac.de/
 local=/dalsari.com/
@@ -3140,6 +3144,7 @@ local=/eisenbahnzubehorde.com/
 local=/eisenwarensale-shop.com/
 local=/ejinvesting.com/
 local=/ekehau.com/
+local=/ekomia.shop/
 local=/ekomiade.shop/
 local=/eldyshop.com/
 local=/eleclc.com/
@@ -3407,6 +3412,7 @@ local=/eu-f1store-formula1.com/
 local=/eu-f1store4-formula1.com/
 local=/eu-mangos.com/
 local=/eu-meds.online/
+local=/eu-unityfahrschule.com/
 local=/euchems.me/
 local=/eufahrradteile.de/
 local=/eufm.eu/
@@ -3850,6 +3856,7 @@ local=/fitflopparis.net/
 local=/fitflopromania.com/
 local=/fitness-7.de/
 local=/fitness-solution24.de/
+local=/fitnessbezogen.com/
 local=/fitnessbox-arena.com/
 local=/fitnestar.de/
 local=/fitouthometool.com/
@@ -6773,6 +6780,7 @@ local=/marianwade.shop/
 local=/marielove.shop/
 local=/marimekkodeutschland.de/
 local=/marinadecoration.com/
+local=/marinepartdepots.com/
 local=/marionmaurer.com/
 local=/mariplum.com/
 local=/markeair.com/
@@ -7363,6 +7371,7 @@ local=/music-musik.de/
 local=/musicgearfashion.com/
 local=/musicmoitode.shop/
 local=/musikhaus-hoffmann.de/
+local=/musikhaus-lehmann.de/
 local=/musikhaus-schumacher.de/
 local=/musikhaus-wagner.com/
 local=/musikwelt-lindner.de/
@@ -11421,7 +11430,6 @@ local=/usualfurniture.com/
 local=/usvogueoffer.com/
 local=/usvoguevaults.com/
 local=/uswestnews.com/
-local=/uswomenshoe.com/
 local=/utcinvest.com/
 local=/utelie.de/
 local=/uudet-huonekalut.com/
