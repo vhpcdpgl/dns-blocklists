@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735274220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735320300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Dec 2024 04:37 UTC
-; Version: 2024.1227.0437.31
+; Last modified: 27 Dec 2024 17:25 UTC
+; Version: 2024.1227.1725.07
 ; Syntax: RPZ
-; Number of entries: 7478
+; Number of entries: 7464
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1030,8 +1030,6 @@ crushus.com CNAME .
 *.crushus.com CNAME .
 crypticvpn.com CNAME .
 *.crypticvpn.com CNAME .
-cryptohippie.com CNAME .
-*.cryptohippie.com CNAME .
 dns.cryptomize.com CNAME .
 *.dns.cryptomize.com CNAME .
 cryptovpn.com CNAME .
@@ -1876,8 +1874,6 @@ okayfreedom.com CNAME .
 *.okayfreedom.com CNAME .
 omegaproxy.com CNAME .
 *.omegaproxy.com CNAME .
-onevpn.com CNAME .
-*.onevpn.com CNAME .
 onlineanonymizer.com CNAME .
 *.onlineanonymizer.com CNAME .
 onlineipchanger.com CNAME .
@@ -2166,8 +2162,6 @@ proxysneak.com CNAME .
 *.proxysneak.com CNAME .
 proxytoplay.com CNAME .
 *.proxytoplay.com CNAME .
-proxyturbo.com CNAME .
-*.proxyturbo.com CNAME .
 proxyunlock.com CNAME .
 *.proxyunlock.com CNAME .
 proxyvpnserver.com CNAME .
@@ -2846,8 +2840,6 @@ vpndeluxe.com CNAME .
 *.vpndeluxe.com CNAME .
 vpndock.com CNAME .
 *.vpndock.com CNAME .
-vpndog.com CNAME .
-*.vpndog.com CNAME .
 proxy.vpner.com CNAME .
 *.proxy.vpner.com CNAME .
 vpnfan.com CNAME .
@@ -3760,8 +3752,6 @@ dns.lista.my.id CNAME .
 *.dns.lista.my.id CNAME .
 dns.mikrotikrumahan.my.id CNAME .
 *.dns.mikrotikrumahan.my.id CNAME .
-dns.pnh.my.id CNAME .
-*.dns.pnh.my.id CNAME .
 dns.repinger.my.id CNAME .
 *.dns.repinger.my.id CNAME .
 dns.velyn.my.id CNAME .
@@ -4110,8 +4100,6 @@ corsproxy.io CNAME .
 *.corsproxy.io CNAME .
 curd.io CNAME .
 *.curd.io CNAME .
-dailyvpn.io CNAME .
-*.dailyvpn.io CNAME .
 freeproxy.io CNAME .
 *.freeproxy.io CNAME .
 geosurf.io CNAME .
@@ -5568,8 +5556,6 @@ unblocker.net CNAME .
 *.unblocker.net CNAME .
 unblocks.net CNAME .
 *.unblocks.net CNAME .
-unblockyoutubefree.net CNAME .
-*.unblockyoutubefree.net CNAME .
 adfree.usableprivacy.net CNAME .
 *.adfree.usableprivacy.net CNAME .
 usawebproxy.net CNAME .

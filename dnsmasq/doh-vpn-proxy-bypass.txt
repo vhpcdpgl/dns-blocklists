@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Dec 2024 04:37 UTC
-# Version: 2024.1227.0437.31
+# Last modified: 27 Dec 2024 17:25 UTC
+# Version: 2024.1227.1725.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3739
+# Number of entries: 3732
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -739,7 +739,6 @@ local=/crushus.com/
 local=/crusty.motorcycles/
 local=/crypticvpn.com/
 local=/crypto.sx/
-local=/cryptohippie.com/
 local=/dns.cryptomize.com/
 local=/cryptostorm.is/
 local=/cryptovpn.com/
@@ -767,7 +766,6 @@ local=/dns.d94.xyz/
 local=/dns.d96.info/
 local=/dns.daarrk.tech/
 local=/dabmix.com/
-local=/dailyvpn.io/
 local=/dns.dallinbryce.com/
 local=/danhcan.top/
 local=/dns.home.daniil.it/
@@ -1923,7 +1921,6 @@ local=/vpnto.bhadrikais.my.id/
 local=/dns.iki.my.id/
 local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
-local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
@@ -2150,7 +2147,6 @@ local=/oneproxy.biz/
 local=/oneproxy.xyz/
 local=/onestreaming.org/
 local=/onevanalla.site/
-local=/onevpn.com/
 local=/onion.am/
 local=/onion.cab/
 local=/onion.casa/
@@ -2546,7 +2542,6 @@ local=/proxysneak.com/
 local=/proxysurfing.org/
 local=/proxytime.net/
 local=/proxytoplay.com/
-local=/proxyturbo.com/
 local=/proxyunblock.site/
 local=/proxyunblocker.org/
 local=/proxyunlock.com/
@@ -3360,7 +3355,6 @@ local=/unblockyoutube.co/
 local=/unblockyoutube.eu/
 local=/unblockyoutube.video/
 local=/unblockyoutubeatschool.com/
-local=/unblockyoutubefree.net/
 local=/unblockytproxy.com/
 local=/uncensoreddns.org/
 local=/undofilters.com/
@@ -3491,7 +3485,6 @@ local=/vpnclientapp.com/
 local=/vpndaily.com/
 local=/vpndeluxe.com/
 local=/vpndock.com/
-local=/vpndog.com/
 local=/vpneasy.info/
 local=/proxy.vpner.com/
 local=/vpnfan.com/

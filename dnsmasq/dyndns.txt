@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Dec 2024 04:50 UTC
-# Version: 2024.1225.0450.09
+# Last modified: 27 Dec 2024 17:21 UTC
+# Version: 2024.1227.1721.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1473
+# Number of entries: 1470
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -627,7 +627,6 @@ local=/grandmasgossip.com/
 local=/green-heroes.com/
 local=/groks-the.info/
 local=/groks-this.info/
-local=/groundwerk.info/
 local=/grupoimpulsora.com/
 local=/grupompr.com/
 local=/gslb.me/
@@ -697,7 +696,6 @@ local=/hs.vc/
 local=/htmlcomponentservice.com/
 local=/https443.net/
 local=/https443.org/
-local=/hulichicken.com/
 local=/humorvisite.eu/
 local=/hunnur.com/
 local=/iamallama.com/
@@ -1253,7 +1251,6 @@ local=/serveusers.com/
 local=/sexidude.com/
 local=/sexmistrz.pl/
 local=/sexxxy.biz/
-local=/shacknet.biz/
 local=/shacknet.nu/
 local=/shacknet.us/
 local=/shadir.com/

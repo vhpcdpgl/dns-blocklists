@@ -1,5 +1,14 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4690
+editthiscookies.com
+adblock-site.pages.dev
+chrome.videoflix.live
+chrome-stg.videoflix.live
+webbooster.online
+chrome.fastdownload.online
+chrome-stg.fastdownload.online
+
 # Crypto Scam
 placesbids-market.com
 
