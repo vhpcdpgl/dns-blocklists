@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Dec 2024 12:14 UTC
-# Version: 2024.1226.1214.29
+# Last modified: 27 Dec 2024 00:14 UTC
+# Version: 2024.1227.0014.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12312
+# Number of entries: 12305
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -6623,7 +6623,6 @@ local=/lsmotorrad.com/
 local=/lsvhandel.com/
 local=/luamddfaya.shop/
 local=/lucamarkt.com/
-local=/luccafiore.com/
 local=/lucielauras.com/
 local=/luftentfeuchterdewett.de/
 local=/luggageracksshop.com/
@@ -7550,7 +7549,6 @@ local=/neubeleuchtung.com/
 local=/neubootsladen.com/
 local=/neudisney.de/
 local=/neueara.de/
-local=/neuedamen.de/
 local=/neueelektrowerkzeug.com/
 local=/neuefahrrad.com/
 local=/neuelektronik.de/
@@ -8812,7 +8810,6 @@ local=/rabattbaukasten.com/
 local=/rabattbekleidung.de/
 local=/rabattbike.com/
 local=/rabattchemikalien.com/
-local=/rabattdamen.de/
 local=/rabattdekoobjekte.de/
 local=/rabatteundcoupons.de/
 local=/rabattfahrrad.com/
@@ -8821,7 +8818,6 @@ local=/rabattfornasetti.de/
 local=/rabattgabor.de/
 local=/rabattherren.com/
 local=/rabattkleidung.com/
-local=/rabattlloyd.de/
 local=/rabattloewe.de/
 local=/rabattlouboutin.de/
 local=/rabattmeister24.de/
@@ -9505,10 +9501,8 @@ local=/schroeer23.de/
 local=/schubert-handel.de/
 local=/schubertmaterialien.com/
 local=/schuhcenter-de.shop/
-local=/schuhe-unisa.de/
 local=/schuhechoice.com/
 local=/schuhegunstignice.de/
-local=/schuhepaulgreen.de/
 local=/schuhepromo.com/
 local=/schuhesalede.de/
 local=/schuhheld.com/
@@ -9937,6 +9931,7 @@ local=/soft-handel.de/
 local=/softelektro.com/
 local=/softshelljacketsde.com/
 local=/software-onsale.com/
+local=/softwarebilliger1.de/
 local=/softwaredealz.shop/
 local=/sogevis.com/
 local=/sol-consult.net/
@@ -10821,6 +10816,7 @@ local=/thor-financial-apps.space/
 local=/thorogooddeutschland.com/
 local=/thorogooddeutschland.de/
 local=/thorogoodfrance.com/
+local=/thorogoodfrance.fr/
 local=/thp-tinnemann.de/
 local=/three-shift.de/
 local=/thrillsnew.com/
@@ -11167,7 +11163,6 @@ local=/truedrugz.com/
 local=/truepillz.com/
 local=/truffis.com/
 local=/truft.de/
-local=/trumanschuhe.de/
 local=/trust-edshop.com/
 local=/trust-immo.com/
 local=/trusted-shop-nr8160.de/
@@ -11561,7 +11556,6 @@ local=/verkaufen-tonies.com/
 local=/verkauffahrradbike.com/
 local=/verkaufgarten.com/
 local=/verkaufmode.de/
-local=/verkaufschuhe.de/
 local=/verkaufsmarkt.com/
 local=/verkettet-dogs.com/
 local=/verlockungnachrichten.com/
@@ -11863,7 +11857,6 @@ local=/weeduneed.de/
 local=/weekdeals.store/
 local=/weekendmaxmarait.com/
 local=/weeksales.shop/
-local=/wegdesholz.com/
 local=/wegovy-osterreich.com/
 local=/wegovymexicopharmacy.com/
 local=/wehkampoutlet.nl/

@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Dec 2024 16:36 UTC
-# Version: 2024.1226.1636.08
+# Last modified: 27 Dec 2024 04:37 UTC
+# Version: 2024.1227.0437.31
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3739
 #
@@ -283,7 +283,6 @@ local=/adguardhome.atakorah.com/
 local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
-local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -1668,6 +1667,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -1925,7 +1925,6 @@ local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
 local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
-local=/id.terra.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
 local=/ssl-proxy.my-addr.com/
@@ -2603,6 +2602,7 @@ local=/dog.dns.qwer.pw/
 local=/frog.dns.qwer.pw/
 local=/lion.dns.qwer.pw/
 local=/tiger.dns.qwer.pw/
+local=/www-web.r-2.top/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
 local=/ra4wvpn.com/

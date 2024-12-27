@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735230840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735274160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Dec 2024 16:34 UTC
-; Version: 2024.1226.1634.57
+; Last modified: 27 Dec 2024 04:36 UTC
+; Version: 2024.1227.0436.11
 ; Syntax: RPZ
-; Number of entries: 2982
+; Number of entries: 2980
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -1208,8 +1208,6 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
-dns.auapi.fun CNAME .
-*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -1276,8 +1274,6 @@ dns.pnh.my.id CNAME .
 *.dns.pnh.my.id CNAME .
 dns.repinger.my.id CNAME .
 *.dns.repinger.my.id CNAME .
-id.terra.my.id CNAME .
-*.id.terra.my.id CNAME .
 dns.velyn.my.id CNAME .
 *.dns.velyn.my.id CNAME .
 dns.vmath.my.id CNAME .
@@ -1350,6 +1346,8 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 testaghome.meshkov.info CNAME .

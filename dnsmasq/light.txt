@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Dec 2024 14:25 UTC
-# Version: 2024.1226.1425.34
+# Last modified: 27 Dec 2024 02:24 UTC
+# Version: 2024.1227.0224.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 68412
+# Number of entries: 68419
 #
 local=/0-02.net/
 local=/000free.us/
@@ -1454,6 +1454,7 @@ local=/5fet4fni.de/
 local=/5gxs.org/
 local=/5h3oyhv838.com/
 local=/5icim50.de/
+local=/5ik.icu/
 local=/5ivy3ikkt.com/
 local=/analytics.5kingsmarketing.com/
 local=/5mcwl.pw/
@@ -3604,6 +3605,7 @@ local=/impr.adservicemedia.dk/
 local=/adservingfactory.com/
 local=/adservingfront.com/
 local=/adservinginternational.com/
+local=/adservings.ru/
 local=/adservme.com/
 local=/adservob.com/
 local=/adservone.com/
@@ -5461,6 +5463,7 @@ local=/device-metrics-us-ud.amazon.com/
 local=/smetrics.flex.amazon.ca/
 local=/smetrics.flex.amazon.com/
 local=/smetrics.flex.amazon.in/
+local=/events.watchtower.imdbtv.amazon.dev/
 local=/mads.amazon.com/
 local=/mads-eu.amazon.com/
 local=/mads-fe.amazon.com/
@@ -18195,7 +18198,6 @@ local=/smetrics.costco.ca/
 local=/smetrics.costco.com/
 local=/data.trx.costco.com/
 local=/costco-adbutler.com/
-local=/costco-rewardsaccount1.com/
 local=/smetrics.costcobusinesscentre.ca/
 local=/metrics.costcobusinessdelivery.com/
 local=/smetrics.costcobusinessdelivery.com/
@@ -35637,7 +35639,7 @@ local=/k-analytix.com/
 local=/bmqjor.k-bid.com/
 local=/k-colorful.jp/
 local=/k-oggwkhhxt.love/
-local=/plausible.k-words.io/
+local=/k-words.io/
 local=/k0k0cha.link/
 local=/k1wa.jp/
 local=/d.k3r.jp/
@@ -38804,6 +38806,7 @@ local=/lwadm.com/
 local=/lweizal.top/
 local=/lweriol.top/
 local=/lwgadm.com/
+local=/lwilmil.top/
 local=/lwjje.com/
 local=/lwjvyd.com/
 local=/piwik.lwl.org/
@@ -42666,6 +42669,7 @@ local=/apinas.nct.vn/
 local=/nctwoseln.xyz/
 local=/ncubadmavfp.com/
 local=/ncukankingwith.info/
+local=/ncvwnp.icu/
 local=/ncwabgl.com/
 local=/ncz3u7cj2.com/
 local=/nczxuga.com/
@@ -51641,6 +51645,7 @@ local=/rigembassyleaving.com/
 local=/righeegrelroazo.net/
 local=/analytics.right-com.com/
 local=/rightcomparativelyincomparable.com/
+local=/go.rightdailyfeed.com/
 local=/righteouscrayon.com/
 local=/righteousfainted.com/
 local=/righteoussleekpet.com/
@@ -52555,6 +52560,7 @@ local=/sabonakapona.com/
 local=/sabotageharass.com/
 local=/sabung-ayam-svv388.com/
 local=/ads.sacbee.com/
+local=/sachaits.com/
 local=/sachikru.com/
 local=/sachikru1.com/
 local=/sackbarngroups.com/
@@ -52957,7 +52963,7 @@ local=/counter.sberbank.ru/
 local=/svi.online.sberbank.ru/
 local=/visor.sberbank.ru/
 local=/analytics.sberhealth.ru/
-local=/dmp.sbermarketing.ru/
+local=/sbermarketing.ru/
 local=/sbfsdvc.com/
 local=/sbgsodufuosmmvsdf.info/
 local=/sbhight.com/
@@ -59646,6 +59652,7 @@ local=/analytics.tlg.systems/
 local=/tlingitlaisse.top/
 local=/livetech.shopee.co.id.tlivecdn.com/
 local=/api.tllms.com/
+local=/tlmtr.org/
 local=/tlpyft.xyz/
 local=/tlrkcj17.de/
 local=/tlsmluxersi.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735223100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735266240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Dec 2024 14:25 UTC
-; Version: 2024.1226.1425.34
+; Last modified: 27 Dec 2024 02:24 UTC
+; Version: 2024.1227.0224.07
 ; Syntax: RPZ
-; Number of entries: 136824
+; Number of entries: 136838
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -27029,8 +27029,6 @@ data.trx.costco.com CNAME .
 *.data.trx.costco.com CNAME .
 costco-adbutler.com CNAME .
 *.costco-adbutler.com CNAME .
-costco-rewardsaccount1.com CNAME .
-*.costco-rewardsaccount1.com CNAME .
 metrics.costcobusinessdelivery.com CNAME .
 *.metrics.costcobusinessdelivery.com CNAME .
 smetrics.costcobusinessdelivery.com CNAME .
@@ -68297,6 +68295,8 @@ analytics.right-com.com CNAME .
 *.analytics.right-com.com CNAME .
 rightcomparativelyincomparable.com CNAME .
 *.rightcomparativelyincomparable.com CNAME .
+go.rightdailyfeed.com CNAME .
+*.go.rightdailyfeed.com CNAME .
 righteouscrayon.com CNAME .
 *.righteouscrayon.com CNAME .
 righteousfainted.com CNAME .
@@ -69569,6 +69569,8 @@ sabung-ayam-svv388.com CNAME .
 *.sabung-ayam-svv388.com CNAME .
 ads.sacbee.com CNAME .
 *.ads.sacbee.com CNAME .
+sachaits.com CNAME .
+*.sachaits.com CNAME .
 sachikru.com CNAME .
 *.sachikru.com CNAME .
 sachikru1.com CNAME .
@@ -93975,6 +93977,8 @@ rcms-orchestration.aft.amazon.dev CNAME .
 *.rcms-orchestration.aft.amazon.dev CNAME .
 telemetry.aft.amazon.dev CNAME .
 *.telemetry.aft.amazon.dev CNAME .
+events.watchtower.imdbtv.amazon.dev CNAME .
+*.events.watchtower.imdbtv.amazon.dev CNAME .
 events.app-performance.music.amazon.dev CNAME .
 *.events.app-performance.music.amazon.dev CNAME .
 telemetry.pxt.amazon.dev CNAME .
@@ -96863,6 +96867,8 @@ webaudit.hu CNAME .
 *.4we.icu CNAME .
 4wfe3.icu CNAME .
 *.4wfe3.icu CNAME .
+5ik.icu CNAME .
+*.5ik.icu CNAME .
 6zfem.icu CNAME .
 *.6zfem.icu CNAME .
 7hb.icu CNAME .
@@ -97175,6 +97181,8 @@ mzpecui.icu CNAME .
 *.mzpecui.icu CNAME .
 n7a.icu CNAME .
 *.n7a.icu CNAME .
+ncvwnp.icu CNAME .
+*.ncvwnp.icu CNAME .
 ndysxhs.icu CNAME .
 *.ndysxhs.icu CNAME .
 niaideren.icu CNAME .
@@ -100595,8 +100603,8 @@ c.jumia.io CNAME .
 *.c.jumia.io CNAME .
 justtrack.io CNAME .
 *.justtrack.io CNAME .
-plausible.k-words.io CNAME .
-*.plausible.k-words.io CNAME .
+k-words.io CNAME .
+*.k-words.io CNAME .
 k5a.io CNAME .
 *.k5a.io CNAME .
 analytics.kaggle.io CNAME .
@@ -122431,6 +122439,8 @@ tiotyuknsyen.org CNAME .
 *.tiotyuknsyen.org CNAME .
 analytics.titanengine.org CNAME .
 *.analytics.titanengine.org CNAME .
+tlmtr.org CNAME .
+*.tlmtr.org CNAME .
 plausible.tonpoo.org CNAME .
 *.plausible.tonpoo.org CNAME .
 toplist100.org CNAME .
@@ -124501,6 +124511,8 @@ ads-lot.ru CNAME .
 *.ads-lot.ru CNAME .
 adsbid.ru CNAME .
 *.adsbid.ru CNAME .
+adservings.ru CNAME .
+*.adservings.ru CNAME .
 adskape.ru CNAME .
 *.adskape.ru CNAME .
 adsniper.ru CNAME .
@@ -125571,8 +125583,8 @@ visor.sberbank.ru CNAME .
 *.visor.sberbank.ru CNAME .
 analytics.sberhealth.ru CNAME .
 *.analytics.sberhealth.ru CNAME .
-dmp.sbermarketing.ru CNAME .
-*.dmp.sbermarketing.ru CNAME .
+sbermarketing.ru CNAME .
+*.sbermarketing.ru CNAME .
 sdmot.ru CNAME .
 *.sdmot.ru CNAME .
 securee.ru CNAME .
@@ -129459,6 +129471,8 @@ lweizal.top CNAME .
 *.lweizal.top CNAME .
 lweriol.top CNAME .
 *.lweriol.top CNAME .
+lwilmil.top CNAME .
+*.lwilmil.top CNAME .
 lwurserl.top CNAME .
 *.lwurserl.top CNAME .
 lyislol.top CNAME .

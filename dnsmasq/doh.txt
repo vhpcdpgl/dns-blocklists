@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Dec 2024 16:34 UTC
-# Version: 2024.1226.1634.57
+# Last modified: 27 Dec 2024 04:36 UTC
+# Version: 2024.1227.0436.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1491
+# Number of entries: 1490
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -132,7 +132,6 @@ local=/dns.asysec.com/
 local=/adguardhome.atakorah.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
-local=/dns.auapi.fun/
 local=/africa.avastdns.com/
 local=/secure.avastdns.com/
 local=/adguard.avdkishore.dev/
@@ -762,6 +761,7 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
@@ -920,7 +920,6 @@ local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
 local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
-local=/id.terra.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
 local=/myatris.sbs/
