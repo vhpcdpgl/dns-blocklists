@@ -1,5 +1,12 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4696
+com-tracking-helpsenf.xyz
+usps.com-tracking-helpsenf.xyz
+
+# Phishing
+magentamoments-besonderenvorteilen.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4690
 editthiscookies.com
 adblock-site.pages.dev
