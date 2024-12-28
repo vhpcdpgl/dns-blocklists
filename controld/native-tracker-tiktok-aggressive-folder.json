@@ -344,6 +344,20 @@
       }
     },
     {
+      "PK": "frontier-apix16-normal-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "frontier-apix16-normal-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "frontier-aweme-hl.snssdk.com",
       "action": {
         "do": 0,
@@ -961,6 +975,13 @@
     },
     {
       "PK": "lemonapi22-normal-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "lemonapi22-normal-useast1a.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1

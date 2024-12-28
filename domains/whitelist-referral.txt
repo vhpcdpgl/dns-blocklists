@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Dec 2024 11:52 UTC
-# Version: 2024.1225.1152.37
+# Last modified: 27 Dec 2024 23:35 UTC
+# Version: 2024.1227.2335.03
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2162
+# Number of entries: 2175
 #
 l.1mp.ru
 t.1und1.de
@@ -192,7 +192,9 @@ seu.cleverreach.com
 12120.seu.cleverreach.com
 123000.seu.cleverreach.com
 15850.seu.cleverreach.com
+15981.seu.cleverreach.com
 16255.seu.cleverreach.com
+22476.seu.cleverreach.com
 2352.seu.cleverreach.com
 29366.seu.cleverreach.com
 35962.seu.cleverreach.com
@@ -231,12 +233,14 @@ seu2.cleverreach.com
 118521.seu2.cleverreach.com
 120257.seu2.cleverreach.com
 121070.seu2.cleverreach.com
+122136.seu2.cleverreach.com
 126562.seu2.cleverreach.com
 129026.seu2.cleverreach.com
 140829.seu2.cleverreach.com
 142376.seu2.cleverreach.com
 143747.seu2.cleverreach.com
 144378.seu2.cleverreach.com
+154470.seu2.cleverreach.com
 154583.seu2.cleverreach.com
 156485.seu2.cleverreach.com
 160315.seu2.cleverreach.com
@@ -246,6 +250,7 @@ seu2.cleverreach.com
 164230.seu2.cleverreach.com
 176903.seu2.cleverreach.com
 177168.seu2.cleverreach.com
+177482.seu2.cleverreach.com
 178028.seu2.cleverreach.com
 195426.seu2.cleverreach.com
 196154.seu2.cleverreach.com
@@ -261,6 +266,7 @@ seu2.cleverreach.com
 223618.seu2.cleverreach.com
 225938.seu2.cleverreach.com
 226323.seu2.cleverreach.com
+229280.seu2.cleverreach.com
 235919.seu2.cleverreach.com
 240558.seu2.cleverreach.com
 242283.seu2.cleverreach.com
@@ -279,6 +285,7 @@ seu2.cleverreach.com
 277050.seu2.cleverreach.com
 280187.seu2.cleverreach.com
 281191.seu2.cleverreach.com
+286244.seu2.cleverreach.com
 286257.seu2.cleverreach.com
 295939.seu2.cleverreach.com
 296298.seu2.cleverreach.com
@@ -869,6 +876,7 @@ sites.hscoscdn-eu1.net
 27102898.sites.hscoscdn-eu1.net
 27174408.sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
+145094632.group0.sites.hscoscdn-eu1.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
 group1.sites.hscoscdn00.net
@@ -1154,6 +1162,7 @@ mkto-ab200129.com
 mkto-ab210004.com
 mkto-ab210048.com
 mkto-ab210094.com
+mkto-ab210104.com
 mkto-ab210176.com
 mkto-ab220017.com
 mkto-ab220043.com
@@ -1891,6 +1900,7 @@ r6hquldab.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r6mm9llab.cc.rs6.net
 r6na8cgbb.cc.rs6.net
+r7avxrcab.cc.rs6.net
 r7br8p4ab.cc.rs6.net
 r7wfv6abb.cc.rs6.net
 r85kxk7ab.cc.rs6.net
@@ -1921,6 +1931,7 @@ rh75p55ab.cc.rs6.net
 ri5mlu6ab.cc.rs6.net
 ripon4tab.cc.rs6.net
 rismehabb.cc.rs6.net
+rjpz4ucab.cc.rs6.net
 rjrpmitab.cc.rs6.net
 rklmqleab.cc.rs6.net
 rkypyqrab.cc.rs6.net
@@ -1933,6 +1944,7 @@ ror4pphbb.cc.rs6.net
 rptcs9bab.cc.rs6.net
 rpxfhbhbb.cc.rs6.net
 rq656jlab.cc.rs6.net
+rq6agxabb.cc.rs6.net
 rqtqnaqab.cc.rs6.net
 rrd9h64ab.cc.rs6.net
 rrtdkicbb.cc.rs6.net
@@ -1948,6 +1960,7 @@ rxfc49ebb.cc.rs6.net
 ry9kgedab.cc.rs6.net
 rye9jgzab.cc.rs6.net
 rypni4cbb.cc.rs6.net
+rz6dkreab.cc.rs6.net
 rza6mzmab.cc.rs6.net
 rzeyu9wab.cc.rs6.net
 rzl9jxcab.cc.rs6.net

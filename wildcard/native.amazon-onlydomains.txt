@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Nov 2024 05:07 UTC
-# Version: 2024.1106.0507.00
+# Last modified: 28 Dec 2024 00:49 UTC
+# Version: 2024.1228.0049.34
 # Syntax: Domains (without subdomains)
-# Number of entries: 335
+# Number of entries: 336
 #
 aan.amazon.co.jp
 aan.amazon.com
@@ -117,6 +117,7 @@ assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 assoc-msdk-us.amazon-adsystem.com
 at-beta.amazon-adsystem.com
+ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atue.amazon-adsystem.com

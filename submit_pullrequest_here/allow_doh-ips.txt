@@ -1,5 +1,9 @@
 # IPs to be removed from the DoH IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4692
+66.33.60
+66.33.60.34
+
 # https://github.com/hagezi/dns-blocklists/issues/4529
 104.21
 104.21.16.1
