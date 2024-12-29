@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Dec 2024 13:15 UTC
-# Version: 2024.1228.1315.04
+# Last modified: 29 Dec 2024 00:15 UTC
+# Version: 2024.1229.0015.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11876
+# Number of entries: 11871
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -3171,7 +3171,6 @@ local=/energieholzpellets.de/
 local=/energiekick.at/
 local=/energy-av.com/
 local=/engel-gartenhandel.de/
-local=/engelhardt-ses.de/
 local=/engeliebe.de/
 local=/engerer-handel.de/
 local=/engineerwarehouse.shop/
@@ -4790,7 +4789,6 @@ local=/hedgelitepro.com/
 local=/hegense.de/
 local=/heibeill.de/
 local=/heibell.de/
-local=/heidekrause.de/
 local=/heidelbergneparfums.com/
 local=/heike-store.com/
 local=/heikojentsch.de/
@@ -7031,7 +7029,6 @@ local=/mormanns.de/
 local=/mosaik-invest.com/
 local=/mosalesvs.best/
 local=/mosano.de/
-local=/moscotberlin.de/
 local=/moser-handels-gmbh.de/
 local=/mosersale.shop/
 local=/mosherrypills.com/
@@ -7654,7 +7651,6 @@ local=/onlinebedroom.com/
 local=/onlinebeleuchtung.com/
 local=/onlinebikeaccessory.com/
 local=/onlinebluberri.com/
-local=/onlinedamen.de/
 local=/onlinedefahrrad.com/
 local=/onlinedoll-toy.com/
 local=/onlinefixedblade.com/
@@ -9721,7 +9717,6 @@ local=/sportausrustung.com/
 local=/sportausrustung-de.com/
 local=/sportbekleidung-de.com/
 local=/sportbekleidungs.com/
-local=/sportdamen.de/
 local=/sportemporiumgift.com/
 local=/sportgorilla.de/
 local=/sporthome19.com/
