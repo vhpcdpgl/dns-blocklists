@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Dec 2024 00:15 UTC
-# Version: 2024.1229.0015.44
+# Last modified: 29 Dec 2024 12:23 UTC
+# Version: 2024.1229.1223.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11871
+# Number of entries: 11869
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2348,7 +2348,6 @@ local=/currys-ch.com/
 local=/currys-ch.vip/
 local=/curryscos.store/
 local=/custodian-tech.de/
-local=/cutcy.com/
 local=/cutlerymarkets.com/
 local=/cutleryspyderco.com/
 local=/cutlerytrade.com/
@@ -4023,7 +4022,6 @@ local=/gailgoehring.shop/
 local=/gainful-markets.com/
 local=/platform.gainfulmarkets-tech.com/
 local=/gainpipstrade.com/
-local=/gaiyuotrewinsakcoom.com/
 local=/gala-gruppe.com/
 local=/galagate.co/
 local=/galaktischshop.com/

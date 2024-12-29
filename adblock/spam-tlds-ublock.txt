@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 Dec 2024 05:05 UTC
-! Version: 2024.1229.0505.58
+! Last modified: 29 Dec 2024 17:32 UTC
+! Version: 2024.1229.1732.58
 ! Syntax: uBlock
 ! Number of latin TLDs: 210 - non-latin TLDs: 151
 !
@@ -59,7 +59,7 @@
 ||clothing^$doc
 ||club^$doc,domain=~baby-beamup.club|~hd-olimpo.club|~mbcherohub.club|~pdfmagazines.club|~skin.club|~thelemmy.club
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
-||cool^$doc,domain=~shirtz.cool
+||cool^$doc,domain=~cnyes.cool|~shirtz.cool
 ||coupons^$doc
 ||cymru^$doc
 ||cyou^$doc,domain=~hammertime.cyou
@@ -122,7 +122,7 @@
 ||loans^$doc
 ||lol^$doc,domain=~adsb.lol|~anarchychess.lol|~browser.lol|~dankmemer.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~limetorrents.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~weblog.lol
 ||love^$doc
-||ltd^$doc,domain=~homebrew.ltd|~swizzin.ltd
+||ltd^$doc,domain=~homebrew.ltd|~picsee.ltd|~swizzin.ltd
 ||luxe^$doc
 ||makeup^$doc,domain=~bird.makeup
 ||management^$doc

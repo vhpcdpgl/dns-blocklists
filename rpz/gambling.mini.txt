@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735447440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735492140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Dec 2024 04:44 UTC
-; Version: 2024.1229.0444.21
+; Last modified: 29 Dec 2024 17:09 UTC
+; Version: 2024.1229.1709.58
 ; Syntax: RPZ
-; Number of entries: 144168
+; Number of entries: 144188
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -26293,6 +26293,8 @@ agencasinopro.com CNAME .
 *.agencasinopro.com CNAME .
 agenolxfokus.com CNAME .
 *.agenolxfokus.com CNAME .
+agenolxseo.com CNAME .
+*.agenolxseo.com CNAME .
 agenpasti.com CNAME .
 *.agenpasti.com CNAME .
 agenrajatoto3.com CNAME .
@@ -28433,6 +28435,8 @@ bandar999top.com CNAME .
 *.bandar999top.com CNAME .
 bandarcasinoonline.com CNAME .
 *.bandarcasinoonline.com CNAME .
+bandarjayaku999.com CNAME .
+*.bandarjayaku999.com CNAME .
 bandarlotre3.com CNAME .
 *.bandarlotre3.com CNAME .
 bandarscoccerbola.com CNAME .
@@ -43137,6 +43141,8 @@ empire777vn.com CNAME .
 *.empire777vn.com CNAME .
 empirecitycasino.com CNAME .
 *.empirecitycasino.com CNAME .
+empiremedan.com CNAME .
+*.empiremedan.com CNAME .
 empirepoker.com CNAME .
 *.empirepoker.com CNAME .
 emucasino.com CNAME .
@@ -61317,6 +61323,8 @@ olxlive.com CNAME .
 *.olxlive.com CNAME .
 olxlord.com CNAME .
 *.olxlord.com CNAME .
+olxmenang.com CNAME .
+*.olxmenang.com CNAME .
 olxninja.com CNAME .
 *.olxninja.com CNAME .
 olxrindu.com CNAME .
@@ -68239,6 +68247,8 @@ satbet.com CNAME .
 *.satbet.com CNAME .
 satelittogel134.com CNAME .
 *.satelittogel134.com CNAME .
+satelittogel147.com CNAME .
+*.satelittogel147.com CNAME .
 satelittogelgas.com CNAME .
 *.satelittogelgas.com CNAME .
 satelittogelpools.com CNAME .
@@ -92493,6 +92503,8 @@ vulkan-bet.name CNAME .
 *.7slotsgir.net CNAME .
 7slotss.net CNAME .
 *.7slotss.net CNAME .
+7togeltoto.net CNAME .
+*.7togeltoto.net CNAME .
 7y2024.net CNAME .
 *.7y2024.net CNAME .
 7ylucky.net CNAME .
@@ -92701,6 +92713,8 @@ ahha88.net CNAME .
 *.ahha88.net CNAME .
 ajaibslotsdeal7.net CNAME .
 *.ajaibslotsdeal7.net CNAME .
+aji808010.net CNAME .
+*.aji808010.net CNAME .
 ak47wins.net CNAME .
 *.ak47wins.net CNAME .
 aklasbela.net CNAME .
@@ -92747,6 +92761,8 @@ amazonsport.net CNAME .
 *.amazonsport.net CNAME .
 ambslots.net CNAME .
 *.ambslots.net CNAME .
+amerikatoto.net CNAME .
+*.amerikatoto.net CNAME .
 amigocasino.net CNAME .
 *.amigocasino.net CNAME .
 amjs2.net CNAME .
@@ -94329,6 +94345,8 @@ dasistcasino.net CNAME .
 *.dasistcasino.net CNAME .
 davaowin.net CNAME .
 *.davaowin.net CNAME .
+dayaprimasports.net CNAME .
+*.dayaprimasports.net CNAME .
 vip.dddjogo.net CNAME .
 *.vip.dddjogo.net CNAME .
 ddzchina.net CNAME .
@@ -100561,6 +100579,8 @@ dreamscasino.online CNAME .
 *.dreamscasino.online CNAME .
 drip-casino.online CNAME .
 *.drip-casino.online CNAME .
+dugemsepuh.online CNAME .
+*.dugemsepuh.online CNAME .
 dukunslotsenin.online CNAME .
 *.dukunslotsenin.online CNAME .
 dunia77-asik.online CNAME .
@@ -104601,6 +104621,8 @@ kuattimur188.org CNAME .
 *.kuattimur188.org CNAME .
 kudatooogell.org CNAME .
 *.kudatooogell.org CNAME .
+kuudaaatogell.org CNAME .
+*.kuudaaatogell.org CNAME .
 kuudappoker.org CNAME .
 *.kuudappoker.org CNAME .
 lafayetteacademyno.org CNAME .
@@ -138243,8 +138265,6 @@ betsolympics.xyz CNAME .
 *.betsolympics.xyz CNAME .
 betsongeorge.xyz CNAME .
 *.betsongeorge.xyz CNAME .
-betsportbitcoin.xyz CNAME .
-*.betsportbitcoin.xyz CNAME .
 betstablecoin.xyz CNAME .
 *.betstablecoin.xyz CNAME .
 betstat.xyz CNAME .
