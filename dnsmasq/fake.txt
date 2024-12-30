@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Dec 2024 00:19 UTC
-# Version: 2024.1230.0019.21
+# Last modified: 30 Dec 2024 12:24 UTC
+# Version: 2024.1230.1224.27
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11871
 #
@@ -150,6 +150,7 @@ local=/adolar-tech.de/
 local=/adorabletotsde.shop/
 local=/adreim.com/
 local=/adreim.de/
+local=/adrian-beck.de/
 local=/adsholz.com/
 local=/adsome24.de/
 local=/advancesecurity.de/
@@ -530,7 +531,6 @@ local=/apparel-mens.com/
 local=/apparelbeach.com/
 local=/apparelcheap.com/
 local=/apparelchicnew.com/
-local=/apparelfishing.com/
 local=/apparelgearbox.com/
 local=/apparellead.com/
 local=/appareloptimal.com/
@@ -6737,7 +6737,6 @@ local=/men-outfits.com/
 local=/menaamoha.com/
 local=/menbikeshop.com/
 local=/menbrandwear.com/
-local=/menclothesmall.com/
 local=/mendelicate.com/
 local=/mendira.de/
 local=/menily.com/
@@ -9790,6 +9789,7 @@ local=/statehills.com/
 local=/stationeryopt.com/
 local=/stationerythe.com/
 local=/staubsauger-deals.com/
+local=/staubsauger-profi24.de/
 local=/staubsauger-spar-deals.com/
 local=/staubsaugerhaus.de/
 local=/staubsaugerrabatt.de/

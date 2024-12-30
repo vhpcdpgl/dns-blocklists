@@ -52,9 +52,9 @@
  17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
  18 |      61% |  35% |      4% | Analytics/Metrics Extension
  19 |      91% |   9% |      0% | Balanced Extension
- 20 |      82% |   8% |     10% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 20 |      83% |   8% |      9% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  21 |      92% |   6% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 22 |      87% |   5% |      8% | Advanced Extension
+ 22 |      88% |   5% |      7% | Advanced Extension
  23 |      80% |  19% |      1% | Denylist Community Threat Intelligence Feeds
  24 |      64% |  21% |     15% | Denylist Community Advanced
 ```
@@ -79,7 +79,7 @@
  16 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
  18 |      91% |   9% |      0% | Balanced Extension
- 19 |      84% |   8% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 19 |      85% |   8% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      88% |   5% |      7% | Advanced Extension
  22 |      81% |  19% |      0% | Denylist Community Threat Intelligence Feeds
@@ -109,9 +109,9 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |      64% |  35% |      1% | Analytics/Metrics Extension
  17 |      91% |   9% |      0% | Balanced Extension
- 18 |      84% |   8% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 18 |      85% |   8% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 20 |      89% |   5% |      6% | Advanced Extension
+ 20 |      90% |   5% |      5% | Advanced Extension
  21 |      81% |  19% |      0% | Denylist Community Threat Intelligence Feeds
  22 |      68% |  21% |     11% | Denylist Community Advanced
  23 |      77% |  15% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
