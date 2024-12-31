@@ -1,5 +1,12 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4723
+ds-milwaukee.com
+
+# https://github.com/hagezi/dns-blocklists/issues/4721
+icloud.apple.pariet.mhudr.cn
+icloud.apple.street.oanvd.cn
+
 # https://github.com/hagezi/dns-blocklists/issues/4708
 ultrahome.cz
 tlapka.cz

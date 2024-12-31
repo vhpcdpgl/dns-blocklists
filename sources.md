@@ -63,6 +63,7 @@ https://radar.cloudflare.com/domains
 https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
 https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv
+https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/refs/heads/master/month.csv
 https://raw.githubusercontent.com/2004gixxer600/BlockLists/refs/heads/main/MaliciousDomain.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
