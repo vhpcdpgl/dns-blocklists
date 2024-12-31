@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Dec 2024 12:24 UTC
-! Version: 2024.1230.1224.27
+! Last modified: 31 Dec 2024 03:01 UTC
+! Version: 2024.1231.0301.42
 ! Syntax: AdBlock
-! Number of entries: 11871
+! Number of entries: 11886
 !
 ||01crypto.com^
 ||1-stud.net^
@@ -48,6 +48,7 @@
 ||5-drugs.com^
 ||6-drugs.com^
 ||7-drugs.com^
+||7-order.com^
 ||74invest.com^
 ||77options.com^
 ||93mobiles.com^
@@ -198,7 +199,6 @@
 ||aido-gooders.com^
 ||aigleoutletuk.com^
 ||aiglewien.at^
-||aim-assist.de^
 ||ainosteam.com^
 ||ainvestments.biz^
 ||air-jordan4.com^
@@ -458,6 +458,7 @@
 ||angelstar-tech.de^
 ||anglinglead.com^
 ||anhaengers.online^
+||anhanger-automarkt.com^
 ||anhanger-behalter.de^
 ||anhanger-kaufen.de^
 ||anhanger360.com^
@@ -487,6 +488,7 @@
 ||antike-muenzen.com^
 ||antminertech.com^
 ||antobi-shop.de^
+||anxiair.xyz^
 ||any-trades.com^
 ||anyfield-shop.de^
 ||anzugeshop.com^
@@ -537,6 +539,7 @@
 ||appareloptimal.com^
 ||appblizz.com^
 ||web.appfortuneo.com^
+||appleeden.de^
 ||applemarket.de^
 ||applenext.de^
 ||appliance-bertazzoni.com^
@@ -571,6 +574,7 @@
 ||arbeitstalent.com^
 ||arbreth.com^
 ||arcaktuell.de^
+||arcanogroupe.com^
 ||architectes-fr.com^
 ||arcistock.com^
 ||arcteryxoutletdeutschland.de^
@@ -889,6 +893,7 @@
 ||banqueinvest.com^
 ||bape.at^
 ||bapebelgium.com^
+||bapeberlin.de^
 ||bapecanadasale.com^
 ||bapedanmark.net^
 ||bapedeutschland.de^
@@ -918,6 +923,7 @@
 ||barfusschweiz.ch^
 ||bargainfadmerge.com^
 ||bargainknife.com^
+||bariumelectronics.com^
 ||barlene.de^
 ||barracudca.com^
 ||barsin24.de^
@@ -1023,6 +1029,7 @@
 ||belluca.de^
 ||bemax.shop^
 ||bemodern.de^
+||bemyo.xyz^
 ||bende-tech.de^
 ||bendoffice.com^
 ||benettonaustria.at^
@@ -1882,6 +1889,7 @@
 ||champion-suomi.com^
 ||championargentina.net^
 ||championbelgique.com^
+||championberlin.de^
 ||championclchile.com^
 ||championcolombia.net^
 ||championdanmark.com^
@@ -1980,6 +1988,7 @@
 ||cinderella-braut.de^
 ||play.cine-flix.co^
 ||cinqaseptde.shop^
+||citadel-france.com^
 ||citizensm.com^
 ||citmarkets.com^
 ||citrades.com^
@@ -2199,6 +2208,7 @@
 ||concor24.de^
 ||conie-telekommunikation.com^
 ||connecting-trade.com^
+||conradthimm.de^
 ||consalez-tech.de^
 ||consap.cz^
 ||conseil-epargne-eligibilite.com^
@@ -2214,6 +2224,7 @@
 ||containerhaus-anhanger.de^
 ||contiflexv.com^
 ||converse-finland.com^
+||conversealesuomi.com^
 ||converseberlin.de^
 ||converseinespana.com^
 ||converseinsuomi.com^
@@ -2243,6 +2254,7 @@
 ||cosplayshow.com^
 ||cotex-kredit.com^
 ||cotovip.com^
+||cotsrabatt.de^
 ||cotswoldluxde.shop^
 ||cottline.com^
 ||cottonshoesshop.com^
@@ -2764,6 +2776,7 @@
 ||donkeyproducts.shop^
 ||donnaschuhe.de^
 ||donovan.store^
+||doode.pro^
 ||doorhardwareus.com^
 ||doorsorwindows.com^
 ||doosd.pro^
@@ -2953,6 +2966,7 @@
 ||economix.io^
 ||economizesses.xyz^
 ||ecoooc.com^
+||ecos.am^
 ||ecosilkroad.com^
 ||ecosmeticworlde.shop^
 ||ecosolutions-hub.com^
@@ -3166,6 +3180,7 @@
 ||emx1.vip^
 ||encephalo.top^
 ||endlesswintershop.shop^
+||endrix-pat.fr^
 ||energfahrrad.de^
 ||energieheld24.com^
 ||energieholzpellets.de^
@@ -3486,6 +3501,7 @@
 ||fahrradzubehorverkauf.com^
 ||fahrschulagenten.de^
 ||fahrzeugprada.de^
+||failux.com^
 ||fair-praesente.de^
 ||fair4trade.shop^
 ||faire-bikes.de^
@@ -3748,6 +3764,7 @@
 ||fleshjacket.com^
 ||fleuretc.shop^
 ||flexeal-tech.de^
+||flexibleappliance.com^
 ||flexibleluxury.com^
 ||flexioptions.com^
 ||flexonlinejob.com^
@@ -7027,6 +7044,7 @@
 ||mosaik-invest.com^
 ||mosalesvs.best^
 ||mosano.de^
+||moscotberlin.de^
 ||moser-handels-gmbh.de^
 ||mosersale.shop^
 ||mosherrypills.com^
@@ -7135,7 +7153,6 @@
 ||myfaktory.com^
 ||mpreis-2023.myfreesites.net^
 ||mygames-at.de^
-||mygamesmarkt.de^
 ||mygamesstore.com^
 ||myhanna.de^
 ||myharry.shop^
@@ -7394,7 +7411,6 @@
 ||nitrosnowoutlet.shop^
 ||niustore.shop^
 ||nixonosterreich.at^
-||nixse.com^
 ||no-bulluk.com^
 ||nobalte.de^
 ||nobull-osterreich.at^
@@ -9107,7 +9123,6 @@
 ||scherer-versand.shop^
 ||scheubner.net^
 ||schilderqueen.shop^
-||schlagerwolf.de^
 ||schlagschrauberfive.com^
 ||schloss-pichler.at^
 ||schlosserservice.at^

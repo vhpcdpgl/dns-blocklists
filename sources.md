@@ -53,6 +53,7 @@ https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt

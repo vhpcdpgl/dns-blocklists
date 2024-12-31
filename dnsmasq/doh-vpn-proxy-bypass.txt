@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Dec 2024 18:45 UTC
-# Version: 2024.1230.1845.05
+# Last modified: 31 Dec 2024 08:20 UTC
+# Version: 2024.1231.0820.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3734
+# Number of entries: 3737
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -3290,7 +3290,9 @@ local=/unblockedonline.net/
 local=/unblockedproxy.info/
 local=/unblockedproxy.us/
 local=/unblockedrussian.com/
+local=/unblockedscene.com/
 local=/unblockedsite.biz/
+local=/unblockedsite.club/
 local=/unblockedsite.fun/
 local=/unblockedsite.info/
 local=/unblockedsite.net/
@@ -3325,6 +3327,7 @@ local=/unblockmate.com/
 local=/unblockme.us/
 local=/unblockmyweb.com/
 local=/unblockmywebsite.com/
+local=/unblockninja.com/
 local=/unblockprox.com/
 local=/unblockproxy.me/
 local=/unblockproxy.us/

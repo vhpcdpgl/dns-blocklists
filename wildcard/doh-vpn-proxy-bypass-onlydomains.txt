@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Dec 2024 18:45 UTC
-# Version: 2024.1230.1845.05
+# Last modified: 31 Dec 2024 08:20 UTC
+# Version: 2024.1231.0820.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 3734
+# Number of entries: 3737
 #
 003153.xyz
 ns.00dani.me
@@ -3290,7 +3290,9 @@ unblockedonline.net
 unblockedproxy.info
 unblockedproxy.us
 unblockedrussian.com
+unblockedscene.com
 unblockedsite.biz
+unblockedsite.club
 unblockedsite.fun
 unblockedsite.info
 unblockedsite.net
@@ -3325,6 +3327,7 @@ unblockmate.com
 unblockme.us
 unblockmyweb.com
 unblockmywebsite.com
+unblockninja.com
 unblockprox.com
 unblockproxy.me
 unblockproxy.us

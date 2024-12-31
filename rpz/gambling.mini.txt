@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735582980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735631880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Dec 2024 18:23 UTC
-; Version: 2024.1230.1823.00
+; Last modified: 31 Dec 2024 07:58 UTC
+; Version: 2024.1231.0758.57
 ; Syntax: RPZ
-; Number of entries: 162374
+; Number of entries: 162402
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -13561,12 +13561,20 @@ bestcasinobonus.click CNAME .
 *.bestcasinobonus.click CNAME .
 bet2slot168.click CNAME .
 *.bet2slot168.click CNAME .
+betandyoucasino.click CNAME .
+*.betandyoucasino.click CNAME .
+betanocasinopt.click CNAME .
+*.betanocasinopt.click CNAME .
+betfair-casino.click CNAME .
+*.betfair-casino.click CNAME .
 betsa.click CNAME .
 *.betsa.click CNAME .
 betsat.click CNAME .
 *.betsat.click CNAME .
 betseydipppy.click CNAME .
 *.betseydipppy.click CNAME .
+bettiltcasino-pt.click CNAME .
+*.bettiltcasino-pt.click CNAME .
 betvisacasino.click CNAME .
 *.betvisacasino.click CNAME .
 betwarriorcasino.click CNAME .
@@ -13653,6 +13661,8 @@ casino-win-cl.click CNAME .
 *.casino-win-cl.click CNAME .
 casino1win-officialsite-qvzg.click CNAME .
 *.casino1win-officialsite-qvzg.click CNAME .
+casino22bet-pt.click CNAME .
+*.casino22bet-pt.click CNAME .
 casinoadadua88.click CNAME .
 *.casinoadadua88.click CNAME .
 casinoarkada.click CNAME .
@@ -13661,10 +13671,16 @@ casinoauf-mirror1.click CNAME .
 *.casinoauf-mirror1.click CNAME .
 casinoauf-zercalo.click CNAME .
 *.casinoauf-zercalo.click CNAME .
+casinobetano-pt.click CNAME .
+*.casinobetano-pt.click CNAME .
+casinobetanoportugal.click CNAME .
+*.casinobetanoportugal.click CNAME .
 casinoboomerang.click CNAME .
 *.casinoboomerang.click CNAME .
 casinocastle.click CNAME .
 *.casinocastle.click CNAME .
+casinocasumo.click CNAME .
+*.casinocasumo.click CNAME .
 casinoclubonline.click CNAME .
 *.casinoclubonline.click CNAME .
 casinocryptoboss-mirror1.click CNAME .
@@ -13677,6 +13693,8 @@ casinofontan555.click CNAME .
 *.casinofontan555.click CNAME .
 casinoirwin.click CNAME .
 *.casinoirwin.click CNAME .
+casinomaxi-turkey.click CNAME .
+*.casinomaxi-turkey.click CNAME .
 casinoofgold-hu.click CNAME .
 *.casinoofgold-hu.click CNAME .
 casinoonion.click CNAME .
@@ -13727,6 +13745,8 @@ casinounlim-mirror1.click CNAME .
 *.casinounlim-mirror1.click CNAME .
 casinounlim-zercalo.click CNAME .
 *.casinounlim-zercalo.click CNAME .
+casinovale-tr.click CNAME .
+*.casinovale-tr.click CNAME .
 casinowelcomebonus.click CNAME .
 *.casinowelcomebonus.click CNAME .
 casinowinner.click CNAME .
@@ -39613,6 +39633,8 @@ casinolygreek.com CNAME .
 *.casinolygreek.com CNAME .
 casinolyric.com CNAME .
 *.casinolyric.com CNAME .
+casinom-girisiler.com CNAME .
+*.casinom-girisiler.com CNAME .
 casinom-girisleri.com CNAME .
 *.casinom-girisleri.com CNAME .
 casinom-hub.com CNAME .
@@ -43059,6 +43081,8 @@ cryptobosscasino5.com CNAME .
 *.cryptobosscasino5.com CNAME .
 cryptobosscasino9.com CNAME .
 *.cryptobosscasino9.com CNAME .
+cryptocasino-online.com CNAME .
+*.cryptocasino-online.com CNAME .
 cryptocasinobezvejdzhera.com CNAME .
 *.cryptocasinobezvejdzhera.com CNAME .
 cryptocasinobnb.com CNAME .
@@ -98003,6 +98027,8 @@ festivalplaycasino.net CNAME .
 *.festivalplaycasino.net CNAME .
 fgfox.net CNAME .
 *.fgfox.net CNAME .
+fi880.net CNAME .
+*.fi880.net CNAME .
 ficha-de-poker.net CNAME .
 *.ficha-de-poker.net CNAME .
 ficha-poker.net CNAME .
@@ -122781,6 +122807,8 @@ casino-reward.site CNAME .
 *.casino-reward.site CNAME .
 casino-svenska.site CNAME .
 *.casino-svenska.site CNAME .
+casino-v.site CNAME .
+*.casino-v.site CNAME .
 casino-vulkan-officialniy12.site CNAME .
 *.casino-vulkan-officialniy12.site CNAME .
 casino-vulkan-officialniy13.site CNAME .

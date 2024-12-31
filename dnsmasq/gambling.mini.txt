@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Dec 2024 18:23 UTC
-# Version: 2024.1230.1823.00
+# Last modified: 31 Dec 2024 07:58 UTC
+# Version: 2024.1231.0758.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 81187
+# Number of entries: 81201
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -23327,6 +23327,7 @@ local=/betandyou-34074.top/
 local=/betandyou1.com/
 local=/betandyou2.com/
 local=/betandyouaffiliates.com/
+local=/betandyoucasino.click/
 local=/betangel.com/
 local=/betano.bg/
 local=/betano.ca/
@@ -23344,6 +23345,7 @@ local=/betano-casino.online/
 local=/betano-casino.top/
 local=/betanocasino.top/
 local=/betanocasinoonline.ro/
+local=/betanocasinopt.click/
 local=/betanysports.eu/
 local=/betao.com/
 local=/betapuesta.com/
@@ -23498,6 +23500,7 @@ local=/betfair.dk/
 local=/betfair.es/
 local=/betfair.it/
 local=/betfair.se/
+local=/betfair-casino.click/
 local=/betfair1.com/
 local=/betfair2.com/
 local=/betfair3.com/
@@ -25286,6 +25289,7 @@ local=/bettheglobe.eu/
 local=/betti.com/
 local=/bettilt.com/
 local=/bettilt99.com/
+local=/bettiltcasino-pt.click/
 local=/bettiltoficial.com/
 local=/bettime.it/
 local=/bettinator.icu/
@@ -29014,6 +29018,7 @@ local=/casino-upx.buzz/
 local=/casino-us-casino.com/
 local=/casino-utan-svensk-licens.com/
 local=/casino-utan-svensk-licens.net/
+local=/casino-v.site/
 local=/casino-valden.online/
 local=/casino-vale.casino/
 local=/casino-vavada.org/
@@ -29255,6 +29260,7 @@ local=/casino222-online.com/
 local=/casino222-play.com/
 local=/casino2277.com/
 local=/casino22bet.top/
+local=/casino22bet-pt.click/
 local=/casino23vodka.ru/
 local=/casino23vodka.site/
 local=/casino23vodka.space/
@@ -29688,6 +29694,8 @@ local=/casinobet30.top/
 local=/casinobet30-ar.top/
 local=/casinobet365.top/
 local=/casinobet777.net/
+local=/casinobetano-pt.click/
+local=/casinobetanoportugal.click/
 local=/casinobetcave.com/
 local=/casinobetdirectory.com/
 local=/casinobetexperts.net/
@@ -29920,6 +29928,7 @@ local=/casinocastle.click/
 local=/casinocastle.com/
 local=/casinocastle.top/
 local=/casinocastlees.top/
+local=/casinocasumo.click/
 local=/casinocatalog.link/
 local=/casinocatania.com/
 local=/casinocatania1.com/
@@ -30955,6 +30964,7 @@ local=/casinolycasino.gr/
 local=/casinolygreek.com/
 local=/casinolyric.com/
 local=/casinolyvip.online/
+local=/casinom-girisiler.com/
 local=/casinom-girisleri.com/
 local=/casinom-hub.com/
 local=/casinom1013com.pro/
@@ -31002,6 +31012,7 @@ local=/casinomax.ru/
 local=/casinomax.site/
 local=/casinomaxclub.shop/
 local=/casinomaxi-giris.site/
+local=/casinomaxi-turkey.click/
 local=/casinomaxi110.com/
 local=/casinomaxi126.com/
 local=/casinomaxi171.com/
@@ -32686,6 +32697,7 @@ local=/casinova-au.com/
 local=/casinova3.com/
 local=/casinoval.com/
 local=/casinovale.world/
+local=/casinovale-tr.click/
 local=/casinovale1689.com/
 local=/casinovale1690.com/
 local=/casinovalley.org/
@@ -35672,6 +35684,7 @@ local=/cryptocasino.contact/
 local=/cryptocasino.deal/
 local=/cryptocasino.direct/
 local=/cryptocasino-airdrop.live/
+local=/cryptocasino-online.com/
 local=/cryptocasinobet.fr/
 local=/cryptocasinobezvejdzhera.com/
 local=/cryptocasinobnb.com/
@@ -39268,6 +39281,7 @@ local=/fi-ignicasino.com/
 local=/fi-ignition.casino/
 local=/fi002.com/
 local=/fi88.info/
+local=/fi880.net/
 local=/fi881.com/
 local=/fi8811.com/
 local=/fi8818.com/

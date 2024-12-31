@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735561440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735614060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Dec 2024 12:24 UTC
-; Version: 2024.1230.1224.27
+; Last modified: 31 Dec 2024 03:01 UTC
+; Version: 2024.1231.0301.42
 ; Syntax: RPZ
-; Number of entries: 23742
+; Number of entries: 23772
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -45,6 +45,8 @@ trade-gpt.ai CNAME .
 *.trade-gpt.ai CNAME .
 wisewealth.ai CNAME .
 *.wisewealth.ai CNAME .
+ecos.am CNAME .
+*.ecos.am CNAME .
 bitcoineer.app CNAME .
 *.bitcoineer.app CNAME .
 bitcoinera.app CNAME .
@@ -1241,6 +1243,8 @@ eoutlet.2023shoponline.com CNAME .
 *.6-drugs.com CNAME .
 7-drugs.com CNAME .
 *.7-drugs.com CNAME .
+7-order.com CNAME .
+*.7-order.com CNAME .
 74invest.com CNAME .
 *.74invest.com CNAME .
 77options.com CNAME .
@@ -1675,6 +1679,8 @@ angels-investors.com CNAME .
 *.angels-investors.com CNAME .
 anglinglead.com CNAME .
 *.anglinglead.com CNAME .
+anhanger-automarkt.com CNAME .
+*.anhanger-automarkt.com CNAME .
 anhanger360.com CNAME .
 *.anhanger360.com CNAME .
 anhangerdienst.com CNAME .
@@ -1815,6 +1821,8 @@ arbeitstalent.com CNAME .
 *.arbeitstalent.com CNAME .
 arbreth.com CNAME .
 *.arbreth.com CNAME .
+arcanogroupe.com CNAME .
+*.arcanogroupe.com CNAME .
 architectes-fr.com CNAME .
 *.architectes-fr.com CNAME .
 arcistock.com CNAME .
@@ -2157,6 +2165,8 @@ bargainfadmerge.com CNAME .
 *.bargainfadmerge.com CNAME .
 bargainknife.com CNAME .
 *.bargainknife.com CNAME .
+bariumelectronics.com CNAME .
+*.bariumelectronics.com CNAME .
 barracudca.com CNAME .
 *.barracudca.com CNAME .
 barth24.com CNAME .
@@ -3411,6 +3421,8 @@ cigarettescigs.com CNAME .
 *.cigarettescigs.com CNAME .
 cigis-versand.com CNAME .
 *.cigis-versand.com CNAME .
+citadel-france.com CNAME .
+*.citadel-france.com CNAME .
 citizensm.com CNAME .
 *.citizensm.com CNAME .
 citmarkets.com CNAME .
@@ -3633,6 +3645,8 @@ contiflexv.com CNAME .
 *.contiflexv.com CNAME .
 converse-finland.com CNAME .
 *.converse-finland.com CNAME .
+conversealesuomi.com CNAME .
+*.conversealesuomi.com CNAME .
 converseinespana.com CNAME .
 *.converseinespana.com CNAME .
 converseinsuomi.com CNAME .
@@ -5015,6 +5029,8 @@ fahrradzubehorschritte.com CNAME .
 *.fahrradzubehorschritte.com CNAME .
 fahrradzubehorverkauf.com CNAME .
 *.fahrradzubehorverkauf.com CNAME .
+failux.com CNAME .
+*.failux.com CNAME .
 faithfullus.com CNAME .
 *.faithfullus.com CNAME .
 faltengarten.com CNAME .
@@ -5317,6 +5333,8 @@ flawlessshoes.com CNAME .
 *.flawlessshoes.com CNAME .
 fleshjacket.com CNAME .
 *.fleshjacket.com CNAME .
+flexibleappliance.com CNAME .
+*.flexibleappliance.com CNAME .
 flexibleluxury.com CNAME .
 *.flexibleluxury.com CNAME .
 flexioptions.com CNAME .
@@ -9205,8 +9223,6 @@ ninjachemise.com CNAME .
 *.ninjachemise.com CNAME .
 nitrocapitals.com CNAME .
 *.nitrocapitals.com CNAME .
-nixse.com CNAME .
-*.nixse.com CNAME .
 no-bulluk.com CNAME .
 *.no-bulluk.com CNAME .
 nobullosterreich.com CNAME .
@@ -14555,8 +14571,6 @@ agc-agentur.de CNAME .
 *.agc-agentur.de CNAME .
 agra-tech.de CNAME .
 *.agra-tech.de CNAME .
-aim-assist.de CNAME .
-*.aim-assist.de CNAME .
 airmaxsale.de CNAME .
 *.airmaxsale.de CNAME .
 airoil.de CNAME .
@@ -14717,6 +14731,8 @@ apothekeeuropa.de CNAME .
 *.apothekeeuropa.de CNAME .
 app-analyse.de CNAME .
 *.app-analyse.de CNAME .
+appleeden.de CNAME .
+*.appleeden.de CNAME .
 applemarket.de CNAME .
 *.applemarket.de CNAME .
 applenext.de CNAME .
@@ -14885,6 +14901,8 @@ bam-technik.de CNAME .
 *.bam-technik.de CNAME .
 bamabau-handel.de CNAME .
 *.bamabau-handel.de CNAME .
+bapeberlin.de CNAME .
+*.bapeberlin.de CNAME .
 bapedeutschland.de CNAME .
 *.bapedeutschland.de CNAME .
 barfussbalance.de CNAME .
@@ -15307,6 +15325,8 @@ centra-trade.de CNAME .
 *.centra-trade.de CNAME .
 cervus-bike.de CNAME .
 *.cervus-bike.de CNAME .
+championberlin.de CNAME .
+*.championberlin.de CNAME .
 chatgpt-dividende.de CNAME .
 *.chatgpt-dividende.de CNAME .
 chatgpt-investment.de CNAME .
@@ -15405,6 +15425,8 @@ computerprada.de CNAME .
 *.computerprada.de CNAME .
 concor24.de CNAME .
 *.concor24.de CNAME .
+conradthimm.de CNAME .
+*.conradthimm.de CNAME .
 consalez-tech.de CNAME .
 *.consalez-tech.de CNAME .
 consolestar.de CNAME .
@@ -15427,6 +15449,8 @@ copenhagenschuhesale.de CNAME .
 *.copenhagenschuhesale.de CNAME .
 cosmopoint.de CNAME .
 *.cosmopoint.de CNAME .
+cotsrabatt.de CNAME .
+*.cotsrabatt.de CNAME .
 cresconia-tech.de CNAME .
 *.cresconia-tech.de CNAME .
 crispischuhe.de CNAME .
@@ -17771,6 +17795,8 @@ mormanns.de CNAME .
 *.mormanns.de CNAME .
 mosano.de CNAME .
 *.mosano.de CNAME .
+moscotberlin.de CNAME .
+*.moscotberlin.de CNAME .
 moser-handels-gmbh.de CNAME .
 *.moser-handels-gmbh.de CNAME .
 mospe.de CNAME .
@@ -17823,8 +17849,6 @@ muzam.de CNAME .
 *.muzam.de CNAME .
 mygames-at.de CNAME .
 *.mygames-at.de CNAME .
-mygamesmarkt.de CNAME .
-*.mygamesmarkt.de CNAME .
 myhanna.de CNAME .
 *.myhanna.de CNAME .
 myonepieceshop.de CNAME .
@@ -18595,8 +18619,6 @@ scharfemesser.de CNAME .
 *.scharfemesser.de CNAME .
 sche.de CNAME .
 *.sche.de CNAME .
-schlagerwolf.de CNAME .
-*.schlagerwolf.de CNAME .
 schluchsee-ferienwohnung.de CNAME .
 *.schluchsee-ferienwohnung.de CNAME .
 schlumpfs-welt.de CNAME .
@@ -19857,6 +19879,8 @@ dehens.fr CNAME .
 *.dehens.fr CNAME .
 diamsinvest.fr CNAME .
 *.diamsinvest.fr CNAME .
+endrix-pat.fr CNAME .
+*.endrix-pat.fr CNAME .
 evli.fr CNAME .
 *.evli.fr CNAME .
 foxrm.fr CNAME .
@@ -21397,6 +21421,8 @@ corsaircontrol.pro CNAME .
 *.corsaircontrol.pro CNAME .
 depickedwell.pro CNAME .
 *.depickedwell.pro CNAME .
+doode.pro CNAME .
+*.doode.pro CNAME .
 doosd.pro CNAME .
 *.doosd.pro CNAME .
 eatradingcenter.pro CNAME .
@@ -23657,6 +23683,10 @@ ahwui.xyz CNAME .
 *.ahwui.xyz CNAME .
 allcart.xyz CNAME .
 *.allcart.xyz CNAME .
+anxiair.xyz CNAME .
+*.anxiair.xyz CNAME .
+bemyo.xyz CNAME .
+*.bemyo.xyz CNAME .
 dando.xyz CNAME .
 *.dando.xyz CNAME .
 depeople-work.xyz CNAME .

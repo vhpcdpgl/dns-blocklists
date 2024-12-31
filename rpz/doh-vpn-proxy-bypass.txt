@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735584300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735633200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Dec 2024 18:45 UTC
-; Version: 2024.1230.1845.05
+; Last modified: 31 Dec 2024 08:20 UTC
+; Version: 2024.1231.0820.27
 ; Syntax: RPZ
-; Number of entries: 7468
+; Number of entries: 7474
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -460,6 +460,8 @@ theproxy.club CNAME .
 *.theproxy.club CNAME .
 unblock2.club CNAME .
 *.unblock2.club CNAME .
+unblockedsite.club CNAME .
+*.unblockedsite.club CNAME .
 unblockit.club CNAME .
 *.unblockit.club CNAME .
 clearweb.woodbridge.club CNAME .
@@ -2708,6 +2710,8 @@ unblockedme.com CNAME .
 *.unblockedme.com CNAME .
 unblockedrussian.com CNAME .
 *.unblockedrussian.com CNAME .
+unblockedscene.com CNAME .
+*.unblockedscene.com CNAME .
 unblockedsiteroute.com CNAME .
 *.unblockedsiteroute.com CNAME .
 unblockedv4.com CNAME .
@@ -2724,6 +2728,8 @@ unblockmyweb.com CNAME .
 *.unblockmyweb.com CNAME .
 unblockmywebsite.com CNAME .
 *.unblockmywebsite.com CNAME .
+unblockninja.com CNAME .
+*.unblockninja.com CNAME .
 unblockprox.com CNAME .
 *.unblockprox.com CNAME .
 unblockvid.com CNAME .
