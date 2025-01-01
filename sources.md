@@ -346,6 +346,7 @@ https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torre
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
+https://raw.githubusercontent.com/stamparm/aux/refs/heads/master/maltrail-static-trails.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/azorult.txt
@@ -405,11 +406,13 @@ https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://tranco-list.eu/top-1m.csv.zip
 https://urlhaus.abuse.ch/downloads/hostfile
+https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
 https://v.firebog.net/hosts/Admiral.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
 https://www.auktionshilfe.info/thread/20469-ver%C3%B6ffentlichung-von-fakeshops-und-betr%C3%BCgerischen-stellenangebote-blaue-kennzeic/
+https://www.binarydefense.com/banlist.txt
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip

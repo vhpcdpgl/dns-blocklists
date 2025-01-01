@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Dec 2024 12:21 UTC
-# Version: 2024.1231.1221.10
+# Last modified: 31 Dec 2024 23:50 UTC
+# Version: 2024.1231.2350.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11914
+# Number of entries: 11910
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2097,13 +2097,11 @@ local=/onitsukasouthafrica.co.za/
 local=/pacsunsouthafrica.co.za/
 local=/plushy-lucky.co.uk/
 local=/prettylittlething.co.za/
-local=/springcourt.co.za/
 local=/stussyindiastore.co.in/
 local=/tom-ford.co.za/
 local=/uggs-southafrica.co.za/
 local=/vanss.co.at/
 local=/veja.co.at/
-local=/victoriasecretssouthafrica.co.za/
 local=/yeti-southafrica.co.za/
 local=/coach-florian.com/
 local=/coach-ksa.com/
@@ -3834,6 +3832,7 @@ local=/forcefelle.com/
 local=/de.fordeals24.com/
 local=/fordogtrainers.de/
 local=/forealex.com/
+local=/foreseew.com/
 local=/forestiereduborn.com/
 local=/foret-mareuillaise.com/
 local=/forevermarkt.de/
@@ -4052,6 +4051,7 @@ local=/galaktischshop.com/
 local=/galaxyfox.io/
 local=/galeme.com/
 local=/galerieoswald.de/
+local=/galileofx.com/
 local=/gambotmaschinen.com/
 local=/game.toys/
 local=/game-adventures.com/
@@ -4176,7 +4176,6 @@ local=/gdgrow.de/
 local=/geappliances-shop.com/
 local=/gear-outdoors.com/
 local=/gear-supply.com/
-local=/gearfactory.pro/
 local=/geargalaxy.de/
 local=/gearknifeshop.com/
 local=/gearoilsales.com/
@@ -5118,7 +5117,6 @@ local=/hosenschritte.de/
 local=/hot-shopping.com/
 local=/hotelaustralien.de/
 local=/hotelinphuket.net/
-local=/hotels-colombo.com/
 local=/hotels-colorado.net/
 local=/hotels-in-tyrol.com/
 local=/hotelsinperm.ru/
@@ -7063,7 +7061,6 @@ local=/mormanns.de/
 local=/mosaik-invest.com/
 local=/mosalesvs.best/
 local=/mosano.de/
-local=/moscotberlin.de/
 local=/moser-handels-gmbh.de/
 local=/mosersale.shop/
 local=/mosherrypills.com/
@@ -7609,6 +7606,7 @@ local=/ojoro-tech.de/
 local=/okboptions.com/
 local=/okjordans.com/
 local=/okoro-shop.com/
+local=/oktando.de/
 local=/olafmetzler.com/
 local=/olakredit.com/
 local=/olangdeutschland.de/
@@ -8610,7 +8608,6 @@ local=/rasen24h.com/
 local=/rasenmaher-herford.de/
 local=/rasenmaherwendik.de/
 local=/rasenshop24.com/
-local=/rasossidi.com/
 local=/rastrillo.de/
 local=/ratandboauae.ae/
 local=/rath-reifenhandel.shop/
@@ -11116,7 +11113,6 @@ local=/vasagleangebote.de/
 local=/vasons.de/
 local=/vast-spedition.com/
 local=/vatan.at/
-local=/vatlab.cc/
 local=/vaudeaustria.at/
 local=/vaudefabrikverkauf.de/
 local=/vaulttrade.org/
