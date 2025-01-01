@@ -13,3 +13,9 @@ www.arpae.it # CNAME
 jjpool.fr
 
 *.xiaomi.com
+*.xiaomi.net
+*.miui.com
+*.mi.com
+
+# https://github.com/hagezi/dns-blocklists/issues/4727
+*.advertising.com

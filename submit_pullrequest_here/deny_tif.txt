@@ -1,5 +1,8 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# Phishing
+post-austria.bar
+
 # https://github.com/hagezi/dns-blocklists/issues/4723
 ds-milwaukee.com
 
