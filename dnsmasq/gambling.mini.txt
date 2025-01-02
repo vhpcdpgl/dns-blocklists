@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jan 2025 18:40 UTC
-# Version: 2025.0101.1840.09
+# Last modified: 02 Jan 2025 05:55 UTC
+# Version: 2025.0102.0555.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 80443
+# Number of entries: 80440
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -24789,7 +24789,6 @@ local=/betsin115.com/
 local=/betsin116.com/
 local=/betsin117.com/
 local=/betsin118.com/
-local=/betsinfrnoser.online/
 local=/betsingirisi.co/
 local=/betsinsights.com/
 local=/betsio.cfd/
@@ -24936,7 +24935,6 @@ local=/betsomnia.live/
 local=/betson-argentina.com/
 local=/betsonamerica.com/
 local=/betsonaro.com/
-local=/betsonfrire.online/
 local=/betsongeorge.xyz/
 local=/betsonic.fun/
 local=/betsonred.pl/
@@ -33650,7 +33648,6 @@ local=/choigo88.run/
 local=/ads7.choigod55.com/
 local=/choiiwin79.fun/
 local=/choilathang.com/
-local=/choimu9.xyz/
 local=/choircrawlwithbetsycookweber.com/
 local=/choisport.com/
 local=/choiwin79.in/
