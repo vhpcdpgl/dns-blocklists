@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2025 06:22 UTC
-# Version: 2025.0102.0622.04
+# Last modified: 02 Jan 2025 17:58 UTC
+# Version: 2025.0102.1758.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1488
+# Number of entries: 1487
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -200,7 +200,6 @@ local=/cloudns.bosco.ovh/
 local=/dns.braene.com/
 local=/dns.brahma.world/
 local=/bravedns.com/
-local=/dns.bravoc.one/
 local=/dns.brembeck.cloud/
 local=/doh.bt.com/
 local=/goose.buckyfan.net/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735798980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735840740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jan 2025 06:23 UTC
-; Version: 2025.0102.0623.29
+; Last modified: 02 Jan 2025 17:59 UTC
+; Version: 2025.0102.1759.58
 ; Syntax: RPZ
-; Number of entries: 7476
+; Number of entries: 7480
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -402,6 +402,8 @@ baconmania.click CNAME .
 *.baconmania.click CNAME .
 farewellkou.click CNAME .
 *.farewellkou.click CNAME .
+homeworkhelp.click CNAME .
+*.homeworkhelp.click CNAME .
 purchase-some.hotglue.click CNAME .
 *.purchase-some.hotglue.click CNAME .
 dns.listo.click CNAME .
@@ -5712,8 +5714,6 @@ proxy.nu CNAME .
 *.proxy.nu CNAME .
 unblocked.nu CNAME .
 *.unblocked.nu CNAME .
-dns.bravoc.one CNAME .
-*.dns.bravoc.one CNAME .
 comss.one CNAME .
 *.comss.one CNAME .
 hkname.freecdn.one CNAME .
@@ -5984,6 +5984,8 @@ doh.kooman.org CNAME .
 *.doh.kooman.org CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
+lochridge.org CNAME .
+*.lochridge.org CNAME .
 doh.dns1.lonet.org CNAME .
 *.doh.dns1.lonet.org CNAME .
 doh.phdns1.lonet.org CNAME .
@@ -6716,6 +6718,8 @@ www-croxy.ghgi.site CNAME .
 *.www-croxy.ghgi.site CNAME .
 hiddendragon.site CNAME .
 *.hiddendragon.site CNAME .
+joker81fansbase.site CNAME .
+*.joker81fansbase.site CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 lookingglass.site CNAME .

@@ -41,11 +41,11 @@ webhook.logentries.com
 # These errors are not reproducible and occur very rarely.
 # This Tiktoktupus app is the absolute privacy plague!
 # The domains will remain blocked in the native and aggressive lists for the time being.
-log*-applog*.tiktok*.com
-log*-checkout*.tiktok*.com
-log*-normal*.tiktok*.com
-log*-platform*.tiktok*.com
-log*-tmp*.tiktok*.com
+log*-applog*.tiktok*.*
+log*-checkout*.tiktok*.*
+log*-normal*.tiktok*.*
+log*-platform*.tiktok*.*
+log*-tmp*.tiktok*.*
 
 # https://github.com/hagezi/dns-blocklists/issues/1768
 # https://github.com/hagezi/dns-blocklists/issues/4587

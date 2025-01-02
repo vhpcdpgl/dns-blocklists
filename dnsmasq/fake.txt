@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2025 00:03 UTC
-# Version: 2025.0102.0003.43
+# Last modified: 02 Jan 2025 12:00 UTC
+# Version: 2025.0102.1200.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10900
+# Number of entries: 10897
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1609,7 +1609,6 @@ local=/carharttsrbija.com/
 local=/carharttsuisse.com/
 local=/carharttsuomi.com/
 local=/carharttuae.net/
-local=/carinthia-online.shop/
 local=/cariumadeutschland.de/
 local=/carlislemop.com/
 local=/carlogodesign.com/
@@ -2046,7 +2045,6 @@ local=/corona-testkit.shop/
 local=/corralshoe.com/
 local=/corralwestboot.com/
 local=/corsaircontrol.pro/
-local=/cosco-container.com/
 local=/cosmeticsyy.com/
 local=/cosmopoint.de/
 local=/cosnaepa.shop/
@@ -10300,7 +10298,6 @@ local=/vibramshoes-usa.com/
 local=/viceregale.com/
 local=/vicotoris.com/
 local=/victoriassecrets.at/
-local=/videforex.com/
 local=/videoastrum.net/
 local=/videohobbies.com/
 local=/videospiel-markt.de/

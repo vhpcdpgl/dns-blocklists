@@ -110,8 +110,10 @@ timeseriesinsights.googleapis.com
 wirelessdevicestats.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2187152126
 tracedepot-pa.googleapis.com
-https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2319169147
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2319169147
 optimizationguide-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2567697723
+voilatile-pa.googleapis.com
 
 # Already blocked via the base domains in the build DB
 playmoviesdfe-pa.googleapis.com

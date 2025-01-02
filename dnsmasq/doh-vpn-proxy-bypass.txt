@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2025 06:23 UTC
-# Version: 2025.0102.0623.29
+# Last modified: 02 Jan 2025 17:59 UTC
+# Version: 2025.0102.1759.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3738
+# Number of entries: 3740
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -431,7 +431,6 @@ local=/dns.brahma.world/
 local=/bramka-proxy.pl/
 local=/bravedns.com/
 local=/tor.bravesoftware.com/
-local=/dns.bravoc.one/
 local=/brazilproxy.com/
 local=/brazilproxy.info/
 local=/breakwall.net/
@@ -1480,6 +1479,7 @@ local=/homeproxy.com/
 local=/homeproxy.net/
 local=/homevpn.eu/
 local=/homevpn.info/
+local=/homeworkhelp.click/
 local=/honeygain.me/
 local=/dns.hoody.com/
 local=/schoolmath.hop.sh/
@@ -1640,6 +1640,7 @@ local=/vps2.jnraptor.net/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
 local=/adguard.johanliebert.top/
+local=/joker81fansbase.site/
 local=/opencdn.jomodns.com/
 local=/jongserver.xyz/
 local=/adguard1.jsanagustin.net/
@@ -1775,6 +1776,7 @@ local=/litevpn.top/
 local=/loadlow.me/
 local=/dns.lobbygod.com/
 local=/locaproxy.com/
+local=/lochridge.org/
 local=/adguard.londonwebnerd.cloud/
 local=/doh.dns1.lonet.org/
 local=/doh.phdns1.lonet.org/

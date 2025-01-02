@@ -652,20 +652,6 @@
       }
     },
     {
-      "PK": "cn-register.xmpush.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cn.register.xmpush.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "comc4l7.pandora.xiaomi.com",
       "action": {
         "do": 0,
@@ -2445,13 +2431,6 @@
     },
     {
       "PK": "tvepg.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tvstat.pandora.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jan 2025 06:22 UTC
-# Version: 2025.0102.0622.04
+# Last modified: 02 Jan 2025 17:58 UTC
+# Version: 2025.0102.1758.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1666
+# Number of entries: 1665
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -255,7 +255,6 @@
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
 0.0.0.0 free.bravedns.com
-0.0.0.0 dns.bravoc.one
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
