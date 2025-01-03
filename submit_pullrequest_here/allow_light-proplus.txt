@@ -1,5 +1,14 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# Blocks the sending of reports to Apple developers
+iphonesubmissions-old.apple.com
+iphonesubmissions.apple.com
+iphonesubmissions.apple.com.akadns.net
+iphonesubmissions.v.aaplimg.com
+phonesubmissions.apple.com
+radarsubmissions.apple.com
+radarsubmissions.apple.com.akadns.net
+
 # https://github.com/hagezi/dns-blocklists/issues/4265
 *.lpsnmedia.net
 *.liveperson.net

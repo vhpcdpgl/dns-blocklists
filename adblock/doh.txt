@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Jan 2025 17:58 UTC
-! Version: 2025.0102.1758.35
+! Last modified: 03 Jan 2025 04:45 UTC
+! Version: 2025.0103.0445.40
 ! Syntax: AdBlock
-! Number of entries: 1487
+! Number of entries: 1485
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -521,7 +521,6 @@
 ||dukun.de^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
-||gustamadh.dynv6.net^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
 ||easyhandshake.com^
@@ -629,7 +628,6 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
-||dns.glorydns.com^
 ||dns.gnb09.id^
 ||privacydns.go6lab.si^
 ||dns.goldplate.org^
