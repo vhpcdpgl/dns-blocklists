@@ -15,98 +15,7 @@
       }
     },
     {
-      "PK": "ad.abm.us.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.creatormarketplace-va.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.creatormarketplace-vattp.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.eu.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-format-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-format-sg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-format.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-format-ttp2.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-format-ttp2.us.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-format.us.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ad-instantpage-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-instantpage-ie.tiktokv.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-instantpage-ru.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
@@ -134,84 +43,7 @@
       }
     },
     {
-      "PK": "ad-instantpage-ttp2.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-instantpage-ttp2.us.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-instantpage.us.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ad-instantpage-va.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.in.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.libraweb.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.mail.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.music.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.open-api.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.partner-us.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.ptr6684.service.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.safety-enforcement.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -225,20 +57,6 @@
       }
     },
     {
-      "PK": "ad.scm-us.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads-crm.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads-frontier.tiktok.com",
       "action": {
         "do": 0,
@@ -246,49 +64,7 @@
       }
     },
     {
-      "PK": "ad-sg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.shop.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads-ie.tiktokw.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads-imapi.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads.in.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads-measurement.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads-service.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -323,13 +99,6 @@
       }
     },
     {
-      "PK": "ads.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads-ttp2.tiktokw.eu",
       "action": {
         "do": 0,
@@ -358,20 +127,6 @@
       }
     },
     {
-      "PK": "ads-va.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads-ws.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ad.tiktok.tv",
       "action": {
         "do": 0,
@@ -387,55 +142,6 @@
     },
     {
       "PK": "ad.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-ttp2.tiktokv.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-ttp2.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.us.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.us.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad-va.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.webcast-t.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ad.wfa.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -652,21 +358,7 @@
       }
     },
     {
-      "PK": "location-i18n.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "location-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "location-sg.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -694,28 +386,7 @@
       }
     },
     {
-      "PK": "location.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "location.tiktokw.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "location-ttp2.us.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "location.us.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -757,13 +428,6 @@
       }
     },
     {
-      "PK": "location-v6.tiktokv.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "location-v6.tiktokv.us",
       "action": {
         "do": 0,
@@ -786,13 +450,6 @@
     },
     {
       "PK": "location-v6-va.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "location-va.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1646,13 +1303,6 @@
       }
     },
     {
-      "PK": "rtc-logger-ttp2.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "rtc-logger-ttp2.us.tiktokv.com",
       "action": {
         "do": 0,
@@ -1724,13 +1374,6 @@
     },
     {
       "PK": "rtlog16-normal-alisg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rtlog16-normal-ie.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -2186,20 +1829,6 @@
     },
     {
       "PK": "xlog16-normal-c-useast2a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xlog16-normal-no1a.tiktokv.eu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xlog16-normal-useast5.tiktokv.us",
       "action": {
         "do": 0,
         "status": 1

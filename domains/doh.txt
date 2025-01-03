@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 04:45 UTC
-# Version: 2025.0103.0445.40
+# Last modified: 03 Jan 2025 12:56 UTC
+# Version: 2025.0103.1256.42
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1663
+# Number of entries: 1650
 #
 003153.xyz
 ns.00dani.me
@@ -146,24 +146,11 @@ doh.dns.apple.com
 mask-api.fe2.apple-dns.net
 mask.apple-dns.net
 apple-relay.mask.apple-dns.net
-ausyd2.mask.apple-dns.net
 canary.mask.apple-dns.net
-deber3.mask.apple-dns.net
-gbslo5.mask.apple-dns.net
-jptyo12.mask.apple-dns.net
-nlhfd1.mask.apple-dns.net
-sesto4.mask.apple-dns.net
-twntc1.mask.apple-dns.net
-usatl5.mask.apple-dns.net
-uschi7.mask.apple-dns.net
-usmsc2.mask.apple-dns.net
-usqas5.mask.apple-dns.net
-usuyk1.mask.apple-dns.net
 africa-mask.wrr.mask.apple-dns.net
 apac-mask.wrr.mask.apple-dns.net
 emea-mask.wrr.mask.apple-dns.net
 north-america-mask.wrr.mask.apple-dns.net
-oceania-mask.wrr.mask.apple-dns.net
 south-america-mask.wrr.mask.apple-dns.net
 dns.applewebkit.dev
 doh.applied-privacy.net
@@ -755,6 +742,7 @@ dns.api.sandbox.globuscs.info
 dns.api.staging.globuscs.info
 dns.api.test.globuscs.info
 agh.gloom.nexus
+dns.glorydns.com
 dns.gnb09.id
 privacydns.go6lab.si
 dns.goldplate.org
@@ -817,7 +805,6 @@ dns.iamanuragh.in
 dns.iamninja.ru
 mask.icloud.com
 mask-api.icloud.com
-mask-boot.icloud.com
 mask-canary.icloud.com
 mask-h2.icloud.com
 tienpham.id.vn

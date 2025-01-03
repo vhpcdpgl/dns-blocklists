@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 04:45 UTC
-# Version: 2025.0103.0445.40
+# Last modified: 03 Jan 2025 12:56 UTC
+# Version: 2025.0103.1256.42
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1485
 #
@@ -627,6 +627,7 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
 local=/dns.goldplate.org/
@@ -689,7 +690,6 @@ local=/dns.iamanuragh.in/
 local=/dns.iamninja.ru/
 local=/mask.icloud.com/
 local=/mask-api.icloud.com/
-local=/mask-boot.icloud.com/
 local=/mask-canary.icloud.com/
 local=/mask-h2.icloud.com/
 local=/tienpham.id.vn/

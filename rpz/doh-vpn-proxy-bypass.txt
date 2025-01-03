@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735879560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735909020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jan 2025 04:46 UTC
-; Version: 2025.0103.0446.59
+; Last modified: 03 Jan 2025 12:57 UTC
+; Version: 2025.0103.1257.51
 ; Syntax: RPZ
-; Number of entries: 7476
+; Number of entries: 7466
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1368,6 +1368,8 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -1512,8 +1514,6 @@ mask.icloud.com CNAME .
 *.mask.icloud.com CNAME .
 mask-api.icloud.com CNAME .
 *.mask-api.icloud.com CNAME .
-mask-boot.icloud.com CNAME .
-*.mask-boot.icloud.com CNAME .
 mask-canary.icloud.com CNAME .
 *.mask-canary.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
@@ -2416,22 +2416,12 @@ ams2.startpage.com CNAME .
 *.ams2.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
-eu-proxy.startpage.com CNAME .
-*.eu-proxy.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
-proxy.startpage.com CNAME .
-*.proxy.startpage.com CNAME .
-proxy1.startpage.com CNAME .
-*.proxy1.startpage.com CNAME .
-proxy2.startpage.com CNAME .
-*.proxy2.startpage.com CNAME .
-proxy3.startpage.com CNAME .
-*.proxy3.startpage.com CNAME .
+error.proxy.startpage.com CNAME .
+*.error.proxy.startpage.com CNAME .
 us-browse.startpage.com CNAME .
 *.us-browse.startpage.com CNAME .
-us-proxy.startpage.com CNAME .
-*.us-proxy.startpage.com CNAME .
 starvpn.com CNAME .
 *.starvpn.com CNAME .
 staticnetcontent.com CNAME .
