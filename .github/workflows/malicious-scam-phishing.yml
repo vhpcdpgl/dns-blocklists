@@ -16,5 +16,5 @@ jobs:
           NUMBER: ${{ github.event.issue.number }}
           BODY: >
             Thank you for your support. 
-            Ping @durablenapkin @jarelllama @iam-py-test for checking and possibly including the domain(s).
+            Ping @durablenapkin @jarelllama @iam-py-test @MikhailKasimov for checking and possibly including the domain(s).
             
