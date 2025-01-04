@@ -288,6 +288,13 @@
       }
     },
     {
+      "PK": "broke.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "browser.lol",
       "action": {
         "do": 1,
@@ -779,6 +786,13 @@
     },
     {
       "PK": "fap.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fbsmarthome.site",
       "action": {
         "do": 1,
         "status": 1
@@ -2046,13 +2060,6 @@
     },
     {
       "PK": "proven.lol",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pss.gdn",
       "action": {
         "do": 1,
         "status": 1

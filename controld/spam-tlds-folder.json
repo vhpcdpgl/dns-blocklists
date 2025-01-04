@@ -183,6 +183,13 @@
       }
     },
     {
+      "PK": "*.business",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.buzz",
       "action": {
         "do": 0,
@@ -743,6 +750,13 @@
       }
     },
     {
+      "PK": "*.locker",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.lol",
       "action": {
         "do": 0,
@@ -814,6 +828,20 @@
     },
     {
       "PK": "*.ml",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.moda",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.moe",
       "action": {
         "do": 0,
         "status": 1
@@ -995,6 +1023,13 @@
       }
     },
     {
+      "PK": "*.plus",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.poker",
       "action": {
         "do": 0,
@@ -1129,6 +1164,13 @@
     },
     {
       "PK": "*.sbs",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.schule",
       "action": {
         "do": 0,
         "status": 1

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 09:01 UTC
-# Version: 2025.0103.0901.39
+# Last modified: 03 Jan 2025 22:27 UTC
+# Version: 2025.0103.2227.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10877
+# Number of entries: 10869
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -3690,7 +3690,6 @@ local=/galaktischshop.com/
 local=/galaxyfox.io/
 local=/galeme.com/
 local=/galerieoswald.de/
-local=/galileofx.com/
 local=/gambotmaschinen.com/
 local=/game-adventures.com/
 local=/gamebasic-de.com/
@@ -5014,7 +5013,6 @@ local=/jaugsmart.com/
 local=/jaurneys.shop/
 local=/javius.com/
 local=/jaxban.eu/
-local=/jazzfantasy.it/
 local=/jb7img.top/
 local=/jbcapitals.com/
 local=/jdbr-investissements.com/
@@ -5142,7 +5140,6 @@ local=/kaffee-teeshopde.com/
 local=/kaffee-tek.com/
 local=/kaffee-volt.com/
 local=/kaffeeangebote.com/
-local=/kaffeehomes.de/
 local=/kaffeekonig.de/
 local=/kaffeesnackbar.com/
 local=/kaffeetime.de/
@@ -5406,7 +5403,6 @@ local=/kochenstein.de/
 local=/kodex-versand.de/
 local=/koellers.de/
 local=/koerner-versand.com/
-local=/koffee-pros.de/
 local=/koffeniso.shop/
 local=/kohessen.shop/
 local=/kohle365.com/
@@ -5468,7 +5464,6 @@ local=/kronos-gmbh.com/
 local=/kroupyshop.net/
 local=/kruger-design.de/
 local=/kruscheoutdoorde.com/
-local=/kruspe-container.com/
 local=/krworkinde.com/
 local=/krypto-ex.com/
 local=/krypto-tust-fund.de/
@@ -5563,7 +5558,6 @@ local=/lasportivamontreal.com/
 local=/lasportivanow.com/
 local=/lasylife.top/
 local=/latahalcom.shop/
-local=/latega24.de/
 local=/latestmen.com/
 local=/latestminuteinvest.com/
 local=/latestparts.com/
@@ -5574,7 +5568,6 @@ local=/laufrad-outlet24.de/
 local=/laufschule-janson.de/
 local=/lauregorriz.com/
 local=/laurencesabalza.com/
-local=/lauterkreatives.shop/
 local=/lautsprecherkko.de/
 local=/lavina-berlin.de/
 local=/lavitaroquetas.com/
@@ -5936,7 +5929,6 @@ local=/mancheap.com/
 local=/mandalaverkauf.shop/
 local=/mandykitto.com/
 local=/manenjoy.com/
-local=/manfredklinge.shop/
 local=/mangroupfx.com/
 local=/mania-media.com/
 local=/manilafoodcrawl.com/
@@ -6083,7 +6075,6 @@ local=/medrezeptfrei.com/
 local=/meds-store-24h.com/
 local=/meds-tabs.com/
 local=/medshopcpl.com/
-local=/medsi.fr/
 local=/medzrezeptfrei.com/
 local=/meertickets.de/
 local=/mega-markets.com/
@@ -6114,7 +6105,6 @@ local=/mein-holz.store/
 local=/meindlosterreich.at/
 local=/meindlschuhe.at/
 local=/meineklassen.com/
-local=/meinersterplatz.de/
 local=/meinfahrradstore.com/
 local=/meinholzdepot.de/
 local=/meinholzz.de/
@@ -6453,9 +6443,9 @@ local=/muhs-spielwaren.com/
 local=/muidi.com/
 local=/mulovesm.best/
 local=/multi-kredit.com/
+local=/multibankfx.com/
 local=/multicoin-invest.com/
 local=/multimedia-lautsprecher-store.com/
-local=/multimedia-mounir.de/
 local=/multioutdoorarea.com/
 local=/multioutdoorpro.com/
 local=/multiplesportnew.com/
@@ -10277,6 +10267,7 @@ local=/vibramshoes-usa.com/
 local=/viceregale.com/
 local=/vicotoris.com/
 local=/victoriassecrets.at/
+local=/videforex.com/
 local=/videoastrum.net/
 local=/videohobbies.com/
 local=/videospiel-markt.de/
@@ -10527,6 +10518,7 @@ local=/werkzeug-salesshop.com/
 local=/werkzeugebefestigung.com/
 local=/werkzeugebohrer.de/
 local=/werkzeugeersatzteile.com/
+local=/werkzeugepremium.com/
 local=/werkzeugewelt.com/
 local=/werkzeugmesser.de/
 local=/werkzeugprada.com/

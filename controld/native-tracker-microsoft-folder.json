@@ -57,13 +57,6 @@
       }
     },
     {
-      "PK": "adsdisplay.glbdns2.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adsdk.microsoft.com",
       "action": {
         "do": 0,
@@ -99,13 +92,6 @@
       }
     },
     {
-      "PK": "adsdktelemetry-prod.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adsdk.trafficmanager.net",
       "action": {
         "do": 0,
@@ -127,13 +113,6 @@
       }
     },
     {
-      "PK": "ads-int.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads.jp.msn.com",
       "action": {
         "do": 0,
@@ -149,20 +128,6 @@
     },
     {
       "PK": "ads.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adsstatic-int.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adsstatic.microsoft.com",
       "action": {
         "do": 0,
         "status": 1
@@ -219,13 +184,6 @@
     },
     {
       "PK": "analyticsehnwe.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -323,28 +281,7 @@
       }
     },
     {
-      "PK": "azsc-bingads-centralus.centralus.cloudapp.azure.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "azsc-bingads-westus.westus.cloudapp.azure.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com",
       "action": {
         "do": 0,
         "status": 1
@@ -400,28 +337,7 @@
       }
     },
     {
-      "PK": "bingadseditor.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bingads.glbdns2.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bingads.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bingadsresources.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -583,20 +499,6 @@
     },
     {
       "PK": "c.gr.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "chc-visio-telemetry.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "chem4wordtelemetry.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -772,13 +674,6 @@
     },
     {
       "PK": "c.no.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "collection-location-livenet.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1212,6 +1107,13 @@
       }
     },
     {
+      "PK": "help.ads-int.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hk-tracker.trafficmanager.net",
       "action": {
         "do": 0,
@@ -1331,20 +1233,6 @@
       }
     },
     {
-      "PK": "jetanalytics.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jpc-visio-telemetry.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "js.monitor.azure.com",
       "action": {
         "do": 0,
@@ -1360,13 +1248,6 @@
     },
     {
       "PK": "legacywatson.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "live.applicationinsights.azure.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -2333,13 +2214,6 @@
     },
     {
       "PK": "usc-visio-telemetry.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "us-mesh-events-data-leafs.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

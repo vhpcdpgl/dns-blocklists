@@ -64,13 +64,6 @@
       }
     },
     {
-      "PK": "camfx-analytics-events.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cdn-xp-ingest-ab.v.aaplimg.com",
       "action": {
         "do": 0,
@@ -295,49 +288,7 @@
       }
     },
     {
-      "PK": "idiagnostics-devices-mdn.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "idiagnostics-devices-qa.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "idiagnostics-devices-reno.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "idiagnostics-ft.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "idiagnostics-mdn1.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "idiagnostics-qa.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "idiagnostics-reno.apple.com",
       "action": {
         "do": 0,
         "status": 1
@@ -561,13 +512,6 @@
       }
     },
     {
-      "PK": "qa-iad.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "qwapi.com",
       "action": {
         "do": 0,
@@ -583,20 +527,6 @@
     },
     {
       "PK": "radarsubmissions.apple.com.akadns.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sdkintg-iad.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sdkintgiad.apple.com",
       "action": {
         "do": 0,
         "status": 1
@@ -659,13 +589,6 @@
       }
     },
     {
-      "PK": "stg-iad.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "stocks-analytics-events.apple.com",
       "action": {
         "do": 0,
@@ -681,20 +604,6 @@
     },
     {
       "PK": "supportmetrics.v.aaplimg.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uxintg-iad.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "uxintgiad.apple.com",
       "action": {
         "do": 0,
         "status": 1

@@ -349,7 +349,6 @@ https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.t
 https://raw.githubusercontent.com/stamparm/aux/refs/heads/master/maltrail-static-trails.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/azorult.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/blockchain_dns.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt
@@ -377,6 +376,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters-2025.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt

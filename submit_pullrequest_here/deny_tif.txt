@@ -1,5 +1,15 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4758
+casefollowup.com
+
+# https://github.com/hagezi/dns-blocklists/issues/4757
+48095uqslydirvr761.fiheos.co.in
+fiheos.co.in
+
+# https://github.com/hagezi/dns-blocklists/issues/4752
+tet67.pages.dev
+
 # Phishing
 post-austria.bar
 
