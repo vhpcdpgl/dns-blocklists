@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 12:57 UTC
-# Version: 2025.0103.1257.51
+# Last modified: 04 Jan 2025 19:14 UTC
+# Version: 2025.0104.1914.43
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3733
 #
@@ -17,6 +17,7 @@ local=/0ms.dev/
 local=/dns.0ooo.icu/
 local=/0x3d.lu/
 local=/dns.0x55.net/
+local=/1010000.online/
 local=/108023.xyz/
 local=/123-proxy.net/
 local=/123-proxy.org/
@@ -1732,7 +1733,6 @@ local=/le-vpn.com/
 local=/adguard1.leadmon.net/
 local=/adguard.leadseason.eu/
 local=/leafyvpn.net/
-local=/dns.learningman.top/
 local=/ledfordmiddleschool.xyz/
 local=/leekemx.com/
 local=/adblock.leenit.kr/
@@ -2024,7 +2024,7 @@ local=/dns.neowutran.ovh/
 local=/dns.aa.net.uk/
 local=/doh.infotek.net.id/
 local=/doh.max.net.id/
-local=/ns.net.kg/
+local=/net-ml.online/
 local=/netaltr.com/
 local=/netnut.io/
 local=/netscop.net/

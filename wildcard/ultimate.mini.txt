@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 11:13 UTC
-# Version: 2025.0104.1113.33
+# Last modified: 04 Jan 2025 18:48 UTC
+# Version: 2025.0104.1848.50
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 86727
+# Number of entries: 86729
 #
 *.0-02.net
 *.0-architecture.com
@@ -6087,6 +6087,7 @@
 *.freewheel-mtgx-tv.akamaized.net
 *.hesads.akamaized.net
 *.hydro-ma-proxy.akamaized.net
+*.lgforbes.akamaized.net
 *.ninja.akamaized.net
 *.ntvaim-a.akamaized.net
 *.pixel-node-europosit-com.akamaized.net
@@ -22723,6 +22724,7 @@
 *.conservativedailypost.com
 *.conservativefiringline.com
 *.chr.conservativehealthreport.org
+*.analytics.conservativenewsandviews.com
 *.consessionconsessiontimber.com
 *.consideration3x.fun
 *.consideringscallion.com
@@ -32594,6 +32596,7 @@
 *.paywall.forbes.ua
 *.tracker.forbes.sk
 *.forbidcrenels.com
+*.location.l.force.com
 *.beacon.lightning.force.com
 *.uber-ads.lightning.force.com
 *.embedded.pardot.force.com
@@ -43446,7 +43449,6 @@
 *.analytics.jehebtmakkelijkpraten.nl
 *.jeinugsnkwe.xyz
 *.jekesjzv.com
-*.jekotyay.com
 *.analytics.jeldnews.com
 *.jelfmtsr5i.ru
 *.jelllearnedhungry.com
@@ -49513,6 +49515,7 @@
 *.maxreturn.cn
 *.maxrilla.com
 *.analytics.maxroll.gg
+*.maxsecurityultimate.com
 *.dcs.maxthon.com
 *.push-s.maxthon.com
 *.stat-c.maxthon.com
@@ -54903,6 +54906,7 @@
 *.nostalgicneed.com
 *.chihiro.nostalgie.fr
 *.strongbox.nostemedia.fi
+*.connect.nosto.com
 *.nostrilquarryprecursor.com
 *.nostrilsdisappearedconceited.com
 *.nostrilsunwanted.com
@@ -59110,7 +59114,6 @@
 *.phanmemgoc.com
 *.phanmemnet.com
 *.phanmemshare.com
-*.phanmemvip.net
 *.phanquang.vn
 *.analytics.phantom.app
 *.phantomattestationzillion.com
@@ -68429,7 +68432,6 @@
 *.x8.shinobi.jp
 *.x9.shinobi.jp
 *.xa.shinobi.jp
-*.shinoriori2023.jp
 *.shinqueen.com
 *.shinystat.shiny.it
 *.analytics-modeling.shinyapps.io
@@ -70107,6 +70109,7 @@
 *.so1cool.com
 *.so1nv.xyz
 *.tracking.eloq.soa.org
+*.soacoujusoopsoo.xyz
 *.soadaupaila.net
 *.soadicithaiy.net
 *.soaheeme.net
@@ -74285,7 +74288,6 @@
 *.tfla.xyz
 *.tfmgqdj.com
 *.tfosrv.com
-*.tfpipnwengia.com
 *.tfsqxdc.com
 *.tfsxszw.com
 *.tftnbbok.xyz

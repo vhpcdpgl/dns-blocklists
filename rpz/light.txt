@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735984680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736011920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jan 2025 09:58 UTC
-; Version: 2025.0104.0958.32
+; Last modified: 04 Jan 2025 17:32 UTC
+; Version: 2025.0104.1732.32
 ; Syntax: RPZ
-; Number of entries: 140116
+; Number of entries: 140118
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -27009,6 +27009,8 @@ consensusindustryrepresentation.com CNAME .
 *.consensusindustryrepresentation.com CNAME .
 conservativefiringline.com CNAME .
 *.conservativefiringline.com CNAME .
+analytics.conservativenewsandviews.com CNAME .
+*.analytics.conservativenewsandviews.com CNAME .
 consessionconsessiontimber.com CNAME .
 *.consessionconsessiontimber.com CNAME .
 consideringscallion.com CNAME .
@@ -32781,6 +32783,8 @@ trck.www4.earlywarning.com CNAME .
 *.trck.www4.earlywarning.com CNAME .
 earmuffvintagevitality.com CNAME .
 *.earmuffvintagevitality.com CNAME .
+client.earnapp.com CNAME .
+*.client.earnapp.com CNAME .
 earnbaht.com CNAME .
 *.earnbaht.com CNAME .
 earnify.com CNAME .
@@ -47883,8 +47887,6 @@ ylsjdq.jegs.com CNAME .
 *.ylsjdq.jegs.com CNAME .
 jekesjzv.com CNAME .
 *.jekesjzv.com CNAME .
-jekotyay.com CNAME .
-*.jekotyay.com CNAME .
 analytics.jeldnews.com CNAME .
 *.analytics.jeldnews.com CNAME .
 jelllearnedhungry.com CNAME .
@@ -59285,6 +59287,8 @@ nospartenaires.com CNAME .
 *.nospartenaires.com CNAME .
 nostalgicneed.com CNAME .
 *.nostalgicneed.com CNAME .
+connect.nosto.com CNAME .
+*.connect.nosto.com CNAME .
 nostrilquarryprecursor.com CNAME .
 *.nostrilquarryprecursor.com CNAME .
 nostrilsdisappearedconceited.com CNAME .
@@ -79975,8 +79979,6 @@ tfmgqdj.com CNAME .
 *.tfmgqdj.com CNAME .
 tfosrv.com CNAME .
 *.tfosrv.com CNAME .
-tfpipnwengia.com CNAME .
-*.tfpipnwengia.com CNAME .
 tfsqxdc.com CNAME .
 *.tfsqxdc.com CNAME .
 tfsxszw.com CNAME .
@@ -105573,8 +105575,6 @@ v2st.shinobi.jp CNAME .
 *.v2st.shinobi.jp CNAME .
 x9.shinobi.jp CNAME .
 *.x9.shinobi.jp CNAME .
-shinoriori2023.jp CNAME .
-*.shinoriori2023.jp CNAME .
 acclog001.shop-pro.jp CNAME .
 *.acclog001.shop-pro.jp CNAME .
 acclog002.shop-pro.jp CNAME .
@@ -109049,6 +109049,8 @@ freewheel-mtgx-tv.akamaized.net CNAME .
 *.freewheel-mtgx-tv.akamaized.net CNAME .
 hydro-ma-proxy.akamaized.net CNAME .
 *.hydro-ma-proxy.akamaized.net CNAME .
+lgforbes.akamaized.net CNAME .
+*.lgforbes.akamaized.net CNAME .
 ninja.akamaized.net CNAME .
 *.ninja.akamaized.net CNAME .
 speee-ad.akamaized.net CNAME .
@@ -119493,8 +119495,6 @@ phaipaun.net CNAME .
 *.phaipaun.net CNAME .
 phamsacm.net CNAME .
 *.phamsacm.net CNAME .
-phanmemvip.net CNAME .
-*.phanmemvip.net CNAME .
 phaulregoophou.net CNAME .
 *.phaulregoophou.net CNAME .
 phaunaitsi.net CNAME .
@@ -139125,6 +139125,8 @@ snowdayonline.xyz CNAME .
 *.snowdayonline.xyz CNAME .
 so1nv.xyz CNAME .
 *.so1nv.xyz CNAME .
+soacoujusoopsoo.xyz CNAME .
+*.soacoujusoopsoo.xyz CNAME .
 soaphokoul.xyz CNAME .
 *.soaphokoul.xyz CNAME .
 soathouchoa.xyz CNAME .

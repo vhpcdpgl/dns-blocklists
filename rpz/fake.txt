@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735976520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736005500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jan 2025 07:42 UTC
-; Version: 2025.0104.0742.07
+; Last modified: 04 Jan 2025 15:45 UTC
+; Version: 2025.0104.1545.57
 ; Syntax: RPZ
-; Number of entries: 21716
+; Number of entries: 21696
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -9875,8 +9875,6 @@ ranthambhorekothi.com CNAME .
 *.ranthambhorekothi.com CNAME .
 rapidconv.com CNAME .
 *.rapidconv.com CNAME .
-rapidnetcouriers.com CNAME .
-*.rapidnetcouriers.com CNAME .
 rasen24.com CNAME .
 *.rasen24.com CNAME .
 rasen24h.com CNAME .
@@ -9917,8 +9915,6 @@ rctoyretail.com CNAME .
 *.rctoyretail.com CNAME .
 rctoysplayful.com CNAME .
 *.rctoysplayful.com CNAME .
-reachecommranks.com CNAME .
-*.reachecommranks.com CNAME .
 real-estate-mls.com CNAME .
 *.real-estate-mls.com CNAME .
 reality-golf.com CNAME .
@@ -10175,8 +10171,6 @@ roxysgd.com CNAME .
 *.roxysgd.com CNAME .
 royaldebank.com CNAME .
 *.royaldebank.com CNAME .
-royaldiam.com CNAME .
-*.royaldiam.com CNAME .
 royalinvestmentconsortium.com CNAME .
 *.royalinvestmentconsortium.com CNAME .
 rozafinanzen.com CNAME .
@@ -10283,8 +10277,6 @@ salecampoutdoor.com CNAME .
 *.salecampoutdoor.com CNAME .
 salecarracks.com CNAME .
 *.salecarracks.com CNAME .
-salecasualwear.com CNAME .
-*.salecasualwear.com CNAME .
 salecomponent.com CNAME .
 *.salecomponent.com CNAME .
 saledtools.com CNAME .
@@ -10531,8 +10523,6 @@ scotlandnewstoday.com CNAME .
 *.scotlandnewstoday.com CNAME .
 sdk-transport.com CNAME .
 *.sdk-transport.com CNAME .
-seafollywear.com CNAME .
-*.seafollywear.com CNAME .
 sears-de.com CNAME .
 *.sears-de.com CNAME .
 seasonalhalloween.com CNAME .
@@ -10543,8 +10533,6 @@ sebagobruxelles.com CNAME .
 *.sebagobruxelles.com CNAME .
 sebagodeckshoesireland.com CNAME .
 *.sebagodeckshoesireland.com CNAME .
-sebagosaat.com CNAME .
-*.sebagosaat.com CNAME .
 sebagoschoenen.com CNAME .
 *.sebagoschoenen.com CNAME .
 sebagoshoesgreece.com CNAME .
@@ -11231,8 +11219,6 @@ stoneislandlietuva.com CNAME .
 *.stoneislandlietuva.com CNAME .
 stoneislandsuisse.com CNAME .
 *.stoneislandsuisse.com CNAME .
-storagecontainersale.com CNAME .
-*.storagecontainersale.com CNAME .
 store-airplane.com CNAME .
 *.store-airplane.com CNAME .
 store-awnings.com CNAME .
@@ -16807,8 +16793,6 @@ rabatt-baumarkt.de CNAME .
 *.rabatt-baumarkt.de CNAME .
 rabattarkk.de CNAME .
 *.rabattarkk.de CNAME .
-rabattausrustung.de CNAME .
-*.rabattausrustung.de CNAME .
 rabattbekleidung.de CNAME .
 *.rabattbekleidung.de CNAME .
 rabattfornasetti.de CNAME .
@@ -16917,8 +16901,6 @@ retrogamingshop.de CNAME .
 *.retrogamingshop.de CNAME .
 rezeptfrei-guenstiger.de CNAME .
 *.rezeptfrei-guenstiger.de CNAME .
-rezeptfrei-pillen.de CNAME .
-*.rezeptfrei-pillen.de CNAME .
 rezeptfreie-bestellung.de CNAME .
 *.rezeptfreie-bestellung.de CNAME .
 rezeptfreier-versand.de CNAME .
@@ -20723,8 +20705,6 @@ riteathomeatlanta.shop CNAME .
 *.riteathomeatlanta.shop CNAME .
 rittmeyster.shop CNAME .
 *.rittmeyster.shop CNAME .
-ritualsshopde-vip.shop CNAME .
-*.ritualsshopde-vip.shop CNAME .
 rjapanisch.shop CNAME .
 *.rjapanisch.shop CNAME .
 rohrverbinder24.shop CNAME .

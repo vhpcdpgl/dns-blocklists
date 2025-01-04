@@ -1,5 +1,8 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4765 
+maxsecurityultimate.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4758
 casefollowup.com
 

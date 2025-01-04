@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 07:42 UTC
-# Version: 2025.0104.0742.07
+# Last modified: 04 Jan 2025 15:45 UTC
+# Version: 2025.0104.1545.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10858
+# Number of entries: 10848
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -7739,7 +7739,6 @@ local=/qzzfg7zy0r.online/
 local=/rabatt-baumarkt.de/
 local=/rabattakkuslader.com/
 local=/rabattarkk.de/
-local=/rabattausrustung.de/
 local=/rabattbabykleidung.com/
 local=/rabattbademode.com/
 local=/rabattbaukasten.com/
@@ -7807,7 +7806,6 @@ local=/ranthambhorekothi.com/
 local=/rapaja-tech.de/
 local=/raphadeutschland.de/
 local=/rapidconv.com/
-local=/rapidnetcouriers.com/
 local=/rasen24.com/
 local=/rasen24h.com/
 local=/rasenmaher-herford.de/
@@ -7839,7 +7837,6 @@ local=/rctoyretail.com/
 local=/rctoysplayful.com/
 local=/rczubehr.de/
 local=/rdoering.de/
-local=/reachecommranks.com/
 local=/real-estate-mls.com/
 local=/reality-golf.com/
 local=/realitymenswear.com/
@@ -7965,7 +7962,6 @@ local=/revolutionracesite.com/
 local=/revomarkt.com/
 local=/rezedium.com/
 local=/rezeptfrei-guenstiger.de/
-local=/rezeptfrei-pillen.de/
 local=/rezeptfreie-bestellung.de/
 local=/rezeptfreier-versand.de/
 local=/rgoconnell.com/
@@ -8003,7 +7999,6 @@ local=/rise-property.com/
 local=/riteathomeatlanta.shop/
 local=/ritteroutlet.de/
 local=/rittmeyster.shop/
-local=/ritualsshopde-vip.shop/
 local=/rivano.de/
 local=/rivornas.de/
 local=/riyusa.com/
@@ -8084,7 +8079,6 @@ local=/roujedeutschland.com/
 local=/roujeusa.us/
 local=/roxysgd.com/
 local=/royaldebank.com/
-local=/royaldiam.com/
 local=/royalinvestmentconsortium.com/
 local=/royalrobpascher.de/
 local=/rozafinanzen.com/
@@ -8173,7 +8167,6 @@ local=/salebedbath.com/
 local=/salebuset.shop/
 local=/salecampoutdoor.com/
 local=/salecarracks.com/
-local=/salecasualwear.com/
 local=/salecomponent.com/
 local=/saledtools.com/
 local=/saleelectrical.com/
@@ -8380,14 +8373,12 @@ local=/scuffersosterreich.at/
 local=/sdk-transport.com/
 local=/se-handel24.de/
 local=/seafollyosterreich.at/
-local=/seafollywear.com/
 local=/seak-store.de/
 local=/sears-de.com/
 local=/seasonalhalloween.com/
 local=/sebagoantwerpen.com/
 local=/sebagobruxelles.com/
 local=/sebagodeckshoesireland.com/
-local=/sebagosaat.com/
 local=/sebagoschoenen.com/
 local=/sebagoshoesgreece.com/
 local=/sebagozapatos.com/
@@ -8977,7 +8968,6 @@ local=/stoneislandjapan.com/
 local=/stoneislandlietuva.com/
 local=/stoneislandsuisse.com/
 local=/stoneislandsuomi.org/
-local=/storagecontainersale.com/
 local=/store-airplane.com/
 local=/store-awnings.com/
 local=/store-bonds.com/

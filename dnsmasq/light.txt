@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 09:58 UTC
-# Version: 2025.0104.0958.32
+# Last modified: 04 Jan 2025 17:32 UTC
+# Version: 2025.0104.1732.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 70058
+# Number of entries: 70059
 #
 local=/0-02.net/
 local=/000free.us/
@@ -4955,6 +4955,7 @@ local=/smartadserver.com.akamaized.net/
 local=/cdn.stat-track.com.akamaized.net/
 local=/freewheel-mtgx-tv.akamaized.net/
 local=/hydro-ma-proxy.akamaized.net/
+local=/lgforbes.akamaized.net/
 local=/ninja.akamaized.net/
 local=/speee-ad.akamaized.net/
 local=/uz-analysis.akamaized.net/
@@ -18016,6 +18017,7 @@ local=/analytics.consentmanager.net/
 local=/conservation277.fun/
 local=/conservativefiringline.com/
 local=/chr.conservativehealthreport.org/
+local=/analytics.conservativenewsandviews.com/
 local=/consessionconsessiontimber.com/
 local=/consideration3x.fun/
 local=/consideringscallion.com/
@@ -23897,6 +23899,7 @@ local=/load.sgtm.earlygame.com/
 local=/trck.www4.earlywarning.com/
 local=/earmuffvintagevitality.com/
 local=/earn.fm/
+local=/client.earnapp.com/
 local=/earnbaht.com/
 local=/earnify.com/
 local=/earningstwigrider.com/
@@ -35726,7 +35729,6 @@ local=/ylsjdq.jegs.com/
 local=/analytics.jehebtmakkelijkpraten.nl/
 local=/jeinugsnkwe.xyz/
 local=/jekesjzv.com/
-local=/jekotyay.com/
 local=/analytics.jeldnews.com/
 local=/jelfmtsr5i.ru/
 local=/jelllearnedhungry.com/
@@ -44731,6 +44733,7 @@ local=/nossairt.net/
 local=/nostalgicneed.com/
 local=/chihiro.nostalgie.fr/
 local=/strongbox.nostemedia.fi/
+local=/connect.nosto.com/
 local=/nostrilquarryprecursor.com/
 local=/nostrilsdisappearedconceited.com/
 local=/nostrilsunwanted.com/
@@ -48073,7 +48076,6 @@ local=/phanmem111.com/
 local=/phanmemgoc.com/
 local=/phanmemnet.com/
 local=/phanmemshare.com/
-local=/phanmemvip.net/
 local=/phanquang.vn/
 local=/analytics.phantom.app/
 local=/phantomattestationzillion.com/
@@ -55565,7 +55567,6 @@ local=/rcm.shinobi.jp/
 local=/sync.shinobi.jp/
 local=/v2st.shinobi.jp/
 local=/x9.shinobi.jp/
-local=/shinoriori2023.jp/
 local=/shinqueen.com/
 local=/shinystat.shiny.it/
 local=/shinygabbleovertime.com/
@@ -56795,6 +56796,7 @@ local=/so-gr3at3.com/
 local=/so1cool.com/
 local=/so1nv.xyz/
 local=/tracking.eloq.soa.org/
+local=/soacoujusoopsoo.xyz/
 local=/soadaupaila.net/
 local=/soadicithaiy.net/
 local=/soaheeme.net/
@@ -60201,7 +60203,6 @@ local=/tffkroute.com/
 local=/tfla.xyz/
 local=/tfmgqdj.com/
 local=/tfosrv.com/
-local=/tfpipnwengia.com/
 local=/tfsqxdc.com/
 local=/tfsxszw.com/
 local=/tftnbbok.xyz/

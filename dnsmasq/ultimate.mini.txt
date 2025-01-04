@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 11:13 UTC
-# Version: 2025.0104.1113.33
+# Last modified: 04 Jan 2025 18:48 UTC
+# Version: 2025.0104.1848.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 86727
+# Number of entries: 86729
 #
 local=/0-02.net/
 local=/0-architecture.com/
@@ -6087,6 +6087,7 @@ local=/stat-track.com.akamaized.net/
 local=/freewheel-mtgx-tv.akamaized.net/
 local=/hesads.akamaized.net/
 local=/hydro-ma-proxy.akamaized.net/
+local=/lgforbes.akamaized.net/
 local=/ninja.akamaized.net/
 local=/ntvaim-a.akamaized.net/
 local=/pixel-node-europosit-com.akamaized.net/
@@ -22723,6 +22724,7 @@ local=/conservation277.fun/
 local=/conservativedailypost.com/
 local=/conservativefiringline.com/
 local=/chr.conservativehealthreport.org/
+local=/analytics.conservativenewsandviews.com/
 local=/consessionconsessiontimber.com/
 local=/consideration3x.fun/
 local=/consideringscallion.com/
@@ -32594,6 +32596,7 @@ local=/geolocation.forbes.com/
 local=/paywall.forbes.ua/
 local=/tracker.forbes.sk/
 local=/forbidcrenels.com/
+local=/location.l.force.com/
 local=/beacon.lightning.force.com/
 local=/uber-ads.lightning.force.com/
 local=/embedded.pardot.force.com/
@@ -43446,7 +43449,6 @@ local=/ylsjdq.jegs.com/
 local=/analytics.jehebtmakkelijkpraten.nl/
 local=/jeinugsnkwe.xyz/
 local=/jekesjzv.com/
-local=/jekotyay.com/
 local=/analytics.jeldnews.com/
 local=/jelfmtsr5i.ru/
 local=/jelllearnedhungry.com/
@@ -49513,6 +49515,7 @@ local=/saa.maxpreps.com/
 local=/maxreturn.cn/
 local=/maxrilla.com/
 local=/analytics.maxroll.gg/
+local=/maxsecurityultimate.com/
 local=/dcs.maxthon.com/
 local=/push-s.maxthon.com/
 local=/stat-c.maxthon.com/
@@ -54903,6 +54906,7 @@ local=/nossairt.net/
 local=/nostalgicneed.com/
 local=/chihiro.nostalgie.fr/
 local=/strongbox.nostemedia.fi/
+local=/connect.nosto.com/
 local=/nostrilquarryprecursor.com/
 local=/nostrilsdisappearedconceited.com/
 local=/nostrilsunwanted.com/
@@ -59110,7 +59114,6 @@ local=/phanmem111.com/
 local=/phanmemgoc.com/
 local=/phanmemnet.com/
 local=/phanmemshare.com/
-local=/phanmemvip.net/
 local=/phanquang.vn/
 local=/analytics.phantom.app/
 local=/phantomattestationzillion.com/
@@ -68429,7 +68432,6 @@ local=/x7.shinobi.jp/
 local=/x8.shinobi.jp/
 local=/x9.shinobi.jp/
 local=/xa.shinobi.jp/
-local=/shinoriori2023.jp/
 local=/shinqueen.com/
 local=/shinystat.shiny.it/
 local=/analytics-modeling.shinyapps.io/
@@ -70107,6 +70109,7 @@ local=/so-gr3at3.com/
 local=/so1cool.com/
 local=/so1nv.xyz/
 local=/tracking.eloq.soa.org/
+local=/soacoujusoopsoo.xyz/
 local=/soadaupaila.net/
 local=/soadicithaiy.net/
 local=/soaheeme.net/
@@ -74285,7 +74288,6 @@ local=/tracker.tfile.ru/
 local=/tfla.xyz/
 local=/tfmgqdj.com/
 local=/tfosrv.com/
-local=/tfpipnwengia.com/
 local=/tfsqxdc.com/
 local=/tfsxszw.com/
 local=/tftnbbok.xyz/
