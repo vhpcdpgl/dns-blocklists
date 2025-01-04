@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1735943220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1735976520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jan 2025 22:27 UTC
-; Version: 2025.0103.2227.11
+; Last modified: 04 Jan 2025 07:42 UTC
+; Version: 2025.0104.0742.07
 ; Syntax: RPZ
-; Number of entries: 21738
+; Number of entries: 21716
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -8395,8 +8395,6 @@ nettradecap.com CNAME .
 *.nettradecap.com CNAME .
 netwerkplanet.com CNAME .
 *.netwerkplanet.com CNAME .
-netz-digitalisierung.com CNAME .
-*.netz-digitalisierung.com CNAME .
 netzteiledirekt.com CNAME .
 *.netzteiledirekt.com CNAME .
 neu-elektrofahrrad.com CNAME .
@@ -8483,8 +8481,6 @@ newhikingbootes.com CNAME .
 *.newhikingbootes.com CNAME .
 newinaccessories.com CNAME .
 *.newinaccessories.com CNAME .
-newinlingerie.com CNAME .
-*.newinlingerie.com CNAME .
 newinmountain.com CNAME .
 *.newinmountain.com CNAME .
 newinsnowboard.com CNAME .
@@ -8995,8 +8991,6 @@ orf-newsat.com CNAME .
 *.orf-newsat.com CNAME .
 orf24at.com CNAME .
 *.orf24at.com CNAME .
-orfneews1.com CNAME .
-*.orfneews1.com CNAME .
 organicsauceshop.com CNAME .
 *.organicsauceshop.com CNAME .
 oribeauties.com CNAME .
@@ -9441,8 +9435,6 @@ pilemeds.com CNAME .
 *.pilemeds.com CNAME .
 pillola-italia.com CNAME .
 *.pillola-italia.com CNAME .
-pillow-sales.com CNAME .
-*.pillow-sales.com CNAME .
 pills-au.com CNAME .
 *.pills-au.com CNAME .
 pills-store-online24.com CNAME .
@@ -9557,8 +9549,6 @@ popcartruck.com CNAME .
 *.popcartruck.com CNAME .
 popcutlery.com CNAME .
 *.popcutlery.com CNAME .
-pope-senna.com CNAME .
-*.pope-senna.com CNAME .
 popflex-austria.com CNAME .
 *.popflex-austria.com CNAME .
 popkitchen-ware.com CNAME .
@@ -9579,8 +9569,6 @@ popularusfemale.com CNAME .
 *.popularusfemale.com CNAME .
 popustennis.com CNAME .
 *.popustennis.com CNAME .
-popwomenshoe.com CNAME .
-*.popwomenshoe.com CNAME .
 porlabs.com CNAME .
 *.porlabs.com CNAME .
 portesdunet.com CNAME .
@@ -9733,8 +9721,6 @@ properties-list.com CNAME .
 *.properties-list.com CNAME .
 property-24.com CNAME .
 *.property-24.com CNAME .
-prorecruitxpert-deu.com CNAME .
-*.prorecruitxpert-deu.com CNAME .
 proridegear.com CNAME .
 *.proridegear.com CNAME .
 prostamin-forte.com CNAME .
@@ -16613,8 +16599,6 @@ otronical.de CNAME .
 *.otronical.de CNAME .
 otto-angebote.de CNAME .
 *.otto-angebote.de CNAME .
-otto-elektro-market.de CNAME .
-*.otto-elektro-market.de CNAME .
 ottoelektro.de CNAME .
 *.ottoelektro.de CNAME .
 ouraltis.de CNAME .
@@ -16767,8 +16751,6 @@ pro-containers.de CNAME .
 *.pro-containers.de CNAME .
 pro-gruenhandel.de CNAME .
 *.pro-gruenhandel.de CNAME .
-pro-koffee.de CNAME .
-*.pro-koffee.de CNAME .
 pro-kredit-service.de CNAME .
 *.pro-kredit-service.de CNAME .
 pro-kreditfinanz.de CNAME .
@@ -20653,8 +20635,6 @@ thinking.otemo.shop CNAME .
 *.thinking.otemo.shop CNAME .
 ottot.shop CNAME .
 *.ottot.shop CNAME .
-outdoor-eu.shop CNAME .
-*.outdoor-eu.shop CNAME .
 outfittersstore.shop CNAME .
 *.outfittersstore.shop CNAME .
 oversoyede.shop CNAME .
@@ -21483,8 +21463,6 @@ mso-digital.top CNAME .
 *.mso-digital.top CNAME .
 nilase.top CNAME .
 *.nilase.top CNAME .
-ao.ninxbf.top CNAME .
-*.ao.ninxbf.top CNAME .
 onlinearbeitenen.top CNAME .
 *.onlinearbeitenen.top CNAME .
 ono-7.top CNAME .

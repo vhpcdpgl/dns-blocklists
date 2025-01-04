@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 23:43 UTC
-# Version: 2025.0103.2343.37
+# Last modified: 04 Jan 2025 09:58 UTC
+# Version: 2025.0104.0958.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 116625
+# Number of entries: 116608
 #
 0.0.0.0 0-02.net
 0.0.0.0 000free.us
@@ -3283,7 +3283,6 @@
 0.0.0.0 px2.4cinsights.com
 0.0.0.0 4cloud.click
 0.0.0.0 4co7mbsb.de
-0.0.0.0 4d0m.cn
 0.0.0.0 4d15ee32c1.com
 0.0.0.0 51b8b4541b.4d15ee32c1.com
 0.0.0.0 4d33a4adbc.com
@@ -9250,7 +9249,6 @@
 0.0.0.0 afreetsat.com
 0.0.0.0 afrfmyzaka.com
 0.0.0.0 africaewgrhdtb.com
-0.0.0.0 metric.bulkhost.africom.mil
 0.0.0.0 afrikad.com
 0.0.0.0 www.afrikad.com
 0.0.0.0 afront.io
@@ -27110,6 +27108,7 @@
 0.0.0.0 caahwq.com
 0.0.0.0 cdn.caahwq.com
 0.0.0.0 caanalytics.com
+0.0.0.0 caapuxmi.com
 0.0.0.0 metrics.hub.caaws.services
 0.0.0.0 cabackoverlax.com
 0.0.0.0 analytics.cabar.asia
@@ -40701,6 +40700,7 @@
 0.0.0.0 m-1579590385-0-00023900-1714998672-6638cd90000f7.track.cux.io
 0.0.0.0 m-2009995211-0-57416800-1718607548-666fdebc8c2de.track.cux.io
 0.0.0.0 cuzsgqr.com
+0.0.0.0 cv7.icu
 0.0.0.0 cvastico.com
 0.0.0.0 kts.cvastico.com
 0.0.0.0 ts.cvastico.com
@@ -41979,7 +41979,6 @@
 0.0.0.0 sm.dell.com
 0.0.0.0 sst.dell.com
 0.0.0.0 stt.dell.com
-0.0.0.0 piwik.auscorpwfnp.us.dell.com
 0.0.0.0 m.delltechnologies.com
 0.0.0.0 sm.delltechnologies.com
 0.0.0.0 delmovip.com
@@ -43962,6 +43961,7 @@
 0.0.0.0 dfvmzx.xyz
 0.0.0.0 dfxwdc.com
 0.0.0.0 dfyvcihusajf.com
+0.0.0.0 dg2255.com
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 dgbaozhuang.cn
 0.0.0.0 dgddipgtebuy.com
@@ -52166,9 +52166,6 @@
 0.0.0.0 euleriancdn.net
 0.0.0.0 eu.euleriancdn.net
 0.0.0.0 eum-appdynamics.com
-0.0.0.0 api.eum-appdynamics.com
-0.0.0.0 fra-synthetic.eum-appdynamics.com
-0.0.0.0 image.eum-appdynamics.com
 0.0.0.0 www.eum-appdynamics.com
 0.0.0.0 eumarkdepot.com
 0.0.0.0 eunow4u.com
@@ -55228,6 +55225,7 @@
 0.0.0.0 fouguesteenie.com
 0.0.0.0 fouleewu.net
 0.0.0.0 foulfurnished.com
+0.0.0.0 found.io
 0.0.0.0 foundationhemispherebossy.com
 0.0.0.0 foundationhorny.com
 0.0.0.0 metric.foundationmedicine.com
@@ -61239,6 +61237,7 @@
 0.0.0.0 hj6y7jrhnysuchtjhw.info
 0.0.0.0 gentian-frd.hjapi.com
 0.0.0.0 hjbotih.cc
+0.0.0.0 hjdjfl.icu
 0.0.0.0 resu8.hjfile.cn
 0.0.0.0 hjimtyu.top
 0.0.0.0 hjjshv.xyz
@@ -67682,7 +67681,6 @@
 0.0.0.0 ivycarryingpillar.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivyrethink.com
-0.0.0.0 ivzfpwm.cn
 0.0.0.0 shop.iwantclips.com
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 www.iwanttodeliver.com
@@ -68008,7 +68006,6 @@
 0.0.0.0 jdickea.top
 0.0.0.0 jdiekknmcb.com
 0.0.0.0 jdmodr.com
-0.0.0.0 jdnlynb.cn
 0.0.0.0 jdoasjfojuhod.com
 0.0.0.0 jdoeknc.com
 0.0.0.0 posthog.jdoodle.com
@@ -68053,6 +68050,7 @@
 0.0.0.0 analytics.jehebtmakkelijkpraten.nl
 0.0.0.0 jeinugsnkwe.xyz
 0.0.0.0 jekesjzv.com
+0.0.0.0 jekotyay.com
 0.0.0.0 analytics.jeldnews.com
 0.0.0.0 jelfmtsr5i.ru
 0.0.0.0 jelllearnedhungry.com
@@ -69281,6 +69279,7 @@
 0.0.0.0 kathesygri.com
 0.0.0.0 analyse.katholisch.at
 0.0.0.0 kathrin-schwiering.de
+0.0.0.0 katoleiy.com
 0.0.0.0 katuhus.com
 0.0.0.0 katushka.net
 0.0.0.0 katweb.it
@@ -74338,6 +74337,7 @@
 0.0.0.0 track.info.mcknightsseniorliving.com
 0.0.0.0 aas.mclaren.com
 0.0.0.0 at.mclaren.com
+0.0.0.0 mclimix.top
 0.0.0.0 mcloudglobal.com
 0.0.0.0 cdn.mcnn.pl
 0.0.0.0 mcontigo.com
@@ -75478,7 +75478,6 @@
 0.0.0.0 status.ads.microsoft.com
 0.0.0.0 ucm.ads.microsoft.com
 0.0.0.0 ui.ads.microsoft.com
-0.0.0.0 help.ads-int.microsoft.com
 0.0.0.0 adsdk.microsoft.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 community.advertising.microsoft.com
@@ -79182,7 +79181,6 @@
 0.0.0.0 nattepush.com
 0.0.0.0 naturalhealthsource.club
 0.0.0.0 smetrics.naturalizer.com
-0.0.0.0 naturallyedaciousedacious.com
 0.0.0.0 ams.naturalnews.com
 0.0.0.0 analytics.naturalnews.com
 0.0.0.0 premium.naturalnews.tv
@@ -79215,7 +79213,6 @@
 0.0.0.0 nauwheer.net
 0.0.0.0 nauzaphoay.net
 0.0.0.0 telemetry.nav.no
-0.0.0.0 nav1.jp
 0.0.0.0 navaidaosmic.top
 0.0.0.0 navdmp.com
 0.0.0.0 amp.navdmp.com
@@ -81193,7 +81190,6 @@
 0.0.0.0 nxtytjeakstivh.com
 0.0.0.0 nxwdifau.com
 0.0.0.0 nxxkxr.xyz
-0.0.0.0 nxxyjn.com
 0.0.0.0 nxymehwu.com
 0.0.0.0 ny4yze.com
 0.0.0.0 nyadmcncserve-05y06a.com
@@ -81798,6 +81794,7 @@
 0.0.0.0 okpp01021.xyz
 0.0.0.0 okpp01030.xyz
 0.0.0.0 okpp01031.xyz
+0.0.0.0 okpp01040.xyz
 0.0.0.0 okpp12311.xyz
 0.0.0.0 okrasbj6.de
 0.0.0.0 analytics.okstate.edu
@@ -84563,7 +84560,6 @@
 0.0.0.0 pantraidgeometry.com
 0.0.0.0 pantrydivergegene.com
 0.0.0.0 pantslayerboxoffice.com
-0.0.0.0 pantsurplus.com
 0.0.0.0 pantuz.xyz
 0.0.0.0 papaneecorche.com
 0.0.0.0 papanwa.com
@@ -88687,7 +88683,6 @@
 0.0.0.0 pulpix.com
 0.0.0.0 pulpphlegma.shop
 0.0.0.0 pulpreferred.com
-0.0.0.0 pulpybizarre.com
 0.0.0.0 puls.lv
 0.0.0.0 hits.puls.lv
 0.0.0.0 pulsatingmeadow.com
@@ -89229,7 +89224,6 @@
 0.0.0.0 qbhmz3.com
 0.0.0.0 qbhzghb.xyz
 0.0.0.0 qbittorrent.com
-0.0.0.0 qbkrawrkzeyez.top
 0.0.0.0 qbop.com
 0.0.0.0 uplog.qbox.me
 0.0.0.0 analytics.qbrick.com
@@ -89305,7 +89299,6 @@
 0.0.0.0 qewruty.top
 0.0.0.0 qewwklaovmmw.top
 0.0.0.0 qf-ebeydt.top
-0.0.0.0 qfgfpi.cn
 0.0.0.0 qfgtepw.com
 0.0.0.0 qfiofvovgapc.com
 0.0.0.0 qfjherc.com
@@ -89682,6 +89675,7 @@
 0.0.0.0 qq86tbqodk.ru
 0.0.0.0 qqbqy.com
 0.0.0.0 qqganna.icu
+0.0.0.0 qqgiopiwwuv.com
 0.0.0.0 qqguvmf.com
 0.0.0.0 qqjar.ru
 0.0.0.0 qqjfvepr.com
@@ -90300,7 +90294,6 @@
 0.0.0.0 rahmagtgingleaga.info
 0.0.0.0 text.rahmenvereinbarungen.de
 0.0.0.0 rahxfus.com
-0.0.0.0 analytics.raiffeisen.ru
 0.0.0.0 matomo.raiffeisenbank.rs
 0.0.0.0 raigroashoan.net
 0.0.0.0 raijigrip.com
@@ -91494,7 +91487,6 @@
 0.0.0.0 123.reminews.com
 0.0.0.0 2818.reminews.com
 0.0.0.0 remintrex.com
-0.0.0.0 metric.careers.remitly.com
 0.0.0.0 remoifications.info
 0.0.0.0 remor.xyz
 0.0.0.0 remorsefulindependence.com
@@ -96532,7 +96524,6 @@
 0.0.0.0 sw88.shopdisney.eu
 0.0.0.0 sw88.shopdisney.fr
 0.0.0.0 xdcpfs.shopdoen.com
-0.0.0.0 shopdta.com
 0.0.0.0 ccms.shopee.io
 0.0.0.0 dem.shopee.com
 0.0.0.0 gybles.shopee.ph
@@ -98202,7 +98193,7 @@
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 documentation.smartadserver.com
-0.0.0.0 euw2.smartadserver.com
+0.0.0.0 euw1.smartadserver.com
 0.0.0.0 go.smartadserver.com
 0.0.0.0 help.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
@@ -101318,7 +101309,6 @@
 0.0.0.0 ads.sup.com
 0.0.0.0 supapush.net
 0.0.0.0 stat.super.cz
-0.0.0.0 super-grander.jp
 0.0.0.0 super-plans.com
 0.0.0.0 smetrics.super99.com
 0.0.0.0 ads.superad.cc
@@ -103454,6 +103444,7 @@
 0.0.0.0 stag-core.tfla.xyz
 0.0.0.0 tfmgqdj.com
 0.0.0.0 tfosrv.com
+0.0.0.0 tfpipnwengia.com
 0.0.0.0 tfsqxdc.com
 0.0.0.0 tfsxszw.com
 0.0.0.0 tftnbbok.xyz
@@ -104231,7 +104222,6 @@
 0.0.0.0 timeone.pro
 0.0.0.0 smetrics.timeout.com
 0.0.0.0 ugdcxl.timeout.com
-0.0.0.0 timersbedbug.com
 0.0.0.0 z216.times-standard.com
 0.0.0.0 telemetry.timescale.com
 0.0.0.0 r566.timescall.com
@@ -104414,7 +104404,6 @@
 0.0.0.0 tlingitlaisse.top
 0.0.0.0 api.tllms.com
 0.0.0.0 tlmtr.org
-0.0.0.0 tlmybj.cn
 0.0.0.0 tlpfjgsstoytfm.com
 0.0.0.0 tlpyft.xyz
 0.0.0.0 tlrkcj17.de
@@ -107119,6 +107108,7 @@
 0.0.0.0 tzgl.org
 0.0.0.0 www.tzgl.org
 0.0.0.0 tzimmescantara.com
+0.0.0.0 tztmqvga.icu
 0.0.0.0 tzuhumrwypw.com
 0.0.0.0 tzvpn.site
 0.0.0.0 u-ad.info
@@ -107350,7 +107340,6 @@
 0.0.0.0 u.uc123.com
 0.0.0.0 ucarsoft.com
 0.0.0.0 ucationinin.info
-0.0.0.0 uceprotect.at
 0.0.0.0 uceprotect.de
 0.0.0.0 uceprotect.org
 0.0.0.0 ucesreferre.club
@@ -110116,7 +110105,6 @@
 0.0.0.0 piwik.vilua.de
 0.0.0.0 vimaxckc.com
 0.0.0.0 player-telemetry.vimeo.com
-0.0.0.0 telemetry.vimeo.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 vimeonk.com
 0.0.0.0 metrics.vimeopro.com
@@ -111598,7 +111586,6 @@
 0.0.0.0 ometrics.wb.com
 0.0.0.0 sanalytics.wbd.com
 0.0.0.0 wbdqwpu.com
-0.0.0.0 wbesryx.cn
 0.0.0.0 wbidder.online
 0.0.0.0 clk.wbidder.online
 0.0.0.0 crtv.wbidder.online
@@ -112176,7 +112163,6 @@
 0.0.0.0 trk.wellsfargocenterphilly.com
 0.0.0.0 ra.wellsmedia.com
 0.0.0.0 ads.welocal.cloud
-0.0.0.0 welovemondays.fi
 0.0.0.0 welrauns.top
 0.0.0.0 as.welt.de
 0.0.0.0 ast.welt.de
@@ -112877,7 +112863,6 @@
 0.0.0.0 wjct3s8at.com
 0.0.0.0 axp.wjhl.com
 0.0.0.0 wjimtye.top
-0.0.0.0 wjljwqbmmjaqz.top
 0.0.0.0 axp.wjtv.com
 0.0.0.0 wjvavwjyaso.com
 0.0.0.0 wjwod.cyou
@@ -114712,7 +114697,6 @@
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 yabynennet.xyz
 0.0.0.0 www.yabynennet.xyz
-0.0.0.0 yac5t.cn
 0.0.0.0 analytics.yacht.nl
 0.0.0.0 yackvidette.com
 0.0.0.0 yacurlik.com
@@ -115288,7 +115272,6 @@
 0.0.0.0 ynhmwyt.com
 0.0.0.0 ynlfpyeifc.com
 0.0.0.0 ynrije.com
-0.0.0.0 ynslvyou.com
 0.0.0.0 ynwsyl.com
 0.0.0.0 ynyy83za4i.ru
 0.0.0.0 yoads.net

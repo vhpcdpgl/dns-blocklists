@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:27 UTC
-# Version: 2025.0103.2227.11
+# Last modified: 04 Jan 2025 07:42 UTC
+# Version: 2025.0104.0742.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10869
+# Number of entries: 10858
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -6600,7 +6600,6 @@ local=/netotrade.com/
 local=/netraq.de/
 local=/nettradecap.com/
 local=/netwerkplanet.com/
-local=/netz-digitalisierung.com/
 local=/netzteiledirekt.com/
 local=/netzteileladen.de/
 local=/neu-elektrofahrrad.com/
@@ -6651,7 +6650,6 @@ local=/newhabiliment.com/
 local=/newhelicopterrc.com/
 local=/newhikingbootes.com/
 local=/newinaccessories.com/
-local=/newinlingerie.com/
 local=/newinmountain.com/
 local=/newinsnowboard.com/
 local=/newintools.com/
@@ -6716,7 +6714,6 @@ local=/nine-west.de/
 local=/nineraiment.com/
 local=/ninewestwomen.com/
 local=/ninjachemise.com/
-local=/ao.ninxbf.top/
 local=/niriki.shop/
 local=/nitrocapitals.com/
 local=/nitrosnowoutlet.shop/
@@ -7070,7 +7067,6 @@ local=/ordersurfsite.com/
 local=/orf-attoday.com/
 local=/orf-newsat.com/
 local=/orf24at.com/
-local=/orfneews1.com/
 local=/indiafacts.org.in/
 local=/organicbeautyessentials.shop/
 local=/organicsauceshop.com/
@@ -7106,7 +7102,6 @@ local=/thinking.otemo.shop/
 local=/otolikedsm.live/
 local=/otronical.de/
 local=/otto-angebote.de/
-local=/otto-elektro-market.de/
 local=/ottoelektro.de/
 local=/ottonain.com/
 local=/ottonain.net/
@@ -7119,7 +7114,6 @@ local=/ottongi.net/
 local=/ottonx.net/
 local=/ottot.shop/
 local=/ouraltis.de/
-local=/outdoor-eu.shop/
 local=/outdoor-familien.de/
 local=/outdoor-heinz.com/
 local=/outdoor-scott.com/
@@ -7419,7 +7413,6 @@ local=/pillen-apotheke.de/
 local=/pillen-guenstig.de/
 local=/pillenprodukte.de/
 local=/pillola-italia.com/
-local=/pillow-sales.com/
 local=/pills-au.com/
 local=/pills-store-online24.com/
 local=/pillsm.net/
@@ -7507,7 +7500,6 @@ local=/poolina.de/
 local=/popbosch.com/
 local=/popcartruck.com/
 local=/popcutlery.com/
-local=/pope-senna.com/
 local=/popflex-austria.com/
 local=/popkitchen-ware.com/
 local=/popmenshoe.com/
@@ -7518,7 +7510,6 @@ local=/popsportsale.com/
 local=/popular-camping.com/
 local=/popularusfemale.com/
 local=/popustennis.com/
-local=/popwomenshoe.com/
 local=/porlabs.com/
 local=/porte-monnaie.de/
 local=/portesdunet.com/
@@ -7603,7 +7594,6 @@ local=/pro-ben.de/
 local=/pro-binary.com/
 local=/pro-containers.de/
 local=/pro-gruenhandel.de/
-local=/pro-koffee.de/
 local=/pro-kredit-service.de/
 local=/pro-kreditfinanz.de/
 local=/pro-sportshop.com/
@@ -7651,7 +7641,6 @@ local=/promoustool.com/
 local=/promtot.com/
 local=/properties-list.com/
 local=/property-24.com/
-local=/prorecruitxpert-deu.com/
 local=/proridegear.com/
 local=/prosperi.academy/
 local=/prosperi.io/
