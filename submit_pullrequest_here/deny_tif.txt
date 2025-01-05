@@ -1,5 +1,9 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4778
+updateicybd.top/us
+informed.updateicybd.top
+
 # https://github.com/hagezi/dns-blocklists/issues/4777
 icicspin.com
 indo-rummy.com
