@@ -1,5 +1,11 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# Needed for additional Assistant downloads on Android
+geller-pa.googleapis.com
+
+# Google Wallet - breaks adding PKPASS files
+auditrecording-pa.googleapis.com
+
 # Blocks the sending of reports to Apple developers
 iphonesubmissions-old.apple.com
 iphonesubmissions.apple.com
