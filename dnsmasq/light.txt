@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 17:32 UTC
-# Version: 2025.0104.1732.32
+# Last modified: 05 Jan 2025 01:31 UTC
+# Version: 2025.0105.0131.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 70059
+# Number of entries: 70064
 #
 local=/0-02.net/
 local=/000free.us/
@@ -1037,6 +1037,7 @@ local=/314b24ffc5.com/
 local=/314gqd3es.de/
 local=/3158.info/
 local=/d1.3158.cn/
+local=/3165de3ff8.com/
 local=/316feq0nc.de/
 local=/317796hmh.de/
 local=/fe807f067c.3183af8c1d.com/
@@ -1328,6 +1329,7 @@ local=/4fb0cadcc3.com/
 local=/4ffecd1ee4.com/
 local=/4fr.icu/
 local=/4g0b1inr.de/
+local=/collect.4gtv.tv/
 local=/4hfchest5kdnfnut.com/
 local=/4iazoa.xyz/
 local=/smetric.4imprint.com/
@@ -1642,6 +1644,7 @@ local=/6sc.co/
 local=/6snjvxkawrtolv2x.pro/
 local=/6ujk8x9soxhm.com/
 local=/6v41p4bsq.com/
+local=/6w7.icu/
 local=/xsell.6waves.com/
 local=/6xtpke4.com/
 local=/6yfcuuw.com/
@@ -12897,6 +12900,7 @@ local=/smetrics.cdw.com/
 local=/cdwmpt.com/
 local=/cdwmtt.com/
 local=/cdxr53.com/
+local=/cdyurlif.top/
 local=/ads.ce.cn/
 local=/ceaankluwuov.today/
 local=/cealits.com/
@@ -16181,7 +16185,6 @@ local=/servedby.engineeringnews.co.za/
 local=/static.engineeringnews.co.za/
 local=/enhance.co.jp/
 local=/enhanceconnection.co.in/
-local=/enhanceprotocol.co.in/
 local=/erate.co.il/
 local=/smetrics.ernestjones.co.uk/
 local=/dcs.esprit.co.uk/
@@ -38014,6 +38017,7 @@ local=/ldipsuml.top/
 local=/ldjcteyoq.com/
 local=/ldjudcpc-qxm.icu/
 local=/ldmeukeuktyoue.com/
+local=/ldcdn.ldmnq.com/
 local=/ldnlyap.com/
 local=/tq.ldnpointer.online/
 local=/xml-eu-v4.ldnpointer.online/
@@ -38784,6 +38788,7 @@ local=/liquorelectric.com/
 local=/liqwid.com/
 local=/liqwid.net/
 local=/liracdn.com/
+local=/lirretsn.com/
 local=/analytics.lisa-api.net/
 local=/lisamatthew.com/
 local=/tr.news.lisez.com/
@@ -40556,6 +40561,7 @@ local=/saa.maxpreps.com/
 local=/maxreturn.cn/
 local=/maxrilla.com/
 local=/analytics.maxroll.gg/
+local=/maxsecurityultimate.com/
 local=/dcs.maxthon.com/
 local=/push-s.maxthon.com/
 local=/stat-c.maxthon.com/
@@ -44562,6 +44568,7 @@ local=/nmrba.com/
 local=/nmrodam.com/
 local=/nmtcxz.xyz/
 local=/nmxxvr.xyz/
+local=/nmzbrd.icu/
 local=/analytics.nn.ru/
 local=/data.communicatie.nn.nl/
 local=/counter.nn.ru/
@@ -46900,7 +46907,6 @@ local=/ovethecityonatal.info/
 local=/ovfmeawrciuajgb.com/
 local=/ovgtt9j87tgh.world/
 local=/60gp.ovh.net/
-local=/analytics.ovh.com/
 local=/metrics.ovh.net/
 local=/matomo.oviahealth.com/
 local=/ovibospeseta.com/
@@ -60680,7 +60686,6 @@ local=/thri.xxx/
 local=/thrilledrentbull.com/
 local=/thrilledroundaboutreconstruct.com/
 local=/thrillignoringexalt.com/
-local=/thrillingpairsreside.com/
 local=/thrillstwinges.top/
 local=/thrissurcalltaxi.com/
 local=/integrate.thrive.today/
@@ -63779,7 +63784,6 @@ local=/track.usasjbtracking.com/
 local=/cm.usatoday.com/
 local=/sp.usatoday.com/
 local=/sxjfhh.usatoday.com/
-local=/t.usatoday-breakingupdates.com/
 local=/usavisaconsultant.com/
 local=/metrics.usbank.com/
 local=/smetrics.usbank.com/
@@ -65619,6 +65623,7 @@ local=/vtrtl.de/
 local=/a.vturb.net/
 local=/st-a.vtvdigital.vn/
 local=/analytics.vtvsolutions.com/
+local=/uaid.vtwenty.com/
 local=/vtydavos.com/
 local=/vu-kgxwyxpr.online/
 local=/app.vucommodores.com/

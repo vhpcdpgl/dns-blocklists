@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jan 2025 19:16 UTC
-! Version: 2025.0104.1916.07
+! Last modified: 05 Jan 2025 03:29 UTC
+! Version: 2025.0105.0329.34
 ! Syntax: uBlock
 ! Number of latin TLDs: 216 - non-latin TLDs: 151
 !
@@ -172,7 +172,7 @@
 ||red^$doc,domain=~bunkr.red|~xvideos.red
 ||rehab^$doc
 ||rent^$doc,domain=~srv.rent
-||rest^$doc,domain=~crystals.rest|~nect.rest
+||rest^$doc,domain=~crystals.rest|~insomnia.rest|~nect.rest
 ||restaurant^$doc
 ||review^$doc
 ||rich^$doc

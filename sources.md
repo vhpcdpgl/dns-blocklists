@@ -359,6 +359,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/refs/heads/main/SpamDomainsList.txt
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
 https://raw.githubusercontent.com/trendmicro/research/refs/heads/main/botnet_ngioweb/domains_0x00aa44f8.txt
@@ -397,6 +398,7 @@ https://raw.githubusercontent.com/yous/youslist/master/hosts.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
+https://safelyweb.com/scams-database
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
@@ -406,6 +408,7 @@ https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://tranco-list.eu/top-1m.csv.zip
+https://trends.netcraft.com/cybercrime/tlds
 https://urlhaus.abuse.ch/downloads/hostfile
 https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt

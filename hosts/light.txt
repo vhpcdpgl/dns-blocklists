@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 17:32 UTC
-# Version: 2025.0104.1732.32
+# Last modified: 05 Jan 2025 01:31 UTC
+# Version: 2025.0105.0131.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 116609
+# Number of entries: 116614
 #
 0.0.0.0 0-02.net
 0.0.0.0 000free.us
@@ -2762,6 +2762,7 @@
 0.0.0.0 314gqd3es.de
 0.0.0.0 3158.info
 0.0.0.0 d1.3158.cn
+0.0.0.0 3165de3ff8.com
 0.0.0.0 316feq0nc.de
 0.0.0.0 317796hmh.de
 0.0.0.0 fe807f067c.3183af8c1d.com
@@ -3320,6 +3321,7 @@
 0.0.0.0 e1cea7c952.4ffecd1ee4.com
 0.0.0.0 4fr.icu
 0.0.0.0 4g0b1inr.de
+0.0.0.0 collect.4gtv.tv
 0.0.0.0 4hfchest5kdnfnut.com
 0.0.0.0 4iazoa.xyz
 0.0.0.0 smetric.4imprint.com
@@ -3756,6 +3758,7 @@
 0.0.0.0 6snjvxkawrtolv2x.pro
 0.0.0.0 6ujk8x9soxhm.com
 0.0.0.0 6v41p4bsq.com
+0.0.0.0 6w7.icu
 0.0.0.0 xsell.6waves.com
 0.0.0.0 6xtpke4.com
 0.0.0.0 www.6xtpke4.com
@@ -32589,6 +32592,7 @@
 0.0.0.0 cdwmtt.com
 0.0.0.0 pt.cdwmtt.com
 0.0.0.0 cdxr53.com
+0.0.0.0 cdyurlif.top
 0.0.0.0 ads.ce.cn
 0.0.0.0 ceaankluwuov.today
 0.0.0.0 cealits.com
@@ -36307,7 +36311,6 @@
 0.0.0.0 rise.enhance.co.jp
 0.0.0.0 static-rise.enhance.co.jp
 0.0.0.0 enhanceconnection.co.in
-0.0.0.0 enhanceprotocol.co.in
 0.0.0.0 erate.co.il
 0.0.0.0 media.erate.co.il
 0.0.0.0 rep.erate.co.il
@@ -70948,6 +70951,7 @@
 0.0.0.0 ldjcteyoq.com
 0.0.0.0 ldjudcpc-qxm.icu
 0.0.0.0 ldmeukeuktyoue.com
+0.0.0.0 ldcdn.ldmnq.com
 0.0.0.0 ldnlyap.com
 0.0.0.0 api.ldnlyap.com
 0.0.0.0 tq.ldnpointer.online
@@ -72013,6 +72017,7 @@
 0.0.0.0 liqwid.net
 0.0.0.0 www.liqwid.net
 0.0.0.0 liracdn.com
+0.0.0.0 lirretsn.com
 0.0.0.0 analytics.lisa-api.net
 0.0.0.0 lisamatthew.com
 0.0.0.0 tr.news.lisez.com
@@ -74223,6 +74228,7 @@
 0.0.0.0 maxreturn.cn
 0.0.0.0 maxrilla.com
 0.0.0.0 analytics.maxroll.gg
+0.0.0.0 maxsecurityultimate.com
 0.0.0.0 dcs.maxthon.com
 0.0.0.0 push-s.maxthon.com
 0.0.0.0 stat-c.maxthon.com
@@ -80431,6 +80437,7 @@
 0.0.0.0 uaid.nmrodam.com
 0.0.0.0 nmtcxz.xyz
 0.0.0.0 nmxxvr.xyz
+0.0.0.0 nmzbrd.icu
 0.0.0.0 analytics.nn.ru
 0.0.0.0 data.communicatie.nn.nl
 0.0.0.0 counter.nn.ru
@@ -84008,7 +84015,6 @@
 0.0.0.0 ovfmeawrciuajgb.com
 0.0.0.0 ovgtt9j87tgh.world
 0.0.0.0 60gp.ovh.net
-0.0.0.0 analytics.ovh.com
 0.0.0.0 metrics.ovh.net
 0.0.0.0 matomo.oviahealth.com
 0.0.0.0 ovibospeseta.com
@@ -103988,7 +103994,6 @@
 0.0.0.0 thrilledrentbull.com
 0.0.0.0 thrilledroundaboutreconstruct.com
 0.0.0.0 thrillignoringexalt.com
-0.0.0.0 thrillingpairsreside.com
 0.0.0.0 thrillstwinges.top
 0.0.0.0 thrissurcalltaxi.com
 0.0.0.0 integrate.thrive.today
@@ -108529,7 +108534,6 @@
 0.0.0.0 cm.usatoday.com
 0.0.0.0 sp.usatoday.com
 0.0.0.0 sxjfhh.usatoday.com
-0.0.0.0 t.usatoday-breakingupdates.com
 0.0.0.0 usavisaconsultant.com
 0.0.0.0 www.usavisaconsultant.com
 0.0.0.0 metrics.usbank.com
@@ -111069,6 +111073,7 @@
 0.0.0.0 a.vturb.net
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 analytics.vtvsolutions.com
+0.0.0.0 uaid.vtwenty.com
 0.0.0.0 vtydavos.com
 0.0.0.0 www.vtydavos.com
 0.0.0.0 vu-kgxwyxpr.online

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736011920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736040660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jan 2025 17:32 UTC
-; Version: 2025.0104.1732.32
+; Last modified: 05 Jan 2025 01:31 UTC
+; Version: 2025.0105.0131.35
 ; Syntax: RPZ
-; Number of entries: 140118
+; Number of entries: 140128
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -7897,6 +7897,8 @@ analytics.300624.com CNAME .
 *.312elementsweb.com CNAME .
 314b24ffc5.com CNAME .
 *.314b24ffc5.com CNAME .
+3165de3ff8.com CNAME .
+*.3165de3ff8.com CNAME .
 fe807f067c.3183af8c1d.com CNAME .
 *.fe807f067c.3183af8c1d.com CNAME .
 31a422feac.com CNAME .
@@ -50569,6 +50571,8 @@ ldjcteyoq.com CNAME .
 *.ldjcteyoq.com CNAME .
 ldmeukeuktyoue.com CNAME .
 *.ldmeukeuktyoue.com CNAME .
+ldcdn.ldmnq.com CNAME .
+*.ldcdn.ldmnq.com CNAME .
 ldnlyap.com CNAME .
 *.ldnlyap.com CNAME .
 metric.ldsglbuk.com CNAME .
@@ -51491,6 +51495,8 @@ liqwid.com CNAME .
 *.liqwid.com CNAME .
 liracdn.com CNAME .
 *.liracdn.com CNAME .
+lirretsn.com CNAME .
+*.lirretsn.com CNAME .
 lisamatthew.com CNAME .
 *.lisamatthew.com CNAME .
 tr.news.lisez.com CNAME .
@@ -53849,6 +53855,8 @@ saa.maxpreps.com CNAME .
 *.saa.maxpreps.com CNAME .
 maxrilla.com CNAME .
 *.maxrilla.com CNAME .
+maxsecurityultimate.com CNAME .
+*.maxsecurityultimate.com CNAME .
 dcs.maxthon.com CNAME .
 *.dcs.maxthon.com CNAME .
 push-s.maxthon.com CNAME .
@@ -61951,8 +61959,6 @@ overzubatan.com CNAME .
 *.overzubatan.com CNAME .
 ovfmeawrciuajgb.com CNAME .
 *.ovfmeawrciuajgb.com CNAME .
-analytics.ovh.com CNAME .
-*.analytics.ovh.com CNAME .
 matomo.oviahealth.com CNAME .
 *.matomo.oviahealth.com CNAME .
 ovibospeseta.com CNAME .
@@ -80699,8 +80705,6 @@ thrilledroundaboutreconstruct.com CNAME .
 *.thrilledroundaboutreconstruct.com CNAME .
 thrillignoringexalt.com CNAME .
 *.thrillignoringexalt.com CNAME .
-thrillingpairsreside.com CNAME .
-*.thrillingpairsreside.com CNAME .
 thrissurcalltaxi.com CNAME .
 *.thrissurcalltaxi.com CNAME .
 thrivebubble.com CNAME .
@@ -84779,8 +84783,6 @@ sp.usatoday.com CNAME .
 *.sp.usatoday.com CNAME .
 sxjfhh.usatoday.com CNAME .
 *.sxjfhh.usatoday.com CNAME .
-t.usatoday-breakingupdates.com CNAME .
-*.t.usatoday-breakingupdates.com CNAME .
 usavisaconsultant.com CNAME .
 *.usavisaconsultant.com CNAME .
 metrics.usbank.com CNAME .
@@ -87255,6 +87257,8 @@ vtoajoyxqicss.com CNAME .
 *.vtoajoyxqicss.com CNAME .
 analytics.vtvsolutions.com CNAME .
 *.analytics.vtvsolutions.com CNAME .
+uaid.vtwenty.com CNAME .
+*.uaid.vtwenty.com CNAME .
 vtydavos.com CNAME .
 *.vtydavos.com CNAME .
 app.vucommodores.com CNAME .
@@ -99169,6 +99173,8 @@ webaudit.hu CNAME .
 *.6cs.icu CNAME .
 6ku.icu CNAME .
 *.6ku.icu CNAME .
+6w7.icu CNAME .
+*.6w7.icu CNAME .
 6zfem.icu CNAME .
 *.6zfem.icu CNAME .
 8cp.icu CNAME .
@@ -99489,6 +99495,8 @@ nm2.icu CNAME .
 *.nm2.icu CNAME .
 nmhbmfxh.icu CNAME .
 *.nmhbmfxh.icu CNAME .
+nmzbrd.icu CNAME .
+*.nmzbrd.icu CNAME .
 nnfbxz.icu CNAME .
 *.nnfbxz.icu CNAME .
 nqvi-lnlu.icu CNAME .
@@ -100123,8 +100131,6 @@ metrics.egencia.co.in CNAME .
 *.metrics.egencia.co.in CNAME .
 enhanceconnection.co.in CNAME .
 *.enhanceconnection.co.in CNAME .
-enhanceprotocol.co.in CNAME .
-*.enhanceprotocol.co.in CNAME .
 examated.co.in CNAME .
 *.examated.co.in CNAME .
 ggoffo.co.in CNAME .
@@ -131585,6 +131591,8 @@ cdn-server.top CNAME .
 *.cdn-server.top CNAME .
 cdoshbf.top CNAME .
 *.cdoshbf.top CNAME .
+cdyurlif.top CNAME .
+*.cdyurlif.top CNAME .
 cephidcoastal.top CNAME .
 *.cephidcoastal.top CNAME .
 cetlwsf.top CNAME .
@@ -133523,6 +133531,8 @@ stat5.1internet.tv CNAME .
 *.1serial.tv CNAME .
 metrics.24h.tv CNAME .
 *.metrics.24h.tv CNAME .
+collect.4gtv.tv CNAME .
+*.collect.4gtv.tv CNAME .
 adap.tv CNAME .
 *.adap.tv CNAME .
 adapt.tv CNAME .

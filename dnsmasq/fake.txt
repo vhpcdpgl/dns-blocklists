@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 15:45 UTC
-# Version: 2025.0104.1545.57
+# Last modified: 04 Jan 2025 23:43 UTC
+# Version: 2025.0104.2343.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10848
+# Number of entries: 10839
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -4354,7 +4354,6 @@ local=/hcifund.com/
 local=/hcm.clinic/
 local=/hcwg-tech.de/
 local=/hd-shisha-shop.shop/
-local=/hdtvcar.com/
 local=/he.de/
 local=/headlinesworldnews.com/
 local=/healthcarebanker.com/
@@ -5300,7 +5299,6 @@ local=/kidgames.life/
 local=/kidinix.uk/
 local=/kids-premium.com/
 local=/kidsimply.shop/
-local=/kidstoysschritte.de/
 local=/kidstriderite.com/
 local=/kidywib.com/
 local=/killenclinical.com/
@@ -9101,13 +9099,11 @@ local=/sultrydelights.com/
 local=/summer-island.de/
 local=/summervibes.de/
 local=/sun-market.eu/
-local=/sun-real-estate.com/
 local=/sunbike-shop.com/
 local=/sunbike-shop.de/
 local=/sunfulfillmentstore.de/
 local=/sunglasses-best.com/
 local=/sunglowshade.com/
-local=/suniceteameffort.com/
 local=/sunlitecycle.com/
 local=/sunlitstyles.com/
 local=/sunmorrison.com/
@@ -9236,7 +9232,6 @@ local=/synthesizestylish.com/
 local=/syntheticalusbag.com/
 local=/syos-space.capital/
 local=/systv-racks.de/
-local=/sz-fishing.de/
 local=/sztuka-handel.de/
 local=/t-lovelock.com/
 local=/t7cafe.de/
@@ -9536,7 +9531,6 @@ local=/thule-4-kids.uk/
 local=/thule-anhaenger.de/
 local=/thule-chariot.uk/
 local=/thule-multisport.uk/
-local=/thuleoutdoor.de/
 local=/thuletour.de/
 local=/thursdayboots.ae/
 local=/thursdayboots.at/
@@ -9811,7 +9805,6 @@ local=/trendytoyus.com/
 local=/trendyuslady.com/
 local=/trendyvogue.com/
 local=/trennschleiferde.com/
-local=/treppauf-treppab.de/
 local=/trias-consulting.net/
 local=/trikoa.com/
 local=/trikots4u.com/
@@ -9881,12 +9874,10 @@ local=/tuxedoredefined.com/
 local=/tuxieon.com/
 local=/tv-sideboards-sale.com/
 local=/tvlowboards.de/
-local=/webtrader.twelvewhales.com/
 local=/twilight-fans.de/
 local=/twinbusch.net/
 local=/twinsfitness.shop/
 local=/twinsspecialuae.ae/
-local=/twixxy.com/
 local=/twoodhandels.com/
 local=/twosun-knives.com/
 local=/tximarkets.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736005500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736034180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jan 2025 15:45 UTC
-; Version: 2025.0104.1545.57
+; Last modified: 04 Jan 2025 23:43 UTC
+; Version: 2025.0104.2343.48
 ; Syntax: RPZ
-; Number of entries: 21696
+; Number of entries: 21678
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -5931,8 +5931,6 @@ hazeuhren.com CNAME .
 *.hazeuhren.com CNAME .
 hcifund.com CNAME .
 *.hcifund.com CNAME .
-hdtvcar.com CNAME .
-*.hdtvcar.com CNAME .
 headlinesworldnews.com CNAME .
 *.headlinesworldnews.com CNAME .
 healthcarebanker.com CNAME .
@@ -11417,16 +11415,12 @@ sukehiro.com CNAME .
 *.sukehiro.com CNAME .
 sultrydelights.com CNAME .
 *.sultrydelights.com CNAME .
-sun-real-estate.com CNAME .
-*.sun-real-estate.com CNAME .
 sunbike-shop.com CNAME .
 *.sunbike-shop.com CNAME .
 sunglasses-best.com CNAME .
 *.sunglasses-best.com CNAME .
 sunglowshade.com CNAME .
 *.sunglowshade.com CNAME .
-suniceteameffort.com CNAME .
-*.suniceteameffort.com CNAME .
 sunlitecycle.com CNAME .
 *.sunlitecycle.com CNAME .
 sunlitstyles.com CNAME .
@@ -12443,10 +12437,6 @@ tuxieon.com CNAME .
 *.tuxieon.com CNAME .
 tv-sideboards-sale.com CNAME .
 *.tv-sideboards-sale.com CNAME .
-webtrader.twelvewhales.com CNAME .
-*.webtrader.twelvewhales.com CNAME .
-twixxy.com CNAME .
-*.twixxy.com CNAME .
 twoodhandels.com CNAME .
 *.twoodhandels.com CNAME .
 twosun-knives.com CNAME .
@@ -15817,8 +15807,6 @@ kfz-ersatzteilede.de CNAME .
 *.kfz-ersatzteilede.de CNAME .
 khevga23.de CNAME .
 *.khevga23.de CNAME .
-kidstoysschritte.de CNAME .
-*.kidstoysschritte.de CNAME .
 killstarneu.de CNAME .
 *.killstarneu.de CNAME .
 kinderglitzern.de CNAME .
@@ -17351,8 +17339,6 @@ swiss-bitcoins-etf.de CNAME .
 *.swiss-bitcoins-etf.de CNAME .
 systv-racks.de CNAME .
 *.systv-racks.de CNAME .
-sz-fishing.de CNAME .
-*.sz-fishing.de CNAME .
 sztuka-handel.de CNAME .
 *.sztuka-handel.de CNAME .
 t7cafe.de CNAME .
@@ -17447,8 +17433,6 @@ thul-christensen.de CNAME .
 *.thul-christensen.de CNAME .
 thule-anhaenger.de CNAME .
 *.thule-anhaenger.de CNAME .
-thuleoutdoor.de CNAME .
-*.thuleoutdoor.de CNAME .
 thuletour.de CNAME .
 *.thuletour.de CNAME .
 thursdayboots.de CNAME .
@@ -17525,8 +17509,6 @@ trend-it.de CNAME .
 *.trend-it.de CNAME .
 trendycarparts.de CNAME .
 *.trendycarparts.de CNAME .
-treppauf-treppab.de CNAME .
-*.treppauf-treppab.de CNAME .
 trikotsale.de CNAME .
 *.trikotsale.de CNAME .
 trivona.de CNAME .
