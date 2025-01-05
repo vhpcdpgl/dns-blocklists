@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736034180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736062980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jan 2025 23:43 UTC
-; Version: 2025.0104.2343.48
+; Last modified: 05 Jan 2025 07:43 UTC
+; Version: 2025.0105.0743.51
 ; Syntax: RPZ
-; Number of entries: 21678
+; Number of entries: 21670
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -12775,6 +12775,8 @@ m.vbridal.com CNAME .
 *.m.vbridal.com CNAME .
 vcdlgroup.com CNAME .
 *.vcdlgroup.com CNAME .
+vclothesus.com CNAME .
+*.vclothesus.com CNAME .
 vcs-germany.com CNAME .
 *.vcs-germany.com CNAME .
 vdelsra.com CNAME .
@@ -12833,8 +12835,6 @@ verkaufsmarkt.com CNAME .
 *.verkaufsmarkt.com CNAME .
 verlockungnachrichten.com CNAME .
 *.verlockungnachrichten.com CNAME .
-vernacowper.com CNAME .
-*.vernacowper.com CNAME .
 versandhaus-lange.com CNAME .
 *.versandhaus-lange.com CNAME .
 versandpharma.com CNAME .
@@ -13049,8 +13049,6 @@ watercupvogue.com CNAME .
 *.watercupvogue.com CNAME .
 watermotionod.com CNAME .
 *.watermotionod.com CNAME .
-waxjacketsale.com CNAME .
-*.waxjacketsale.com CNAME .
 wayofwadeshoesuk.com CNAME .
 *.wayofwadeshoesuk.com CNAME .
 wdk-rasenmaher.com CNAME .
@@ -13453,8 +13451,6 @@ zahmerbikes.com CNAME .
 *.zahmerbikes.com CNAME .
 zainabchemicals.com CNAME .
 *.zainabchemicals.com CNAME .
-zalandode.com CNAME .
-*.zalandode.com CNAME .
 zamratech-de.com CNAME .
 *.zamratech-de.com CNAME .
 zamratech-sf.com CNAME .
@@ -17625,8 +17621,6 @@ versandoase.de CNAME .
 *.versandoase.de CNAME .
 versandpillen.de CNAME .
 *.versandpillen.de CNAME .
-versandwunder.de CNAME .
-*.versandwunder.de CNAME .
 verschenkefreu.de CNAME .
 *.verschenkefreu.de CNAME .
 vertrauenwin.de CNAME .
@@ -21045,8 +21039,6 @@ windowpartscenter.shop CNAME .
 *.windowpartscenter.shop CNAME .
 wirkt.shop CNAME .
 *.wirkt.shop CNAME .
-shop.wmrwmry.shop CNAME .
-*.shop.wmrwmry.shop CNAME .
 wohnideebilder.shop CNAME .
 *.wohnideebilder.shop CNAME .
 wolfgang-hagen.shop CNAME .

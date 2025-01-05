@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 23:43 UTC
-# Version: 2025.0104.2343.48
+# Last modified: 05 Jan 2025 07:43 UTC
+# Version: 2025.0105.0743.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10839
+# Number of entries: 10835
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -10126,6 +10126,7 @@ local=/vayco.de/
 local=/vbarefootkaufen.de/
 local=/m.vbridal.com/
 local=/vcdlgroup.com/
+local=/vclothesus.com/
 local=/vconnectworld.net/
 local=/vcs-germany.com/
 local=/vdelsra.com/
@@ -10186,7 +10187,6 @@ local=/verkaufmode.de/
 local=/verkaufsmarkt.com/
 local=/verlockungnachrichten.com/
 local=/vermo-handel.de/
-local=/vernacowper.com/
 local=/versand-ogitoys.de/
 local=/versand-potenzmittel.de/
 local=/versandeasy.top/
@@ -10195,7 +10195,6 @@ local=/versandhaus-lange.com/
 local=/versandoase.de/
 local=/versandpharma.com/
 local=/versandpillen.de/
-local=/versandwunder.de/
 local=/verschenkefreu.de/
 local=/verse-corp-network.com/
 local=/versuni-germany.shop/
@@ -10418,7 +10417,6 @@ local=/waterfilterprada.de/
 local=/waterkant.shop/
 local=/watermotionod.com/
 local=/wattcafe.fr/
-local=/waxjacketsale.com/
 local=/wayofwade.at/
 local=/wayofwadeshoesuk.com/
 local=/wayoutgermany.shop/
@@ -10580,7 +10578,6 @@ local=/wisewealth.ai/
 local=/reiseweltat6.wixsite.com/
 local=/wlamazon.com/
 local=/wlinc.com/
-local=/shop.wmrwmry.shop/
 local=/wnakuhj.com/
 local=/wndirectusa.com/
 local=/wobeg.com/
@@ -10774,7 +10771,6 @@ local=/zagnia.de/
 local=/zahmerbikes.com/
 local=/zahnpflegerabatt.de/
 local=/zainabchemicals.com/
-local=/zalandode.com/
 local=/zaliase.de/
 local=/zalieroo.de/
 local=/zaloweb.me/

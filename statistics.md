@@ -54,7 +54,7 @@
  19 |      90% |  10% |      0% | Balanced Extension
  20 |      85% |   7% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  21 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 22 |      87% |   5% |      8% | Advanced Extension
+ 22 |      88% |   5% |      7% | Advanced Extension
  23 |      78% |  21% |      1% | Denylist Community Threat Intelligence Feeds
  24 |      64% |  21% |     15% | Denylist Community Advanced
 ```
