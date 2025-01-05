@@ -1,5 +1,8 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4776
+supporthubcenter.eu
+
 # https://github.com/hagezi/dns-blocklists/issues/4768
 postcanadaadbyv.top
 postcanadafoowy.top
