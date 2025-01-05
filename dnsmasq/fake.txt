@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jan 2025 07:43 UTC
-# Version: 2025.0105.0743.51
+# Last modified: 05 Jan 2025 15:43 UTC
+# Version: 2025.0105.1543.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10835
+# Number of entries: 10833
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -699,6 +699,7 @@ local=/avaxmarkets.com/
 local=/avelu.de/
 local=/avenado-home.de/
 local=/avenaprime.com/
+local=/avenexco.com/
 local=/avengeapollo.com/
 local=/avl-fahrraeder.com/
 local=/avorino.com/
@@ -6441,7 +6442,6 @@ local=/muhs-spielwaren.com/
 local=/muidi.com/
 local=/mulovesm.best/
 local=/multi-kredit.com/
-local=/multibankfx.com/
 local=/multicoin-invest.com/
 local=/multimedia-lautsprecher-store.com/
 local=/multioutdoorarea.com/
@@ -10236,7 +10236,6 @@ local=/vibramshoes-usa.com/
 local=/viceregale.com/
 local=/vicotoris.com/
 local=/victoriassecrets.at/
-local=/videforex.com/
 local=/videoastrum.net/
 local=/videohobbies.com/
 local=/videospiel-markt.de/
@@ -10840,7 +10839,6 @@ local=/zuperiu.de/
 local=/zurichregionblick.com/
 local=/zweirad-falk.com/
 local=/zweirad4you.com/
-local=/zwillinesale.shop/
 local=/zwischenportal.com/
 local=/zybux.shop/
 local=/zyclisto.de/

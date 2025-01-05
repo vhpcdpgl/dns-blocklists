@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 19:14 UTC
-# Version: 2025.0104.1914.43
+# Last modified: 05 Jan 2025 19:25 UTC
+# Version: 2025.0105.1925.13
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 3733
 #
@@ -1874,7 +1874,6 @@
 *.dns.mihanentalpo.me
 *.dns.mikeliu.org
 *.mikezhang.xyz
-*.dns.milkpie.one
 *.minilla.store
 *.miniprox.com
 *.miniprox.info
@@ -2024,6 +2023,7 @@
 *.dns.aa.net.uk
 *.doh.infotek.net.id
 *.doh.max.net.id
+*.ns.net.kg
 *.net-ml.online
 *.netaltr.com
 *.netnut.io

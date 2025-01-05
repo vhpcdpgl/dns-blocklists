@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736062980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736091780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jan 2025 07:43 UTC
-; Version: 2025.0105.0743.51
+; Last modified: 05 Jan 2025 15:43 UTC
+; Version: 2025.0105.1543.00
 ; Syntax: RPZ
-; Number of entries: 21670
+; Number of entries: 21666
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -1849,6 +1849,8 @@ avaxmarkets.com CNAME .
 *.avaxmarkets.com CNAME .
 avenaprime.com CNAME .
 *.avenaprime.com CNAME .
+avenexco.com CNAME .
+*.avenexco.com CNAME .
 avengeapollo.com CNAME .
 *.avengeapollo.com CNAME .
 avl-fahrraeder.com CNAME .
@@ -8195,8 +8197,6 @@ muidi.com CNAME .
 *.muidi.com CNAME .
 multi-kredit.com CNAME .
 *.multi-kredit.com CNAME .
-multibankfx.com CNAME .
-*.multibankfx.com CNAME .
 multicoin-invest.com CNAME .
 *.multicoin-invest.com CNAME .
 multimedia-lautsprecher-store.com CNAME .
@@ -12891,8 +12891,6 @@ viceregale.com CNAME .
 *.viceregale.com CNAME .
 vicotoris.com CNAME .
 *.vicotoris.com CNAME .
-videforex.com CNAME .
-*.videforex.com CNAME .
 videohobbies.com CNAME .
 *.videohobbies.com CNAME .
 viennareps.com CNAME .
@@ -21097,8 +21095,6 @@ zpalette.shop CNAME .
 *.zpalette.shop CNAME .
 zufmatep.shop CNAME .
 *.zufmatep.shop CNAME .
-zwillinesale.shop CNAME .
-*.zwillinesale.shop CNAME .
 zybux.shop CNAME .
 *.zybux.shop CNAME .
 impulsa.shopping CNAME .

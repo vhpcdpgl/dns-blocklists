@@ -15,6 +15,13 @@
       }
     },
     {
+      "PK": "auditrecording-pa.googleapis.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cdn.opecloud.com",
       "action": {
         "do": 1,
@@ -23,6 +30,13 @@
     },
     {
       "PK": "fundingchoicesmessages.google.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "geller-pa.googleapis.com",
       "action": {
         "do": 1,
         "status": 1

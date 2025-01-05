@@ -56,7 +56,7 @@
  21 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      88% |   5% |      7% | Advanced Extension
  23 |      78% |  21% |      1% | Denylist Community Threat Intelligence Feeds
- 24 |      64% |  21% |     15% | Denylist Community Advanced
+ 24 |      65% |  21% |     14% | Denylist Community Advanced
 ```
 #### PRO.PLUS
 ```
@@ -82,7 +82,7 @@
  19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      89% |   5% |      6% | Advanced Extension
  21 |      79% |  21% |      0% | Denylist Community Threat Intelligence Feeds
- 22 |      68% |  21% |     11% | Denylist Community Advanced
+ 22 |      69% |  21% |     10% | Denylist Community Advanced
  23 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |      83% |   0% |     17% | Native Tracker TikTok Extended (Fingerprinting)
@@ -113,7 +113,7 @@
  19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      90% |   5% |      5% | Advanced Extension
  21 |      79% |  21% |      0% | Denylist Community Threat Intelligence Feeds
- 22 |      68% |  21% |     11% | Denylist Community Advanced
+ 22 |      69% |  21% |     10% | Denylist Community Advanced
  23 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
@@ -122,5 +122,5 @@
  28 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  29 |      91% |   6% |      3% | Ultimate Extension
  30 |      88% |   6% |      6% | Denylist Aggressive
- 31 |      70% |  27% |      3% | Denylist Community Ultimate
+ 31 |      71% |  26% |      3% | Denylist Community Ultimate
 ```

@@ -2752,6 +2752,13 @@
       }
     },
     {
+      "PK": "track.connect.travelaudience.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "track*.customer.io",
       "action": {
         "do": 1,
