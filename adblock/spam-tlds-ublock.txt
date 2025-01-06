@@ -3,6 +3,7 @@
 ! Description: The Top Most Abused Top Level Domains
 ! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 !         https://radar.cloudflare.com/email-security
+!         https://trends.netcraft.com/cybercrime/tlds
 !         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 !         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 !         https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
@@ -10,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jan 2025 03:29 UTC
-! Version: 2025.0105.0329.34
+! Last modified: 06 Jan 2025 03:26 UTC
+! Version: 2025.0106.0326.57
 ! Syntax: uBlock
-! Number of latin TLDs: 216 - non-latin TLDs: 151
+! Number of latin TLDs: 220 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -52,6 +53,7 @@
 ||center^$doc,domain=~priv.center
 ||cfd^$doc,domain=~freedium.cfd
 ||charity^$doc
+||chat^$doc
 ||christmas^$doc
 ||church^$doc,domain=~life.church|~online.church
 ||city^$doc,domain=~bypass.city|~ops.city
@@ -108,6 +110,7 @@
 ||haus^$doc
 ||health^$doc,domain=~sca.health
 ||healthcare^$doc
+||help^$doc
 ||homes^$doc,domain=~stremio.homes
 ||icu^$doc,domain=~lunar.icu|~mon.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink|~shrinkme.ink|~sumerian.ink|~work.ink
@@ -171,6 +174,7 @@
 ||recipes^$doc
 ||red^$doc,domain=~bunkr.red|~xvideos.red
 ||rehab^$doc
+||ren^$doc
 ||rent^$doc,domain=~srv.rent
 ||rest^$doc,domain=~crystals.rest|~insomnia.rest|~nect.rest
 ||restaurant^$doc
@@ -187,6 +191,7 @@
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
 ||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~grnk.shop|~grog.shop|~henssler.shop|~munu.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
 ||shopping^$doc
+||show^$doc
 ||site^$doc,domain=~aftermath.site|~claude.site|~dodi-repacks.site|~elamigos.site|~fbsmarthome.site|~fitgirl-repacks.site|~gov-img.site|~notion.site|~onrocket.site|~reddit-doesnt-like-this.site|~wishonly.site|~wpdns.site
 ||skin^$doc,domain=~quermbbd.skin
 ||solar^$doc,domain=~forecast.solar

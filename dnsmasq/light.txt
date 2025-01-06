@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jan 2025 17:29 UTC
-# Version: 2025.0105.1729.02
+# Last modified: 06 Jan 2025 01:32 UTC
+# Version: 2025.0106.0132.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 70290
+# Number of entries: 70288
 #
 local=/0-02.net/
 local=/000free.us/
@@ -1101,6 +1101,7 @@ local=/360ads.com/
 local=/domcwlxin.360doc.cn/
 local=/dtnaximya.360doc.cn/
 local=/eclick.360doc.com/
+local=/hcirentgh.360doc.cn/
 local=/hjkhxfh.360doc.cn/
 local=/xne1ocient87zxz.360doc.cn/
 local=/360i.com/
@@ -1320,7 +1321,6 @@ local=/4e0622e316.com/
 local=/df48924623.4e16b2e294.com/
 local=/4e645c7cf2.com/
 local=/4e8bjpldk.com/
-local=/4ed196b502.com/
 local=/4ed5560812.com/
 local=/4fb0cadcc3.com/
 local=/4ffecd1ee4.com/
@@ -1805,7 +1805,6 @@ local=/888xx222kk.com/
 local=/88eq7spm.de/
 local=/88fc493306.com/
 local=/88la.la/
-local=/88lm02.com/
 local=/88lm03.com/
 local=/88lm04.com/
 local=/88lm05.com/
@@ -9589,7 +9588,6 @@ local=/best-prize.life/
 local=/best-seat.pro/
 local=/best-site-online.com/
 local=/best-top.de/
-local=/best-top.ro/
 local=/best-u.vip/
 local=/best-video-app.com/
 local=/best-vpn-app.com/
@@ -32382,6 +32380,7 @@ local=/hit-parade.com/
 local=/hit2map.com/
 local=/elqtracking.hitachienergy.com/
 local=/trackingaa.hitachienergy.com/
+local=/hitalsli.com/
 local=/hitapps.com/
 local=/hitbip.com/
 local=/hitbox.com/
@@ -36017,6 +36016,7 @@ local=/analytics.jjkellersafety.com/
 local=/analytics.jjkellertraining.com/
 local=/jjlgbyd.in/
 local=/jjmrmeovo.world/
+local=/jjplaqyo.icu/
 local=/analytics.jjshouse.com/
 local=/nbfopy.jjshouse.com/
 local=/jjthmis.com/
@@ -36324,7 +36324,6 @@ local=/judicialclinging.com/
 local=/judin.ru/
 local=/analytics.judo.app/
 local=/judosllyn.com/
-local=/jugnepha.xyz/
 local=/juhlkuu.com/
 local=/juhooqv.cn/
 local=/juiceadv.com/
@@ -38079,6 +38078,7 @@ local=/lclimil.top/
 local=/lcmbppikwtxujc.xyz/
 local=/trk.lcn.com/
 local=/lcolumnstoodth.info/
+local=/lcvwdn.icu/
 local=/sgtm.lcwaikiki.com/
 local=/static.lcwaikiki.com/
 local=/lcwfabt1.com/
@@ -56604,7 +56604,7 @@ local=/demo.smartadserver.com/
 local=/diff.smartadserver.com/
 local=/diff3.smartadserver.com/
 local=/documentation.smartadserver.com/
-local=/euw2.smartadserver.com/
+local=/euw1.smartadserver.com/
 local=/go.smartadserver.com/
 local=/help.smartadserver.com/
 local=/itx4.smartadserver.com/
@@ -58815,7 +58815,6 @@ local=/widget.subiz.net/
 local=/subiz-cdn.com/
 local=/subjectamazement.com/
 local=/subjectedburglar.com/
-local=/subjectscooter.com/
 local=/subjectsfaintly.com/
 local=/sublimemedia.net/
 local=/sublimequartz.com/
@@ -61244,6 +61243,7 @@ local=/tiurll.com/
 local=/tivapheegnoa.com/
 local=/tivatingotherem.info/
 local=/tivetrainingukm.com/
+local=/tixoilll.com/
 local=/tiypa.com/
 local=/tize.no/
 local=/tizerbank.com/
@@ -63225,7 +63225,6 @@ local=/ugajiwft.icu/
 local=/ugbkfsvqkayt.icu/
 local=/ugdtimg.com/
 local=/ugdturner.com/
-local=/ugeewhee.xyz/
 local=/uggeboots.com/
 local=/ughtanothin.info/
 local=/ughzfjx.com/
@@ -69819,7 +69818,6 @@ local=/zetheesug.com/
 local=/zeusadx.com/
 local=/zeustechnology.com/
 local=/analytics.zevoinsect.com/
-local=/zevwkbzwkblle.top/
 local=/zexardoussesa.net/
 local=/zeyappland.com/
 local=/zeydoo.com/

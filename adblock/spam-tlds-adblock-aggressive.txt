@@ -3,16 +3,17 @@
 ! Description: The Top Most Abused Top Level Domains
 ! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 !         https://radar.cloudflare.com/email-security
+!         https://trends.netcraft.com/cybercrime/tlds
 !         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 !         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jan 2025 03:29 UTC
-! Version: 2025.0105.0329.34
+! Last modified: 06 Jan 2025 03:26 UTC
+! Version: 2025.0106.0326.57
 ! Syntax: AdBlock
-! Number of latin TLDs: 216 - punycode TLDs: 151
+! Number of latin TLDs: 220 - punycode TLDs: 151
 !
 ||actor^
 ||africa^
@@ -51,6 +52,7 @@
 ||center^
 ||cfd^
 ||charity^
+||chat^
 ||christmas^
 ||church^
 ||city^
@@ -107,6 +109,7 @@
 ||haus^
 ||health^
 ||healthcare^
+||help^
 ||homes^
 ||icu^
 ||ink^
@@ -170,6 +173,7 @@
 ||recipes^
 ||red^
 ||rehab^
+||ren^
 ||rent^
 ||rest^
 ||restaurant^
@@ -186,6 +190,7 @@
 ||sexy^
 ||shop^
 ||shopping^
+||show^
 ||site^
 ||skin^
 ||solar^

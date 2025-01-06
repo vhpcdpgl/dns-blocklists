@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736098140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736127120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jan 2025 17:29 UTC
-; Version: 2025.0105.1729.02
+; Last modified: 06 Jan 2025 01:32 UTC
+; Version: 2025.0106.0132.47
 ; Syntax: RPZ
-; Number of entries: 140580
+; Number of entries: 140576
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -4449,6 +4449,8 @@ domcwlxin.360doc.cn CNAME .
 *.domcwlxin.360doc.cn CNAME .
 dtnaximya.360doc.cn CNAME .
 *.dtnaximya.360doc.cn CNAME .
+hcirentgh.360doc.cn CNAME .
+*.hcirentgh.360doc.cn CNAME .
 hjkhxfh.360doc.cn CNAME .
 *.hjkhxfh.360doc.cn CNAME .
 xne1ocient87zxz.360doc.cn CNAME .
@@ -8243,8 +8245,6 @@ df48924623.4e16b2e294.com CNAME .
 *.4e645c7cf2.com CNAME .
 4e8bjpldk.com CNAME .
 *.4e8bjpldk.com CNAME .
-4ed196b502.com CNAME .
-*.4ed196b502.com CNAME .
 4ed5560812.com CNAME .
 *.4ed5560812.com CNAME .
 4fb0cadcc3.com CNAME .
@@ -8961,8 +8961,6 @@ analytics.888sport.com CNAME .
 *.888xx222kk.com CNAME .
 88fc493306.com CNAME .
 *.88fc493306.com CNAME .
-88lm02.com CNAME .
-*.88lm02.com CNAME .
 88lm03.com CNAME .
 *.88lm03.com CNAME .
 88lm04.com CNAME .
@@ -43599,6 +43597,8 @@ elqtracking.hitachienergy.com CNAME .
 *.elqtracking.hitachienergy.com CNAME .
 trackingaa.hitachienergy.com CNAME .
 *.trackingaa.hitachienergy.com CNAME .
+hitalsli.com CNAME .
+*.hitalsli.com CNAME .
 hitapps.com CNAME .
 *.hitapps.com CNAME .
 hitbip.com CNAME .
@@ -75195,8 +75195,8 @@ diff3.smartadserver.com CNAME .
 *.diff3.smartadserver.com CNAME .
 documentation.smartadserver.com CNAME .
 *.documentation.smartadserver.com CNAME .
-euw2.smartadserver.com CNAME .
-*.euw2.smartadserver.com CNAME .
+euw1.smartadserver.com CNAME .
+*.euw1.smartadserver.com CNAME .
 go.smartadserver.com CNAME .
 *.go.smartadserver.com CNAME .
 help.smartadserver.com CNAME .
@@ -78233,8 +78233,6 @@ subjectamazement.com CNAME .
 *.subjectamazement.com CNAME .
 subjectedburglar.com CNAME .
 *.subjectedburglar.com CNAME .
-subjectscooter.com CNAME .
-*.subjectscooter.com CNAME .
 subjectsfaintly.com CNAME .
 *.subjectsfaintly.com CNAME .
 sublimequartz.com CNAME .
@@ -81589,6 +81587,8 @@ tivapheegnoa.com CNAME .
 *.tivapheegnoa.com CNAME .
 tivetrainingukm.com CNAME .
 *.tivetrainingukm.com CNAME .
+tixoilll.com CNAME .
+*.tixoilll.com CNAME .
 tiypa.com CNAME .
 *.tiypa.com CNAME .
 tizerbank.com CNAME .
@@ -99861,6 +99861,8 @@ jgmywh.icu CNAME .
 *.jgmywh.icu CNAME .
 jgntjtyf.icu CNAME .
 *.jgntjtyf.icu CNAME .
+jjplaqyo.icu CNAME .
+*.jjplaqyo.icu CNAME .
 jmesxbe.icu CNAME .
 *.jmesxbe.icu CNAME .
 jmipzsn.icu CNAME .
@@ -99919,6 +99921,8 @@ lbjekygz.icu CNAME .
 *.lbjekygz.icu CNAME .
 lbqdaua.icu CNAME .
 *.lbqdaua.icu CNAME .
+lcvwdn.icu CNAME .
+*.lcvwdn.icu CNAME .
 ldjudcpc-qxm.icu CNAME .
 *.ldjudcpc-qxm.icu CNAME .
 lesasfp.icu CNAME .
@@ -127375,8 +127379,6 @@ matomo.attshop.ro CNAME .
 *.matomo.attshop.ro CNAME .
 zgwxoy.autoscout24.ro CNAME .
 *.zgwxoy.autoscout24.ro CNAME .
-best-top.ro CNAME .
-*.best-top.ro CNAME .
 bethlengabor.ro CNAME .
 *.bethlengabor.ro CNAME .
 pixel.biano.ro CNAME .
@@ -133799,8 +133801,6 @@ zebg.top CNAME .
 *.zebg.top CNAME .
 zerzvqroevwmb.top CNAME .
 *.zerzvqroevwmb.top CNAME .
-zevwkbzwkblle.top CNAME .
-*.zevwkbzwkblle.top CNAME .
 zhangqifeng12.top CNAME .
 *.zhangqifeng12.top CNAME .
 zhengzhou12.top CNAME .
@@ -138303,8 +138303,6 @@ jtzdld.xyz CNAME .
 *.jtzdld.xyz CNAME .
 jubnpx.xyz CNAME .
 *.jubnpx.xyz CNAME .
-jugnepha.xyz CNAME .
-*.jugnepha.xyz CNAME .
 juznlx.xyz CNAME .
 *.juznlx.xyz CNAME .
 jvmhtxiqdfr.xyz CNAME .
@@ -139883,8 +139881,6 @@ uekmhvbb.xyz CNAME .
 *.uekmhvbb.xyz CNAME .
 uftcfo.xyz CNAME .
 *.uftcfo.xyz CNAME .
-ugeewhee.xyz CNAME .
-*.ugeewhee.xyz CNAME .
 ugkpsi.xyz CNAME .
 *.ugkpsi.xyz CNAME .
 ugolue.xyz CNAME .

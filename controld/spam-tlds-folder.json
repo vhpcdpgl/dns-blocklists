@@ -267,6 +267,13 @@
       }
     },
     {
+      "PK": "*.chat",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.christmas",
       "action": {
         "do": 0,
@@ -653,6 +660,13 @@
     },
     {
       "PK": "*.healthcare",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.help",
       "action": {
         "do": 0,
         "status": 1
@@ -1100,6 +1114,13 @@
       }
     },
     {
+      "PK": "*.ren",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rent",
       "action": {
         "do": 0,
@@ -1206,6 +1227,13 @@
     },
     {
       "PK": "*.shopping",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.show",
       "action": {
         "do": 0,
         "status": 1

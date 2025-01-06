@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736091780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736120400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jan 2025 15:43 UTC
-; Version: 2025.0105.1543.00
+; Last modified: 05 Jan 2025 23:40 UTC
+; Version: 2025.0105.2340.59
 ; Syntax: RPZ
-; Number of entries: 21666
+; Number of entries: 21622
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -713,8 +713,6 @@ bestvitosk.best CNAME .
 *.bestvitosk.best CNAME .
 bestyflyov.best CNAME .
 *.bestyflyov.best CNAME .
-bidosaleet.best CNAME .
-*.bidosaleet.best CNAME .
 buyselloov.best CNAME .
 *.buyselloov.best CNAME .
 carasalesm.best CNAME .
@@ -6141,8 +6139,6 @@ hobbieslights.com CNAME .
 *.hobbieslights.com CNAME .
 hobbiesoutdoor.com CNAME .
 *.hobbiesoutdoor.com CNAME .
-hobbiesplane.com CNAME .
-*.hobbiesplane.com CNAME .
 hobbiessurfing.com CNAME .
 *.hobbiessurfing.com CNAME .
 hobbyessentiel.com CNAME .
@@ -9429,8 +9425,6 @@ pictureoutdooor.com CNAME .
 *.pictureoutdooor.com CNAME .
 pil24.com CNAME .
 *.pil24.com CNAME .
-pilemeds.com CNAME .
-*.pilemeds.com CNAME .
 pillola-italia.com CNAME .
 *.pillola-italia.com CNAME .
 pills-au.com CNAME .
@@ -11291,8 +11285,6 @@ storepocketknife.com CNAME .
 *.storepocketknife.com CNAME .
 storereifen.com CNAME .
 *.storereifen.com CNAME .
-storesmarthome.com CNAME .
-*.storesmarthome.com CNAME .
 storesnowsports.com CNAME .
 *.storesnowsports.com CNAME .
 storestationery.com CNAME .
@@ -12623,8 +12615,6 @@ usbuildingmaterial.com CNAME .
 *.usbuildingmaterial.com CNAME .
 uscampingoutlet.com CNAME .
 *.uscampingoutlet.com CNAME .
-uschildrenyouth.com CNAME .
-*.uschildrenyouth.com CNAME .
 uschristmashalloween.com CNAME .
 *.uschristmashalloween.com CNAME .
 usclothesheaven.com CNAME .
@@ -12775,8 +12765,6 @@ m.vbridal.com CNAME .
 *.m.vbridal.com CNAME .
 vcdlgroup.com CNAME .
 *.vcdlgroup.com CNAME .
-vclothesus.com CNAME .
-*.vclothesus.com CNAME .
 vcs-germany.com CNAME .
 *.vcs-germany.com CNAME .
 vdelsra.com CNAME .
@@ -13845,8 +13833,6 @@ automatischer-aktienhandel.de CNAME .
 *.automatischer-aktienhandel.de CNAME .
 autoseries.de CNAME .
 *.autoseries.de CNAME .
-autry-deutschland.de CNAME .
-*.autry-deutschland.de CNAME .
 autryschuhe.de CNAME .
 *.autryschuhe.de CNAME .
 autrysdeutschland.de CNAME .
@@ -14149,8 +14135,6 @@ brookslaufschuhesale.de CNAME .
 *.brookslaufschuhesale.de CNAME .
 brooksoutletsale.de CNAME .
 *.brooksoutletsale.de CNAME .
-brooksschuhe.de CNAME .
-*.brooksschuhe.de CNAME .
 brooksschuheberlin.de CNAME .
 *.brooksschuheberlin.de CNAME .
 brunateschuhewerksverkauf.de CNAME .
@@ -15479,8 +15463,6 @@ hibote.de CNAME .
 *.hibote.de CNAME .
 hier-brennts.de CNAME .
 *.hier-brennts.de CNAME .
-hilde-taschen.de CNAME .
-*.hilde-taschen.de CNAME .
 hildebrandt-bekleidung.de CNAME .
 *.hildebrandt-bekleidung.de CNAME .
 hildebrandtfashionladen.de CNAME .
@@ -17239,8 +17221,6 @@ standpellet.de CNAME .
 *.standpellet.de CNAME .
 standpellets.de CNAME .
 *.standpellets.de CNAME .
-staubsauger-profi24.de CNAME .
-*.staubsauger-profi24.de CNAME .
 staubsaugerhaus.de CNAME .
 *.staubsaugerhaus.de CNAME .
 staubzon.de CNAME .
@@ -19693,8 +19673,6 @@ alimhomeoutlet.shop CNAME .
 *.alimhomeoutlet.shop CNAME .
 alldiamondpaintingde.shop CNAME .
 *.alldiamondpaintingde.shop CNAME .
-alohakidss.shop CNAME .
-*.alohakidss.shop CNAME .
 alonzorozier.shop CNAME .
 *.alonzorozier.shop CNAME .
 alphateamcars.shop CNAME .
@@ -19919,8 +19897,6 @@ deichmannoutlet.shop CNAME .
 *.deichmannoutlet.shop CNAME .
 deichmannsale.shop CNAME .
 *.deichmannsale.shop CNAME .
-deinglueckswinkel.shop CNAME .
-*.deinglueckswinkel.shop CNAME .
 dekarikatur.shop CNAME .
 *.dekarikatur.shop CNAME .
 delaamoebelde.shop CNAME .
@@ -20073,8 +20049,6 @@ fleuretc.shop CNAME .
 *.fleuretc.shop CNAME .
 fluidfrerides.shop CNAME .
 *.fluidfrerides.shop CNAME .
-foeger.shop CNAME .
-*.foeger.shop CNAME .
 foldersys.shop CNAME .
 *.foldersys.shop CNAME .
 fontasia.shop CNAME .
@@ -20253,8 +20227,6 @@ incude.shop CNAME .
 *.incude.shop CNAME .
 industrialstop.shop CNAME .
 *.industrialstop.shop CNAME .
-inno-gialuron-official.shop CNAME .
-*.inno-gialuron-official.shop CNAME .
 integritybotanicade.shop CNAME .
 *.integritybotanicade.shop CNAME .
 isabellegracejewde.shop CNAME .
@@ -20453,8 +20425,6 @@ marlinyason.shop CNAME .
 *.marlinyason.shop CNAME .
 marmeladecat.shop CNAME .
 *.marmeladecat.shop CNAME .
-marta-paul.shop CNAME .
-*.marta-paul.shop CNAME .
 marta-paulbuy.shop CNAME .
 *.marta-paulbuy.shop CNAME .
 martyflo.shop CNAME .
@@ -20501,8 +20471,6 @@ mistyantoon.shop CNAME .
 *.mistyantoon.shop CNAME .
 mkaisha.shop CNAME .
 *.mkaisha.shop CNAME .
-moanaforyoudiscount.shop CNAME .
-*.moanaforyoudiscount.shop CNAME .
 modbrix.shop CNAME .
 *.modbrix.shop CNAME .
 mode-erlebenoutlet.shop CNAME .
@@ -20747,12 +20715,8 @@ shavenation.shop CNAME .
 *.shavenation.shop CNAME .
 shelbytrueax.shop CNAME .
 *.shelbytrueax.shop CNAME .
-sherade.shop CNAME .
-*.sherade.shop CNAME .
 shineonde.shop CNAME .
 *.shineonde.shop CNAME .
-shop-lamia-mode.shop CNAME .
-*.shop-lamia-mode.shop CNAME .
 shopbeautydepotde.shop CNAME .
 *.shopbeautydepotde.shop CNAME .
 shopfasts.shop CNAME .
@@ -20805,14 +20769,10 @@ sparkingde.shop CNAME .
 *.sparkingde.shop CNAME .
 specialtyperfode.shop CNAME .
 *.specialtyperfode.shop CNAME .
-specialtytraderssale.shop CNAME .
-*.specialtytraderssale.shop CNAME .
 speilzeugtoy.shop CNAME .
 *.speilzeugtoy.shop CNAME .
 spielhaus.shop CNAME .
 *.spielhaus.shop CNAME .
-spiritofliebs.shop CNAME .
-*.spiritofliebs.shop CNAME .
 spitfiregirl.shop CNAME .
 *.spitfiregirl.shop CNAME .
 sportkluftshop.shop CNAME .
@@ -21015,8 +20975,6 @@ waldnaht.shop CNAME .
 *.waldnaht.shop CNAME .
 wanster.shop CNAME .
 *.wanster.shop CNAME .
-waterkant.shop CNAME .
-*.waterkant.shop CNAME .
 wayoutgermany.shop CNAME .
 *.wayoutgermany.shop CNAME .
 wellsana.shop CNAME .
@@ -21363,8 +21321,6 @@ de-flexi.top CNAME .
 *.de-flexi.top CNAME .
 discountshop-eu.top CNAME .
 *.discountshop-eu.top CNAME .
-edhealthpills.top CNAME .
-*.edhealthpills.top CNAME .
 edsale.top CNAME .
 *.edsale.top CNAME .
 empleoglobal.top CNAME .

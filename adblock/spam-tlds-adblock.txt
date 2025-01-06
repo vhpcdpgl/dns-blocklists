@@ -3,16 +3,17 @@
 ! Description: The Top Most Abused Top Level Domains. Only TLDs that do not have any exclusions!
 ! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 !         https://radar.cloudflare.com/email-security
+!         https://trends.netcraft.com/cybercrime/tlds
 !         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 !         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jan 2025 03:29 UTC
-! Version: 2025.0105.0329.34
+! Last modified: 06 Jan 2025 03:26 UTC
+! Version: 2025.0106.0326.57
 ! Syntax: AdBlock
-! Number of latin TLDs: 110/216
+! Number of latin TLDs: 114/220
 !
 ||actor^
 ||auction^
@@ -37,6 +38,7 @@
 ||cash^
 ||casino^
 ||charity^
+||chat^
 ||christmas^
 ||claims^
 ||clothing^
@@ -62,6 +64,7 @@
 ||hair^
 ||haus^
 ||healthcare^
+||help^
 ||international^
 ||irish^
 ||kim^
@@ -94,6 +97,7 @@
 ||realtor^
 ||recipes^
 ||rehab^
+||ren^
 ||restaurant^
 ||review^
 ||rich^
@@ -103,6 +107,7 @@
 ||schule^
 ||sew^
 ||shopping^
+||show^
 ||sport^
 ||style^
 ||sydney^
