@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 06 Jan 2025 19:38 UTC
-! Version: 2025.0106.1938.20
+! Last modified: 06 Jan 2025 21:20 UTC
+! Version: 2025.0106.2120.47
 ! Syntax: uBlock
 ! Number of latin TLDs: 220 - non-latin TLDs: 151
 !
@@ -53,7 +53,7 @@
 ||center^$doc,domain=~priv.center
 ||cfd^$doc,domain=~freedium.cfd
 ||charity^$doc
-||chat^$doc
+||chat^$doc,domain=~prompts.chat
 ||christmas^$doc
 ||church^$doc,domain=~life.church|~online.church
 ||city^$doc,domain=~bypass.city|~ops.city
