@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jan 2025 23:40 UTC
-# Version: 2025.0105.2340.59
+# Last modified: 06 Jan 2025 07:47 UTC
+# Version: 2025.0106.0747.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10811
+# Number of entries: 10812
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -449,7 +449,6 @@ local=/anthoyturner.com/
 local=/anthria.de/
 local=/antik-world.com/
 local=/antike-muenzen.com/
-local=/antminertech.com/
 local=/antobi-shop.de/
 local=/anxiair.xyz/
 local=/any-trades.com/
@@ -528,7 +527,6 @@ local=/arbeit-zuhause.com/
 local=/arbeitjetzt.com/
 local=/arbeitportal.com/
 local=/arbeitsplatze.co/
-local=/arbeitstalent.com/
 local=/arbreth.com/
 local=/arcaktuell.de/
 local=/arcanogroupe.com/
@@ -641,7 +639,6 @@ local=/atossy.de/
 local=/attirebaseball.com/
 local=/attireowner.com/
 local=/attraktivgarten.com/
-local=/atu0utlet.shop/
 local=/atusale.shop/
 local=/atvelektro.com/
 local=/atvelektro.de/
@@ -796,7 +793,6 @@ local=/balancepadsalestore.com/
 local=/balenciagaireland.com/
 local=/ballgamesdeal.com/
 local=/balloonsetc.shop/
-local=/ballou-centre.com/
 local=/balmainaustria.at/
 local=/balmainsuomishop.com/
 local=/balotracity.com/
@@ -853,7 +849,6 @@ local=/barsin24.de/
 local=/barth24.com/
 local=/bartiesers.de/
 local=/bartonladder.com/
-local=/bartz-anhanger.com/
 local=/baruttibikes.com/
 local=/baseballmodern.com/
 local=/baseballoutlet.pl/
@@ -2504,6 +2499,7 @@ local=/dno-handel24.de/
 local=/do0cd.com/
 local=/doc-hygiene.de/
 local=/docsmartensfactoryoutlet.com/
+local=/dodenhof-de.vip/
 local=/doehlers.com/
 local=/dogfoodonline.shop/
 local=/dogitemoutlet.com/
@@ -3596,6 +3592,7 @@ local=/furnishdwell.com/
 local=/furnitureacme.com/
 local=/furniturebernhardt.com/
 local=/furniturefinest.com/
+local=/furniturej.shop/
 local=/furnituremodish.com/
 local=/furnitureprada.de/
 local=/furnituretaste.com/
@@ -4467,6 +4464,7 @@ local=/herbalsbest4u.com/
 local=/herlingerieshop.com/
 local=/herr-bergholz.de/
 local=/herren-pillen.de/
+local=/herren-shop.com/
 local=/herrenpillen.net/
 local=/herreraaale.com/
 local=/herrerachasi-stammholz.com/
@@ -4543,6 +4541,7 @@ local=/hochstift-garten.de/
 local=/hockeylagern.com/
 local=/hockeysalesus.com/
 local=/hodea-versand.com/
+local=/hofer-austria.shop/
 local=/hoff-brennholz.com/
 local=/hoff-de.com/
 local=/hofius-shop.shop/
@@ -6123,6 +6122,7 @@ local=/mensluxuryboutique.com/
 local=/menspower.online/
 local=/mentoysonsale.com/
 local=/menwearshopping.com/
+local=/mercado123.store/
 local=/mercadolibre.at/
 local=/merchandisekit.com/
 local=/mercimunich.de/
@@ -8589,6 +8589,7 @@ local=/sieker-versand.de/
 local=/sierke24.de/
 local=/sifs-finance.de/
 local=/simaholz.com/
+local=/simpledancing.com/
 local=/simplejuicing.net/
 local=/sinaotte.shop/
 local=/sinaracorp.com/
@@ -8889,6 +8890,7 @@ local=/stampssale.shop/
 local=/standpellet.de/
 local=/standpellets.de/
 local=/stanley-cups.at/
+local=/stanlys-store.com/
 local=/stanlysbottle.com/
 local=/star-apotheke.org/
 local=/starapotheke.com/
@@ -10771,7 +10773,6 @@ local=/zerogrid.shop/
 local=/zesavi-tech.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
-local=/app.zety.de/
 local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/

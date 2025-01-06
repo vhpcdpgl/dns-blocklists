@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jan 2025 19:20 UTC
-# Version: 2025.0105.1920.20
+# Last modified: 06 Jan 2025 11:26 UTC
+# Version: 2025.0106.1126.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9924
+# Number of entries: 9916
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -349,7 +349,6 @@ local=/8wsm.com/
 local=/94hiphop.com/
 local=/960303.xyz/
 local=/9anime.ru/
-local=/9anime.to/
 local=/9anime.zone/
 local=/9divx.com/
 local=/9goal.tv/
@@ -517,10 +516,8 @@ local=/altadefinizione.bargains/
 local=/altadefinizione.best/
 local=/altadefinizione.bet/
 local=/altadefinizione.boats/
-local=/altadefinizione.boo/
 local=/altadefinizione.cab/
 local=/altadefinizione.cafe/
-local=/altadefinizione.cam/
 local=/altadefinizione.care/
 local=/altadefinizione.casa/
 local=/altadefinizione.casino/
@@ -615,7 +612,6 @@ local=/altadefinizione.vg/
 local=/altadefinizione.works/
 local=/altadefinizione.world/
 local=/altadefinizione.ws/
-local=/altadefinizione.wtf/
 local=/altadefinizione.xyz/
 local=/altadefinizione.yachts/
 local=/altadefinizione.yoga/
@@ -626,7 +622,6 @@ local=/altadefinizione01.bet/
 local=/altadefinizione01.bike/
 local=/altadefinizione01.black/
 local=/altadefinizione01.boutique/
-local=/altadefinizione01.builders/
 local=/altadefinizione01.cc/
 local=/altadefinizione01.click/
 local=/altadefinizione01.cloud/
@@ -655,7 +650,6 @@ local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.recipes/
 local=/altadefinizione01.site/
-local=/altadefinizione01.soy/
 local=/altadefinizione01.taxi/
 local=/altadefinizione01.tel/
 local=/altadefinizione01.vg/
@@ -721,7 +715,6 @@ local=/anime-sharing.com/
 local=/anime-tv.fun/
 local=/anime-wiki.org/
 local=/anime1.com/
-local=/anime5stars.org/
 local=/anime8.me/
 local=/anime8.ru/
 local=/animebam.se/
@@ -866,7 +859,6 @@ local=/apkmaniafull.com/
 local=/apkmate.com/
 local=/apkmb.com/
 local=/apkmirrorfull.com/
-local=/apkmod9.com/
 local=/apkmodct.com/
 local=/apkmodea.com/
 local=/apkmodget.com/

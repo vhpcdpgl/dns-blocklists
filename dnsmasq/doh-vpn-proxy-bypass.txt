@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 03:25 UTC
-# Version: 2025.0106.0325.33
+# Last modified: 06 Jan 2025 11:31 UTC
+# Version: 2025.0106.1131.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3731
+# Number of entries: 3730
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -216,7 +216,6 @@ local=/ananoos.com/
 local=/anatomical.design/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
-local=/androvpn.com/
 local=/doh.angry.im/
 local=/animeproxy.net/
 local=/aniscartujo.com/

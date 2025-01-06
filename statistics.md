@@ -36,7 +36,7 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
   2 |      77% |  17% |      6% | Denylist Personal
   3 |      86% |   3% |     11% | Extracted Wildcard Rules
-  4 |      59% |   0% |     41% | Native Tracker Apple (iOS, macOS, tvOS)
+  4 |      58% |   0% |     42% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      90% |   0% |     10% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
@@ -64,7 +64,7 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
   2 |      79% |  17% |      4% | Denylist Personal
   3 |      88% |   3% |      9% | Extracted Wildcard Rules
-  4 |      60% |   0% |     40% | Native Tracker Apple (iOS, macOS, tvOS)
+  4 |      59% |   0% |     41% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
@@ -83,7 +83,7 @@
  20 |      89% |   5% |      6% | Advanced Extension
  21 |      79% |  21% |      0% | Denylist Community Threat Intelligence Feeds
  22 |      69% |  21% |     10% | Denylist Community Advanced
- 23 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |      83% |   0% |     17% | Native Tracker TikTok Extended (Fingerprinting)
  26 |      84% |   8% |      8% | Aggressive Extension
@@ -95,7 +95,7 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
   2 |      80% |  17% |      3% | Denylist Personal
   3 |      88% |   3% |      9% | Extracted Wildcard Rules
-  4 |      99% |   0% |      1% | Native Tracker Apple (iOS, macOS, tvOS)
+  4 |      98% |   0% |      2% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
@@ -120,7 +120,7 @@
  26 |      84% |   8% |      8% | Aggressive Extension
  27 |      98% |   1% |      1% | Denylist Community Aggressive
  28 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
- 29 |      91% |   6% |      3% | Ultimate Extension
+ 29 |      92% |   5% |      3% | Ultimate Extension
  30 |      88% |   6% |      6% | Denylist Aggressive
  31 |      71% |  26% |      3% | Denylist Community Ultimate
 ```

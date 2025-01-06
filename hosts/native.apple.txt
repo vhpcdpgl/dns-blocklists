@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:04 UTC
-# Version: 2025.0103.2204.34
+# Last modified: 06 Jan 2025 06:31 UTC
+# Version: 2025.0106.0631.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 97
+# Number of entries: 98
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -79,6 +79,7 @@
 0.0.0.0 searchads.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemvt.apple.com
+0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 weather-analytics-events.apple.com

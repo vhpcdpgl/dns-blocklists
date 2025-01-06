@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736120400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736149620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jan 2025 23:40 UTC
-; Version: 2025.0105.2340.59
+; Last modified: 06 Jan 2025 07:47 UTC
+; Version: 2025.0106.0747.41
 ; Syntax: RPZ
-; Number of entries: 21622
+; Number of entries: 21624
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -1589,8 +1589,6 @@ antik-world.com CNAME .
 *.antik-world.com CNAME .
 antike-muenzen.com CNAME .
 *.antike-muenzen.com CNAME .
-antminertech.com CNAME .
-*.antminertech.com CNAME .
 any-trades.com CNAME .
 *.any-trades.com CNAME .
 anzugewspeichern.com CNAME .
@@ -1693,8 +1691,6 @@ arbeitjetzt.com CNAME .
 *.arbeitjetzt.com CNAME .
 arbeitportal.com CNAME .
 *.arbeitportal.com CNAME .
-arbeitstalent.com CNAME .
-*.arbeitstalent.com CNAME .
 arbreth.com CNAME .
 *.arbreth.com CNAME .
 arcanogroupe.com CNAME .
@@ -1965,8 +1961,6 @@ balenciagaireland.com CNAME .
 *.balenciagaireland.com CNAME .
 ballgamesdeal.com CNAME .
 *.ballgamesdeal.com CNAME .
-ballou-centre.com CNAME .
-*.ballou-centre.com CNAME .
 balmainsuomishop.com CNAME .
 *.balmainsuomishop.com CNAME .
 balotracity.com CNAME .
@@ -2029,8 +2023,6 @@ barth24.com CNAME .
 *.barth24.com CNAME .
 bartonladder.com CNAME .
 *.bartonladder.com CNAME .
-bartz-anhanger.com CNAME .
-*.bartz-anhanger.com CNAME .
 baruttibikes.com CNAME .
 *.baruttibikes.com CNAME .
 baseballmodern.com CNAME .
@@ -6067,6 +6059,8 @@ herbalsbest4u.com CNAME .
 *.herbalsbest4u.com CNAME .
 herlingerieshop.com CNAME .
 *.herlingerieshop.com CNAME .
+herren-shop.com CNAME .
+*.herren-shop.com CNAME .
 herreraaale.com CNAME .
 *.herreraaale.com CNAME .
 herrerachasi-stammholz.com CNAME .
@@ -10815,6 +10809,8 @@ sichersparen.com CNAME .
 *.sichersparen.com CNAME .
 simaholz.com CNAME .
 *.simaholz.com CNAME .
+simpledancing.com CNAME .
+*.simpledancing.com CNAME .
 sinaracorp.com CNAME .
 *.sinaracorp.com CNAME .
 sinarbrand.com CNAME .
@@ -11139,6 +11135,8 @@ stammholzlkwmarkt.com CNAME .
 *.stammholzlkwmarkt.com CNAME .
 stampsetshop.com CNAME .
 *.stampsetshop.com CNAME .
+stanlys-store.com CNAME .
+*.stanlys-store.com CNAME .
 stanlysbottle.com CNAME .
 *.stanlysbottle.com CNAME .
 starapotheke.com CNAME .
@@ -17861,8 +17859,6 @@ zesavi-tech.de CNAME .
 *.zesavi-tech.de CNAME .
 zetko-waren.de CNAME .
 *.zetko-waren.de CNAME .
-app.zety.de CNAME .
-*.app.zety.de CNAME .
 zicklerbrennholz.de CNAME .
 *.zicklerbrennholz.de CNAME .
 zlibo-elektro24.de CNAME .
@@ -19709,8 +19705,6 @@ asda-career.shop CNAME .
 *.asda-career.shop CNAME .
 atfolixde.shop CNAME .
 *.atfolixde.shop CNAME .
-atu0utlet.shop CNAME .
-*.atu0utlet.shop CNAME .
 atusale.shop CNAME .
 *.atusale.shop CNAME .
 auerhahnonlineshop.shop CNAME .
@@ -20075,6 +20069,8 @@ frilufts.shop CNAME .
 *.frilufts.shop CNAME .
 fritzo.shop CNAME .
 *.fritzo.shop CNAME .
+furniturej.shop CNAME .
+*.furniturej.shop CNAME .
 fusballrausch.shop CNAME .
 *.fusballrausch.shop CNAME .
 gartenliebe.gabinsafbiz.shop CNAME .
@@ -20195,6 +20191,8 @@ byqao.hmqmqmarket.shop CNAME .
 *.byqao.hmqmqmarket.shop CNAME .
 iluom.hmqmqmarket.shop CNAME .
 *.iluom.hmqmqmarket.shop CNAME .
+hofer-austria.shop CNAME .
+*.hofer-austria.shop CNAME .
 hofius-shop.shop CNAME .
 *.hofius-shop.shop CNAME .
 hokacity.shop CNAME .
@@ -21209,6 +21207,8 @@ mein-holz.store CNAME .
 *.mein-holz.store CNAME .
 melek.store CNAME .
 *.melek.store CNAME .
+mercado123.store CNAME .
+*.mercado123.store CNAME .
 mixmedia.store CNAME .
 *.mixmedia.store CNAME .
 netmart.store CNAME .
@@ -21475,6 +21475,8 @@ coknoahp.vip CNAME .
 *.coknoahp.vip CNAME .
 currys-ch.vip CNAME .
 *.currys-ch.vip CNAME .
+dodenhof-de.vip CNAME .
+*.dodenhof-de.vip CNAME .
 emx1.vip CNAME .
 *.emx1.vip CNAME .
 findify.vip CNAME .

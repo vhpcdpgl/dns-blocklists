@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736104800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736162760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jan 2025 19:20 UTC
-; Version: 2025.0105.1920.20
+; Last modified: 06 Jan 2025 11:26 UTC
+; Version: 2025.0106.1126.43
 ; Syntax: RPZ
-; Number of entries: 19848
+; Number of entries: 19832
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -761,8 +761,6 @@ mrunblock.bond CNAME .
 *.mrunblock.bond CNAME .
 tantifilm.bond CNAME .
 *.tantifilm.bond CNAME .
-altadefinizione.boo CNAME .
-*.altadefinizione.boo CNAME .
 cb01.boo CNAME .
 *.cb01.boo CNAME .
 cineblog01.boo CNAME .
@@ -807,8 +805,6 @@ futeboldahora.net.br CNAME .
 *.futeboldahora.net.br CNAME .
 futeboltotal.net.br CNAME .
 *.futeboltotal.net.br CNAME .
-altadefinizione01.builders CNAME .
-*.altadefinizione01.builders CNAME .
 cb01.builders CNAME .
 *.cb01.builders CNAME .
 guardaserie.builders CNAME .
@@ -935,8 +931,6 @@ fmovies.cafe CNAME .
 *.fmovies.cafe CNAME .
 www1.putlockers.cafe CNAME .
 *.www1.putlockers.cafe CNAME .
-altadefinizione.cam CNAME .
-*.altadefinizione.cam CNAME .
 eurostreaming.cam CNAME .
 *.eurostreaming.cam CNAME .
 film-streaming-ita.cam CNAME .
@@ -2515,8 +2509,6 @@ apkmb.com CNAME .
 *.apkmb.com CNAME .
 apkmirrorfull.com CNAME .
 *.apkmirrorfull.com CNAME .
-apkmod9.com CNAME .
-*.apkmod9.com CNAME .
 apkmodct.com CNAME .
 *.apkmodct.com CNAME .
 apkmodea.com CNAME .
@@ -13691,8 +13683,6 @@ anime-loads.org CNAME .
 *.anime-loads.org CNAME .
 anime-wiki.org CNAME .
 *.anime-wiki.org CNAME .
-anime5stars.org CNAME .
-*.anime5stars.org CNAME .
 animeforever.org CNAME .
 *.animeforever.org CNAME .
 animefox.org CNAME .
@@ -16945,8 +16935,6 @@ guardaserie.solutions CNAME .
 *.guardaserie.solutions CNAME .
 altadefinizione.soy CNAME .
 *.altadefinizione.soy CNAME .
-altadefinizione01.soy CNAME .
-*.altadefinizione01.soy CNAME .
 eurostreaming.soy CNAME .
 *.eurostreaming.soy CNAME .
 tracker.aeerso.space CNAME .
@@ -17319,8 +17307,6 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
-9anime.to CNAME .
-*.9anime.to CNAME .
 anilinkz.to CNAME .
 *.anilinkz.to CNAME .
 animedao.to CNAME .
@@ -19439,8 +19425,6 @@ zorrostream.ws CNAME .
 *.zorrostream.ws CNAME .
 1337x.wtf CNAME .
 *.1337x.wtf CNAME .
-altadefinizione.wtf CNAME .
-*.altadefinizione.wtf CNAME .
 watchepisodeseries.bypassed.wtf CNAME .
 *.watchepisodeseries.bypassed.wtf CNAME .
 fmovies.wtf CNAME .

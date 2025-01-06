@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:04 UTC
-# Version: 2025.0103.2204.34
+# Last modified: 06 Jan 2025 06:31 UTC
+# Version: 2025.0106.0631.43
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 11
 #
@@ -16,7 +16,7 @@
 0.0.0.0 datacollection.apple.com diagassets.apple.com diagnostics.apple.com experiments.apple.com iad.apple.com iadcontent.apple.com iadmoo.apple.com iadsdk.apple.com ca.iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com tr.iadsdk.apple.com iadworkbench.apple.com idiagnostics.apple.com idiagnostics-mdn1.apple.com internalcheck.apple.com iphonesubmissions.apple.com iphonesubmissions-old.apple.com partiality.itunes.apple.com
 0.0.0.0 launch.apple.com metrics.apple.com msc-dct-prod.msc.apple.com news-app-events.apple.com news-notification-events.apple.com news-sports-events.apple.com notes-analytics-events.apple.com odin-signals.apple.com performance-partners.apple.com
-0.0.0.0 phonesubmissions.apple.com prd-usw2-requestattribution-iad.apple.com proxy-skadnetwork.apple.com radarsubmissions.apple.com searchads.apple.com securemetrics.apple.com securemvt.apple.com stocks-analytics-events.apple.com supportmetrics.apple.com
-0.0.0.0 weather-analytics-events.apple.com xp.apple.com xp-cdn.apple.com feedbackws.fe.apple-dns.cn feedbackws.fe2.apple-dns.net me.apple-dns.net probe.me.apple-dns.net applemediaservices.com cstat.cdn-apple.com
-0.0.0.0 feedbackws.icloud.com.cn cdn-xp-ingest.edge.apple experiments.apple.com.edgekey.net iadsdk.apple.com.edgekey.net partiality.itunes.apple.com.edgekey.net xp.apple.com.edgekey.net cstat.apple.com.edgesuite.net searchads.apple.com.edgesuite.net acfeedbackws.icloud.com
-0.0.0.0 feedbackws.icloud.com metrics.icloud.com metrics.mzstatic.com qwapi.com www.qwapi.com marketing.services.apple beacon.shazam.com 
+0.0.0.0 phonesubmissions.apple.com prd-usw2-requestattribution-iad.apple.com proxy-skadnetwork.apple.com radarsubmissions.apple.com searchads.apple.com securemetrics.apple.com securemvt.apple.com fbs.smoot.apple.com stocks-analytics-events.apple.com
+0.0.0.0 supportmetrics.apple.com weather-analytics-events.apple.com xp.apple.com xp-cdn.apple.com feedbackws.fe.apple-dns.cn feedbackws.fe2.apple-dns.net me.apple-dns.net probe.me.apple-dns.net applemediaservices.com
+0.0.0.0 cstat.cdn-apple.com feedbackws.icloud.com.cn cdn-xp-ingest.edge.apple experiments.apple.com.edgekey.net iadsdk.apple.com.edgekey.net partiality.itunes.apple.com.edgekey.net xp.apple.com.edgekey.net cstat.apple.com.edgesuite.net searchads.apple.com.edgesuite.net
+0.0.0.0 acfeedbackws.icloud.com feedbackws.icloud.com metrics.icloud.com metrics.mzstatic.com qwapi.com www.qwapi.com marketing.services.apple beacon.shazam.com 
