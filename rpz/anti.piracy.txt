@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736162760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736191860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jan 2025 11:26 UTC
-; Version: 2025.0106.1126.43
+; Last modified: 06 Jan 2025 19:31 UTC
+; Version: 2025.0106.1931.55
 ; Syntax: RPZ
-; Number of entries: 19832
+; Number of entries: 19816
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2733,8 +2733,6 @@ bestpokertorrents.com CNAME .
 *.bestpokertorrents.com CNAME .
 bestserials.com CNAME .
 *.bestserials.com CNAME .
-bestsportstreaming.com CNAME .
-*.bestsportstreaming.com CNAME .
 beststresser.com CNAME .
 *.beststresser.com CNAME .
 bhalukabroadband.com CNAME .
@@ -3035,8 +3033,6 @@ tracker.bt4g.com CNAME .
 *.tracker.bt4g.com CNAME .
 bt4gprx.com CNAME .
 *.bt4gprx.com CNAME .
-bt5000.com CNAME .
-*.bt5000.com CNAME .
 btafile.com CNAME .
 *.btafile.com CNAME .
 btbot.com CNAME .
@@ -7731,8 +7727,6 @@ tracker.ccc.de CNAME .
 *.tracker.ccc.de CNAME .
 chihaya.de CNAME .
 *.chihaya.de CNAME .
-cineblog01.de CNAME .
-*.cineblog01.de CNAME .
 fe.dealclub.de CNAME .
 *.fe.dealclub.de CNAME .
 eurostreaming.de CNAME .
@@ -8601,8 +8595,6 @@ thepiratebay.gd CNAME .
 *.thepiratebay.gd CNAME .
 123moviess.gdn CNAME .
 *.123moviess.gdn CNAME .
-bflix.gdn CNAME .
-*.bflix.gdn CNAME .
 cineblog01.gdn CNAME .
 *.cineblog01.gdn CNAME .
 gosong.unblocked.gdn CNAME .
@@ -8857,8 +8849,6 @@ warez-bb.icu CNAME .
 *.warez-bb.icu CNAME .
 altadefinizione.id CNAME .
 *.altadefinizione.id CNAME .
-vexmovies.biz.id CNAME .
-*.vexmovies.biz.id CNAME .
 capcutmodapk.id CNAME .
 *.capcutmodapk.id CNAME .
 tracker.fansub.id CNAME .
@@ -10637,8 +10627,6 @@ best-series.me CNAME .
 *.best-series.me CNAME .
 tracker.beyond-hd.me CNAME .
 *.tracker.beyond-hd.me CNAME .
-bflixmovies.me CNAME .
-*.bflixmovies.me CNAME .
 bflixto.me CNAME .
 *.bflixto.me CNAME .
 bibliotik.me CNAME .
@@ -16943,8 +16931,6 @@ astrra.space CNAME .
 *.astrra.space CNAME .
 bananas.space CNAME .
 *.bananas.space CNAME .
-best4stremio.space CNAME .
-*.best4stremio.space CNAME .
 cmovies.space CNAME .
 *.cmovies.space CNAME .
 couchtuner.space CNAME .
@@ -18831,8 +18817,6 @@ yts.vc CNAME .
 *.yts.vc CNAME .
 altadefinizione.ventures CNAME .
 *.altadefinizione.ventures CNAME .
-cb01.vet CNAME .
-*.cb01.vet CNAME .
 cineblog01.vet CNAME .
 *.cineblog01.vet CNAME .
 pirateproxy.vet CNAME .

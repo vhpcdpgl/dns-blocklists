@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 11:26 UTC
-# Version: 2025.0106.1126.43
+# Last modified: 06 Jan 2025 19:31 UTC
+# Version: 2025.0106.1931.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9916
+# Number of entries: 9908
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -1130,7 +1130,6 @@ local=/best-movies.watch/
 local=/best-moviez.ws/
 local=/best-series.me/
 local=/tracker.best-torrents.net/
-local=/best4stremio.space/
 local=/bestdjmix.com/
 local=/bestfilez.net/
 local=/bestfreestreaming.com/
@@ -1140,7 +1139,6 @@ local=/bestmmatorrents.com/
 local=/bestpokertorrents.com/
 local=/bestreams.net/
 local=/bestserials.com/
-local=/bestsportstreaming.com/
 local=/beststresser.com/
 local=/besttracker.cz/
 local=/bewildandout.org/
@@ -1150,10 +1148,8 @@ local=/6.beyondth.cn/
 local=/8.beyondth.cn/
 local=/bflix.ac/
 local=/bflix.bz/
-local=/bflix.gdn/
 local=/bflix.gg/
 local=/bflix.to/
-local=/bflixmovies.me/
 local=/bflixto.me/
 local=/bgtop.net/
 local=/bhalukabroadband.com/
@@ -1246,7 +1242,6 @@ local=/api.bitumconference.ru/
 local=/bitvaulttorrent.com/
 local=/bitvn.net/
 local=/bitzone.info/
-local=/vexmovies.biz.id/
 local=/biztorrents.com/
 local=/bj-share.net/
 local=/tracker.bjut.jp/
@@ -1457,7 +1452,6 @@ local=/dht.bt251.com/
 local=/bt4g.org/
 local=/tracker.bt4g.com/
 local=/bt4gprx.com/
-local=/bt5000.com/
 local=/btafile.com/
 local=/btann.cn/
 local=/btbbt.cc/
@@ -1717,7 +1711,6 @@ local=/cb01.training/
 local=/cb01.uno/
 local=/cb01.us/
 local=/cb01.vacations/
-local=/cb01.vet/
 local=/cb01.vg/
 local=/cb01.video/
 local=/cb01.vip/
@@ -1804,7 +1797,6 @@ local=/cineblog01.com/
 local=/cineblog01.cool/
 local=/cineblog01.cx/
 local=/cineblog01.cyou/
-local=/cineblog01.de/
 local=/cineblog01.dev/
 local=/cineblog01.dog/
 local=/cineblog01.download/

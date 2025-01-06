@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 09:39 UTC
-# Version: 2025.0106.0939.42
+# Last modified: 06 Jan 2025 17:43 UTC
+# Version: 2025.0106.1743.16
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 153102
+# Number of entries: 153089
 #
 0-02.net
 www.0-02.net
@@ -8873,8 +8873,6 @@ ad.adnet.de
 www.adnet.com
 www.adnet.de
 www.adnet.lt
-adnet-media.net
-www.adnet-media.net
 adnetasia.com
 ox-d.adnetasia.com
 www.adnetasia.com
@@ -28795,6 +28793,8 @@ webtracking.becker.com
 becketcoffee.com
 www.becketcoffee.com
 statistics.beckhoff-web-services.com
+beckieintrate.top
+www.beckieintrate.top
 smetrics.becomeanex.org
 becomeobnoxiousturk.com
 www.becomeobnoxiousturk.com
@@ -28952,6 +28952,7 @@ behindfebruary.com
 www.behindfebruary.com
 beholdcontents.com
 www.beholdcontents.com
+behooveforeby.top
 analytics.behr.com
 metrix.behtarino.com
 behtarinseo.ir
@@ -28983,7 +28984,6 @@ analytics.belastingdienst.nl
 metric.belastingdienst.nl
 metrics.belastingdienst.nl
 belatedwricht.com
-www.belatedwricht.com
 belavoplay.com
 www.belavoplay.com
 belboon.de
@@ -29272,7 +29272,6 @@ best-top.de
 www.best-top.de
 best-u.vip
 track.best-u.vip
-www.best-u.vip
 best-video-app.com
 www.best-video-app.com
 best-vpn-app.com
@@ -29919,7 +29918,6 @@ analytics.bidsquare.com
 bidster.net
 cdn.bidster.net
 k8s-ssp.bidster.net
-k8s-tracking.bidster.net
 ssp.bidster.net
 www.bidster.net
 ads.bidstreamserver.com
@@ -30256,7 +30254,6 @@ pixel.bilinmedia.net
 httpdns.bilivideo.com
 bilkersteds.com
 www.bilkersteds.com
-piwik.sync.sandbox.a.bill.com
 billaccountant.com
 www.billaccountant.com
 billboard.cz
@@ -30299,7 +30296,6 @@ updates-s3.binaryage.com
 binaryborrowedorganized.com
 www.binaryborrowedorganized.com
 binarycrest.com
-www.binarycrest.com
 analytics.binaryevolution.com
 binaryfailure.com
 www.binaryfailure.com
@@ -30345,7 +30341,6 @@ www.binoads.ir
 binomasia.com
 www.binomasia.com
 binomlink.com
-www.binomlink.com
 binomnet.com
 www.binomnet.com
 binomnet3.com
@@ -30363,7 +30358,6 @@ metrics.biocompare.com
 smetric.biogen.com
 biographyaudition.com
 www.biographyaudition.com
-best.biolifesupplement.com
 biolw.cloud
 collect.biomedcentral.com
 smetrics.biomedtracker.com
@@ -31242,7 +31236,6 @@ bluetrackmedia.com
 www.bluetrackmedia.com
 matomo.bluettipower.com
 bluevinebooks.com
-www.bluevinebooks.com
 bluewhaleweb.com
 www.bluewhaleweb.com
 o.bluewin.ch
@@ -31835,7 +31828,6 @@ analytics.boozt.com
 analytics.booztlet.com
 bopako.com
 t.bopako.com
-www.bopako.com
 boplgt.icu
 www.boplgt.icu
 boqmjxtkwn.com
@@ -32215,7 +32207,6 @@ api2.branch.io
 api3.branch.io
 cdn.branch.io
 conduit.branch.io
-email-sailthru.branch.io
 gdpr.branch.io
 go.branch.io
 growth.branch.io
@@ -33336,8 +33327,6 @@ www.bujerdaz.com
 bujlmitd.icu
 www.bujlmitd.icu
 t.bukalapak.com
-bukzvsflpo.com
-www.bukzvsflpo.com
 bulbbait.com
 www.bulbbait.com
 bulbofficial.com
@@ -33736,11 +33725,9 @@ www.bvxzwwfg56.space
 bw95vpjda.ru
 www.bw95vpjda.ru
 bweriov.top
-www.bweriov.top
 bwgmymp.com
 www.bwgmymp.com
 bwilmiv.top
-www.bwilmiv.top
 analytics.bwin.com
 promos.bwin.it
 simg.bwin.com
@@ -33766,8 +33753,6 @@ bwtpaygvgunxx.com
 www.bwtpaygvgunxx.com
 bwtsrv.com
 www.bwtsrv.com
-bwurserv.top
-www.bwurserv.top
 bwuwirv.cn
 www.bwuwirv.cn
 bwvofgqhmab.com
@@ -34208,7 +34193,6 @@ www.caitoasece.com
 caiwauchegee.net
 www.caiwauchegee.net
 caiwheechous.com
-www.caiwheechous.com
 metrics.caixabank.es
 tags.caixabank.es
 apollo.caixin.com
@@ -39328,7 +39312,6 @@ cashprom.ru
 www.cashprom.ru
 banners.cashring.com
 cashstaging.me
-metric.cashstaging.app
 cashsurfers.com
 www.cashsurfers.com
 cashtube.ru
@@ -39635,7 +39618,6 @@ ssc.cc.com
 ads.cc-dt.com
 4043ae3f44.cc5c5a5c56.com
 cc72fceb4f.com
-3a12751332.cc72fceb4f.com
 www.cc72fceb4f.com
 ccaa0e51d8.com
 831e34ade6.ccaa0e51d8.com
@@ -39779,7 +39761,6 @@ www.cdn-analytic.com
 cdn-gw-dv.vip
 airasia.cdn-gw-dv.vip
 ls.cdn-gw-dv.vip
-www.cdn-gw-dv.vip
 cdn-image.com
 i1.cdn-image.com
 i2.cdn-image.com
@@ -39881,7 +39862,6 @@ tag.cdnmaster.cn
 www.cdnmaster.cn
 www.cdnmaster.com
 rt.cdnmedia.tv
-aff.cdnntx.com
 cdnondemand.org
 www.cdnondemand.org
 i.cdnpark.com
@@ -40323,7 +40303,6 @@ chacmausto.net
 www.chacmausto.net
 llkdiu.chacos.com
 chademocharge.com
-www.chademocharge.com
 chaeffulace.com
 www.chaeffulace.com
 chaerel.com
@@ -40331,7 +40310,6 @@ www.chaerel.com
 chagasus.org
 www.chagasus.org
 chaikempakr.com
-www.chaikempakr.com
 telemetry.chain.link
 chainconnectivity.com
 www.chainconnectivity.com
@@ -41062,7 +41040,6 @@ www.choppyevectic.shop
 choptacache.com
 www.choptacache.com
 chordeehepcats.shop
-www.chordeehepcats.shop
 analytics.chorki.com
 choruslockdownbumpy.com
 www.choruslockdownbumpy.com
@@ -41097,8 +41074,6 @@ chpok.site
 www.chpok.site
 chrantary-vocking.com
 www.chrantary-vocking.com
-chrgtdhpwf.com
-www.chrgtdhpwf.com
 chrisignateignatedescend.com
 www.chrisignateignatedescend.com
 stats.chrispederick.com
@@ -41176,7 +41151,6 @@ bb.churchkhela.site
 om.churchofjesuschrist.org
 analytics.churnzero.net
 chushoushijian.cn
-www.chushoushijian.cn
 chussuth.com
 www.chussuth.com
 chuzushijian.cn
@@ -41210,7 +41184,6 @@ www.cicamica.xyz
 cicdserver.com
 www.cicdserver.com
 ciderfeast.com
-www.ciderfeast.com
 cidrulj.com
 www.cidrulj.com
 ciedpso.com
@@ -41603,7 +41576,6 @@ www.clarivoy.com
 claroads.com
 www.claroads.com
 claroadsclick.com
-www.claroadsclick.com
 track.clash.gg
 clash-media.com
 www.clash-media.com
@@ -42283,7 +42255,6 @@ www.clkads.com
 clkdeals.com
 www.clkdeals.com
 clkepd.com
-click.clkepd.com
 www.clkepd.com
 clkfeed.com
 www.clkfeed.com
@@ -42409,7 +42380,6 @@ cloud27.xyz
 www.cloud27.xyz
 cloudad.icu
 cc.cloudad.icu
-www.cloudad.icu
 cloudads.tv
 www.cloudads.tv
 cloudcoins.co
@@ -45295,6 +45265,7 @@ analytics.codingblocks.net
 analytics.codingdojo.com
 metrics.codingdojo.com
 analytics.codingninjas.com
+codmanbumming.com
 codmanrefan.shop
 www.codmanrefan.shop
 reportwest-midas.codmwest.com
@@ -46839,6 +46810,8 @@ globalservices.conde.digital
 recs-api.conde.digital
 condemnedcomb.com
 www.condemnedcomb.com
+condemnfundraiserjune.com
+www.condemnfundraiserjune.com
 api.condenast.io
 infinityid.condenastdigital.com
 pixel.condenastdigital.com
@@ -62693,6 +62666,8 @@ www.embeddedanalytics.com
 analytics.embedsignage.com
 embedx.name
 www.embedx.name
+embercascademaple.com
+www.embercascademaple.com
 emberenchanter.top
 www.emberenchanter.top
 embezzlementthemselves.com
@@ -62711,6 +62686,7 @@ embosknitos.com
 www.embosknitos.com
 embowerdatto.com
 www.embowerdatto.com
+emboxsegos.com
 embrace.io
 www.embrace.io
 embracetrace.com
@@ -65047,6 +65023,7 @@ cdn.ezca.asia
 www.ezca.asia
 ezcgojaamg.com
 www.ezcgojaamg.com
+qbrth.ezcontacts.com
 ezcsceqke.tech
 www.ezcsceqke.tech
 ezdesigns.net
@@ -65851,6 +65828,8 @@ ping.fastsimon.com
 faststart.ru
 www.faststart.ru
 fasttiger.io
+fatalespedlery.com
+www.fatalespedlery.com
 fatalityreel.com
 www.fatalityreel.com
 fatalshould.com
@@ -66986,8 +66965,6 @@ fixel.ai
 www.fixel.ai
 fixionmedia.com
 www.fixionmedia.com
-fixwap.net
-www.fixwap.net
 fizawhwpyda.com
 www.fizawhwpyda.com
 analytics.fizik.com
@@ -87543,6 +87520,8 @@ www.kdvmnn.com
 axp.kdvr.com
 kdxhsaaealyadm.com
 www.kdxhsaaealyadm.com
+kdyurlid.top
+www.kdyurlid.top
 keajs.com
 cdn.keajs.com
 www.keajs.com
@@ -88991,8 +88970,6 @@ kurrimsaswti.com
 www.kurrimsaswti.com
 analytics.kurtgeiger.com
 analytics.kurtgeiger.us
-kurulum.xyz
-www.kurulum.xyz
 matomo.kurviger.de
 kurzycz.care
 www.kurzycz.care
@@ -97765,6 +97742,7 @@ mobile.mng-ads.com
 www.mng-ads.com
 mngbqpz.cc
 www.mngbqpz.cc
+view.mngusr.com
 matomo.mnh.fr
 mnhjk.com
 cdn.mnhjk.com
@@ -100837,8 +100815,6 @@ napefootball2022.com
 www.napefootball2022.com
 napgamegiare.net
 www.napgamegiare.net
-napgamevn.net
-www.napgamevn.net
 napiujsag.hu
 www.napiujsag.hu
 analytics.napkin.ai
@@ -106867,6 +106843,8 @@ orcaslicer.net
 www.orcaslicer.net
 orccpeaodwi.com
 www.orccpeaodwi.com
+orcinhyi.com
+www.orcinhyi.com
 orclrul.com
 www.orclrul.com
 orcnakokt.com
@@ -112697,6 +112675,8 @@ preachbacteriadisingenuous.com
 www.preachbacteriadisingenuous.com
 preacherscarecautiously.com
 www.preacherscarecautiously.com
+preacidtesters.com
+www.preacidtesters.com
 preaf.jp
 www.preaf.jp
 preanalytication.com
@@ -115206,6 +115186,7 @@ www.puyyyifbmdh.com
 puzna.com
 www.puzna.com
 matomo.puzzleplayz.com
+puzzlerchincof.com
 puzzoa.xyz
 www.puzzoa.xyz
 metrics.pvcase.com
@@ -118459,6 +118440,7 @@ www.relateddigital.com
 relatedgrouptest.com
 www.relatedgrouptest.com
 analytics.relateiq.com
+relatesacinous.top
 relationrest.com
 www.relationrest.com
 matomo.relationshop.net
@@ -122335,7 +122317,6 @@ metrics.samsclub.com
 sia.internet.apps.samsung.com
 dls-account.di.atlas.samsung.com
 analytics.bigdata.samsung.com
-lp.europe.business.samsung.com
 tracking.europe.business.samsung.com
 channelusa.samsung.com
 dc.dqa.samsung.com
@@ -128397,6 +128378,8 @@ www.solanumscour.com
 solarad.net
 www.solarad.net
 solaranalytics.org
+solarcyclonesky.com
+www.solarcyclonesky.com
 analytics.solaredge.com
 solarislabyrinth.com
 www.solarislabyrinth.com
@@ -135411,6 +135394,8 @@ www.throwsceases.com
 thrtle.com
 nlsn.thrtle.com
 www.thrtle.com
+thruksyq.com
+www.thruksyq.com
 thruport.com
 www.thruport.com
 thruudrad.com
@@ -137518,6 +137503,7 @@ www.traktrafficflow.com
 traktum.com
 www.traktum.com
 matomo.tralalere.com
+tramegileno.com
 metrics.trammellcrow.com
 smetrics.trammellcrow.com
 tramordinaleradicate.com
@@ -146361,7 +146347,6 @@ webopub.fr
 www.webopub.fr
 weborama.com
 weborama.io
-weborama.net
 cstatic.weborama.com
 cstatic.weborama.fr
 ctx.weborama.com
@@ -146381,7 +146366,6 @@ wf-ru.frontend.weborama.fr
 static.weborama.io
 www.weborama.com
 www.weborama.io
-www.weborama.net
 weborama-tech.ru
 cstatic.weborama-tech.ru
 cstatic-ru-cv.weborama-tech.ru
@@ -148598,6 +148582,7 @@ writemypaperbuyefp.com
 www.writemypaperbuyefp.com
 writhehawm.com
 www.writhehawm.com
+writtenkoa.top
 wrongwayfarer.com
 www.wrongwayfarer.com
 wrongwound.com
@@ -151765,6 +151750,8 @@ www.z0a.de
 z2adigital.com
 www.z2adigital.com
 r.z3.fm
+z4v.icu
+www.z4v.icu
 z54a.xyz
 www.z54a.xyz
 z5x.net

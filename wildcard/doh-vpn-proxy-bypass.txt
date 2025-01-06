@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 11:31 UTC
-# Version: 2025.0106.1131.42
+# Last modified: 06 Jan 2025 19:36 UTC
+# Version: 2025.0106.1936.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3730
+# Number of entries: 3731
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -1006,6 +1006,7 @@
 *.dukun.de
 *.dutchproxy.nl
 *.dvprovider.icu
+*.dns.dyn1.de
 *.ueni.dyndns.org
 *.vpn.dzarlax.dev
 *.dzhot.us

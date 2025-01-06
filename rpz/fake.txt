@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736149620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736178540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jan 2025 07:47 UTC
-; Version: 2025.0106.0747.41
+; Last modified: 06 Jan 2025 15:49 UTC
+; Version: 2025.0106.1549.27
 ; Syntax: RPZ
-; Number of entries: 21624
+; Number of entries: 21600
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -2273,8 +2273,6 @@ bforex.com CNAME .
 *.bforex.com CNAME .
 bforfinance.com CNAME .
 *.bforfinance.com CNAME .
-bfxoption.com CNAME .
-*.bfxoption.com CNAME .
 bgmclaforestiere.com CNAME .
 *.bgmclaforestiere.com CNAME .
 bicycleair-pumpde.com CNAME .
@@ -2447,8 +2445,6 @@ birken-online.com CNAME .
 *.birken-online.com CNAME .
 birkendeal.com CNAME .
 *.birkendeal.com CNAME .
-birkenselections.com CNAME .
-*.birkenselections.com CNAME .
 birkesales.com CNAME .
 *.birkesales.com CNAME .
 bisontradepro.com CNAME .
@@ -2583,8 +2579,6 @@ boerty.com CNAME .
 *.boerty.com CNAME .
 bog-apotheke.com CNAME .
 *.bog-apotheke.com CNAME .
-bohmischesglas.com CNAME .
-*.bohmischesglas.com CNAME .
 boilsofas.com CNAME .
 *.boilsofas.com CNAME .
 bois-energie-plus.com CNAME .
@@ -2685,8 +2679,6 @@ brandskishop.com CNAME .
 *.brandskishop.com CNAME .
 brandtoiletries.com CNAME .
 *.brandtoiletries.com CNAME .
-braucheschnell.com CNAME .
-*.braucheschnell.com CNAME .
 braxzt.com CNAME .
 *.braxzt.com CNAME .
 breadmachineshop.com CNAME .
@@ -3011,8 +3003,6 @@ ccmangebote.com CNAME .
 *.ccmangebote.com CNAME .
 cdcauldron.com CNAME .
 *.cdcauldron.com CNAME .
-cdonvip.com CNAME .
-*.cdonvip.com CNAME .
 cecilliab.com CNAME .
 *.cecilliab.com CNAME .
 cedarfinance.com CNAME .
@@ -3021,8 +3011,6 @@ celebsproviders.com CNAME .
 *.celebsproviders.com CNAME .
 cenetstore.com CNAME .
 *.cenetstore.com CNAME .
-centaurigestionprivee.com CNAME .
-*.centaurigestionprivee.com CNAME .
 centebing.com CNAME .
 *.centebing.com CNAME .
 centrale-trader.com CNAME .
@@ -13917,8 +13905,6 @@ beautystudioceline.de CNAME .
 *.beautystudioceline.de CNAME .
 bebofo-handel.de CNAME .
 *.bebofo-handel.de CNAME .
-beimeyer.de CNAME .
-*.beimeyer.de CNAME .
 bellavitaa.de CNAME .
 *.bellavitaa.de CNAME .
 bende-tech.de CNAME .
@@ -14171,8 +14157,6 @@ c24-testing.de CNAME .
 *.c24-testing.de CNAME .
 cafeeq.de CNAME .
 *.cafeeq.de CNAME .
-caffeine-machine.de CNAME .
-*.caffeine-machine.de CNAME .
 calea-trade.de CNAME .
 *.calea-trade.de CNAME .
 calishop.de CNAME .
@@ -14239,10 +14223,6 @@ chh-shipping.de CNAME .
 *.chh-shipping.de CNAME .
 chh-transport.de CNAME .
 *.chh-transport.de CNAME .
-chiasco-gmbh.de CNAME .
-*.chiasco-gmbh.de CNAME .
-chklog.de CNAME .
-*.chklog.de CNAME .
 chmielorz-handel.de CNAME .
 *.chmielorz-handel.de CNAME .
 christianpomowski.de CNAME .
@@ -19773,8 +19753,6 @@ bikedevilzde.shop CNAME .
 *.bikedevilzde.shop CNAME .
 bikenstock.shop CNAME .
 *.bikenstock.shop CNAME .
-bikepower.shop CNAME .
-*.bikepower.shop CNAME .
 blackdiamondsalestore.shop CNAME .
 *.blackdiamondsalestore.shop CNAME .
 blank-reifenversand.shop CNAME .
@@ -21127,8 +21105,6 @@ babyonlines.store CNAME .
 *.babyonlines.store CNAME .
 beanzio.store CNAME .
 *.beanzio.store CNAME .
-bestero.store CNAME .
-*.bestero.store CNAME .
 bicyclediscount.store CNAME .
 *.bicyclediscount.store CNAME .
 bopsiz.store CNAME .
