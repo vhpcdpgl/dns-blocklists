@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 23:43 UTC
-# Version: 2025.0106.2343.41
+# Last modified: 07 Jan 2025 07:43 UTC
+# Version: 2025.0107.0743.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10798
+# Number of entries: 10795
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2516,7 +2516,6 @@ local=/dopplergunstig.com/
 local=/doption24.de/
 local=/doramampn.com/
 local=/doriancolin.com/
-local=/doriansaga.com/
 local=/dormanshop.com/
 local=/dortmund-warenhaus.de/
 local=/dosenberry.de/
@@ -2844,7 +2843,6 @@ local=/ellisaluna-handel24.de/
 local=/ellus-tech.de/
 local=/eloisetonerr.com/
 local=/eloquentik.de/
-local=/elos-patrimoine.com/
 local=/eloshop.net/
 local=/elsgroup.net/
 local=/elsib-tech.de/
@@ -2944,7 +2942,6 @@ local=/ersatzteilegeschaft.com/
 local=/ersatzteilerabatt.com/
 local=/erste-apo.de/
 local=/erstmal-kaffee.com/
-local=/erzinex.com/
 local=/esalesson.de/
 local=/esazz.com/
 local=/escalope-tech.de/

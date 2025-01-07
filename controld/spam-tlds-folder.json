@@ -267,13 +267,6 @@
       }
     },
     {
-      "PK": "*.chat",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.christmas",
       "action": {
         "do": 0,
@@ -821,6 +814,13 @@
     },
     {
       "PK": "*.markets",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.mba",
       "action": {
         "do": 0,
         "status": 1
