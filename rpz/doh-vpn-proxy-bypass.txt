@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736018040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736249340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jan 2025 19:14 UTC
-; Version: 2025.0104.1914.43
+; Last modified: 07 Jan 2025 11:29 UTC
+; Version: 2025.0107.1129.43
 ; Syntax: RPZ
-; Number of entries: 7466
+; Number of entries: 7464
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -706,8 +706,6 @@ dsl-app.s3.us-east-2.amazonaws.com CNAME .
 *.dsl-app.s3.us-east-2.amazonaws.com CNAME .
 ananoos.com CNAME .
 *.ananoos.com CNAME .
-androvpn.com CNAME .
-*.androvpn.com CNAME .
 aniscartujo.com CNAME .
 *.aniscartujo.com CNAME .
 anonine.com CNAME .
@@ -3772,8 +3770,6 @@ dns.engineer.web.id CNAME .
 *.dns.engineer.web.id CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
-doh.zephyrus.id CNAME .
-*.doh.zephyrus.id CNAME .
 doh.iucc.ac.il CNAME .
 *.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
@@ -4284,6 +4280,8 @@ xn--28jub1g.jp CNAME .
 *.xn--28jub1g.jp CNAME .
 dns.cctld.kg CNAME .
 *.dns.cctld.kg CNAME .
+ns.net.kg CNAME .
+*.ns.net.kg CNAME .
 nightlymoon.us.kg CNAME .
 *.nightlymoon.us.kg CNAME .
 luna-is.so-gorgeo.us.kg CNAME .
@@ -5706,8 +5704,6 @@ dns.hakim.one CNAME .
 *.dns.hakim.one CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
-dns.milkpie.one CNAME .
-*.dns.milkpie.one CNAME .
 one.one.one.one CNAME .
 *.one.one.one.one CNAME .
 proxysite.one CNAME .
@@ -6198,6 +6194,8 @@ yoyovpn.org CNAME .
 *.yoyovpn.org CNAME .
 doh.zknt.org CNAME .
 *.doh.zknt.org CNAME .
+zproxy.org CNAME .
+*.zproxy.org CNAME .
 doh.azoris.ovh CNAME .
 *.doh.azoris.ovh CNAME .
 cloudns.bosco.ovh CNAME .

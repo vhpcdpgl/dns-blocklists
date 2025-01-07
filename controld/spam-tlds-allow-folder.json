@@ -834,6 +834,13 @@
       }
     },
     {
+      "PK": "fmhy.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fmhy.ml",
       "action": {
         "do": 1,
@@ -1612,6 +1619,13 @@
     },
     {
       "PK": "minecraft.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mirror.work",
       "action": {
         "do": 1,
         "status": 1

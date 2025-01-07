@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/4782
+*.poltio.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4774
 track.connect.travelaudience.com
 
@@ -157,9 +160,6 @@ api.onesignal.com
 # Xiaomi App Vault uses it to display the widget's center
 *.t14.market.xiaomi.com
 
-# Needed for additional Assistant downloads on Android
-geller-pa.googleapis.com
-
 # Xiaomi app "Widget Feed"
 *.brs.api.intl.miui.com
 
@@ -173,9 +173,6 @@ benelph.de
 
 # https://github.com/hagezi/dns-blocklists/issues/3576
 hubspotlinks.com
-
-# Google Wallet - breaks adding PKPASS files
-auditrecording-pa.googleapis.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3330
 signal-collector.gemaltodigitalbankingidcloud.com

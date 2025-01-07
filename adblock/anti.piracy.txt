@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jan 2025 11:14 UTC
-! Version: 2025.0105.1114.15
+! Last modified: 07 Jan 2025 11:24 UTC
+! Version: 2025.0107.1124.47
 ! Syntax: AdBlock
-! Number of entries: 9926
+! Number of entries: 9902
 !
 ||0123456789nonexistent.com^
 ||01234movies.email^
@@ -58,7 +58,6 @@
 ||123movie.date^
 ||123movie.show^
 ||123movie.uno^
-||123moviefree.sbs^
 ||w4.123moviefree4u.com^
 ||123moviehub.co^
 ||123movies.ag^
@@ -172,7 +171,6 @@
 ||1load.sx^
 ||1movies.best^
 ||1movies.life^
-||1movies.nl^
 ||1movieshd.com^
 ||1movietv.com^
 ||1nd.hu^
@@ -352,7 +350,6 @@
 ||94hiphop.com^
 ||960303.xyz^
 ||9anime.ru^
-||9anime.to^
 ||9anime.zone^
 ||9divx.com^
 ||9goal.tv^
@@ -520,10 +517,8 @@
 ||altadefinizione.best^
 ||altadefinizione.bet^
 ||altadefinizione.boats^
-||altadefinizione.boo^
 ||altadefinizione.cab^
 ||altadefinizione.cafe^
-||altadefinizione.cam^
 ||altadefinizione.care^
 ||altadefinizione.casa^
 ||altadefinizione.casino^
@@ -618,7 +613,6 @@
 ||altadefinizione.works^
 ||altadefinizione.world^
 ||altadefinizione.ws^
-||altadefinizione.wtf^
 ||altadefinizione.xyz^
 ||altadefinizione.yachts^
 ||altadefinizione.yoga^
@@ -629,7 +623,6 @@
 ||altadefinizione01.bike^
 ||altadefinizione01.black^
 ||altadefinizione01.boutique^
-||altadefinizione01.builders^
 ||altadefinizione01.cc^
 ||altadefinizione01.click^
 ||altadefinizione01.cloud^
@@ -658,7 +651,6 @@
 ||altadefinizione01.promo^
 ||altadefinizione01.recipes^
 ||altadefinizione01.site^
-||altadefinizione01.soy^
 ||altadefinizione01.taxi^
 ||altadefinizione01.tel^
 ||altadefinizione01.vg^
@@ -724,7 +716,6 @@
 ||anime-tv.fun^
 ||anime-wiki.org^
 ||anime1.com^
-||anime5stars.org^
 ||anime8.me^
 ||anime8.ru^
 ||animebam.se^
@@ -869,7 +860,6 @@
 ||apkmate.com^
 ||apkmb.com^
 ||apkmirrorfull.com^
-||apkmod9.com^
 ||apkmodct.com^
 ||apkmodea.com^
 ||apkmodget.com^
@@ -1141,7 +1131,6 @@
 ||best-moviez.ws^
 ||best-series.me^
 ||tracker.best-torrents.net^
-||best4stremio.space^
 ||bestdjmix.com^
 ||bestfilez.net^
 ||bestfreestreaming.com^
@@ -1151,7 +1140,6 @@
 ||bestpokertorrents.com^
 ||bestreams.net^
 ||bestserials.com^
-||bestsportstreaming.com^
 ||beststresser.com^
 ||besttracker.cz^
 ||bewildandout.org^
@@ -1161,10 +1149,8 @@
 ||8.beyondth.cn^
 ||bflix.ac^
 ||bflix.bz^
-||bflix.gdn^
 ||bflix.gg^
 ||bflix.to^
-||bflixmovies.me^
 ||bflixto.me^
 ||bgtop.net^
 ||bhalukabroadband.com^
@@ -1257,7 +1243,6 @@
 ||bitvaulttorrent.com^
 ||bitvn.net^
 ||bitzone.info^
-||vexmovies.biz.id^
 ||biztorrents.com^
 ||bj-share.net^
 ||tracker.bjut.jp^
@@ -1468,7 +1453,6 @@
 ||bt4g.org^
 ||tracker.bt4g.com^
 ||bt4gprx.com^
-||bt5000.com^
 ||btafile.com^
 ||btann.cn^
 ||btbbt.cc^
@@ -1728,7 +1712,6 @@
 ||cb01.uno^
 ||cb01.us^
 ||cb01.vacations^
-||cb01.vet^
 ||cb01.vg^
 ||cb01.video^
 ||cb01.vip^
@@ -1815,7 +1798,6 @@
 ||cineblog01.cool^
 ||cineblog01.cx^
 ||cineblog01.cyou^
-||cineblog01.de^
 ||cineblog01.dev^
 ||cineblog01.dog^
 ||cineblog01.download^
@@ -2247,7 +2229,6 @@
 ||cruzing.xyz^
 ||tracker.cryptichaven.org^
 ||cspan.com^
-||cstress.net^
 ||ctgflix.com^
 ||ctgfun.com^
 ||ctghall.com^
@@ -2501,7 +2482,6 @@
 ||direct-leaks.com^
 ||directdl.com^
 ||directoriowarez.com^
-||directvxx.com^
 ||directwarez.com^
 ||direttagol.it^
 ||dirkstream.com^
@@ -2696,7 +2676,6 @@
 ||duboku.tv^
 ||duboku.vip^
 ||cutscloud.duckdns.org^
-||d13bttrck.duckdns.org^
 ||kamikazee.duckdns.org^
 ||thinking.duckdns.org^
 ||tr4ck3r.duckdns.org^
@@ -3023,7 +3002,6 @@
 ||eurostreaming.zone^
 ||bt.eutorrents.com^
 ||ev01.net^
-||ev01.to^
 ||evan.im^
 ||evert.net^
 ||everydayjones.com^
@@ -4971,11 +4949,9 @@
 ||kubanmedia.org^
 ||kuiken.co^
 ||kukaj.io^
-||kukaj.me^
 ||kukaj.si^
 ||kukaj.sk^
 ||kukaj.sx^
-||kukaj.to^
 ||kukaj-to.cz^
 ||kukajto.io^
 ||tracker.kuroy.me^

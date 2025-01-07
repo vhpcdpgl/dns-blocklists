@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jan 2025 19:14 UTC
-# Version: 2025.0104.1914.43
+# Last modified: 07 Jan 2025 11:29 UTC
+# Version: 2025.0107.1129.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3733
+# Number of entries: 3732
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -216,7 +216,6 @@ local=/ananoos.com/
 local=/anatomical.design/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
-local=/androvpn.com/
 local=/doh.angry.im/
 local=/animeproxy.net/
 local=/aniscartujo.com/
@@ -1874,7 +1873,6 @@ local=/microvpn.com/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
-local=/dns.milkpie.one/
 local=/minilla.store/
 local=/miniprox.com/
 local=/miniprox.info/
@@ -2024,6 +2022,7 @@ local=/dns.neowutran.ovh/
 local=/dns.aa.net.uk/
 local=/doh.infotek.net.id/
 local=/doh.max.net.id/
+local=/ns.net.kg/
 local=/net-ml.online/
 local=/netaltr.com/
 local=/netnut.io/
@@ -3723,7 +3722,6 @@ local=/zendproxy.com/
 local=/zenmate.com/
 local=/zenrows.com/
 local=/zenvpn.net/
-local=/doh.zephyrus.id/
 local=/adguard-kartoffel.zernico.de/
 local=/zerotier.com/
 local=/zerotunnel.com/
@@ -3740,6 +3738,7 @@ local=/zpath.net/
 local=/zpn.im/
 local=/a.zpn.me/
 local=/zproxy.de/
+local=/zproxy.org/
 local=/zscalertwo.net/
 local=/zwyr157wwiu6eior.com/
 local=/dns.zzuhacker.cn/

@@ -183,6 +183,13 @@
       }
     },
     {
+      "PK": "fbs.smoot.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "feedbackws.fe2.apple-dns.net",
       "action": {
         "do": 0,

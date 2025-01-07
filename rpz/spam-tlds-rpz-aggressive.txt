@@ -1,21 +1,22 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736047740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736235780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs - Aggressive
 ; Description: The Top Most Abused Top Level Domains
 ; Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 ;         https://radar.cloudflare.com/email-security
+;         https://trends.netcraft.com/cybercrime/tlds
 ;         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 ;         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jan 2025 03:29 UTC
-; Version: 2025.0105.0329.34
+; Last modified: 07 Jan 2025 07:43 UTC
+; Version: 2025.0107.0743.42
 ; Syntax: RPZ
-; Number of latin TLDs: 216
+; Number of latin TLDs: 220
 ;
 *.actor CNAME .
 *.africa CNAME .
@@ -110,6 +111,7 @@ $TTL 300
 *.haus CNAME .
 *.health CNAME .
 *.healthcare CNAME .
+*.help CNAME .
 *.homes CNAME .
 *.icu CNAME .
 *.ink CNAME .
@@ -132,6 +134,7 @@ $TTL 300
 *.management CNAME .
 *.market CNAME .
 *.markets CNAME .
+*.mba CNAME .
 *.men CNAME .
 *.miami CNAME .
 *.ml CNAME .
@@ -173,6 +176,7 @@ $TTL 300
 *.recipes CNAME .
 *.red CNAME .
 *.rehab CNAME .
+*.ren CNAME .
 *.rent CNAME .
 *.rest CNAME .
 *.restaurant CNAME .
@@ -189,6 +193,7 @@ $TTL 300
 *.sexy CNAME .
 *.shop CNAME .
 *.shopping CNAME .
+*.show CNAME .
 *.site CNAME .
 *.skin CNAME .
 *.solar CNAME .

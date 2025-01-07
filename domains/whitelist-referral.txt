@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 21:06 UTC
-# Version: 2025.0103.2106.45
+# Last modified: 06 Jan 2025 07:29 UTC
+# Version: 2025.0106.0729.22
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 947
+# Number of entries: 928
 #
 l.1mp.ru
 t.1und1.de
@@ -66,7 +66,6 @@ aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
 aax-eu.amazon.pl
-aax-eu.amazon.sa
 aax-eu-dub.amazon.com
 aax-eu-retail-rtb.amazon.com
 aax-fe.amazon.com
@@ -289,14 +288,11 @@ suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
 suite24.emarsys.net
-suite27.emarsys.net
 suite29.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
-suite34.emarsys.net
 suite36.emarsys.net
 suite38.emarsys.net
-suite40.emarsys.net
 suite40-cf.emarsys.net
 suite45.emarsys.net
 suite54.emarsys.net
@@ -355,7 +351,6 @@ click.s13.exacttarget.com
 mc.s13.exacttarget.com
 members.s13.exacttarget.com
 reply.s13.exacttarget.com
-view.s13.exacttarget.com
 virt.s13.exacttarget.com
 click.virt.s13.exacttarget.com
 s4.exacttarget.com
@@ -369,11 +364,11 @@ pub.s4.exacttarget.com
 view.s4.exacttarget.com
 virt.s4.exacttarget.com
 click.virt.s4.exacttarget.com
+s5.exacttarget.com
 s50.exacttarget.com
 bounce.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
-reply.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
 click.s51.exacttarget.com
@@ -391,7 +386,6 @@ view.s6.exacttarget.com
 virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
-bounce.s7.exacttarget.com
 etappx.s7.exacttarget.com
 ftp.s7.exacttarget.com
 image.s7.exacttarget.com
@@ -411,7 +405,6 @@ cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
 ozon-cdn.exponea.com
-ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
 l.facebook.com
@@ -465,7 +458,6 @@ click.holidayinnclubemail.com
 click.instantink.hpsmart.com
 href.li
 sites.hscoscdn-eu1.net
-group0.sites.hscoscdn-eu1.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
 group1.sites.hscoscdn00.net
@@ -601,11 +593,8 @@ mention-me.com
 action.metaffiliation.com
 micpn.com
 email.microsoft.com
-bounce3.email.microsoft.com
-bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
-email.microsoftemail.com
 click.email.microsoftemail.com
 image.email.microsoftemail.com
 view.email.microsoftemail.com
@@ -616,22 +605,16 @@ image.email.microsoftonline.com
 www.image.email.microsoftonline.com
 links.mkt41.net
 mkto-a0095.com
-mkto-ab020242.com
 mkto-ab040115.com
-mkto-ab040147.com
 mkto-ab060085.com
-mkto-ab070017.com
 mkto-ab080206.com
-mkto-ab180008.com
 mkto-ab200065.com
-mkto-ab200129.com
 mkto-ab210094.com
 mkto-ab210104.com
 mkto-ab220178.com
 mkto-ab220193.com
-mkto-ab290022.com
+mkto-ab280126.com
 mkto-ab300154.com
-mkto-ab340022.com
 mkto-ab340124.com
 mkto-ab390087.com
 mkto-ab420081.com
@@ -640,10 +623,10 @@ mkto-ab530057.com
 mkto-ab540186.com
 mkto-ab550140.com
 mkto-ab560068.com
-mkto-ab560171.com
 mkto-ab570110.com
-mkto-ab580004.com
+mkto-ab570148.com
 mkto-ab650097.com
+mkto-ab660121.com
 mkto-ab690019.com
 mkto-ab690180.com
 mkto-d0097.com
@@ -657,21 +640,20 @@ mkto-lon050200.com
 mkto-n0199.com
 mkto-nld1040186.com
 mkto-o0153.com
-mkto-q0045.com
 mkto-sj030214.com
 mkto-sj040252.com
+mkto-sj060080.com
 mkto-sj070214.com
 mkto-sj070259.com
+mkto-sj090132.com
+mkto-sj160210.com
 mkto-sj180011.com
 mkto-sj190104.com
-mkto-sj190237.com
-mkto-sj230006.com
+mkto-sj240014.com
 mkto-sj240021.com
 mkto-sj270080.com
-mkto-sj270148.com
 mkto-sj310061.com
 mkto-sj320047.com
-mkto-sj370181.com
 mktoweb.com
 mkto-lp.mlinc.com
 click.mlsend.com
@@ -726,7 +708,6 @@ c2.piano.io
 c2-ap.piano.io
 c2-au.piano.io
 c2-eu.piano.io
-c2-sandbox.piano.io
 cdn.piano.io
 cdn-ap.piano.io
 cdn-au.piano.io
@@ -765,14 +746,13 @@ rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
 r4gh8tuab.cc.rs6.net
-r5siqu4ab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
-r88lcbcab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rq6agxabb.cc.rs6.net
+rt7utobab.cc.rs6.net
 rxfc49ebb.cc.rs6.net
 rz6dkreab.cc.rs6.net
 r20.rs6.net
@@ -922,6 +902,7 @@ tm.tradetracker.net
 ts.tradetracker.net
 api.traq.li
 secure.traqkarr.com
+track.connect.travelaudience.com
 tracking.truthfinder.com
 clicks.trx-hub.com
 analytics.twitter.com

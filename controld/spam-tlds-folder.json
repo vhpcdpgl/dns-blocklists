@@ -659,6 +659,13 @@
       }
     },
     {
+      "PK": "*.help",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.homes",
       "action": {
         "do": 0,
@@ -807,6 +814,13 @@
     },
     {
       "PK": "*.markets",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.mba",
       "action": {
         "do": 0,
         "status": 1
@@ -1100,6 +1114,13 @@
       }
     },
     {
+      "PK": "*.ren",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rent",
       "action": {
         "do": 0,
@@ -1206,6 +1227,13 @@
     },
     {
       "PK": "*.shopping",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.show",
       "action": {
         "do": 0,
         "status": 1

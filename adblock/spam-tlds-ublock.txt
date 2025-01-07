@@ -3,6 +3,7 @@
 ! Description: The Top Most Abused Top Level Domains
 ! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 !         https://radar.cloudflare.com/email-security
+!         https://trends.netcraft.com/cybercrime/tlds
 !         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 !         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 !         https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
@@ -10,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jan 2025 03:29 UTC
-! Version: 2025.0105.0329.34
+! Last modified: 07 Jan 2025 07:43 UTC
+! Version: 2025.0107.0743.42
 ! Syntax: uBlock
-! Number of latin TLDs: 216 - non-latin TLDs: 151
+! Number of latin TLDs: 220 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -108,6 +109,7 @@
 ||haus^$doc
 ||health^$doc,domain=~sca.health
 ||healthcare^$doc
+||help^$doc
 ||homes^$doc,domain=~stremio.homes
 ||icu^$doc,domain=~lunar.icu|~mon.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink|~shrinkme.ink|~sumerian.ink|~work.ink
@@ -122,7 +124,7 @@
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~anarchychess.lol|~broke.lol|~browser.lol|~dankmemer.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~limetorrents.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~weblog.lol
+||lol^$doc,domain=~adsb.lol|~anarchychess.lol|~broke.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~kizuki.lol|~lemy.lol|~library.lol|~limetorrents.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~weblog.lol
 ||love^$doc
 ||ltd^$doc,domain=~homebrew.ltd|~picsee.ltd|~swizzin.ltd
 ||luxe^$doc
@@ -130,6 +132,7 @@
 ||management^$doc
 ||market^$doc,domain=~digiseller.market|~otto.market|~plati.market|~spotim.market|~warframe.market
 ||markets^$doc
+||mba^$doc
 ||men^$doc,domain=~virgile.men
 ||miami^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
@@ -171,6 +174,7 @@
 ||recipes^$doc
 ||red^$doc,domain=~bunkr.red|~xvideos.red
 ||rehab^$doc
+||ren^$doc
 ||rent^$doc,domain=~srv.rent
 ||rest^$doc,domain=~crystals.rest|~insomnia.rest|~nect.rest
 ||restaurant^$doc
@@ -187,6 +191,7 @@
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
 ||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~grnk.shop|~grog.shop|~henssler.shop|~munu.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
 ||shopping^$doc
+||show^$doc
 ||site^$doc,domain=~aftermath.site|~claude.site|~dodi-repacks.site|~elamigos.site|~fbsmarthome.site|~fitgirl-repacks.site|~gov-img.site|~notion.site|~onrocket.site|~reddit-doesnt-like-this.site|~wishonly.site|~wpdns.site
 ||skin^$doc,domain=~quermbbd.skin
 ||solar^$doc,domain=~forecast.solar
@@ -224,7 +229,7 @@
 ||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~debrid.wiki|~fallout.wiki|~getindie.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~tajrobe.wiki|~thehomelab.wiki|~usermanual.wiki|~w.wiki|~zeppelin.wiki
 ||win^$doc,domain=~activated.win
 ||wine^$doc,domain=~nostr.wine
-||work^$doc,domain=~dood.work|~elphago.work|~frame.work|~koding.work|~searx.work
+||work^$doc,domain=~dood.work|~elphago.work|~frame.work|~koding.work|~mirror.work|~searx.work
 ||world^$doc,domain=~boo.world|~calckey.world|~camhub.world|~lemmy.world|~mastodon.world|~maxwellcat.world|~mobilecrack.world|~shitposter.world|~unidays.world|~userstyles.world|~wetdry.world|~wiz.world
 ||wtf^$doc,domain=~akko.wtf|~lemmy.wtf|~myip.wtf|~squid.wtf|~tigress.wtf|~wxx.wtf|~xo.wtf
 ||xin^$doc

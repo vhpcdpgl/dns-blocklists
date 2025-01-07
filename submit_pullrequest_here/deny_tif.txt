@@ -1,5 +1,12 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4780
+loveclickeve.site
+
+# https://github.com/hagezi/dns-blocklists/issues/4778
+updateicybd.top/us
+informed.updateicybd.top
+
 # https://github.com/hagezi/dns-blocklists/issues/4776
 supporthubcenter.eu
 
