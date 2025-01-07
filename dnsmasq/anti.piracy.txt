@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 19:31 UTC
-# Version: 2025.0106.1931.55
+# Last modified: 07 Jan 2025 03:38 UTC
+# Version: 2025.0107.0338.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9908
+# Number of entries: 9903
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -2228,7 +2228,6 @@ local=/tpb.crushus.com/
 local=/cruzing.xyz/
 local=/tracker.cryptichaven.org/
 local=/cspan.com/
-local=/cstress.net/
 local=/ctgflix.com/
 local=/ctgfun.com/
 local=/ctghall.com/
@@ -2482,7 +2481,6 @@ local=/dinostreaming.ws/
 local=/direct-leaks.com/
 local=/directdl.com/
 local=/directoriowarez.com/
-local=/directvxx.com/
 local=/directwarez.com/
 local=/direttagol.it/
 local=/dirkstream.com/
@@ -3004,7 +3002,6 @@ local=/eurostreaming.yachts/
 local=/eurostreaming.zone/
 local=/bt.eutorrents.com/
 local=/ev01.net/
-local=/ev01.to/
 local=/evan.im/
 local=/evert.net/
 local=/everydayjones.com/
@@ -4952,11 +4949,9 @@ local=/kubalibre.com/
 local=/kubanmedia.org/
 local=/kuiken.co/
 local=/kukaj.io/
-local=/kukaj.me/
 local=/kukaj.si/
 local=/kukaj.sk/
 local=/kukaj.sx/
-local=/kukaj.to/
 local=/kukaj-to.cz/
 local=/kukajto.io/
 local=/tracker.kuroy.me/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736191860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736221080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jan 2025 19:31 UTC
-; Version: 2025.0106.1931.55
+; Last modified: 07 Jan 2025 03:38 UTC
+; Version: 2025.0107.0338.26
 ; Syntax: RPZ
-; Number of entries: 19816
+; Number of entries: 19806
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3525,8 +3525,6 @@ directdl.com CNAME .
 *.directdl.com CNAME .
 directoriowarez.com CNAME .
 *.directoriowarez.com CNAME .
-directvxx.com CNAME .
-*.directvxx.com CNAME .
 directwarez.com CNAME .
 *.directwarez.com CNAME .
 dirkstream.com CNAME .
@@ -10737,8 +10735,6 @@ kinox.me CNAME .
 *.kinox.me CNAME .
 kissseries.me CNAME .
 *.kissseries.me CNAME .
-kukaj.me CNAME .
-*.kukaj.me CNAME .
 tracker.kuroy.me CNAME .
 *.tracker.kuroy.me CNAME .
 retracker.lanta.me CNAME .
@@ -11691,8 +11687,6 @@ ttr.croco.net CNAME .
 *.ttr.croco.net CNAME .
 crohasit.net CNAME .
 *.crohasit.net CNAME .
-cstress.net CNAME .
-*.cstress.net CNAME .
 ctgtel.net CNAME .
 *.ctgtel.net CNAME .
 tracker.cyber-hub.net CNAME .
@@ -17377,8 +17371,6 @@ ebook-hell.to CNAME .
 *.ebook-hell.to CNAME .
 ettv.to CNAME .
 *.ettv.to CNAME .
-ev01.to CNAME .
-*.ev01.to CNAME .
 tracker.exoticaz.to CNAME .
 *.tracker.exoticaz.to CNAME .
 ext.to CNAME .
@@ -17511,8 +17503,6 @@ kinoz.to CNAME .
 *.kinoz.to CNAME .
 kisstvshow.to CNAME .
 *.kisstvshow.to CNAME .
-kukaj.to CNAME .
-*.kukaj.to CNAME .
 leaked.to CNAME .
 *.leaked.to CNAME .
 lesen.to CNAME .

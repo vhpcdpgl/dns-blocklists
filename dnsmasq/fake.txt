@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 15:49 UTC
-# Version: 2025.0106.1549.27
+# Last modified: 06 Jan 2025 23:43 UTC
+# Version: 2025.0106.2343.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10800
+# Number of entries: 10798
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2046,7 +2046,6 @@ local=/coyojo.com/
 local=/cozyhomeus.com/
 local=/cozysapparels.com/
 local=/cp24.pl/
-local=/craftbrothers.shop/
 local=/crafts-sewing.com/
 local=/craftsmansale.com/
 local=/crankangebote.com/
@@ -2116,7 +2115,6 @@ local=/cthesky.com/
 local=/h5.ctmexm.com/
 local=/ctoption.com/
 local=/ctxholdings.com/
-local=/cube-bike-de.com/
 local=/cubeaustria.com/
 local=/cubeu.de/
 local=/cuerholeshop.com/
@@ -2310,7 +2308,6 @@ local=/deliversafev.com/
 local=/delson.de/
 local=/delta-stock.com/
 local=/deltabigai.net/
-local=/deltaltd.de/
 local=/deltaprofit24.com/
 local=/delwin-tech.de/
 local=/delyanshop.com/
@@ -2381,7 +2378,6 @@ local=/deutsche-group.org/
 local=/deutschecapitals.com/
 local=/deutschekredit-finanz.com/
 local=/deutscher-link.com/
-local=/deutsches-heizoel.com/
 local=/deutschezeltwelt.com/
 local=/deutschjobs.xyz/
 local=/deutschlandschuh.com/
@@ -2427,7 +2423,6 @@ local=/digipoint.org/
 local=/digiszone.com/
 local=/digital-pi.de/
 local=/digital-research.net/
-local=/digitalcatalyst-hub.de/
 local=/digitalmarkt.online/
 local=/digitec-holding.de/
 local=/digitoption.com/
@@ -2707,6 +2702,7 @@ local=/edgoodtabs.com/
 local=/edgydecoration.com/
 local=/edgyfashionfinery.com/
 local=/edgyusfemale.com/
+local=/edhealthpills.top/
 local=/edigitalelectronics.com/
 local=/edirectclub.hk/
 local=/edisonlamps.co/
@@ -4484,6 +4480,7 @@ local=/hijabsalma.shop/
 local=/hikingbivouac.com/
 local=/hikingtrailfinds.com/
 local=/hilcatfarm.com/
+local=/hilde-taschen.de/
 local=/hildebrandt-bekleidung.de/
 local=/hildebrandtfashionladen.de/
 local=/installateur.hilfe-24.at/
@@ -7587,6 +7584,7 @@ local=/producttoys.com/
 local=/produit-structure.com/
 local=/produktretter.at/
 local=/produktretter.com/
+local=/produktretter.org/
 local=/produkttester-anmeldung.com/
 local=/proeuromeds.com/
 local=/profi-rasenmaher.com/

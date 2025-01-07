@@ -45,7 +45,7 @@
  10 |      74% |  12% |     14% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      91% |   9% |      0% | Denylist Community non-Aggressive
- 13 |      79% |  11% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 13 |      78% |  12% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  15 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  16 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
@@ -55,7 +55,7 @@
  20 |      85% |   7% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  21 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      88% |   5% |      7% | Advanced Extension
- 23 |      78% |  21% |      1% | Denylist Community Threat Intelligence Feeds
+ 23 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
  24 |      65% |  21% |     14% | Denylist Community Advanced
 ```
 #### PRO.PLUS
@@ -81,7 +81,7 @@
  18 |      87% |   7% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      89% |   5% |      6% | Advanced Extension
- 21 |      79% |  21% |      0% | Denylist Community Threat Intelligence Feeds
+ 21 |      78% |  22% |      0% | Denylist Community Threat Intelligence Feeds
  22 |      69% |  21% |     10% | Denylist Community Advanced
  23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
@@ -112,7 +112,7 @@
  18 |      87% |   7% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      90% |   5% |      5% | Advanced Extension
- 21 |      79% |  21% |      0% | Denylist Community Threat Intelligence Feeds
+ 21 |      78% |  22% |      0% | Denylist Community Threat Intelligence Feeds
  22 |      69% |  21% |     10% | Denylist Community Advanced
  23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads

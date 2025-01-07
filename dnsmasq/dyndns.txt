@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Dec 2024 05:22 UTC
-# Version: 2024.1230.0522.56
+# Last modified: 07 Jan 2025 03:39 UTC
+# Version: 2025.0107.0339.58
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1469
 #
@@ -202,7 +202,6 @@ local=/cloudns.pro/
 local=/cloudwatch.net/
 local=/cloudxns.net/
 local=/cmirg.com/
-local=/cnstefancelmare.ro/
 local=/changeip.co.uk/
 local=/dynamicdns.co.uk/
 local=/nav.co.id/
@@ -970,6 +969,7 @@ local=/myddns.me/
 local=/myddns.rocks/
 local=/mydissent.net/
 local=/myeffect.net/
+local=/myfritz.link/
 local=/myftp.biz/
 local=/myftp.info/
 local=/myftp.org/
