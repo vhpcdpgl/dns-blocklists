@@ -21,7 +21,7 @@
  11 |      99% |   0% |      1% | Basic Extension
  12 |      89% |   7% |      4% | Denylist Community non-Aggressive
  13 |      85% |   7% |      8% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      77% |  11% |     12% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 14 |      76% |  12% |     12% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      96% |   3% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
@@ -56,7 +56,7 @@
  21 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      88% |   5% |      7% | Advanced Extension
  23 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
- 24 |      65% |  21% |     14% | Denylist Community Advanced
+ 24 |      64% |  22% |     14% | Denylist Community Advanced
 ```
 #### PRO.PLUS
 ```
@@ -82,7 +82,7 @@
  19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      89% |   5% |      6% | Advanced Extension
  21 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
- 22 |      69% |  21% |     10% | Denylist Community Advanced
+ 22 |      68% |  22% |     10% | Denylist Community Advanced
  23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |      83% |   0% |     17% | Native Tracker TikTok Extended (Fingerprinting)
@@ -113,7 +113,7 @@
  19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      90% |   5% |      5% | Advanced Extension
  21 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
- 22 |      69% |  21% |     10% | Denylist Community Advanced
+ 22 |      68% |  22% |     10% | Denylist Community Advanced
  23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)

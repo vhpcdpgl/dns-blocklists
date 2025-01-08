@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736307060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736335560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Jan 2025 03:31 UTC
-; Version: 2025.0108.0331.56
+; Last modified: 08 Jan 2025 11:26 UTC
+; Version: 2025.0108.1126.45
 ; Syntax: RPZ
-; Number of entries: 19786
+; Number of entries: 19770
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -641,8 +641,6 @@ kinogo-cx.biz CNAME .
 *.kinogo-cx.biz CNAME .
 kinozapas.biz CNAME .
 *.kinozapas.biz CNAME .
-layarkacaxxi.biz CNAME .
-*.layarkacaxxi.biz CNAME .
 lolokino.biz CNAME .
 *.lolokino.biz CNAME .
 megakino.biz CNAME .
@@ -1657,8 +1655,6 @@ layarkita.club CNAME .
 *.layarkita.club CNAME .
 moonburrow.club CNAME .
 *.moonburrow.club CNAME .
-movie123.club CNAME .
-*.movie123.club CNAME .
 moviescounterhd.club CNAME .
 *.moviescounterhd.club CNAME .
 myporn.club CNAME .
@@ -4771,8 +4767,6 @@ lifetimeboot.com CNAME .
 *.lifetimeboot.com CNAME .
 limetor.com CNAME .
 *.limetor.com CNAME .
-linkbucks.com CNAME .
-*.linkbucks.com CNAME .
 linux23.com CNAME .
 *.linux23.com CNAME .
 torrents.linuxmint.com CNAME .
@@ -4967,8 +4961,6 @@ merlinwz.com CNAME .
 *.merlinwz.com CNAME .
 mes-ddl.com CNAME .
 *.mes-ddl.com CNAME .
-tracker.metal-torrents.com CNAME .
-*.tracker.metal-torrents.com CNAME .
 metal-tracker.com CNAME .
 *.metal-tracker.com CNAME .
 meteor-stresser.com CNAME .
@@ -9521,8 +9513,6 @@ modilimitado.io CNAME .
 *.modilimitado.io CNAME .
 movieninja.io CNAME .
 *.movieninja.io CNAME .
-movierulz.io CNAME .
-*.movierulz.io CNAME .
 mp3juice.io CNAME .
 *.mp3juice.io CNAME .
 tracker.nebulance.io CNAME .
@@ -9831,8 +9821,6 @@ tracker.bjut.jp CNAME .
 *.tracker.bjut.jp CNAME .
 filmarchives.jp CNAME .
 *.filmarchives.jp CNAME .
-mathkangaroo.jp CNAME .
-*.mathkangaroo.jp CNAME .
 cb01.kaufen CNAME .
 *.cb01.kaufen CNAME .
 megatorrents.kg CNAME .
@@ -17115,8 +17103,6 @@ himovies.sx CNAME .
 *.himovies.sx CNAME .
 kinox.sx CNAME .
 *.kinox.sx CNAME .
-kukaj.sx CNAME .
-*.kukaj.sx CNAME .
 liveru.sx CNAME .
 *.liveru.sx CNAME .
 livetv.sx CNAME .
@@ -17917,8 +17903,6 @@ ilgeniodellostreaming.trade CNAME .
 *.ilgeniodellostreaming.trade CNAME .
 h4.trakx.nibba.trade CNAME .
 *.h4.trakx.nibba.trade CNAME .
-pirate.trade CNAME .
-*.pirate.trade CNAME .
 cb01.training CNAME .
 *.cb01.training CNAME .
 guardaserie.training CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jan 2025 23:46 UTC
-# Version: 2025.0107.2346.09
+# Last modified: 08 Jan 2025 07:44 UTC
+# Version: 2025.0108.0744.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10772
+# Number of entries: 10771
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -6036,7 +6036,6 @@ local=/megapromo-electro.com/
 local=/megastoredepot.com/
 local=/megawire.de/
 local=/mege-tech.de/
-local=/mehlbruch-immobilienverwaltung.com/
 local=/mehsam-transport.com/
 local=/meierfeld.com/
 local=/meiergartenbau.de/

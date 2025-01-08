@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 03:31 UTC
-# Version: 2025.0108.0331.56
+# Last modified: 08 Jan 2025 11:26 UTC
+# Version: 2025.0108.1126.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9893
+# Number of entries: 9885
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -4941,7 +4941,6 @@ local=/kuiken.co/
 local=/kukaj.io/
 local=/kukaj.si/
 local=/kukaj.sk/
-local=/kukaj.sx/
 local=/kukaj-to.cz/
 local=/kukajto.io/
 local=/tracker.kuroy.me/
@@ -4971,7 +4970,6 @@ local=/layarkaca21.blue/
 local=/layarkaca21.com/
 local=/layarkaca21.onl/
 local=/layarkaca21.ru/
-local=/layarkacaxxi.biz/
 local=/layarkita.club/
 local=/layarkita.xyz/
 local=/layarlebar24.blog/
@@ -5078,7 +5076,6 @@ local=/linfan.moe/
 local=/opentracker.lingyurouqing.xyz/
 local=/openwrt.lingyurouqing.xyz/
 local=/link-base.org/
-local=/linkbucks.com/
 local=/linkgalleries.net/
 local=/linkinnet.net/
 local=/linkomanija.net/
@@ -5276,7 +5273,6 @@ local=/masterof13fps.com/
 local=/masters-tb.com/
 local=/mates-r-us.com/
 local=/mathanosto.top/
-local=/mathkangaroo.jp/
 local=/matrix-virovitica.com/
 local=/mawtoload.com/
 local=/max-rls.com/
@@ -5370,7 +5366,6 @@ local=/mes-ddl.com/
 local=/mes-meilleurs-films.fr/
 local=/mesfichiers.org/
 local=/metadownload.org/
-local=/tracker.metal-torrents.com/
 local=/metal-tracker.com/
 local=/metalarea.org/
 local=/metalbits.org/
@@ -5517,7 +5512,6 @@ local=/movie-blog.to/
 local=/movie-blog.tv/
 local=/movie-forum.co/
 local=/movie-web.me/
-local=/movie123.club/
 local=/movie2k.to/
 local=/movie2kproxy.com/
 local=/movie4k.ag/
@@ -5568,7 +5562,6 @@ local=/movieroom.is/
 local=/movierot.com/
 local=/movierr.online/
 local=/movierr.site/
-local=/movierulz.io/
 local=/movierulzhd.gold/
 local=/movierulzlink.hair/
 local=/movies.cab/
@@ -6434,7 +6427,6 @@ local=/piracy.su/
 local=/piracyproxy.net/
 local=/piratbaytpb.one/
 local=/piratbit.top/
-local=/pirate.trade/
 local=/pirate-bay.info/
 local=/pirate-bay.net/
 local=/pirate-bay-proxy.org/
