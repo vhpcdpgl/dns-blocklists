@@ -74,7 +74,7 @@
  11 |      91% |   9% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  13 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
+ 14 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |      61% |  35% |      4% | Analytics/Metrics Extension
  17 |      91% |   9% |      0% | Balanced Extension

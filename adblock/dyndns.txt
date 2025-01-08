@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Jan 2025 03:33 UTC
-! Version: 2025.0108.0333.33
+! Last modified: 08 Jan 2025 19:59 UTC
+! Version: 2025.0108.1959.22
 ! Syntax: AdBlock
-! Number of entries: 1470
+! Number of entries: 1473
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -67,6 +67,7 @@
 ||accesscam.org^
 ||acmetoy.com^
 ||adagio.tw^
+||dyn.addr.tools^
 ||afraid.org^
 ||aintno.info^
 ||airlinemeals.net^
@@ -963,6 +964,9 @@
 ||my-wan.de^
 ||my03.com^
 ||myactivedirectory.com^
+||myaddr.dev^
+||myaddr.io^
+||myaddr.tools^
 ||mydad.info^
 ||myddns.biz^
 ||myddns.com^
@@ -970,7 +974,6 @@
 ||myddns.rocks^
 ||mydissent.net^
 ||myeffect.net^
-||myfritz.link^
 ||myftp.biz^
 ||myftp.info^
 ||myftp.org^

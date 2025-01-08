@@ -330,6 +330,13 @@
       }
     },
     {
+      "PK": "buybox.click",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bypass.city",
       "action": {
         "do": 1,
@@ -372,7 +379,21 @@
       }
     },
     {
+      "PK": "camz.show",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "casey.prof",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "catbox.moe",
       "action": {
         "do": 1,
         "status": 1

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 03:37 UTC
-# Version: 2025.0108.0337.01
+# Last modified: 08 Jan 2025 20:02 UTC
+# Version: 2025.0108.2002.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3723
+# Number of entries: 3727
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -994,6 +994,8 @@ local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
+local=/home27.duckdns.org/
+local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
@@ -1050,6 +1052,7 @@ local=/study.englishpapers.online/
 local=/stufy.englishpapers.online/
 local=/sutausfjsajfas.englishpapers.online/
 local=/home.enjoymylife.net/
+local=/enrollkirgo.com/
 local=/dns.enzonix.com/
 local=/epicbrowser.com/
 local=/123-24.eport.gr/
@@ -1149,6 +1152,7 @@ local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
 local=/flashputon.net/
@@ -1660,6 +1664,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -2232,7 +2237,6 @@ local=/pandasecurity.com/
 local=/pandashield.com/
 local=/pandavpn.pro/
 local=/pandavpnpro.com/
-local=/pandorman.com/
 local=/adguard.pangerl.it/
 local=/pango-paas.co/
 local=/pankvyh.xyz/

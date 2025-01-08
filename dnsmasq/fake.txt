@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 07:44 UTC
-# Version: 2025.0108.0744.33
+# Last modified: 08 Jan 2025 15:48 UTC
+# Version: 2025.0108.1548.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10771
+# Number of entries: 10767
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -6773,7 +6773,6 @@ local=/obstkistefreiburg.shop/
 local=/obzala.com/
 local=/oceansurfsale.com/
 local=/ochsner-agrarhandel.com/
-local=/oclegends.org/
 local=/ocspartsde.shop/
 local=/octa-trade.com/
 local=/octapustravel.com/
@@ -6856,7 +6855,6 @@ local=/omegainvestment.de/
 local=/omersfinance.ltd/
 local=/omertabike.com/
 local=/ompas-tech.de/
-local=/omseco.de/
 local=/on-handel.com/
 local=/on-runningdeutschland.de/
 local=/on-runningschweiz.com/
@@ -6948,7 +6946,6 @@ local=/onsalecomp.com/
 local=/onsalefashionshoe.com/
 local=/onsalehousehold.com/
 local=/onsalemower.com/
-local=/onsalesdecor.com/
 local=/onsalesportitem.com/
 local=/onsalesportshop.com/
 local=/onsalesunbeds.com/
@@ -7257,7 +7254,6 @@ local=/pc-medienagentur.de/
 local=/pcakkusdirekt.de/
 local=/pd-handel.de/
 local=/pd99.cc/
-local=/pdeyhs.com/
 local=/pdfmaster.app/
 local=/peacefulexitsworldwide.org/
 local=/peacevulture.com/

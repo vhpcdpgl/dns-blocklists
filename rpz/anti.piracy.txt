@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736335560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736366220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Jan 2025 11:26 UTC
-; Version: 2025.0108.1126.45
+; Last modified: 08 Jan 2025 19:57 UTC
+; Version: 2025.0108.1957.46
 ; Syntax: RPZ
-; Number of entries: 19770
+; Number of entries: 19762
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1663,8 +1663,6 @@ nulled-script.club CNAME .
 *.nulled-script.club CNAME .
 tracker.ourbits.club CNAME .
 *.tracker.ourbits.club CNAME .
-pdfmagazines.club CNAME .
-*.pdfmagazines.club CNAME .
 pirate-proxy.club CNAME .
 *.pirate-proxy.club CNAME .
 piratetpb.club CNAME .
@@ -4767,6 +4765,8 @@ lifetimeboot.com CNAME .
 *.lifetimeboot.com CNAME .
 limetor.com CNAME .
 *.limetor.com CNAME .
+linkbucks.com CNAME .
+*.linkbucks.com CNAME .
 linux23.com CNAME .
 *.linux23.com CNAME .
 torrents.linuxmint.com CNAME .
@@ -5413,8 +5413,6 @@ olevod.com CNAME .
 *.olevod.com CNAME .
 ologyyvidss.com CNAME .
 *.ologyyvidss.com CNAME .
-omegastresser.com CNAME .
-*.omegastresser.com CNAME .
 omgtorrent.com CNAME .
 *.omgtorrent.com CNAME .
 onegaistudios.com CNAME .
@@ -5519,8 +5517,6 @@ patup.com CNAME .
 *.patup.com CNAME .
 paulamues.com CNAME .
 *.paulamues.com CNAME .
-pbproxy.com CNAME .
-*.pbproxy.com CNAME .
 cn.pcfreetime.com CNAME .
 *.cn.pcfreetime.com CNAME .
 tracker.pcfreetime.com CNAME .
@@ -15763,8 +15759,6 @@ keke.re CNAME .
 *.keke.re CNAME .
 ngp.re CNAME .
 *.ngp.re CNAME .
-onionplay.re CNAME .
-*.onionplay.re CNAME .
 tpb.re CNAME .
 *.tpb.re CNAME .
 ygg.re CNAME .
@@ -18547,8 +18541,6 @@ torrent.share.net.ua CNAME .
 *.torrent.share.net.ua CNAME .
 gabber.od.ua CNAME .
 *.gabber.od.ua CNAME .
-sport-video.org.ua CNAME .
-*.sport-video.org.ua CNAME .
 nagios.tks.sumy.ua CNAME .
 *.nagios.tks.sumy.ua CNAME .
 ultra.zt.ua CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 03:33 UTC
-# Version: 2025.0108.0333.33
+# Last modified: 08 Jan 2025 19:59 UTC
+# Version: 2025.0108.1959.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1470
+# Number of entries: 1473
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -66,6 +66,7 @@ local=/access.ly/
 local=/accesscam.org/
 local=/acmetoy.com/
 local=/adagio.tw/
+local=/dyn.addr.tools/
 local=/afraid.org/
 local=/aintno.info/
 local=/airlinemeals.net/
@@ -962,6 +963,9 @@ local=/my-vigor.de/
 local=/my-wan.de/
 local=/my03.com/
 local=/myactivedirectory.com/
+local=/myaddr.dev/
+local=/myaddr.io/
+local=/myaddr.tools/
 local=/mydad.info/
 local=/myddns.biz/
 local=/myddns.com/
@@ -969,7 +973,6 @@ local=/myddns.me/
 local=/myddns.rocks/
 local=/mydissent.net/
 local=/myeffect.net/
-local=/myfritz.link/
 local=/myftp.biz/
 local=/myftp.info/
 local=/myftp.org/

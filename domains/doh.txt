@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 03:35 UTC
-# Version: 2025.0108.0335.50
+# Last modified: 08 Jan 2025 20:01 UTC
+# Version: 2025.0108.2001.39
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1640
+# Number of entries: 1643
 #
 003153.xyz
 ns.00dani.me
@@ -624,6 +624,8 @@ ns1.dotls.org
 dns.dotnet.win
 doh.dscloud.me
 agh.dshubham.xyz
+home27.duckdns.org
+jurre-home.duckdns.org
 krtekvpn.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
@@ -870,6 +872,7 @@ kavkaz.monster
 dns.kawa.tf
 dns.kebree.fr
 dns.keke125.com
+doh.kekew.info
 doh.kel.pe
 dns.kerekes.xyz
 dns.kernel-error.de
