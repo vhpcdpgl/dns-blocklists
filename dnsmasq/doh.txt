@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 19:35 UTC
-# Version: 2025.0106.1935.45
+# Last modified: 08 Jan 2025 03:35 UTC
+# Version: 2025.0108.0335.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1482
+# Number of entries: 1475
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -132,7 +132,6 @@ local=/dns.asysec.com/
 local=/adguardhome.atakorah.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
-local=/dns.auapi.fun/
 local=/africa.avastdns.com/
 local=/secure.avastdns.com/
 local=/adguard.avdkishore.dev/
@@ -510,8 +509,6 @@ local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
-local=/home27.duckdns.org/
-local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
@@ -580,7 +577,6 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
-local=/dns.fizz.studio/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
@@ -607,7 +603,6 @@ local=/dns.futuredns.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
-local=/adguard.gambini.org/
 local=/dns.beta.gandi.net/
 local=/gclouddns.com/
 local=/adg.geili.me/
@@ -694,7 +689,6 @@ local=/mask-canary.icloud.com/
 local=/mask-h2.icloud.com/
 local=/tienpham.id.vn/
 local=/adguard.shuting.idv.tw/
-local=/adguard.ihatemy.live/
 local=/dns.ihaveacloud.com/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
@@ -758,7 +752,6 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/

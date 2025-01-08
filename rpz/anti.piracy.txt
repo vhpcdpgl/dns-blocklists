@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736249040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736307060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jan 2025 11:24 UTC
-; Version: 2025.0107.1124.47
+; Last modified: 08 Jan 2025 03:31 UTC
+; Version: 2025.0108.0331.56
 ; Syntax: RPZ
-; Number of entries: 19804
+; Number of entries: 19786
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4361,8 +4361,6 @@ hit4k.com CNAME .
 *.hit4k.com CNAME .
 hitboss.com CNAME .
 *.hitboss.com CNAME .
-bdix.hitechisp.com CNAME .
-*.bdix.hitechisp.com CNAME .
 tracker.hitpt.com CNAME .
 *.tracker.hitpt.com CNAME .
 bt.hliang.com CNAME .
@@ -7513,8 +7511,6 @@ cb01.computer CNAME .
 *.cb01.computer CNAME .
 cb01.construction CNAME .
 *.cb01.construction CNAME .
-guardaserie.construction CNAME .
-*.guardaserie.construction CNAME .
 altadefinizione.contact CNAME .
 *.altadefinizione.contact CNAME .
 cb01.contractors CNAME .
@@ -8497,8 +8493,6 @@ guardaserie.fun CNAME .
 *.guardaserie.fun CNAME .
 isohunt.fun CNAME .
 *.isohunt.fun CNAME .
-italia-film.fun CNAME .
-*.italia-film.fun CNAME .
 italiafilm.fun CNAME .
 *.italiafilm.fun CNAME .
 kickass2.fun CNAME .
@@ -10065,6 +10059,8 @@ newalbumreleases.unblockit.link CNAME .
 *.0123movies.live CNAME .
 5movies.live CNAME .
 *.5movies.live CNAME .
+tracker.aburaya.live CNAME .
+*.tracker.aburaya.live CNAME .
 afdah.live CNAME .
 *.afdah.live CNAME .
 aktube.live CNAME .
@@ -11863,8 +11859,6 @@ eztvstatus.net CNAME .
 *.eztvstatus.net CNAME .
 fastani.net CNAME .
 *.fastani.net CNAME .
-fastcyber.net CNAME .
-*.fastcyber.net CNAME .
 fastplex.net CNAME .
 *.fastplex.net CNAME .
 favhd.net CNAME .
@@ -14153,10 +14147,6 @@ free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
 freebfg.org CNAME .
 *.freebfg.org CNAME .
-betelgeuse.freeddns.org CNAME .
-*.betelgeuse.freeddns.org CNAME .
-bry-dell-htpc.freeddns.org CNAME .
-*.bry-dell-htpc.freeddns.org CNAME .
 freedocumentaries.org CNAME .
 *.freedocumentaries.org CNAME .
 freepeer.org CNAME .
@@ -14219,8 +14209,6 @@ hd-torrents.org CNAME .
 *.hd-torrents.org CNAME .
 hd-world.org CNAME .
 *.hd-world.org CNAME .
-hd001.org CNAME .
-*.hd001.org CNAME .
 tracker.hd4fans.org CNAME .
 *.tracker.hd4fans.org CNAME .
 hdbits.org CNAME .
@@ -16055,8 +16043,6 @@ tgx.rs CNAME .
 *.tgx.rs CNAME .
 yts.rs CNAME .
 *.yts.rs CNAME .
-hdrezka.rsvp CNAME .
-*.hdrezka.rsvp CNAME .
 unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
 wawacity.rsvp CNAME .
@@ -17761,8 +17747,6 @@ eurostreaming.today CNAME .
 *.eurostreaming.today CNAME .
 filmpertutti.today CNAME .
 *.filmpertutti.today CNAME .
-italia-film.today CNAME .
-*.italia-film.today CNAME .
 mp3juices.today CNAME .
 *.mp3juices.today CNAME .
 multicanais.today CNAME .
@@ -18671,8 +18655,6 @@ filmsenzalimiti.uno CNAME .
 *.filmsenzalimiti.uno CNAME .
 gomovies.uno CNAME .
 *.gomovies.uno CNAME .
-guardaserie01.uno CNAME .
-*.guardaserie01.uno CNAME .
 hdbollyhub.uno CNAME .
 *.hdbollyhub.uno CNAME .
 seehd.uno CNAME .

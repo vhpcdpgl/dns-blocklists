@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jan 2025 11:29 UTC
-# Version: 2025.0107.1129.43
+# Last modified: 08 Jan 2025 03:37 UTC
+# Version: 2025.0108.0337.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3732
+# Number of entries: 3723
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -285,7 +285,6 @@ local=/adguardhome.atakorah.com/
 local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
-local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -995,8 +994,6 @@ local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
-local=/home27.duckdns.org/
-local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
@@ -1152,7 +1149,6 @@ local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flashpull.com/
 local=/flashput.net/
 local=/flashputon.net/
@@ -1181,7 +1177,6 @@ local=/fproxy.net/
 local=/francis-proxy.top/
 local=/explore.francomedia.net/
 local=/frandcomfort.us/
-local=/free-kree-k.xyz/
 local=/free-proxy.com/
 local=/free-proxy.cz/
 local=/free-proxy.xyz/
@@ -1265,7 +1260,6 @@ local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/galeben.fr/
 local=/dns.gamban.com/
-local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
 local=/gamers-nor.com/
 local=/gamingssh.com/
@@ -1303,7 +1297,6 @@ local=/getproxylist.com/
 local=/getsiteunblocked.com/
 local=/gettwifi.com/
 local=/getusvpn.com/
-local=/getvpn.info/
 local=/getvpnx.com/
 local=/getxvpn.com/
 local=/getxweb.com/
@@ -1533,7 +1526,6 @@ local=/idealvpn.com/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
 local=/idvanish.com/
-local=/adguard.ihatemy.live/
 local=/dns.ihaveacloud.com/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
@@ -1668,7 +1660,6 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/

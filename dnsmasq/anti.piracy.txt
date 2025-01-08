@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jan 2025 11:24 UTC
-# Version: 2025.0107.1124.47
+# Last modified: 08 Jan 2025 03:31 UTC
+# Version: 2025.0108.0331.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9902
+# Number of entries: 9893
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -378,6 +378,7 @@ local=/abnctg.net/
 local=/aboutbeautifulgallopinghorsesinthegreenpasture.online/
 local=/abrokegamer.com/
 local=/abtorrents.com/
+local=/tracker.aburaya.live/
 local=/abv-media.ru/
 local=/ac-market.org/
 local=/acehd.net/
@@ -3091,7 +3092,6 @@ local=/fast-torrent.club/
 local=/fast-torrent.ru/
 local=/fastani.net/
 local=/fastclick.to/
-local=/fastcyber.net/
 local=/fastnetbd.org/
 local=/fastplex.net/
 local=/fs1.fasttrackbd.com/
@@ -3579,8 +3579,6 @@ local=/freecrackpatch.com/
 local=/freecracksoftwares.net/
 local=/freecztorrent.eu/
 local=/freedailyiptv.com/
-local=/betelgeuse.freeddns.org/
-local=/bry-dell-htpc.freeddns.org/
 local=/freedocumentaries.org/
 local=/freedomalternative.com/
 local=/freedomonlinebd.com/
@@ -4002,7 +4000,6 @@ local=/guardaserie.coach/
 local=/guardaserie.college/
 local=/guardaserie.com/
 local=/guardaserie.community/
-local=/guardaserie.construction/
 local=/guardaserie.cool/
 local=/guardaserie.credit/
 local=/guardaserie.dance/
@@ -4083,7 +4080,6 @@ local=/guardaserie01.arab/
 local=/guardaserie01.casa/
 local=/guardaserie01.click/
 local=/guardaserie01.fm/
-local=/guardaserie01.uno/
 local=/guardaserie01.vg/
 local=/guardaserie01.ws/
 local=/guardoserie.net/
@@ -4143,7 +4139,6 @@ local=/hd-spain.com/
 local=/hd-streams.org/
 local=/hd-torrents.org/
 local=/hd-world.org/
-local=/hd001.org/
 local=/hd4.xyz/
 local=/tracker.hd4fans.org/
 local=/hd4fun.com/
@@ -4189,7 +4184,6 @@ local=/tracker.hdpost.top/
 local=/hdreactor.info/
 local=/hdreactor.org/
 local=/hdrezka.ag/
-local=/hdrezka.rsvp/
 local=/hdrezka-ua.com/
 local=/hdroad.org/
 local=/tracker.hdroute.org/
@@ -4266,7 +4260,6 @@ local=/histreaming.com/
 local=/hit2k.com/
 local=/hit4k.com/
 local=/hitboss.com/
-local=/bdix.hitechisp.com/
 local=/hitfile.net/
 local=/tracker.hitpt.com/
 local=/hitsfilms.net/
@@ -4597,7 +4590,6 @@ local=/italia-film.co/
 local=/italia-film.com/
 local=/italia-film.de/
 local=/italia-film.fm/
-local=/italia-film.fun/
 local=/italia-film.io/
 local=/italia-film.me/
 local=/italia-film.news/
@@ -4607,7 +4599,6 @@ local=/italia-film.ph/
 local=/italia-film.pics/
 local=/italia-film.site/
 local=/italia-film.store/
-local=/italia-film.today/
 local=/italia-film.top/
 local=/italia-film.vg/
 local=/italia-film.ws/

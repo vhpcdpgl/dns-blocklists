@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736249340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736307420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jan 2025 11:29 UTC
-; Version: 2025.0107.1129.43
+; Last modified: 08 Jan 2025 03:37 UTC
+; Version: 2025.0108.0337.01
 ; Syntax: RPZ
-; Number of entries: 7464
+; Number of entries: 7446
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3628,8 +3628,6 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
-dns.auapi.fun CNAME .
-*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -3904,8 +3902,6 @@ fortniters.info CNAME .
 *.fortniters.info CNAME .
 freeplace.info CNAME .
 *.freeplace.info CNAME .
-getvpn.info CNAME .
-*.getvpn.info CNAME .
 globalvpn.info CNAME .
 *.globalvpn.info CNAME .
 dns.api.integration.globuscs.info CNAME .
@@ -3940,8 +3936,6 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 ivpn.info CNAME .
 *.ivpn.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lalal.info CNAME .
@@ -4350,8 +4344,6 @@ vpn.rynet.link CNAME .
 *.vpn.rynet.link CNAME .
 unblockit.link CNAME .
 *.unblockit.link CNAME .
-adguard.ihatemy.live CNAME .
-*.adguard.ihatemy.live CNAME .
 webbrowser.live CNAME .
 *.webbrowser.live CNAME .
 v2.xx3210766.live CNAME .
@@ -5864,10 +5856,6 @@ dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
-jurre-home.duckdns.org CNAME .
-*.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
@@ -5918,8 +5906,6 @@ freevpn.org CNAME .
 *.freevpn.org CNAME .
 freevpnapp.org CNAME .
 *.freevpnapp.org CNAME .
-adguard.gambini.org CNAME .
-*.adguard.gambini.org CNAME .
 gatcha.org CNAME .
 *.gatcha.org CNAME .
 getfoxyproxy.org CNAME .
@@ -6790,8 +6776,6 @@ minilla.store CNAME .
 *.minilla.store CNAME .
 polarvoid.store CNAME .
 *.polarvoid.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 tor2web.su CNAME .
@@ -7314,8 +7298,6 @@ dns.f97.xyz CNAME .
 *.dns.f97.xyz CNAME .
 finalbreaths.xyz CNAME .
 *.finalbreaths.xyz CNAME .
-free-kree-k.xyz CNAME .
-*.free-kree-k.xyz CNAME .
 free-proxy.xyz CNAME .
 *.free-proxy.xyz CNAME .
 free-vpn.xyz CNAME .

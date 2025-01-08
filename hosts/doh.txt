@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jan 2025 19:35 UTC
-# Version: 2025.0106.1935.45
+# Last modified: 08 Jan 2025 03:35 UTC
+# Version: 2025.0108.0335.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1647
+# Number of entries: 1640
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -171,7 +171,6 @@
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
-0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -625,8 +624,6 @@
 0.0.0.0 dns.dotnet.win
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
-0.0.0.0 home27.duckdns.org
-0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
@@ -695,7 +692,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -722,7 +718,6 @@
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
-0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me
@@ -809,7 +804,6 @@
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 tienpham.id.vn
 0.0.0.0 adguard.shuting.idv.tw
-0.0.0.0 adguard.ihatemy.live
 0.0.0.0 dns.ihaveacloud.com
 0.0.0.0 iij.jp
 0.0.0.0 public.dns.iij.jp
@@ -876,7 +870,6 @@
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
-0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
