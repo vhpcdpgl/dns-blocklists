@@ -205,6 +205,7 @@ https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin
 https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+https://raw.githubusercontent.com/Monstanner/DuckDuckGo-Fakeshops-Blocklist/main/Blockliste
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
@@ -340,11 +341,13 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambli
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
 https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
+https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/aux/refs/heads/master/maltrail-static-trails.txt
