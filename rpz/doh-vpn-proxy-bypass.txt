@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736394480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736423520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jan 2025 03:48 UTC
-; Version: 2025.0109.0348.27
+; Last modified: 09 Jan 2025 11:52 UTC
+; Version: 2025.0109.1152.52
 ; Syntax: RPZ
-; Number of entries: 7450
+; Number of entries: 7444
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2442,8 +2442,6 @@ stupidproxy.com CNAME .
 *.stupidproxy.com CNAME .
 suissl.com CNAME .
 *.suissl.com CNAME .
-sunnetdata.com CNAME .
-*.sunnetdata.com CNAME .
 sunnygyl.com CNAME .
 *.sunnygyl.com CNAME .
 super123proxy.com CNAME .
@@ -2456,8 +2454,6 @@ superproxy123.com CNAME .
 *.superproxy123.com CNAME .
 superunlimited.com CNAME .
 *.superunlimited.com CNAME .
-surf-for-free.com CNAME .
-*.surf-for-free.com CNAME .
 surf100.com CNAME .
 *.surf100.com CNAME .
 surfbouncer.com CNAME .
@@ -6086,8 +6082,6 @@ super123.org CNAME .
 *.super123.org CNAME .
 doh.syshero.org CNAME .
 *.doh.syshero.org CNAME .
-tbjr6.org CNAME .
-*.tbjr6.org CNAME .
 dns1.techeasy.org CNAME .
 *.dns1.techeasy.org CNAME .
 de.teradns.org CNAME .

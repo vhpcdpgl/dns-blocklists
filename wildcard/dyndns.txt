@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jan 2025 03:44 UTC
-# Version: 2025.0109.0344.54
+# Last modified: 09 Jan 2025 11:49 UTC
+# Version: 2025.0109.1149.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1472
+# Number of entries: 1471
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -1328,7 +1328,6 @@
 *.synoserver.com
 *.syntereo.com
 *.sysadminetworks.com
-*.system-ns.com
 *.systes.net
 *.sytes.net
 *.t-online.hu

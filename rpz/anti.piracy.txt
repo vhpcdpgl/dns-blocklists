@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736394180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736423220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jan 2025 03:43 UTC
-; Version: 2025.0109.0343.17
+; Last modified: 09 Jan 2025 11:47 UTC
+; Version: 2025.0109.1147.41
 ; Syntax: RPZ
-; Number of entries: 19756
+; Number of entries: 19744
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1999,8 +1999,6 @@ soap2dayhd.co CNAME .
 *.soap2dayhd.co CNAME .
 solarmovies.co CNAME .
 *.solarmovies.co CNAME .
-str3ssed.co CNAME .
-*.str3ssed.co CNAME .
 stream-vf.co CNAME .
 *.stream-vf.co CNAME .
 streamingcommunity.co CNAME .
@@ -6701,8 +6699,6 @@ torrentsgalaxy.com CNAME .
 *.torrentsgalaxy.com CNAME .
 torrentsites.com CNAME .
 *.torrentsites.com CNAME .
-torrentslab.com CNAME .
-*.torrentslab.com CNAME .
 torrentsmd.com CNAME .
 *.torrentsmd.com CNAME .
 torrentsmexico.com CNAME .
@@ -9305,8 +9301,6 @@ tuttostream.info CNAME .
 *.tuttostream.info CNAME .
 uberprofile.info CNAME .
 *.uberprofile.info CNAME .
-unblockedbay.info CNAME .
-*.unblockedbay.info CNAME .
 admin.videoenpoche.info CNAME .
 *.admin.videoenpoche.info CNAME .
 gsm.waptop.info CNAME .
@@ -10197,8 +10191,6 @@ torlock.live CNAME .
 *.torlock.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
-tvbd.live CNAME .
-*.tvbd.live CNAME .
 ultracine.live CNAME .
 *.ultracine.live CNAME .
 uturnbd.live CNAME .
@@ -15217,8 +15209,6 @@ tpb.party CNAME .
 *.tpb.party CNAME .
 putlocker.pe CNAME .
 *.putlocker.pe CNAME .
-soap2day.pe CNAME .
-*.soap2day.pe CNAME .
 solarmovie.pe CNAME .
 *.solarmovie.pe CNAME .
 thepiratebay.pe CNAME .
@@ -19643,8 +19633,6 @@ streamwoop.xyz CNAME .
 *.streamwoop.xyz CNAME .
 superlinkbd.xyz CNAME .
 *.superlinkbd.xyz CNAME .
-katcr.t0r.xyz CNAME .
-*.katcr.t0r.xyz CNAME .
 tantifilm.xyz CNAME .
 *.tantifilm.xyz CNAME .
 teamberga.xyz CNAME .

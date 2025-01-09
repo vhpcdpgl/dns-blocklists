@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jan 2025 03:48 UTC
-# Version: 2025.0109.0348.27
+# Last modified: 09 Jan 2025 11:52 UTC
+# Version: 2025.0109.1152.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3725
+# Number of entries: 3722
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -2920,7 +2920,6 @@
 *.dns.suhaila.dev
 *.suissl.com
 *.resolver.sunet.se
-*.sunnetdata.com
 *.sunnygyl.com
 *.doh.sunoaki.net
 *.sunvpn.net
@@ -2937,7 +2936,6 @@
 *.supervpn.net
 *.supervpn.top
 *.suredns.nl
-*.surf-for-free.com
 *.surf100.com
 *.surfall.net
 *.surfbouncer.com
@@ -2991,7 +2989,6 @@
 *.talk2m.com
 *.tbjr6.com
 *.tbjr6.net
-*.tbjr6.org
 *.tbunet.com
 *.tcpvpn.com
 *.tecdrive.site

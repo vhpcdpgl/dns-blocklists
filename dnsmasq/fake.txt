@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 23:46 UTC
-# Version: 2025.0108.2346.19
+# Last modified: 09 Jan 2025 07:56 UTC
+# Version: 2025.0109.0756.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10756
+# Number of entries: 10748
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -8599,7 +8599,6 @@ local=/slowtidestore.com/
 local=/sls-advisors.net/
 local=/slu-handel.de/
 local=/slu-handel.net/
-local=/sma-bkgruppe.com/
 local=/small-folkde.shop/
 local=/smart-ai-etf.de/
 local=/smart-aktien.com/
@@ -8711,9 +8710,7 @@ local=/sonerly.com/
 local=/sonicly.de/
 local=/sonne-markt.de/
 local=/sonossph.de/
-local=/sony-ir.com/
 local=/sonypictures-rankings.top/
-local=/sonyshouhou.com/
 local=/sooloo.shop/
 local=/soppdobuy.com/
 local=/soralco-kauf.de/
@@ -8758,7 +8755,6 @@ local=/spicebazaar.de/
 local=/spieldeals.com/
 local=/spieldeckestore.com/
 local=/spielhaus.shop/
-local=/spielkreuzung.de/
 local=/spieluniversum.com/
 local=/spielwaren-fisiu.de/
 local=/spielwarenneu.de/
@@ -9158,7 +9154,6 @@ local=/syntheticalusbag.com/
 local=/syos-space.capital/
 local=/systv-racks.de/
 local=/sztuka-handel.de/
-local=/t-lovelock.com/
 local=/t7cafe.de/
 local=/tabernas-tech.de/
 local=/tablet-restposten.shop/
@@ -9186,12 +9181,9 @@ local=/taki-taki.de/
 local=/taktischewelt.com/
 local=/talent-horizon-de.works/
 local=/talent-trail-de.works/
-local=/talentdirect.online/
 local=/talenthubpro-deu.com/
 local=/ins.talentloompro-at.com/
 local=/talentloompro-de.com/
-local=/talents-orbit.online/
-local=/tallerfelix.com/
 local=/tamaravanhalen.com/
 local=/tamarisoutlet.com/
 local=/tambaro.de/

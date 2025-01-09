@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jan 2025 03:43 UTC
-# Version: 2025.0109.0343.17
+# Last modified: 09 Jan 2025 11:47 UTC
+# Version: 2025.0109.1147.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9878
+# Number of entries: 9872
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -7475,7 +7475,6 @@ local=/soap2day.id/
 local=/soap2day.im/
 local=/soap2day.is/
 local=/soap2day.mx/
-local=/soap2day.pe/
 local=/soap2day.sh/
 local=/soap2day.to/
 local=/soap2day-online.com/
@@ -7663,7 +7662,6 @@ local=/sto.sx/
 local=/sto-board.org/
 local=/stopstreamtv.net/
 local=/storeplayapk.com/
-local=/str3ssed.co/
 local=/str3ssed.me/
 local=/stream.to/
 local=/stream-blog.tv/
@@ -7941,7 +7939,6 @@ local=/p5796a22a.dip0.t-ipconnect.de/
 local=/t-pb.org/
 local=/t-rb.org/
 local=/t-ru.org/
-local=/katcr.t0r.xyz/
 local=/t2bot.ru/
 local=/t2hbit.com/
 local=/warezfr.t2u.com/
@@ -8560,7 +8557,6 @@ local=/torrentsforall.net/
 local=/torrentsgalaxy.com/
 local=/torrentsgames.org/
 local=/torrentsites.com/
-local=/torrentslab.com/
 local=/torrentsmd.com/
 local=/torrentsmd.eu/
 local=/torrentsmd.me/
@@ -8736,7 +8732,6 @@ local=/tracker.tv-vault.me/
 local=/tv-zalukaj.pl/
 local=/tv0800.com/
 local=/tv24bd.com/
-local=/tvbd.live/
 local=/mts.tvbit.co/
 local=/tvbox.ag/
 local=/tvchaosuk.com/
@@ -8953,7 +8948,6 @@ local=/watchseries.unblocked.llc/
 local=/worldwidetorrents.unblocked.llc/
 local=/yts.unblocked.llc/
 local=/zooqle.unblocked.llc/
-local=/unblockedbay.info/
 local=/unblockedpiratebay.com/
 local=/unblocker.cc/
 local=/unblocker.win/

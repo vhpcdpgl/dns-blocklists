@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736379960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736409360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Jan 2025 23:46 UTC
-; Version: 2025.0108.2346.19
+; Last modified: 09 Jan 2025 07:56 UTC
+; Version: 2025.0109.0756.06
 ; Syntax: RPZ
-; Number of entries: 21512
+; Number of entries: 21496
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -10835,8 +10835,6 @@ slovenijalekarna24.com CNAME .
 *.slovenijalekarna24.com CNAME .
 slowtidestore.com CNAME .
 *.slowtidestore.com CNAME .
-sma-bkgruppe.com CNAME .
-*.sma-bkgruppe.com CNAME .
 smart-aktien.com CNAME .
 *.smart-aktien.com CNAME .
 cfd.smart-epargne.com CNAME .
@@ -10953,10 +10951,6 @@ somatesav.com CNAME .
 *.somatesav.com CNAME .
 sonerly.com CNAME .
 *.sonerly.com CNAME .
-sony-ir.com CNAME .
-*.sony-ir.com CNAME .
-sonyshouhou.com CNAME .
-*.sonyshouhou.com CNAME .
 soppdobuy.com CNAME .
 *.soppdobuy.com CNAME .
 sorelschoenen.com CNAME .
@@ -11525,8 +11519,6 @@ synthesizestylish.com CNAME .
 *.synthesizestylish.com CNAME .
 syntheticalusbag.com CNAME .
 *.syntheticalusbag.com CNAME .
-t-lovelock.com CNAME .
-*.t-lovelock.com CNAME .
 tableteonline.com CNAME .
 *.tableteonline.com CNAME .
 tablets-world.com CNAME .
@@ -11563,8 +11555,6 @@ ins.talentloompro-at.com CNAME .
 *.ins.talentloompro-at.com CNAME .
 talentloompro-de.com CNAME .
 *.talentloompro-de.com CNAME .
-tallerfelix.com CNAME .
-*.tallerfelix.com CNAME .
 tamaravanhalen.com CNAME .
 *.tamaravanhalen.com CNAME .
 tamarisoutlet.com CNAME .
@@ -17087,8 +17077,6 @@ sperrybootsschuhe.de CNAME .
 *.sperrybootsschuhe.de CNAME .
 spicebazaar.de CNAME .
 *.spicebazaar.de CNAME .
-spielkreuzung.de CNAME .
-*.spielkreuzung.de CNAME .
 spielwaren-fisiu.de CNAME .
 *.spielwaren-fisiu.de CNAME .
 spielwarenneu.de CNAME .
@@ -19169,10 +19157,6 @@ smartconnectpro.online CNAME .
 *.smartconnectpro.online CNAME .
 sweetsf.online CNAME .
 *.sweetsf.online CNAME .
-talentdirect.online CNAME .
-*.talentdirect.online CNAME .
-talents-orbit.online CNAME .
-*.talents-orbit.online CNAME .
 trustedtablets.online CNAME .
 *.trustedtablets.online CNAME .
 ukouaw88.online CNAME .
