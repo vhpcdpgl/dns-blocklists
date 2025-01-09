@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736366220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736394180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Jan 2025 19:57 UTC
-; Version: 2025.0108.1957.46
+; Last modified: 09 Jan 2025 03:43 UTC
+; Version: 2025.0109.0343.17
 ; Syntax: RPZ
-; Number of entries: 19762
+; Number of entries: 19756
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1679,8 +1679,6 @@ rarbg.club CNAME .
 *.rarbg.club CNAME .
 rg-mechanics.club CNAME .
 *.rg-mechanics.club CNAME .
-isk.richardsw.club CNAME .
-*.isk.richardsw.club CNAME .
 net.richardsw.club CNAME .
 *.net.richardsw.club CNAME .
 rojadirectaenvivo.club CNAME .
@@ -5797,8 +5795,6 @@ rapidshare-downloads.com CNAME .
 *.rapidshare-downloads.com CNAME .
 rapidsharemix.com CNAME .
 *.rapidsharemix.com CNAME .
-rapidstresser.com CNAME .
-*.rapidstresser.com CNAME .
 rarbg.com CNAME .
 *.rarbg.com CNAME .
 rarbgmirror.com CNAME .
@@ -5983,8 +5979,6 @@ seedforspeed.com CNAME .
 *.seedforspeed.com CNAME .
 seedpeer.com CNAME .
 *.seedpeer.com CNAME .
-seeds-zone.com CNAME .
-*.seeds-zone.com CNAME .
 seekasong.com CNAME .
 *.seekasong.com CNAME .
 sendspace.com CNAME .

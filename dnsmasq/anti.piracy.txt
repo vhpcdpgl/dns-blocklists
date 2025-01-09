@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 19:57 UTC
-# Version: 2025.0108.1957.46
+# Last modified: 09 Jan 2025 03:43 UTC
+# Version: 2025.0109.0343.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9881
+# Number of entries: 9878
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -6888,7 +6888,6 @@ local=/rapidrar.com/
 local=/rapidseedbox.com/
 local=/rapidshare-downloads.com/
 local=/rapidsharemix.com/
-local=/rapidstresser.com/
 local=/rapload.org/
 local=/rarbg.buzz/
 local=/rarbg.cc/
@@ -7022,7 +7021,6 @@ local=/rg-mechanics.org/
 local=/bt.rghost.net/
 local=/rgmechanics-games.com/
 local=/rgshows.me/
-local=/isk.richardsw.club/
 local=/net.richardsw.club/
 local=/cs.rin.ru/
 local=/rine.cloud/
@@ -7211,7 +7209,6 @@ local=/seedpeer.eu/
 local=/seedpeer.me/
 local=/seedpeer.net/
 local=/seedr.cc/
-local=/seeds-zone.com/
 local=/seehd.co/
 local=/seehd.nl/
 local=/seehd.pl/

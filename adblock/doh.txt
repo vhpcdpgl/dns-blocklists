@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Jan 2025 20:01 UTC
-! Version: 2025.0108.2001.39
+! Last modified: 09 Jan 2025 03:47 UTC
+! Version: 2025.0109.0347.14
 ! Syntax: AdBlock
-! Number of entries: 1478
+! Number of entries: 1477
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1279,7 +1279,6 @@
 ||doh.sidnlabs.nl^
 ||dns.silen.org^
 ||dns.silentlybren.com^
-||dns.simplylinux.ch^
 ||dns.sindominio.net^
 ||dnsovertls.sinodun.com^
 ||dnsovertls1.sinodun.com^

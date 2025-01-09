@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 20:02 UTC
-# Version: 2025.0108.2002.51
+# Last modified: 09 Jan 2025 03:48 UTC
+# Version: 2025.0109.0348.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3727
+# Number of entries: 3725
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -2481,7 +2481,6 @@ local=/proxybrowse.info/
 local=/proxybrowser.xyz/
 local=/proxybrowsing.com/
 local=/proxybuss.com/
-local=/proxycdn.college/
 local=/proxycloud.net/
 local=/proxycloyd.com/
 local=/proxydrop.com/
@@ -2793,7 +2792,6 @@ local=/dns.silen.org/
 local=/dns.silentlybren.com/
 local=/simpleproxy.us/
 local=/simplevpn.net/
-local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/sinesprox.cloud/
 local=/dnsovertls.sinodun.com/
