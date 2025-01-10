@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736468340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736495220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Jan 2025 00:19 UTC
-; Version: 2025.0110.0019.56
+; Last modified: 10 Jan 2025 07:47 UTC
+; Version: 2025.0110.0747.08
 ; Syntax: RPZ
-; Number of entries: 21486
+; Number of entries: 21490
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -7359,6 +7359,8 @@ limitswimwear.com CNAME .
 *.limitswimwear.com CNAME .
 limittoyland.com CNAME .
 *.limittoyland.com CNAME .
+lindbauer.com CNAME .
+*.lindbauer.com CNAME .
 linde-gmbh.com CNAME .
 *.linde-gmbh.com CNAME .
 linens-chic.com CNAME .
@@ -10035,6 +10037,8 @@ robbylake.com CNAME .
 *.robbylake.com CNAME .
 robo-center.com CNAME .
 *.robo-center.com CNAME .
+robustbathroom.com CNAME .
+*.robustbathroom.com CNAME .
 rochobbies.com CNAME .
 *.rochobbies.com CNAME .
 rockbikepart.com CNAME .

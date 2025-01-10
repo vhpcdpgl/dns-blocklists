@@ -344,13 +344,6 @@
       }
     },
     {
-      "PK": "api.zhuti.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "apkrep.ff.avast.sec.miui.com",
       "action": {
         "do": 0,
@@ -1549,13 +1542,6 @@
     },
     {
       "PK": "msg.video.ptqy.gitv.tv",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "m.zhuti.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

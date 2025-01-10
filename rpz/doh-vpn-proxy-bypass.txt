@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736482320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736509080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Jan 2025 04:12 UTC
-; Version: 2025.0110.0412.07
+; Last modified: 10 Jan 2025 11:38 UTC
+; Version: 2025.0110.1138.45
 ; Syntax: RPZ
-; Number of entries: 7440
+; Number of entries: 7464
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -452,6 +452,8 @@ proxysite.club CNAME .
 *.proxysite.club CNAME .
 dns.qrtz.club CNAME .
 *.dns.qrtz.club CNAME .
+seanfat.club CNAME .
+*.seanfat.club CNAME .
 sescloud.club CNAME .
 *.sescloud.club CNAME .
 dns.soldier.terumi.club CNAME .
@@ -1084,6 +1086,8 @@ dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-over-https.com CNAME .
 *.dns.dns-over-https.com CNAME .
+dns-savage.com CNAME .
+*.dns-savage.com CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
@@ -2622,6 +2626,8 @@ tuxlervpn.com CNAME .
 *.tuxlervpn.com CNAME .
 twingate.com CNAME .
 *.twingate.com CNAME .
+twinklestarknights.com CNAME .
+*.twinklestarknights.com CNAME .
 typaza.com CNAME .
 *.typaza.com CNAME .
 u8sj3.com CNAME .
@@ -3004,6 +3010,8 @@ dns.yameenassotally.com CNAME .
 *.dns.yameenassotally.com CNAME .
 yd6n63ptky.com CNAME .
 *.yd6n63ptky.com CNAME .
+yellowshiitake.com CNAME .
+*.yellowshiitake.com CNAME .
 yogavpn.com CNAME .
 *.yogavpn.com CNAME .
 youfreeproxytube.com CNAME .
@@ -3942,6 +3950,8 @@ testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 miniprox.info CNAME .
 *.miniprox.info CNAME .
+monro-stom-plus.info CNAME .
+*.monro-stom-plus.info CNAME .
 mybestvpn.info CNAME .
 *.mybestvpn.info CNAME .
 myhidden.info CNAME .
@@ -4372,8 +4382,12 @@ lewsha.lol CNAME .
 *.lewsha.lol CNAME .
 myproxy.lol CNAME .
 *.myproxy.lol CNAME .
+nathanielgavin.lol CNAME .
+*.nathanielgavin.lol CNAME .
 proxy.lol CNAME .
 *.proxy.lol CNAME .
+themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
+*.themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 theproxy.lol CNAME .
 *.theproxy.lol CNAME .
 unbl4you.lol CNAME .
@@ -5744,6 +5758,8 @@ okado.online CNAME .
 *.okado.online CNAME .
 login.readinghelper.online CNAME .
 *.login.readinghelper.online CNAME .
+rnblyatclub.online CNAME .
+*.rnblyatclub.online CNAME .
 roundrockisd.online CNAME .
 *.roundrockisd.online CNAME .
 t92.online CNAME .
@@ -6770,6 +6786,8 @@ polarvoid.store CNAME .
 *.polarvoid.store CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
+kinoshka.su CNAME .
+*.kinoshka.su CNAME .
 tor2web.su CNAME .
 *.tor2web.su CNAME .
 unblocked.surf CNAME .
@@ -7084,6 +7102,8 @@ rapidproxy.us CNAME .
 *.rapidproxy.us CNAME .
 ratecuts.us CNAME .
 *.ratecuts.us CNAME .
+reezus.us CNAME .
+*.reezus.us CNAME .
 restaurantgift.us CNAME .
 *.restaurantgift.us CNAME .
 sandparticles.us CNAME .
@@ -7206,6 +7226,8 @@ incog.works CNAME .
 *.incog.works CNAME .
 dns.brahma.world CNAME .
 *.dns.brahma.world CNAME .
+freelux.world CNAME .
+*.freelux.world CNAME .
 dns.busold.ws CNAME .
 *.dns.busold.ws CNAME .
 onion.ws CNAME .
@@ -7364,6 +7386,8 @@ ny1.nixnet.xyz CNAME .
 *.ny1.nixnet.xyz CNAME .
 nowhiteflags.xyz CNAME .
 *.nowhiteflags.xyz CNAME .
+noyourmean.xyz CNAME .
+*.noyourmean.xyz CNAME .
 ns8469rfvth42.xyz CNAME .
 *.ns8469rfvth42.xyz CNAME .
 nullsbrawly.xyz CNAME .

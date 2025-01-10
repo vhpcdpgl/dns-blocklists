@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jan 2025 19:06 UTC
-# Version: 2025.0108.1906.34
+# Last modified: 10 Jan 2025 07:42 UTC
+# Version: 2025.0110.0742.43
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 53
 #
@@ -53,12 +53,12 @@
 0.0.0.0 11-c3.bigdata.ctc.neo.xiaomi.com 5-c3.bigdata.ctc.neo.xiaomi.com tj1.staging.nfcpay.xiaomi.com appstore.pandora.xiaomi.com bossadmin.pandora.xiaomi.com box.pandora.xiaomi.com bss.pandora.xiaomi.com m.bss.pandora.xiaomi.com stag.bssmini.pandora.xiaomi.com
 0.0.0.0 c3-bgp.pandora.xiaomi.com c3mini.pandora.xiaomi.com c4.pandora.xiaomi.com appstore.cdn.pandora.xiaomi.com gallery.cdn.pandora.xiaomi.com image.cdn.pandora.xiaomi.com orig.image.cdn.pandora.xiaomi.com mishop.cdn.pandora.xiaomi.com orig.mishop.cdn.pandora.xiaomi.com
 0.0.0.0 ota.cdn.pandora.xiaomi.com package.cdn.pandora.xiaomi.com comc4l7.pandora.xiaomi.com de.pandora.xiaomi.com dvb.pandora.xiaomi.com hook.gitv.pandora.xiaomi.com ptmi.gitv.pandora.xiaomi.com sjs.ptmi.gitv.pandora.xiaomi.com gstat.pandora.xiaomi.com
-0.0.0.0 lg-bgp-misc.pandora.xiaomi.com mantual.pandora.xiaomi.com mi4crawler.pandora.xiaomi.com milink.pandora.xiaomi.com live.miphone.pandora.xiaomi.com misc.pandora.xiaomi.com bsp.misc.pandora.xiaomi.com mishop.pandora.xiaomi.com mobile.mishop.pandora.xiaomi.com
-0.0.0.0 pull.mitv.pandora.xiaomi.com mob.pandora.xiaomi.com monitor.pandora.xiaomi.com netcheck.pandora.xiaomi.com ottl7-l2.pandora.xiaomi.com media.pre.pandora.xiaomi.com rtmpott.pandora.xiaomi.com bsp.sasdc.pandora.xiaomi.com shop.pandora.xiaomi.com
-0.0.0.0 smarthome.pandora.xiaomi.com stat.pandora.xiaomi.com bgp.tv.pandora.xiaomi.com mob.tv.pandora.xiaomi.com tvboss.pandora.xiaomi.com tvepg.pandora.xiaomi.com upgrade.pandora.xiaomi.com user.pandora.xiaomi.com w.pandora.xiaomi.com
-0.0.0.0 sentry.pay.xiaomi.com tj1.staging.pay.xiaomi.com tj1.stagingouter.pay.xiaomi.com tj1.test.pay.xiaomi.com preload.xiaomi.com bugreport.pt.xiaomi.com tj1.staging.fintech.pt.xiaomi.com tj1.staging.fund.pt.xiaomi.com tj1.staging.ins.pt.xiaomi.com
-0.0.0.0 log.pt.xiaomi.com tj1.master.pt.xiaomi.com tj1.staging.mifi.pt.xiaomi.com tj1.payment.pt.xiaomi.com monitor.scf.pt.xiaomi.com tj1.scf.pt.xiaomi.com tj1-new.scf.pt.xiaomi.com staging-analyze.pt.xiaomi.com staging.stat.pt.xiaomi.com
-0.0.0.0 qiye.xiaomi.com sec.resource.xiaomi.net sdkconfig.ad.rus.xiaomi.com mistat.rus.xiaomi.com data.mistat.rus.xiaomi.com mlog.search.xiaomi.net api.miui.security.xiaomi.com ssp.xiaomi.com stat.xiaomi.com
-0.0.0.0 a.stat.xiaomi.com sec-cdn.static.xiaomi.net orig.sec-cdn.static.xiaomi.net a.union.xiaomi.com userid.xiaomi.com p.www.xiaomi.com stat.www.xiaomi.com xiazai.xiaomi.com console.admin.xmpush.xiaomi.com
-0.0.0.0 test.admin.xmpush.xiaomi.com c3.api.xmpush.xiaomi.com i.api.xmpush.xiaomi.com lg.api.xmpush.xiaomi.com mob.api.xmpush.xiaomi.com vip.api.xmpush.xiaomi.com callback.xmpush.xiaomi.com emq.xmpush.xiaomi.com mina.xmpush.xiaomi.com
-0.0.0.0 sandbox.xmpush.xiaomi.com test-api.xmpush.xiaomi.com vip-api.xmpush.xiaomi.com api.zhuti.xiaomi.com m.zhuti.xiaomi.com 
+0.0.0.0 lg-bgp-misc.pandora.xiaomi.com mantual.pandora.xiaomi.com mi4crawler.pandora.xiaomi.com milink.pandora.xiaomi.com live.miphone.pandora.xiaomi.com misc.pandora.xiaomi.com bsp.misc.pandora.xiaomi.com mishop.pandora.xiaomi.com pull.mitv.pandora.xiaomi.com
+0.0.0.0 mob.pandora.xiaomi.com monitor.pandora.xiaomi.com netcheck.pandora.xiaomi.com ottl7-l2.pandora.xiaomi.com media.pre.pandora.xiaomi.com rtmpott.pandora.xiaomi.com bsp.sasdc.pandora.xiaomi.com shop.pandora.xiaomi.com smarthome.pandora.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com bgp.tv.pandora.xiaomi.com mob.tv.pandora.xiaomi.com tvboss.pandora.xiaomi.com tvepg.pandora.xiaomi.com upgrade.pandora.xiaomi.com user.pandora.xiaomi.com w.pandora.xiaomi.com sentry.pay.xiaomi.com
+0.0.0.0 tj1.staging.pay.xiaomi.com tj1.stagingouter.pay.xiaomi.com tj1.test.pay.xiaomi.com preload.xiaomi.com bugreport.pt.xiaomi.com tj1.staging.fintech.pt.xiaomi.com tj1.staging.fund.pt.xiaomi.com tj1.staging.ins.pt.xiaomi.com log.pt.xiaomi.com
+0.0.0.0 tj1.master.pt.xiaomi.com tj1.staging.mifi.pt.xiaomi.com tj1.payment.pt.xiaomi.com monitor.scf.pt.xiaomi.com tj1.scf.pt.xiaomi.com tj1-new.scf.pt.xiaomi.com staging-analyze.pt.xiaomi.com staging.stat.pt.xiaomi.com qiye.xiaomi.com
+0.0.0.0 sec.resource.xiaomi.net sdkconfig.ad.rus.xiaomi.com mistat.rus.xiaomi.com data.mistat.rus.xiaomi.com mlog.search.xiaomi.net api.miui.security.xiaomi.com ssp.xiaomi.com stat.xiaomi.com a.stat.xiaomi.com
+0.0.0.0 sec-cdn.static.xiaomi.net orig.sec-cdn.static.xiaomi.net a.union.xiaomi.com userid.xiaomi.com p.www.xiaomi.com stat.www.xiaomi.com xiazai.xiaomi.com console.admin.xmpush.xiaomi.com test.admin.xmpush.xiaomi.com
+0.0.0.0 c3.api.xmpush.xiaomi.com i.api.xmpush.xiaomi.com lg.api.xmpush.xiaomi.com mob.api.xmpush.xiaomi.com vip.api.xmpush.xiaomi.com callback.xmpush.xiaomi.com emq.xmpush.xiaomi.com mina.xmpush.xiaomi.com sandbox.xmpush.xiaomi.com
+0.0.0.0 test-api.xmpush.xiaomi.com vip-api.xmpush.xiaomi.com 

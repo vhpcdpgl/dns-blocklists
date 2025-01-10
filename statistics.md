@@ -53,7 +53,7 @@
  18 |      61% |  35% |      4% | Analytics/Metrics Extension
  19 |      90% |  10% |      0% | Balanced Extension
  20 |      85% |   7% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 21 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      87% |   5% |      8% | Advanced Extension
  23 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
  24 |      64% |  22% |     14% | Denylist Community Advanced
@@ -79,7 +79,7 @@
  16 |      61% |  35% |      4% | Analytics/Metrics Extension
  17 |      90% |  10% |      0% | Balanced Extension
  18 |      87% |   7% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 19 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      89% |   5% |      6% | Advanced Extension
  21 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
  22 |      68% |  22% |     10% | Denylist Community Advanced
@@ -110,7 +110,7 @@
  16 |      64% |  35% |      1% | Analytics/Metrics Extension
  17 |      90% |  10% |      0% | Balanced Extension
  18 |      87% |   7% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      96% |   3% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 19 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      90% |   5% |      5% | Advanced Extension
  21 |      77% |  22% |      1% | Denylist Community Threat Intelligence Feeds
  22 |      68% |  22% |     10% | Denylist Community Advanced
