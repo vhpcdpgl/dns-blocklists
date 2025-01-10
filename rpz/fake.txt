@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736409360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736468340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jan 2025 07:56 UTC
-; Version: 2025.0109.0756.06
+; Last modified: 10 Jan 2025 00:19 UTC
+; Version: 2025.0110.0019.56
 ; Syntax: RPZ
-; Number of entries: 21496
+; Number of entries: 21486
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -4655,6 +4655,8 @@ fanaticsusd.com CNAME .
 *.fanaticsusd.com CNAME .
 fanatictool.com CNAME .
 *.fanatictool.com CNAME .
+fannyborius.com CNAME .
+*.fannyborius.com CNAME .
 fanshotsale.com CNAME .
 *.fanshotsale.com CNAME .
 fansretail.com CNAME .
@@ -12929,8 +12931,6 @@ walesnewstoday.com CNAME .
 *.walesnewstoday.com CNAME .
 walgfashion.com CNAME .
 *.walgfashion.com CNAME .
-wallet-coins.com CNAME .
-*.wallet-coins.com CNAME .
 waltapparel.com CNAME .
 *.waltapparel.com CNAME .
 waltforsale.com CNAME .
@@ -13427,12 +13427,8 @@ zubehorstiefel.com CNAME .
 *.zubehorstiefel.com CNAME .
 zunmanned.com CNAME .
 *.zunmanned.com CNAME .
-zupapasports.com CNAME .
-*.zupapasports.com CNAME .
 zurichregionblick.com CNAME .
 *.zurichregionblick.com CNAME .
-zweirad-falk.com CNAME .
-*.zweirad-falk.com CNAME .
 zweirad4you.com CNAME .
 *.zweirad4you.com CNAME .
 zwischenportal.com CNAME .
@@ -14809,8 +14805,6 @@ fariolla.de CNAME .
 *.fariolla.de CNAME .
 fashiongirl24.de CNAME .
 *.fashiongirl24.de CNAME .
-fashionleben.de CNAME .
-*.fashionleben.de CNAME .
 fast-heizoel.de CNAME .
 *.fast-heizoel.de CNAME .
 fastecnology.de CNAME .
@@ -17597,8 +17591,6 @@ weberelektronik.de CNAME .
 *.weberelektronik.de CNAME .
 webyeh.de CNAME .
 *.webyeh.de CNAME .
-weeduneed.de CNAME .
-*.weeduneed.de CNAME .
 weet-tech.de CNAME .
 *.weet-tech.de CNAME .
 weidner-shop.de CNAME .
@@ -17761,8 +17753,6 @@ zmr-handel.de CNAME .
 *.zmr-handel.de CNAME .
 zolindo.de CNAME .
 *.zolindo.de CNAME .
-zomanja.de CNAME .
-*.zomanja.de CNAME .
 zoomil.de CNAME .
 *.zoomil.de CNAME .
 zrockz-gmbh.de CNAME .
@@ -18549,8 +18539,6 @@ gaborhungary.net CNAME .
 *.gaborhungary.net CNAME .
 gaborschuheschweiz.net CNAME .
 *.gaborschuheschweiz.net CNAME .
-gamingpark.net CNAME .
-*.gamingpark.net CNAME .
 garmin-shop.net CNAME .
 *.garmin-shop.net CNAME .
 gartio.net CNAME .
@@ -19439,6 +19427,8 @@ finanzwelt.pro CNAME .
 *.finanzwelt.pro CNAME .
 fxwinning.pro CNAME .
 *.fxwinning.pro CNAME .
+gearfactory.pro CNAME .
+*.gearfactory.pro CNAME .
 ginvest.pro CNAME .
 *.ginvest.pro CNAME .
 gs-company.pro CNAME .

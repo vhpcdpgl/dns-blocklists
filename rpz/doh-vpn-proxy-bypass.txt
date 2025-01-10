@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736423520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736482320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jan 2025 11:52 UTC
-; Version: 2025.0109.1152.52
+; Last modified: 10 Jan 2025 04:12 UTC
+; Version: 2025.0110.0412.07
 ; Syntax: RPZ
-; Number of entries: 7444
+; Number of entries: 7440
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2772,8 +2772,6 @@ veripn.com CNAME .
 *.veripn.com CNAME .
 viatun.com CNAME .
 *.viatun.com CNAME .
-videounblock.com CNAME .
-*.videounblock.com CNAME .
 videounblocked.com CNAME .
 *.videounblocked.com CNAME .
 vidproxy.com CNAME .
@@ -4382,8 +4380,6 @@ unbl4you.lol CNAME .
 *.unbl4you.lol CNAME .
 unkn0wngb.lol CNAME .
 *.unkn0wngb.lol CNAME .
-www-bruh.xenon.lol CNAME .
-*.www-bruh.xenon.lol CNAME .
 doyouremember.love CNAME .
 *.doyouremember.love CNAME .
 unblocked.love CNAME .
