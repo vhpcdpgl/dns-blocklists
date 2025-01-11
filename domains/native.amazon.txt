@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:06 UTC
-# Version: 2025.0103.2206.17
+# Last modified: 11 Jan 2025 01:02 UTC
+# Version: 2025.0111.0102.51
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 575
+# Number of entries: 573
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -125,7 +125,6 @@ aes.us-west.live-events.ono.axp.amazon-adsystem.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 alt1-3ps.amazon-adsystem.com
-analytics.aps.amazon-adsystem.com
 api.eu-west-1.aiv-delivery.net
 api.gamma-toolbox.aps.amazon-adsystem.com
 api.us-east-1.aiv-delivery.net
@@ -167,7 +166,6 @@ assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 assoc-msdk-us.amazon-adsystem.com
 at-beta.amazon-adsystem.com
-ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atue.amazon-adsystem.com

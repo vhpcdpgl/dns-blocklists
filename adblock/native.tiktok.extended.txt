@@ -5,11 +5,12 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Jan 2025 11:03 UTC
-! Version: 2025.0103.1103.09
+! Last modified: 11 Jan 2025 01:10 UTC
+! Version: 2025.0111.0110.59
 ! Syntax: AdBlock
-! Number of entries: 349
+! Number of entries: 353
 !
+||log16-normal-alisg.tiktokv.com.bytewlb.akadns.net^
 ||frontier.byteoversea.com^
 ||gplog-sg.byteoversea.com^
 ||gplog-va.byteoversea.com^
@@ -85,6 +86,7 @@
 ||ads.tiktok.tv^
 ||ads-api.tiktok.com^
 ||ads-frontier.tiktok.com^
+||ads-imapi.tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads-useast2a.tiktok.com^
 ||analytics.tiktok.com^
@@ -122,6 +124,7 @@
 ||ad-instantpage-i18n.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
+||ad-instantpage-ttp2.tiktokv.us^
 ||ad-instantpage-va.tiktokv.com^
 ||location.tiktokv.com^
 ||location-i18n.tiktokv.com^
@@ -355,6 +358,7 @@
 ||analytics-ie.tiktokw.eu^
 ||analytics-ipv6.tiktokw.us^
 ||analytics-ttp2.tiktokw.eu^
+||location.tiktokw.us^
 ||mcs-ie.tiktokw.eu^
 ||mcs-ie2.tiktokw.eu^
 ||mcs16-normal-no1a.tiktokw.eu^

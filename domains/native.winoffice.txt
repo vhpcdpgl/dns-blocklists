@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:07 UTC
-# Version: 2025.0103.2207.57
+# Last modified: 11 Jan 2025 01:04 UTC
+# Version: 2025.0111.0104.29
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 668
 #
@@ -238,7 +238,6 @@ smetric.ads.microsoft.com
 status.ads.microsoft.com
 ucm.ads.microsoft.com
 ui.ads.microsoft.com
-help.ads-int.microsoft.com
 adsdk.microsoft.com
 advertising.microsoft.com
 community.advertising.microsoft.com
@@ -590,6 +589,7 @@ sandbox.vortex.data.trafficmanager.net
 v10-win.vortex.data.trafficmanager.net
 v20-asimov-win.vortex.data.trafficmanager.net
 dsp-ad-cache-tm.trafficmanager.net
+adstore.response.gcp.eastus.trafficmanager.net
 adstore.response.eastus.trafficmanager.net
 telemetry.eastus.trafficmanager.net
 eventservice.trafficmanager.net

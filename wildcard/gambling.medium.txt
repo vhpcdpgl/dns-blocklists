@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jan 2025 19:21 UTC
-# Version: 2025.0110.1921.18
+# Last modified: 11 Jan 2025 00:55 UTC
+# Version: 2025.0111.0055.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 207115
+# Number of entries: 207092
 #
 *.0-bdmbet.com
 *.0-bet.com
@@ -94,7 +94,6 @@
 *.0009casino.com
 *.000ayay.com
 *.000banca.com
-*.000bstvip.com
 *.000hjd.com
 *.000i9.com
 *.000i9bet.com
@@ -1405,29 +1404,10 @@
 *.030813.com
 *.0308888.com
 *.03090.app
-*.030900.app
-*.03091.app
-*.030911.app
 *.030918.icu
-*.03092.app
-*.030922.app
-*.03093.app
-*.030933.app
-*.03094.app
-*.030944.app
-*.03095.app
-*.030955.app
-*.03096.app
-*.030966.app
-*.03097.app
 *.03097.xyz
 *.030971.xyz
 *.030972.xyz
-*.030977.app
-*.03098.app
-*.030988.app
-*.03099.app
-*.030999.app
 *.0309x.com
 *.030d.net
 *.030df.com
@@ -2779,7 +2759,6 @@
 *.07kuwin.com
 *.07nohu.com
 *.07pxj.com
-*.07qh88.com
 *.07vg.com
 *.07yb.com
 *.0800066.com
@@ -3092,7 +3071,6 @@
 *.08jkd83mf.vip
 *.08nohu.com
 *.08pxj.com
-*.08qh88.com
 *.08qp0.com
 *.08qp00.com
 *.08qp000.com
@@ -4405,7 +4383,6 @@
 *.107vulkan.bet
 *.107yb.com
 *.107yh1.com
-*.10803.app
 *.1080bets10.com
 *.1080ky.com
 *.1081.app
@@ -35947,7 +35924,6 @@
 *.3659l.win
 *.3659ll.com
 *.3659ll.net
-*.3659lll.net
 *.3659m.com
 *.3659m.win
 *.3659mm.com
@@ -185915,6 +185891,7 @@
 *.telegruam.org
 *.telegrzam.org
 *.telekeys.xyz
+*.telesgram.my
 *.televisionservicelabs.com
 *.telkick.xyz
 *.telkom8.online

@@ -141,6 +141,13 @@
       }
     },
     {
+      "PK": "adstore.response.gcp.eastus.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adsyndication.msn.com",
       "action": {
         "do": 0,
@@ -1101,13 +1108,6 @@
     },
     {
       "PK": "h6.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "help.ads-int.microsoft.com",
       "action": {
         "do": 0,
         "status": 1

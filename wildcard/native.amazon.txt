@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:06 UTC
-# Version: 2025.0103.2206.17
+# Last modified: 11 Jan 2025 01:02 UTC
+# Version: 2025.0111.0102.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 335
+# Number of entries: 334
 #
 *.aan.amazon.co.jp
 *.aan.amazon.com
@@ -117,7 +117,6 @@
 *.assoc-msdk-eu.amazon-adsystem.com
 *.assoc-msdk-us.amazon-adsystem.com
 *.at-beta.amazon-adsystem.com
-*.ateu.amazon-adsystem.com
 *.atfe.amazon-adsystem.com
 *.at-gamma-us-east.amazon-adsystem.com
 *.atue.amazon-adsystem.com

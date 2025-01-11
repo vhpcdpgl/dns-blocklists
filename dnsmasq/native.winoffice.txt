@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jan 2025 22:07 UTC
-# Version: 2025.0103.2207.57
+# Last modified: 11 Jan 2025 01:04 UTC
+# Version: 2025.0111.0104.29
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 334
 #
@@ -125,7 +125,6 @@ local=/rad.live.com/
 local=/ssw.live.com/
 local=/watson.live.com/
 local=/ads.microsoft.com/
-local=/help.ads-int.microsoft.com/
 local=/adsdk.microsoft.com/
 local=/advertising.microsoft.com/
 local=/analyticspixel.microsoft.com/
@@ -263,6 +262,7 @@ local=/tracker.flightview.com.trafficmanager.net/
 local=/events.data.trafficmanager.net/
 local=/vortex.data.trafficmanager.net/
 local=/dsp-ad-cache-tm.trafficmanager.net/
+local=/adstore.response.gcp.eastus.trafficmanager.net/
 local=/adstore.response.eastus.trafficmanager.net/
 local=/telemetry.eastus.trafficmanager.net/
 local=/eventservice.trafficmanager.net/
