@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 19:28 UTC
-# Version: 2025.0111.1928.45
+# Last modified: 13 Jan 2025 03:57 UTC
+# Version: 2025.0113.0357.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1854
+# Number of entries: 1859
 #
 local=/000a.de/
 local=/000space.com/
@@ -235,6 +235,7 @@ local=/angelinsblog.com/
 local=/anschauen.in/
 local=/anschiessen.de/
 local=/answerblogs.com/
+local=/kwid9.appsoft.xyz/
 local=/ar.gp/
 local=/arcadepages.com/
 local=/arcor-ip.net/
@@ -244,7 +245,6 @@ local=/articlesblogger.com/
 local=/arwebo.com/
 local=/asablo.jp/
 local=/asia.cm/
-local=/asia.gp/
 local=/at.cr/
 local=/at.st/
 local=/atsnx.com/
@@ -260,7 +260,6 @@ local=/ausposaunen.de/
 local=/auto.lc/
 local=/avablog.ir/
 local=/avalon.company/
-local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
 local=/az.gp/
@@ -630,7 +629,6 @@ local=/graficaaoquadrado.com.br/
 local=/keshavbashyal.com.np/
 local=/kl.com.ua/
 local=/lojaintegrada.com.br/
-local=/sclub.com.tw/
 local=/tripod.com.mx/
 local=/uniblog.com.br/
 local=/webnode.com.ar/
@@ -912,6 +910,7 @@ local=/freewebhosting360.com/
 local=/freewebhosting4u.com/
 local=/freewebhostingarea.com/
 local=/freewebhostingpro.com/
+local=/freewebhostmost.com/
 local=/freewebhostx.com/
 local=/freewebpages.org/
 local=/freewebportal.com/
@@ -1054,6 +1053,7 @@ local=/info-com.de/
 local=/info-home.de/
 local=/info24h.de/
 local=/info4.de/
+local=/infopoint.xyz/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
@@ -1168,6 +1168,7 @@ local=/luwebs.com/
 local=/luzzati.com/
 local=/lydincentives.com/
 local=/m.vu/
+local=/kwid9.m-r.xyz/
 local=/ma.gp/
 local=/ma-page.fr/
 local=/macao.net/
@@ -1290,6 +1291,7 @@ local=/nofeeshost.com/
 local=/now.lc/
 local=/npx.de/
 local=/nstemp.com/
+local=/nut.cc/
 local=/nuvox.net/
 local=/blogs.nytimes.com/
 local=/o.gp/
@@ -1439,6 +1441,7 @@ local=/runhosting.com/
 local=/s.gp/
 local=/sa.gp/
 local=/safe-ws.de/
+local=/kwid9.safetravel.xyz/
 local=/sblog.cz/
 local=/schmust.de/
 local=/schoolrack.com/
@@ -1640,6 +1643,7 @@ local=/uk.cr/
 local=/uk.gp/
 local=/uk.nu/
 local=/uk.st/
+local=/mygreenagent.uk.com/
 local=/ukrtel.net/
 local=/ultim-blog.com/
 local=/ultimatefreehost.in/
@@ -1854,6 +1858,7 @@ local=/za.gp/
 local=/za.net/
 local=/awi.za.com/
 local=/zamsblog.com/
+local=/zavod.xyz/
 local=/zeblog.com/
 local=/zensurfrei.com/
 local=/ziblogs.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736537160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736740440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Jan 2025 19:26 UTC
-; Version: 2025.0110.1926.32
+; Last modified: 13 Jan 2025 03:54 UTC
+; Version: 2025.0113.0354.29
 ; Syntax: RPZ
-; Number of entries: 19738
+; Number of entries: 19716
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -23,8 +23,6 @@ burningseries.ac CNAME .
 *.burningseries.ac CNAME .
 cb01.ac CNAME .
 *.cb01.ac CNAME .
-cmovies.ac CNAME .
-*.cmovies.ac CNAME .
 crichd.ac CNAME .
 *.crichd.ac CNAME .
 french-stream.ac CNAME .
@@ -331,8 +329,8 @@ mixes.dfx.at CNAME .
 *.mixes.dfx.at CNAME .
 hurawatch.at CNAME .
 *.hurawatch.at CNAME .
-laola1.at CNAME .
-*.laola1.at CNAME .
+video.laola1.at CNAME .
+*.video.laola1.at CNAME .
 limetorrents.at CNAME .
 *.limetorrents.at CNAME .
 movie-blog.at CNAME .
@@ -3283,8 +3281,6 @@ crackslink.com CNAME .
 *.crackslink.com CNAME .
 cracksnow.com CNAME .
 *.cracksnow.com CNAME .
-cracksoftwarez.com CNAME .
-*.cracksoftwarez.com CNAME .
 crackstore.com CNAME .
 *.crackstore.com CNAME .
 crackstreams.com CNAME .
@@ -3675,8 +3671,6 @@ tracker.eatshoe.com CNAME .
 *.tracker.eatshoe.com CNAME .
 ebolastresser.com CNAME .
 *.ebolastresser.com CNAME .
-ebook3000.com CNAME .
-*.ebook3000.com CNAME .
 ebookbb.com CNAME .
 *.ebookbb.com CNAME .
 ebookdirectory.com CNAME .
@@ -3817,8 +3811,6 @@ gerusama.fansub-torrents.com CNAME .
 *.gerusama.fansub-torrents.com CNAME .
 kazenokoefansubs.fansub-torrents.com CNAME .
 *.kazenokoefansubs.fansub-torrents.com CNAME .
-faragski.com CNAME .
-*.faragski.com CNAME .
 fs1.fasttrackbd.com CNAME .
 *.fs1.fasttrackbd.com CNAME .
 fboxtv.com CNAME .
@@ -3951,8 +3943,6 @@ foggystream.com CNAME .
 *.foggystream.com CNAME .
 footazo.com CNAME .
 *.footazo.com CNAME .
-footybite.com CNAME .
-*.footybite.com CNAME .
 foreverdrowning.com CNAME .
 *.foreverdrowning.com CNAME .
 forfreeiptv.com CNAME .
@@ -8071,8 +8061,6 @@ moviewatcher.eu CNAME .
 *.moviewatcher.eu CNAME .
 myfeed2all.eu CNAME .
 *.myfeed2all.eu CNAME .
-myp2px.eu CNAME .
-*.myp2px.eu CNAME .
 nod32key.eu CNAME .
 *.nod32key.eu CNAME .
 nyaa.eu CNAME .
@@ -10169,8 +10157,6 @@ sportlemon.live CNAME .
 *.sportlemon.live CNAME .
 streameast.live CNAME .
 *.streameast.live CNAME .
-superseries.live CNAME .
-*.superseries.live CNAME .
 supertela.live CNAME .
 *.supertela.live CNAME .
 supertvaovivo.live CNAME .
@@ -11983,8 +11969,6 @@ greekshare.net CNAME .
 *.greekshare.net CNAME .
 guardaserie.net CNAME .
 *.guardaserie.net CNAME .
-guardoserie.net CNAME .
-*.guardoserie.net CNAME .
 guiks.net CNAME .
 *.guiks.net CNAME .
 gun-land.net CNAME .
@@ -16205,8 +16189,6 @@ istrahome.ru CNAME .
 *.istrahome.ru CNAME .
 retracker.joxnet.ru CNAME .
 *.retracker.joxnet.ru CNAME .
-jurnal-portal.ru CNAME .
-*.jurnal-portal.ru CNAME .
 kimanime.ru CNAME .
 *.kimanime.ru CNAME .
 kinomall.ru CNAME .
@@ -18503,8 +18485,6 @@ skvtorrent.at.ua CNAME .
 *.skvtorrent.at.ua CNAME .
 ekino.com.ua CNAME .
 *.ekino.com.ua CNAME .
-hdclub.com.ua CNAME .
-*.hdclub.com.ua CNAME .
 tracker.novage.com.ua CNAME .
 *.tracker.novage.com.ua CNAME .
 tracker.ex.ua CNAME .
@@ -18859,8 +18839,6 @@ duboku.vip CNAME .
 *.duboku.vip CNAME .
 eurostreaming.vip CNAME .
 *.eurostreaming.vip CNAME .
-filmcomplet.vip CNAME .
-*.filmcomplet.vip CNAME .
 filmxy.vip CNAME .
 *.filmxy.vip CNAME .
 findmovies.vip CNAME .

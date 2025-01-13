@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 19:29 UTC
-# Version: 2025.0111.1929.55
+# Last modified: 13 Jan 2025 03:58 UTC
+# Version: 2025.0113.0358.42
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 183
 #
@@ -20,14 +20,14 @@
 0.0.0.0 dns-unfiltered.adguard.com adguard-dns.com d.adguard-dns.com dns.adguard-dns.com family.adguard-dns.com unfiltered.adguard-dns.com dns.adrianlam.com aerodrorne.vip dns.aerro.in
 0.0.0.0 affcdn.net affsoft.cc shield.afixer.app ahadns.net doh.au.ahadns.net dot.au.ahadns.net blitz.ahadns.com blitz-setup.ahadns.com doh.chi.ahadns.net
 0.0.0.0 dot.chi.ahadns.net doh.es.ahadns.net dot.es.ahadns.net doh.in.ahadns.net dot.in.ahadns.net doh.it.ahadns.net dot.it.ahadns.net doh.la.ahadns.net dot.la.ahadns.net
-0.0.0.0 doh.nl.ahadns.net dot.nl.ahadns.net doh.no.ahadns.net dot.no.ahadns.net doh.ny.ahadns.net dot.ny.ahadns.net doh.pl.ahadns.net dot.pl.ahadns.net ahoj.email
-0.0.0.0 apple-relay.akamaized.net dns.albony.xyz dns.alekberg.net dns2.alekberg.net dnses.alekberg.net dnsnl.alekberg.net dnsnl-noads.alekberg.net dnsse.alekberg.net dnsse-noads.alekberg.net
-0.0.0.0 alidns.com dns.alidns.com doh.alidns.com doh1.alidns.com public.alidns.com public2.alidns.com public254.alidns.com public99.alidns.com httpdns-sc.aliyuncs.com
-0.0.0.0 alleesph.online dns.alloxr.info dns.almir1904.eu adguard.alu.dog dns.alvosec.com mailer.amlegion.org doh.amonsul.net dns.andrewnw.xyz doh.angry.im
-0.0.0.0 dns.anon.no secure.anudeep.me ad.anym0re.ru doh.apad.pro ag.apollohct.com apple-relay.apple.com doh.dns.apple.com mask-api.fe2.apple-dns.net mask.apple-dns.net
-0.0.0.0 apple-relay.mask.apple-dns.net canary.mask.apple-dns.net africa-mask.wrr.mask.apple-dns.net apac-mask.wrr.mask.apple-dns.net emea-mask.wrr.mask.apple-dns.net north-america-mask.wrr.mask.apple-dns.net south-america-mask.wrr.mask.apple-dns.net dns.applewebkit.dev doh.applied-privacy.net
-0.0.0.0 dot1.applied-privacy.net doh.appliedprivacy.net dot1.appliedprivacy.net dns.aquilenet.fr doh.archuser.org dns.ares-taiwan.com dns.arkbotech.com nsec.arnor.org dns.artikel10.org
-0.0.0.0 doh.asagiri.moe dns.ashleyjackson.net dns.asterimoon.com dandelionsprout.asuscomm.com dns.asysec.com adguardhome.atakorah.com atris.cyou dohtrial.att.net africa.avastdns.com
+0.0.0.0 doh.nl.ahadns.net dot.nl.ahadns.net doh.no.ahadns.net dot.no.ahadns.net doh.ny.ahadns.net dot.ny.ahadns.net doh.pl.ahadns.net dot.pl.ahadns.net apple-relay.akamaized.net
+0.0.0.0 dns.albony.xyz dns.alekberg.net dns2.alekberg.net dnses.alekberg.net dnsnl.alekberg.net dnsnl-noads.alekberg.net dnsse.alekberg.net dnsse-noads.alekberg.net alidns.com
+0.0.0.0 dns.alidns.com doh.alidns.com doh1.alidns.com public.alidns.com public2.alidns.com public254.alidns.com public99.alidns.com httpdns-sc.aliyuncs.com alleesph.online
+0.0.0.0 dns.alloxr.info dns.almir1904.eu adguard.alu.dog dns.alvosec.com mailer.amlegion.org doh.amonsul.net dns.andrewnw.xyz doh.angry.im dns.anon.no
+0.0.0.0 secure.anudeep.me ad.anym0re.ru doh.apad.pro ag.apollohct.com apple-relay.apple.com doh.dns.apple.com mask-api.fe2.apple-dns.net mask.apple-dns.net apple-relay.mask.apple-dns.net
+0.0.0.0 canary.mask.apple-dns.net africa-mask.wrr.mask.apple-dns.net apac-mask.wrr.mask.apple-dns.net emea-mask.wrr.mask.apple-dns.net north-america-mask.wrr.mask.apple-dns.net south-america-mask.wrr.mask.apple-dns.net dns.applewebkit.dev doh.applied-privacy.net dot1.applied-privacy.net
+0.0.0.0 doh.appliedprivacy.net dot1.appliedprivacy.net dns.aquilenet.fr doh.archuser.org dns.ares-taiwan.com dns.arkbotech.com nsec.arnor.org dns.artikel10.org doh.asagiri.moe
+0.0.0.0 dns.ashleyjackson.net dns.asterimoon.com dandelionsprout.asuscomm.com dns.asysec.com adguardhome.atakorah.com atris.cyou dohtrial.att.net dns.auapi.fun africa.avastdns.com
 0.0.0.0 secure.avastdns.com adguard.avdkishore.dev doh.azoris.ovh dns.azsopro.net doh1.b-cdn.net doh2.b-cdn.net dns.b33.space dns.b612.me dns.b72.com
 0.0.0.0 dns.baishiyuan.cn fr-dns1.bancuh.com jp-dns1.bancuh.com sg-dns1.bancuh.com bazooki-infra.dev dns.beardic.cn antivirus.bebasid.com dns.bebasid.com internetsehat.bebasid.com
 0.0.0.0 justhost.bedro.cloud dns.belnet.be dns.bermeitinger.eu bestwon203.com ns3.bit-trail.nl dns.bitdefender.net fra-dns.bitdefender.net iow-dns.bitdefender.net nvi-dns.bitdefender.net

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 19:31 UTC
-# Version: 2025.0111.1931.06
+# Last modified: 13 Jan 2025 03:59 UTC
+# Version: 2025.0113.0359.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3732
+# Number of entries: 3728
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -170,7 +170,6 @@ local=/shield.afixer.app/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
-local=/ahoj.email/
 local=/airdns.org/
 local=/airvpn.org/
 local=/apple-relay.akamaized.net/
@@ -285,6 +284,7 @@ local=/adguardhome.atakorah.com/
 local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -418,7 +418,6 @@ local=/bolehvpn.net/
 local=/adguard.bonis.de/
 local=/adguard.bonsirven.eu/
 local=/boomproxy.com/
-local=/boomtunnel.com/
 local=/booomblaastfs.site/
 local=/booster456.com/
 local=/borderlessvpn.io/
@@ -531,7 +530,6 @@ local=/clearvpn.com/
 local=/clickapp.info/
 local=/clickwork7secure.com/
 local=/cloaker.ca/
-local=/cloaker.us/
 local=/cloakvpn.com/
 local=/cloudbenders.fun/
 local=/apple-relay.cloudfare.com/
@@ -2997,7 +2995,6 @@ local=/t92.online/
 local=/tailscale.com/
 local=/talk2m.com/
 local=/tbjr6.com/
-local=/tbjr6.net/
 local=/tbunet.com/
 local=/tcpvpn.com/
 local=/tecdrive.site/
@@ -3482,7 +3479,6 @@ local=/vpnbook.com/
 local=/vpnbrowse.com/
 local=/vpncentral.com/
 local=/vpnclientapp.com/
-local=/vpndaily.com/
 local=/vpndeluxe.com/
 local=/vpndock.com/
 local=/vpneasy.info/

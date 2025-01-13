@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jan 2025 19:26 UTC
-# Version: 2025.0110.1926.32
+# Last modified: 13 Jan 2025 03:54 UTC
+# Version: 2025.0113.0354.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9869
+# Number of entries: 9858
 #
 local=/0123456789nonexistent.com/
 local=/01234movies.email/
@@ -1930,7 +1930,6 @@ local=/clubecine.com/
 local=/clubwarez.com/
 local=/bruh.cluster.ws/
 local=/cmacked.com/
-local=/cmovies.ac/
 local=/cmovies.co/
 local=/cmovies.fm/
 local=/cmovies.is/
@@ -2012,7 +2011,6 @@ local=/fnet.com.bd/
 local=/tracker.frontalweb.com.ar/
 local=/ftp.com.bd/
 local=/futebolaovivogratis.com.br/
-local=/hdclub.com.ua/
 local=/hkonline.com.bd/
 local=/hox.com.br/
 local=/icc.com.bd/
@@ -2165,7 +2163,6 @@ local=/crackserver.com/
 local=/cracksfiles.com/
 local=/crackslink.com/
 local=/cracksnow.com/
-local=/cracksoftwarez.com/
 local=/crackspider.net/
 local=/crackstore.com/
 local=/crackstreams.com/
@@ -2736,7 +2733,6 @@ local=/ebook-hell.to/
 local=/ebook-land.cc/
 local=/ebook-planete.org/
 local=/ebook3000.biz/
-local=/ebook3000.com/
 local=/ebookbb.com/
 local=/ebookdirectory.com/
 local=/ebookee.biz/
@@ -3086,7 +3082,6 @@ local=/animecouncil.fansub-torrents.com/
 local=/cartoon-world.fansub-torrents.com/
 local=/gerusama.fansub-torrents.com/
 local=/kazenokoefansubs.fansub-torrents.com/
-local=/faragski.com/
 local=/fashion-factory.ru/
 local=/fast-torrent.club/
 local=/fast-torrent.ru/
@@ -3173,7 +3168,6 @@ local=/filman.cc/
 local=/filmarchives.jp/
 local=/filmbits.net/
 local=/filmcomplet.al/
-local=/filmcomplet.vip/
 local=/filmduty.com/
 local=/filmeflix.online/
 local=/filmeflix.tv/
@@ -3519,7 +3513,6 @@ local=/footazo.com/
 local=/football-live.stream/
 local=/footballstream.to/
 local=/footybite.cc/
-local=/footybite.com/
 local=/foreverdrowning.com/
 local=/foreverpirates.co/
 local=/forfreeiptv.com/
@@ -4082,7 +4075,6 @@ local=/guardaserie01.click/
 local=/guardaserie01.fm/
 local=/guardaserie01.vg/
 local=/guardaserie01.ws/
-local=/guardoserie.net/
 local=/guiks.net/
 local=/gun-land.net/
 local=/gunsnroses.us/
@@ -4707,7 +4699,6 @@ local=/juraganfilm.tv/
 local=/juraganfilm.us/
 local=/juraganfilm.vip/
 local=/juraganfilm.xyz/
-local=/jurnal-portal.ru/
 local=/justdubs.org/
 local=/justinwb.com/
 local=/tracker.justseed.it/
@@ -4960,8 +4951,8 @@ local=/mail.lakameraobscura.com/
 local=/lalbatte.net/
 local=/lalegendedenaruto.com/
 local=/retracker.lanta.me/
-local=/laola1.at/
 local=/laola1.tv/
+local=/video.laola1.at/
 local=/lapache.info/
 local=/lapak21.com/
 local=/latinbit.com/
@@ -5792,7 +5783,6 @@ local=/mymoviebazar.com/
 local=/mymoviebazar.net/
 local=/myp2p.at/
 local=/myp2p.biz/
-local=/myp2px.eu/
 local=/mypiratebay.net/
 local=/mypiratebay.wtf/
 local=/myporn.club/
@@ -7899,7 +7889,6 @@ local=/supernetbd.com/
 local=/supernetsenbag.com/
 local=/supernova.to/
 local=/superserials.com/
-local=/superseries.live/
 local=/superstresser.com/
 local=/supertela.live/
 local=/supertorrents.net/
