@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736812020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736871480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Jan 2025 23:47 UTC
-; Version: 2025.0113.2347.44
+; Last modified: 14 Jan 2025 16:18 UTC
+; Version: 2025.0114.1618.43
 ; Syntax: RPZ
-; Number of entries: 20796
+; Number of entries: 20776
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -403,8 +403,6 @@ muckbootsosterreich.at CNAME .
 *.muckbootsosterreich.at CNAME .
 naturinowien.at CNAME .
 *.naturinowien.at CNAME .
-nb-osterreich.at CNAME .
-*.nb-osterreich.at CNAME .
 nikedunks.at CNAME .
 *.nikedunks.at CNAME .
 nikeosterreich.at CNAME .
@@ -431,8 +429,6 @@ onitsukatiger.at CNAME .
 *.onitsukatiger.at CNAME .
 onosterreich.at CNAME .
 *.onosterreich.at CNAME .
-onrunning-osterreich.at CNAME .
-*.onrunning-osterreich.at CNAME .
 onrunningwien.at CNAME .
 *.onrunningwien.at CNAME .
 onschuheoutlet.at CNAME .
@@ -7319,8 +7315,6 @@ malerbedarf-sales.com CNAME .
 *.malerbedarf-sales.com CNAME .
 mall-outdoors.com CNAME .
 *.mall-outdoors.com CNAME .
-maltanewstime.com CNAME .
-*.maltanewstime.com CNAME .
 man-homes.com CNAME .
 *.man-homes.com CNAME .
 man-investments.com CNAME .
@@ -7337,8 +7331,6 @@ mangroupfx.com CNAME .
 *.mangroupfx.com CNAME .
 mania-media.com CNAME .
 *.mania-media.com CNAME .
-manilafoodcrawl.com CNAME .
-*.manilafoodcrawl.com CNAME .
 mankinddenim.com CNAME .
 *.mankinddenim.com CNAME .
 mannerapotheke24.com CNAME .
@@ -8109,8 +8101,6 @@ newcfds.com CNAME .
 *.newcfds.com CNAME .
 newchrisreeve.com CNAME .
 *.newchrisreeve.com CNAME .
-newchristmashome.com CNAME .
-*.newchristmashome.com CNAME .
 newcookingtool.com CNAME .
 *.newcookingtool.com CNAME .
 newdropjordans.com CNAME .
@@ -8119,8 +8109,6 @@ newedgyshoes.com CNAME .
 *.newedgyshoes.com CNAME .
 neweshops.com CNAME .
 *.neweshops.com CNAME .
-neweuropetoday.com CNAME .
-*.neweuropetoday.com CNAME .
 newformiss.com CNAME .
 *.newformiss.com CNAME .
 newgrahams.com CNAME .
@@ -8249,8 +8237,6 @@ northwaveoff.com CNAME .
 *.northwaveoff.com CNAME .
 northwavestore.com CNAME .
 *.northwavestore.com CNAME .
-norwaynewstoday.com CNAME .
-*.norwaynewstoday.com CNAME .
 notebooksstoresales.com CNAME .
 *.notebooksstoresales.com CNAME .
 nouveauveloventefr.com CNAME .
@@ -8835,8 +8821,6 @@ ownerpets.com CNAME .
 *.ownerpets.com CNAME .
 oxfordmarkets.com CNAME .
 *.oxfordmarkets.com CNAME .
-oxfordnewstoday.com CNAME .
-*.oxfordnewstoday.com CNAME .
 oxikredit.com CNAME .
 *.oxikredit.com CNAME .
 oyoyhome.com CNAME .
@@ -8903,8 +8887,6 @@ parkside-uk.com CNAME .
 *.parkside-uk.com CNAME .
 parlament-kapital.com CNAME .
 *.parlament-kapital.com CNAME .
-login.parsev.com CNAME .
-*.login.parsev.com CNAME .
 partenaire-finance.com CNAME .
 *.partenaire-finance.com CNAME .
 pasadenablues.com CNAME .
@@ -11329,8 +11311,6 @@ tevassuomi.com CNAME .
 *.tevassuomi.com CNAME .
 tevasuomi.com CNAME .
 *.tevasuomi.com CNAME .
-teveodeutschlandde.com CNAME .
-*.teveodeutschlandde.com CNAME .
 teveogermany.com CNAME .
 *.teveogermany.com CNAME .
 textilesdaily.com CNAME .
@@ -11971,6 +11951,8 @@ tuxieon.com CNAME .
 *.tuxieon.com CNAME .
 tv-sideboards-sale.com CNAME .
 *.tv-sideboards-sale.com CNAME .
+tvktransport.com CNAME .
+*.tvktransport.com CNAME .
 twoodhandels.com CNAME .
 *.twoodhandels.com CNAME .
 twosun-knives.com CNAME .
@@ -17223,8 +17205,6 @@ zesavi-tech.de CNAME .
 *.zesavi-tech.de CNAME .
 zetko-waren.de CNAME .
 *.zetko-waren.de CNAME .
-app.zety.de CNAME .
-*.app.zety.de CNAME .
 zicklerbrennholz.de CNAME .
 *.zicklerbrennholz.de CNAME .
 zlibo-elektro24.de CNAME .

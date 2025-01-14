@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jan 2025 23:47 UTC
-# Version: 2025.0113.2347.44
+# Last modified: 14 Jan 2025 16:18 UTC
+# Version: 2025.0114.1618.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10398
+# Number of entries: 10388
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -5651,7 +5651,6 @@ local=/malerbedarf-sales.com/
 local=/malisen.de/
 local=/mall-outdoors.com/
 local=/malschule-wetzlar.de/
-local=/maltanewstime.com/
 local=/mamiblockshop.shop/
 local=/mammutwien.at/
 local=/man-homes.com/
@@ -5663,7 +5662,6 @@ local=/mandykitto.com/
 local=/manenjoy.com/
 local=/mangroupfx.com/
 local=/mania-media.com/
-local=/manilafoodcrawl.com/
 local=/mankinddenim.com/
 local=/mannerapotheke24.com/
 local=/manpillen.de/
@@ -6274,7 +6272,6 @@ local=/nauticaromania.com/
 local=/nauticasdeutschland.de/
 local=/nauticaukwebsite.com/
 local=/nava-shop.com/
-local=/nb-osterreich.at/
 local=/nbu-tophandel.de/
 local=/nbynicole.com/
 local=/nchen.de/
@@ -6339,14 +6336,12 @@ local=/newbloomingville.com/
 local=/newcampsale.com/
 local=/newcfds.com/
 local=/newchrisreeve.com/
-local=/newchristmashome.com/
 local=/newcookingtool.com/
 local=/newcycleshop.eu/
 local=/newdropjordans.com/
 local=/newecartde.shop/
 local=/newedgyshoes.com/
 local=/neweshops.com/
-local=/neweuropetoday.com/
 local=/newformiss.com/
 local=/newgrahams.com/
 local=/newhabiliment.com/
@@ -6459,7 +6454,6 @@ local=/northwavestore.com/
 local=/norulesjustfun.de/
 local=/norvatix.io/
 local=/norwayhotel.net/
-local=/norwaynewstoday.com/
 local=/not-bad.shop/
 local=/notebooknetzteileshop.de/
 local=/notebooksstoresales.com/
@@ -6681,7 +6675,6 @@ local=/onlyjustshoes.com/
 local=/onlysonsde.com/
 local=/ono-7.top/
 local=/onosterreich.at/
-local=/onrunning-osterreich.at/
 local=/onrunningoutletdeutschland.com/
 local=/onrunningoutletdeutschland.de/
 local=/onrunningoutletfactory.com/
@@ -6898,7 +6891,6 @@ local=/owalaaustria.at/
 local=/owner-surf.com/
 local=/ownerpets.com/
 local=/oxfordmarkets.com/
-local=/oxfordnewstoday.com/
 local=/oxikredit.com/
 local=/oyoyhome.com/
 local=/ozempic-kaufen.com/
@@ -6957,7 +6949,6 @@ local=/parkhomeware.com/
 local=/parkside-tienda.com/
 local=/parkside-uk.com/
 local=/parlament-kapital.com/
-local=/login.parsev.com/
 local=/part-time-work-de.xyz/
 local=/partenaire-finance.com/
 local=/partgleise.de/
@@ -9005,7 +8996,6 @@ local=/tevassuomi.com/
 local=/tevasuomi.com/
 local=/teveo-germany.de/
 local=/teveoaustria.at/
-local=/teveodeutschlandde.com/
 local=/teveogermany.com/
 local=/teveoosterreich.at/
 local=/textilesdaily.com/
@@ -9468,6 +9458,7 @@ local=/turolloy.com/
 local=/tuxedoredefined.com/
 local=/tuxieon.com/
 local=/tv-sideboards-sale.com/
+local=/tvktransport.com/
 local=/tvlowboards.de/
 local=/twilight-fans.de/
 local=/twinbusch.net/
@@ -10362,7 +10353,6 @@ local=/zerogrid.shop/
 local=/zesavi-tech.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
-local=/app.zety.de/
 local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/

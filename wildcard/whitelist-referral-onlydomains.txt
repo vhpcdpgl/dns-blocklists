@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 00:05 UTC
-# Version: 2025.0111.0005.34
+# Last modified: 14 Jan 2025 15:56 UTC
+# Version: 2025.0114.1556.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 768
+# Number of entries: 771
 #
 l.1mp.ru
 t.1und1.de
@@ -58,25 +58,29 @@ alitems.site
 click.allkeyshop.com
 click.alternate.de
 aax-eu.amazon.ae
+aax-eu.amazon.com
 aax-eu.amazon.de
 aax-eu.amazon.es
 aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
+aax-eu.amazon.pl
 aax-eu.amazon.sa
 aax-eu.amazon.se
+aax-eu-dub.amazon.com
 aax-eu-retail-rtb.amazon.com
+aax-fe.amazon.com
 aax-fe.amazon.sg
 aax-fe-pdx-direct.amazon.com
 aax-fe-retail-rtb.amazon.com
 aax-us-east-retail-direct.amazon.com
 aax-us-east-retail-rtb.amazon.com
 aax-us-iad.amazon.com
-aaxs-north-1-1-1-prod-prod.s.advertising.amazon.cn
 aax-dtb-cf.amazon-adsystem.amazon.com
 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.amazon.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.amazon.com
 aax-us-ott.amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
@@ -244,7 +248,6 @@ redirector.eservice.emarsys.net
 suite.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
-suite15.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
@@ -256,8 +259,8 @@ suite36.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
 suite40-cf.emarsys.net
-suite44.emarsys.net
 suite45.emarsys.net
+suite52.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
@@ -283,20 +286,17 @@ s11.exacttarget.com
 s12.exacttarget.com
 s13.exacttarget.com
 s4.exacttarget.com
-s5.exacttarget.com
 s50.exacttarget.com
 s51.exacttarget.com
 s6.exacttarget.com
 s7.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
-amway-cdn.exponea.com
 cdn.exponea.com
 cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
 ozon-cdn.exponea.com
-pan-cdn.exponea.com
 ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
@@ -323,6 +323,7 @@ go.link
 go2jump.org
 adservice.google.ca
 adservice.google.com
+adservice.google.cz
 adservice.google.de
 adservice.google.dk
 adservice.google.ee
@@ -431,52 +432,53 @@ email.microsoftemail.com
 email.microsoftonline.com
 links.mkt41.net
 mkto-a0095.com
-mkto-ab010012.com
+mkto-ab010044.com
 mkto-ab040115.com
 mkto-ab060085.com
-mkto-ab060144.com
-mkto-ab070017.com
 mkto-ab080206.com
 mkto-ab110171.com
-mkto-ab150224.com
-mkto-ab180024.com
 mkto-ab200065.com
 mkto-ab210094.com
 mkto-ab210104.com
 mkto-ab220178.com
 mkto-ab220193.com
 mkto-ab250105.com
+mkto-ab280191.com
+mkto-ab290022.com
+mkto-ab300082.com
 mkto-ab300154.com
-mkto-ab330197.com
+mkto-ab310115.com
+mkto-ab330062.com
 mkto-ab340022.com
 mkto-ab340124.com
 mkto-ab420081.com
-mkto-ab440025.com
+mkto-ab460170.com
 mkto-ab470148.com
-mkto-ab500015.com
+mkto-ab480047.com
 mkto-ab530057.com
+mkto-ab530192.com
 mkto-ab540059.com
+mkto-ab540130.com
 mkto-ab540186.com
 mkto-ab550140.com
 mkto-ab560068.com
-mkto-ab560171.com
 mkto-ab570110.com
-mkto-ab570148.com
 mkto-ab580004.com
 mkto-ab650097.com
 mkto-ab660121.com
-mkto-ab690019.com
 mkto-ab690180.com
+mkto-abj0022.com
 mkto-abm0229.com
 mkto-d0097.com
 mkto-d0170.com
 mkto-f0054.com
 mkto-g0030.com
 mkto-g0180.com
+mkto-i0028.com
 mkto-k0071.com
+mkto-lon030291.com
 mkto-lon040152.com
 mkto-lon050200.com
-mkto-lon090082.com
 mkto-n0199.com
 mkto-nld1040186.com
 mkto-o0153.com
@@ -489,19 +491,17 @@ mkto-sj070214.com
 mkto-sj070259.com
 mkto-sj090132.com
 mkto-sj160210.com
+mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com
-mkto-sj200192.com
-mkto-sj240014.com
+mkto-sj190237.com
 mkto-sj240021.com
 mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj320047.com
 mkto-sj330006.com
-mkto-sj360142.com
 mkto-sj380030.com
-mkto-sj390192.com
-mkto-sjg0056.com
+mkto-sjh0224.com
 mktoweb.com
 mkto-lp.mlinc.com
 click.mlsend.com
@@ -599,10 +599,12 @@ r4gh8tuab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
+r8ii9feab.cc.rs6.net
+rdr9bzpab.cc.rs6.net
+rfbybmuab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rq6agxabb.cc.rs6.net
-rtaw7vebb.cc.rs6.net
 rxfc49ebb.cc.rs6.net
 rz6dkreab.cc.rs6.net
 r20.rs6.net
@@ -757,6 +759,7 @@ clicks.trx-hub.com
 analytics.twitter.com
 email.uber.com
 redirect.viglink.com
+ek8.voyage-prive.com
 cts.vresp.com
 cdn.webclicks24.com
 api.webengage.com

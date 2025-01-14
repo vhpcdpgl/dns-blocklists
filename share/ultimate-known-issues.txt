@@ -20,3 +20,13 @@ auditrecording-pa.googleapis.com
 # Needed for additional Google Assistant downloads on Android
 # Reason for blocking: https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2571513897
 geller-pa.googleapis.com
+
+# Only required on Android for initial use after installing Google Assistant and Gemini.
+# No known problems under iOS.
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2586009150
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2588346367
+footprints-pa.googleapis.com
+
+# May interfere with some apps on Android, not confirmed.
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2590327413
+voilatile-pa.googleapis.com

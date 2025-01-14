@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736826000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736886060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jan 2025 03:40 UTC
-; Version: 2025.0114.0340.32
+; Last modified: 14 Jan 2025 20:21 UTC
+; Version: 2025.0114.2021.15
 ; Syntax: RPZ
-; Number of entries: 19444
+; Number of entries: 19420
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1213,8 +1213,6 @@ openpirate.cc CNAME .
 *.openpirate.cc CNAME .
 opentracker.cc CNAME .
 *.opentracker.cc CNAME .
-ovg.cc CNAME .
-*.ovg.cc CNAME .
 oxtorrent.cc CNAME .
 *.oxtorrent.cc CNAME .
 pcmirror.cc CNAME .
@@ -5387,8 +5385,6 @@ otakustv.com CNAME .
 *.otakustv.com CNAME .
 otakuworks.com CNAME .
 *.otakuworks.com CNAME .
-oteupload.com CNAME .
-*.oteupload.com CNAME .
 otorrents.com CNAME .
 *.otorrents.com CNAME .
 ovagames.com CNAME .
@@ -8087,8 +8083,6 @@ kinokrad.fan CNAME .
 *.kinokrad.fan CNAME .
 watchmovies.fan CNAME .
 *.watchmovies.fan CNAME .
-multicanais.fans CNAME .
-*.multicanais.fans CNAME .
 uhdmovies.fans CNAME .
 *.uhdmovies.fans CNAME .
 altadefinizione.farm CNAME .
@@ -8685,8 +8679,6 @@ juraganfilm.icu CNAME .
 *.juraganfilm.icu CNAME .
 moviestube.icu CNAME .
 *.moviestube.icu CNAME .
-mp3-juice.icu CNAME .
-*.mp3-juice.icu CNAME .
 nocensor.icu CNAME .
 *.nocensor.icu CNAME .
 piratebay.icu CNAME .
@@ -10641,8 +10633,6 @@ omgtorrent.me CNAME .
 *.omgtorrent.me CNAME .
 ddn.oncast.me CNAME .
 *.ddn.oncast.me CNAME .
-onhax.me CNAME .
-*.onhax.me CNAME .
 online-fix.me CNAME .
 *.online-fix.me CNAME .
 openloadfreetv.me CNAME .
@@ -12241,8 +12231,6 @@ onionplay.net CNAME .
 *.onionplay.net CNAME .
 onsbd.net CNAME .
 *.onsbd.net CNAME .
-openloadmov.net CNAME .
-*.openloadmov.net CNAME .
 openloadmovies.net CNAME .
 *.openloadmovies.net CNAME .
 openpiratbay.net CNAME .
@@ -13333,10 +13321,6 @@ netfreex.online CNAME .
 *.netfreex.online CNAME .
 ocine.online CNAME .
 *.ocine.online CNAME .
-ge.parvioncloud.online CNAME .
-*.ge.parvioncloud.online CNAME .
-wr.parvioncloud.online CNAME .
-*.wr.parvioncloud.online CNAME .
 pelisplus.online CNAME .
 *.pelisplus.online CNAME .
 piratebaylive.online CNAME .
@@ -14341,8 +14325,6 @@ top.nydus.org CNAME .
 *.top.nydus.org CNAME .
 u.nydus.org CNAME .
 *.u.nydus.org CNAME .
-onebigtorrent.org CNAME .
-*.onebigtorrent.org CNAME .
 oneddl.org CNAME .
 *.oneddl.org CNAME .
 onionplay.org CNAME .
@@ -16725,8 +16707,6 @@ mojaloss.stream CNAME .
 *.mojaloss.stream CNAME .
 movply.stream CNAME .
 *.movply.stream CNAME .
-onlineflix.stream CNAME .
-*.onlineflix.stream CNAME .
 papystreaming.stream CNAME .
 *.papystreaming.stream CNAME .
 ripple.stream CNAME .
@@ -16825,8 +16805,6 @@ himovies.sx CNAME .
 *.himovies.sx CNAME .
 kinox.sx CNAME .
 *.kinox.sx CNAME .
-liveru.sx CNAME .
-*.liveru.sx CNAME .
 livetv.sx CNAME .
 *.livetv.sx CNAME .
 movie-blog.sx CNAME .
@@ -17281,8 +17259,6 @@ ogladaj.to CNAME .
 *.ogladaj.to CNAME .
 ololo.to CNAME .
 *.ololo.to CNAME .
-onionplay.to CNAME .
-*.onionplay.to CNAME .
 onstreamapp.to CNAME .
 *.onstreamapp.to CNAME .
 pelis24.to CNAME .
