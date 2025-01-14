@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jan 2025 03:56 UTC
-# Version: 2025.0113.0356.14
+# Last modified: 14 Jan 2025 03:42 UTC
+# Version: 2025.0114.0342.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1468
+# Number of entries: 1465
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -384,7 +384,6 @@ local=/dynalias.org/
 local=/dynamai.com/
 local=/dynamic.domains/
 local=/dynamic-dns.net/
-local=/dynamic-dns.us/
 local=/dynamic-m.com/
 local=/dynamic-site.net/
 local=/dynamicdns.biz/
@@ -593,7 +592,6 @@ local=/gally.jp/
 local=/game-host.org/
 local=/game-server.cc/
 local=/garmanage.com/
-local=/garypatel.com/
 local=/gastright.com/
 local=/geekgalaxy.com/
 local=/geobattery.com/
@@ -1170,7 +1168,6 @@ local=/recruitment7.com/
 local=/recyclesolutionsllc.com/
 local=/redirectme.net/
 local=/reijn.org/
-local=/remotecam.nu/
 local=/resolve.bar/
 local=/ro.lt/
 local=/robinhud.com/
@@ -1190,7 +1187,6 @@ local=/ruok.org/
 local=/russkoeumea.com/
 local=/rwbcode.com/
 local=/ryointernational.com/
-local=/sadayuki.jp/
 local=/sandmeiers.ch/
 local=/sannon-stamm.com/
 local=/saves-the-whales.com/
@@ -1392,6 +1388,7 @@ local=/urown.cloud/
 local=/us.to/
 local=/usa.cc/
 local=/uzhi.ru/
+local=/v6.army/
 local=/v6.navy/
 local=/v6.rocks/
 local=/vankin.de/

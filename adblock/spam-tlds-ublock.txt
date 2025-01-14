@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Jan 2025 19:32 UTC
-! Version: 2025.0111.1932.30
+! Last modified: 14 Jan 2025 03:47 UTC
+! Version: 2025.0114.0347.07
 ! Syntax: uBlock
 ! Number of latin TLDs: 220 - non-latin TLDs: 151
 !
@@ -109,7 +109,7 @@
 ||haus^$doc
 ||health^$doc,domain=~sca.health
 ||healthcare^$doc
-||help^$doc
+||help^$doc,domain=~kustomer.help
 ||homes^$doc,domain=~stremio.homes
 ||icu^$doc,domain=~lunar.icu|~mon.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink|~shrinkme.ink|~sumerian.ink|~work.ink

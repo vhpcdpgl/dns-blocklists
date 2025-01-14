@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jan 2025 03:57 UTC
-# Version: 2025.0113.0357.26
+# Last modified: 14 Jan 2025 03:43 UTC
+# Version: 2025.0114.0343.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1859
+# Number of entries: 1852
 #
 local=/000a.de/
 local=/000space.com/
@@ -812,7 +812,6 @@ local=/fantasyblog.fr/
 local=/fare-blog.com/
 local=/fast-page.org/
 local=/fasthoster.de/
-local=/fateback.com/
 local=/fblogs.com/
 local=/fc2.com/
 local=/fc2web.com/
@@ -1179,7 +1178,6 @@ local=/majesticbank.is/
 local=/majesticbank.sc/
 local=/maktoobblog.com/
 local=/maminforum.com/
-local=/marshost.info/
 local=/master.com/
 local=/mastertopforum.org/
 local=/mdkblog.com/
@@ -1209,12 +1207,9 @@ local=/multiblog.com/
 local=/multiply.com/
 local=/musik.cx/
 local=/musik.lc/
-local=/mutuel-credible.com/
-local=/mutuelcredible.com/
 local=/mw.hu/
 local=/mx.gp/
 local=/my.gp/
-local=/dew4.my.id/
 local=/inclaim.my.id/
 local=/jekar.my.id/
 local=/melayuu.my.id/
@@ -1657,7 +1652,6 @@ local=/uploader.eu/
 local=/urlaub.lc/
 local=/us.nf/
 local=/us.st/
-local=/sanasta.us.kg/
 local=/usa.gg/
 local=/usafreespace.com/
 local=/usclargo.com/
@@ -1774,7 +1768,6 @@ local=/website2.me/
 local=/websitehostfree.com/
 local=/webspawner.com/
 local=/webstarts.com/
-local=/webuda.com/
 local=/webzdarma.cz/
 local=/weebly.com/
 local=/weeblysite.com/
