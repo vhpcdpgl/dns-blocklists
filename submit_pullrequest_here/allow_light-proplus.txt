@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2588346367
+footprints-pa.googleapis.com
+
 # Needed for additional Assistant downloads on Android
 geller-pa.googleapis.com
 
