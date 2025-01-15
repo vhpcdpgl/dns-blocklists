@@ -1,5 +1,5 @@
 name: Allowlist Request
-description: Report domains that are incorrectly blocked.
+description: Report the domains that should be unblocked. 
 labels: ["allow"]
 assignees: 
   - hagezi
