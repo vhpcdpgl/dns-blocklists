@@ -10,6 +10,7 @@ body:
       label: Which domain(s) should be blocked?
       description: |
         Provide the domains that should be blocked, ensuring you include only domain names (e.g., example.com). Do not include adblock rules, URLs, or other formats.
+        IMPORTANT: Ensure that you defang dangerous domains, such as "malicious-domain[.]top," to safeguard against the potential ban of your GitHub account.
     validations:
       required: true
 
