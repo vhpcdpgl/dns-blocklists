@@ -10,7 +10,7 @@ body:
       label: Which device type do you use?
       description: |
         Choose the device type you are using. If it’s not listed, select Other and specify its name in the comments section below.
-      multiple: false
+      multiple: true
       options:
         - Desktop
         - Mobile
@@ -32,7 +32,7 @@ body:
       label: What is the operating system of the device?
       description: |
         Choose the operating system under which the device is running. If it’s not listed, select Other and specify its name in the comments section below.
-      multiple: false
+      multiple: true
       options:
         - Android
         - iOS/macOS/tvOS/watchOS
@@ -56,7 +56,7 @@ body:
       label: Which browser or app are you using?
       description: |
         Choose the browser you are using. If it’s not listed or the issue occurs with an app, select Other and specify its name in the comments section below.
-      multiple: false
+      multiple: true
       options:
         - Brave
         - Chrome
