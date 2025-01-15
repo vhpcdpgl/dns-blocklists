@@ -5,6 +5,79 @@ assignees:
   - hagezi
 body:
   - type: dropdown
+    id: devicetype
+    attributes:
+      label: Which device type do you use?
+      description: |
+        Choose the device type you are using. If it’s not listed, select Other and specify its name in the comments section below.
+      multiple: false
+      options:
+        - Desktop
+        - Mobile
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_device
+    attributes:
+      label: Other device
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: operatingsystem
+    attributes:
+      label: What is the operating system of the device?
+      description: |
+        Choose the operating system under which the device is running. If it’s not listed, select Other and specify its name in the comments section below.
+      multiple: false
+      options:
+        - Android
+        - iOS/macOS/tvOS/watchOS
+        - Linux
+        - Windows
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_os
+    attributes:
+      label: Other operating system
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Which browser or app are you using?
+      description: |
+        Choose the browser you are using. If it’s not listed or the issue occurs with an app, select Other and specify its name in the comments section below.
+      multiple: false
+      options:
+        - Brave
+        - Chrome
+        - Firefox
+        - Microsoft Edge
+        - Opera
+        - Safari
+        - Vivaldi
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_browser
+    attributes:
+      label: Other browser or app
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+  
+  - type: dropdown
     id: adblocker
     attributes:
       label: Which AdBlocker or DNS cloud service do you use?
@@ -26,13 +99,14 @@ body:
     validations:
       required: true
   - type: input
-    id: other
+    id: other_adblocker
     attributes:
-      label: Other
+      label: Other AdBlocker or DNS cloud service
       description: |
         If you selected Other, please enter the name here.
     validations:
       required: false
+      
   - type: checkboxes
     attributes:
       label: ControlD users
