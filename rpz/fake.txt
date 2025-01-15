@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736871480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736898240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jan 2025 16:18 UTC
-; Version: 2025.0114.1618.43
+; Last modified: 14 Jan 2025 23:44 UTC
+; Version: 2025.0114.2344.30
 ; Syntax: RPZ
-; Number of entries: 20776
+; Number of entries: 20758
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -4715,8 +4715,6 @@ fireplaceshopsales.com CNAME .
 *.fireplaceshopsales.com CNAME .
 first-investcapital.com CNAME .
 *.first-investcapital.com CNAME .
-firstmoebelsale.com CNAME .
-*.firstmoebelsale.com CNAME .
 fishapparelshoe.com CNAME .
 *.fishapparelshoe.com CNAME .
 fishing-goods.com CNAME .
@@ -9151,14 +9149,10 @@ portesdunet.com CNAME .
 *.portesdunet.com CNAME .
 porto-immo.com CNAME .
 *.porto-immo.com CNAME .
-portugalnewstoday.com CNAME .
-*.portugalnewstoday.com CNAME .
 porzellansale.com CNAME .
 *.porzellansale.com CNAME .
 post-dance.com CNAME .
 *.post-dance.com CNAME .
-postgazettenewstoday.com CNAME .
-*.postgazettenewstoday.com CNAME .
 potencypharma24x7.com CNAME .
 *.potencypharma24x7.com CNAME .
 potens-middel.com CNAME .
@@ -9467,8 +9461,6 @@ rcaxon.com CNAME .
 *.rcaxon.com CNAME .
 rccarsmaverick.com CNAME .
 *.rccarsmaverick.com CNAME .
-rccartrucks.com CNAME .
-*.rccartrucks.com CNAME .
 rcelectronicsale.com CNAME .
 *.rcelectronicsale.com CNAME .
 rcfastrax.com CNAME .
@@ -9477,8 +9469,6 @@ rcflugzeugde.com CNAME .
 *.rcflugzeugde.com CNAME .
 rchobbyus.com CNAME .
 *.rchobbyus.com CNAME .
-rcmotorsparts.com CNAME .
-*.rcmotorsparts.com CNAME .
 rcpartsxpress.com CNAME .
 *.rcpartsxpress.com CNAME .
 rcserpent.com CNAME .
@@ -9547,8 +9537,6 @@ reisetaschenonshop.com CNAME .
 *.reisetaschenonshop.com CNAME .
 reisetaschensale.com CNAME .
 *.reisetaschensale.com CNAME .
-reisetaschenstore.com CNAME .
-*.reisetaschenstore.com CNAME .
 rekrutierungszentrum.com CNAME .
 *.rekrutierungszentrum.com CNAME .
 remediesinstantstore.com CNAME .
@@ -9589,8 +9577,6 @@ rennradgeschaft.com CNAME .
 *.rennradgeschaft.com CNAME .
 replicawatchtr.com CNAME .
 *.replicawatchtr.com CNAME .
-republicofchinatoday.com CNAME .
-*.republicofchinatoday.com CNAME .
 reservationstays.com CNAME .
 *.reservationstays.com CNAME .
 reservefundbnk.com CNAME .
@@ -14263,8 +14249,6 @@ euronicspowergame.de CNAME .
 *.euronicspowergame.de CNAME .
 euronicsser.de CNAME .
 *.euronicsser.de CNAME .
-euronicsxxldeutschonline.de CNAME .
-*.euronicsxxldeutschonline.de CNAME .
 euronicsxxlonline.de CNAME .
 *.euronicsxxlonline.de CNAME .
 europa-rezeptfrei.de CNAME .
@@ -18433,8 +18417,6 @@ chantal-modehuis.nl CNAME .
 *.chantal-modehuis.nl CNAME .
 divingshop.nl CNAME .
 *.divingshop.nl CNAME .
-erectieassistent.nl CNAME .
-*.erectieassistent.nl CNAME .
 exango.nl CNAME .
 *.exango.nl CNAME .
 financien-krediet.nl CNAME .

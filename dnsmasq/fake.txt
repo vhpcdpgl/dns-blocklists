@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jan 2025 16:18 UTC
-# Version: 2025.0114.1618.43
+# Last modified: 14 Jan 2025 23:44 UTC
+# Version: 2025.0114.2344.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10388
+# Number of entries: 10379
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2822,7 +2822,6 @@ local=/eradstore.de/
 local=/erainvest.net/
 local=/erate.com/
 local=/erdbeerblase.de/
-local=/erectieassistent.nl/
 local=/erektionspillen.com/
 local=/erektionspillen.online/
 local=/eresbike.com/
@@ -2925,7 +2924,6 @@ local=/euronicsdeutschlandshop.de/
 local=/euronicsdirekte.de/
 local=/euronicspowergame.de/
 local=/euronicsser.de/
-local=/euronicsxxldeutschonline.de/
 local=/euronicsxxlonline.de/
 local=/europa-apotek.com/
 local=/europa-rezeptfrei.de/
@@ -3238,7 +3236,6 @@ local=/firmenklick.net/
 local=/first-investcapital.com/
 local=/firsthelptech.shop/
 local=/firstmats.shop/
-local=/firstmoebelsale.com/
 local=/fishapparelshoe.com/
 local=/fishfoods.shop/
 local=/fishing-goods.com/
@@ -7172,12 +7169,10 @@ local=/porlabs.com/
 local=/porte-monnaie.de/
 local=/portesdunet.com/
 local=/porto-immo.com/
-local=/portugalnewstoday.com/
 local=/porzellansale.com/
 local=/poseidonstore.de/
 local=/post-dance.com/
 local=/postcard.news/
-local=/postgazettenewstoday.com/
 local=/potberg-handel.de/
 local=/potencypharma24x7.com/
 local=/potens-middel.com/
@@ -7470,12 +7465,10 @@ local=/rbvsv.com/
 local=/rcarrowmax.com/
 local=/rcaxon.com/
 local=/rccarsmaverick.com/
-local=/rccartrucks.com/
 local=/rcelectronicsale.com/
 local=/rcfastrax.com/
 local=/rcflugzeugde.com/
 local=/rchobbyus.com/
-local=/rcmotorsparts.com/
 local=/rcpartsxpress.com/
 local=/rcserpent.com/
 local=/rcspielzeug.de/
@@ -7534,7 +7527,6 @@ local=/reinholdrasenmaher.com/
 local=/reinrassigewelpen.com/
 local=/reisetaschenonshop.com/
 local=/reisetaschensale.com/
-local=/reisetaschenstore.com/
 local=/reiterholz.de/
 local=/rekrutierung.co/
 local=/rekrutierungszentrum.com/
@@ -7580,7 +7572,6 @@ local=/replicawatchtr.com/
 local=/replika-uhr.to/
 local=/replikuhrenshop.de/
 local=/presale-amswallet.replit.app/
-local=/republicofchinatoday.com/
 local=/repuhren.de/
 local=/resell-handel.de/
 local=/reservationstays.com/
