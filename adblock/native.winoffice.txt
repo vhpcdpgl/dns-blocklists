@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Jan 2025 01:04 UTC
-! Version: 2025.0111.0104.29
+! Last modified: 15 Jan 2025 19:16 UTC
+! Version: 2025.0115.1916.29
 ! Syntax: AdBlock
-! Number of entries: 334
+! Number of entries: 336
 !
 ||in.appcenter.ms^
 ||applicationinsights.azure.com^
@@ -171,6 +171,7 @@
 ||statsfe2.ws.microsoft.com^
 ||gateway.bingviz.microsoftapp.net^
 ||msads.net^
+||fp.msedge.net^
 ||win10-trt.msedge.net^
 ||ad.msn.com^
 ||adevents.msn.com^
@@ -316,6 +317,7 @@
 ||analytics-dev-lleap-events.servicebus.windows.net^
 ||analytics-dev-simpad-events.servicebus.windows.net^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticsiot-prod-simpad-ehn.servicebus.windows.net^
 ||btv-du-dev-eventhub-streamanalytics.servicebus.windows.net^
 ||btv-du-prod-eventhub-streamanalytics.servicebus.windows.net^
 ||citrixanalyticseh.servicebus.windows.net^

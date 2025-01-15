@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2025 11:28 UTC
-# Version: 2025.0115.1128.46
+# Last modified: 15 Jan 2025 19:23 UTC
+# Version: 2025.0115.1923.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9707
+# Number of entries: 9701
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -7695,7 +7695,6 @@ local=/streamoz.me/
 local=/streamshunters.com/
 local=/streamtape.com/
 local=/streamwatch.online/
-local=/streamwatchfree.com/
 local=/streamway.org/
 local=/streamwoop.club/
 local=/streamwoop.com/
@@ -7952,7 +7951,6 @@ local=/tgx.rs/
 local=/tgx.sb/
 local=/th3-studio.net/
 local=/thagoat.rocks/
-local=/thatswhathappened.tv/
 local=/the-eye.eu/
 local=/the-piratebay.com/
 local=/the-piratebay.org/
@@ -7989,8 +7987,6 @@ local=/thehawks.org/
 local=/thehiddenbay.com/
 local=/thehiddenbay.info/
 local=/thehotfix.net/
-local=/theindex.cc/
-local=/theintrovision.com/
 local=/theisozone.com/
 local=/thejigsawpuzzles.com/
 local=/thekat.info/
@@ -8047,7 +8043,6 @@ local=/thepiratebay.vin/
 local=/thepiratebay.vip/
 local=/thepiratebay.wiki/
 local=/thepiratebay.zone/
-local=/thepiratebay-proxy.com/
 local=/thepiratebay-unblocked.org/
 local=/thepiratebay-us.org/
 local=/thepiratebay0.org/
@@ -8171,7 +8166,6 @@ local=/toonova.net/
 local=/toorgle.com/
 local=/top-serie.org/
 local=/torrents.top-site-list.com/
-local=/top123movies.com/
 local=/topanalyse.org/
 local=/topbytes.net/
 local=/topcartoons.tv/

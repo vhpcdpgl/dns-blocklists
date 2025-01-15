@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 01:04 UTC
-# Version: 2025.0111.0104.29
+# Last modified: 15 Jan 2025 19:16 UTC
+# Version: 2025.0115.1916.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 334
+# Number of entries: 336
 #
 local=/in.appcenter.ms/
 local=/applicationinsights.azure.com/
@@ -170,6 +170,7 @@ local=/statsfe1.ws.microsoft.com/
 local=/statsfe2.ws.microsoft.com/
 local=/gateway.bingviz.microsoftapp.net/
 local=/msads.net/
+local=/fp.msedge.net/
 local=/win10-trt.msedge.net/
 local=/ad.msn.com/
 local=/adevents.msn.com/
@@ -315,6 +316,7 @@ local=/sa.windows.com/
 local=/analytics-dev-lleap-events.servicebus.windows.net/
 local=/analytics-dev-simpad-events.servicebus.windows.net/
 local=/analyticsehnwe.servicebus.windows.net/
+local=/analyticsiot-prod-simpad-ehn.servicebus.windows.net/
 local=/btv-du-dev-eventhub-streamanalytics.servicebus.windows.net/
 local=/btv-du-prod-eventhub-streamanalytics.servicebus.windows.net/
 local=/citrixanalyticseh.servicebus.windows.net/

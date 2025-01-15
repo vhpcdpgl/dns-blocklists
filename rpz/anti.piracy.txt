@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736940480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736968980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jan 2025 11:28 UTC
-; Version: 2025.0115.1128.46
+; Last modified: 15 Jan 2025 19:23 UTC
+; Version: 2025.0115.1923.08
 ; Syntax: RPZ
-; Number of entries: 19414
+; Number of entries: 19402
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1263,8 +1263,6 @@ stresser.cc CNAME .
 *.stresser.cc CNAME .
 tantifilm.cc CNAME .
 *.tantifilm.cc CNAME .
-theindex.cc CNAME .
-*.theindex.cc CNAME .
 tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
@@ -6191,8 +6189,6 @@ streamshunters.com CNAME .
 *.streamshunters.com CNAME .
 streamtape.com CNAME .
 *.streamtape.com CNAME .
-streamwatchfree.com CNAME .
-*.streamwatchfree.com CNAME .
 streamwoop.com CNAME .
 *.streamwoop.com CNAME .
 streema.com CNAME .
@@ -6325,8 +6321,6 @@ theebooksbay.com CNAME .
 *.theebooksbay.com CNAME .
 thehiddenbay.com CNAME .
 *.thehiddenbay.com CNAME .
-theintrovision.com CNAME .
-*.theintrovision.com CNAME .
 theisozone.com CNAME .
 *.theisozone.com CNAME .
 thejigsawpuzzles.com CNAME .
@@ -6351,8 +6345,6 @@ thepeerhub.com CNAME .
 *.thepeerhub.com CNAME .
 thepirate-bayproxy.com CNAME .
 *.thepirate-bayproxy.com CNAME .
-thepiratebay-proxy.com CNAME .
-*.thepiratebay-proxy.com CNAME .
 thepiratebay1.com CNAME .
 *.thepiratebay1.com CNAME .
 thepiratebaya.com CNAME .
@@ -6429,8 +6421,6 @@ toorgle.com CNAME .
 *.toorgle.com CNAME .
 torrents.top-site-list.com CNAME .
 *.torrents.top-site-list.com CNAME .
-top123movies.com CNAME .
-*.top123movies.com CNAME .
 topdocumentaryfilms.com CNAME .
 *.topdocumentaryfilms.com CNAME .
 topelite.com CNAME .
@@ -18067,8 +18057,6 @@ tazz.tv CNAME .
 *.tazz.tv CNAME .
 teleflix.tv CNAME .
 *.teleflix.tv CNAME .
-thatswhathappened.tv CNAME .
-*.thatswhathappened.tv CNAME .
 thebay.tv CNAME .
 *.thebay.tv CNAME .
 thebeast.tv CNAME .

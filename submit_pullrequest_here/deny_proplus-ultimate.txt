@@ -1,5 +1,11 @@
 # Domains to be added only to the pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4897
+growth-performance.revolut.com
+
+# https://github.com/hagezi/dns-blocklists/issues/4896
+monitor.fraudblocker.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4888
 fp.msedge.net
 

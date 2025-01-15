@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736927220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736956080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jan 2025 07:47 UTC
-; Version: 2025.0115.0747.29
+; Last modified: 15 Jan 2025 15:48 UTC
+; Version: 2025.0115.1548.16
 ; Syntax: RPZ
-; Number of entries: 20758
+; Number of entries: 20716
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -11089,8 +11089,6 @@ swisspartners-ag.com CNAME .
 *.swisspartners-ag.com CNAME .
 swissstand.com CNAME .
 *.swissstand.com CNAME .
-switzerlandnewstoday.com CNAME .
-*.switzerlandnewstoday.com CNAME .
 swixeinkaufen.com CNAME .
 *.swixeinkaufen.com CNAME .
 swixfabrikverkauf.com CNAME .
@@ -11353,26 +11351,14 @@ thecyclingaccessory.com CNAME .
 *.thecyclingaccessory.com CNAME .
 thecyclistsupply.com CNAME .
 *.thecyclistsupply.com CNAME .
-thedailytelegraphnewstoday.com CNAME .
-*.thedailytelegraphnewstoday.com CNAME .
 thedecorinteriors.com CNAME .
 *.thedecorinteriors.com CNAME .
 theedwebdeal.com CNAME .
 *.theedwebdeal.com CNAME .
-theexpressnewstoday.com CNAME .
-*.theexpressnewstoday.com CNAME .
-theheraldnewstoday.com CNAME .
-*.theheraldnewstoday.com CNAME .
 thehikingshoe.com CNAME .
 *.thehikingshoe.com CNAME .
 thehokaoneone.com CNAME .
 *.thehokaoneone.com CNAME .
-theindependentnewstoday.com CNAME .
-*.theindependentnewstoday.com CNAME .
-theirishtimesnewstoday.com CNAME .
-*.theirishtimesnewstoday.com CNAME .
-theirishtimestoday.com CNAME .
-*.theirishtimestoday.com CNAME .
 thejbweld.com CNAME .
 *.thejbweld.com CNAME .
 thejobsitetool.com CNAME .
@@ -11391,8 +11377,6 @@ themaddengirl.com CNAME .
 *.themaddengirl.com CNAME .
 themdbuilding.com CNAME .
 *.themdbuilding.com CNAME .
-themirrornewstoday.com CNAME .
-*.themirrornewstoday.com CNAME .
 themountainarea.com CNAME .
 *.themountainarea.com CNAME .
 themountainnew.com CNAME .
@@ -11427,14 +11411,10 @@ theprivateadult.com CNAME .
 *.theprivateadult.com CNAME .
 thequalitypillsservices.com CNAME .
 *.thequalitypillsservices.com CNAME .
-thequintnewstoday.com CNAME .
-*.thequintnewstoday.com CNAME .
 therapydevices-shop.com CNAME .
 *.therapydevices-shop.com CNAME .
 thercparts.com CNAME .
 *.thercparts.com CNAME .
-thercscale.com CNAME .
-*.thercscale.com CNAME .
 therickhinderer.com CNAME .
 *.therickhinderer.com CNAME .
 thermoscup-shop.com CNAME .
@@ -11451,10 +11431,6 @@ thesportcategory.com CNAME .
 *.thesportcategory.com CNAME .
 thesportsua.com CNAME .
 *.thesportsua.com CNAME .
-thesunnewstoday.com CNAME .
-*.thesunnewstoday.com CNAME .
-thetelegraphnewstoday.com CNAME .
-*.thetelegraphnewstoday.com CNAME .
 thetennisaccessories.com CNAME .
 *.thetennisaccessories.com CNAME .
 thetennishop.com CNAME .
@@ -11499,10 +11475,6 @@ timberlandshoesuae.com CNAME .
 *.timberlandshoesuae.com CNAME .
 timesofnaukri.com CNAME .
 *.timesofnaukri.com CNAME .
-timesofnetherland.com CNAME .
-*.timesofnetherland.com CNAME .
-timesofspanish.com CNAME .
-*.timesofspanish.com CNAME .
 timsneakers.com CNAME .
 *.timsneakers.com CNAME .
 tingnybaby.com CNAME .
@@ -11631,8 +11603,6 @@ toolzonepro.com CNAME .
 *.toolzonepro.com CNAME .
 top-housegoods.com CNAME .
 *.top-housegoods.com CNAME .
-top-media-offers.com CNAME .
-*.top-media-offers.com CNAME .
 top-notchchicgeneral.com CNAME .
 *.top-notchchicgeneral.com CNAME .
 top-notchgear.com CNAME .
@@ -11753,8 +11723,6 @@ tradeopol.com CNAME .
 *.tradeopol.com CNAME .
 tradeoutdoor-pro.com CNAME .
 *.tradeoutdoor-pro.com CNAME .
-tradequicker.com CNAME .
-*.tradequicker.com CNAME .
 trader-invest.com CNAME .
 *.trader-invest.com CNAME .
 trader369.com CNAME .
@@ -11765,8 +11733,6 @@ traderhouse.com CNAME .
 *.traderhouse.com CNAME .
 traderminds.com CNAME .
 *.traderminds.com CNAME .
-traderplace.com CNAME .
-*.traderplace.com CNAME .
 tradersformation.com CNAME .
 *.tradersformation.com CNAME .
 tradershome.com CNAME .
@@ -11797,8 +11763,6 @@ tradingstylish.com CNAME .
 *.tradingstylish.com CNAME .
 trailers-king.com CNAME .
 *.trailers-king.com CNAME .
-trailrunningsale.com CNAME .
-*.trailrunningsale.com CNAME .
 trakkerbillig.com CNAME .
 *.trakkerbillig.com CNAME .
 tramaatvertrieb.com CNAME .
@@ -13009,8 +12973,6 @@ fotbalovyfestival.cz CNAME .
 *.fotbalovyfestival.cz CNAME .
 inov8boty.cz CNAME .
 *.inov8boty.cz CNAME .
-tlapka.cz CNAME .
-*.tlapka.cz CNAME .
 ultrahome.cz CNAME .
 *.ultrahome.cz CNAME .
 vejashoes.cz CNAME .
@@ -17425,8 +17387,6 @@ viagrafarmakeio.gr CNAME .
 *.viagrafarmakeio.gr CNAME .
 lp.potenzmittel.gratis CNAME .
 *.lp.potenzmittel.gratis CNAME .
-thinkis.group CNAME .
-*.thinkis.group CNAME .
 unionsmarket.group CNAME .
 *.unionsmarket.group CNAME .
 edirectclub.hk CNAME .
@@ -20587,8 +20547,6 @@ thule-4-kids.uk CNAME .
 *.thule-4-kids.uk CNAME .
 thule-chariot.uk CNAME .
 *.thule-chariot.uk CNAME .
-thule-multisport.uk CNAME .
-*.thule-multisport.uk CNAME .
 algopro.us CNAME .
 *.algopro.us CNAME .
 daveamor.us CNAME .

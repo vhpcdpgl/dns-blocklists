@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 01:04 UTC
-# Version: 2025.0111.0104.29
+# Last modified: 15 Jan 2025 19:16 UTC
+# Version: 2025.0115.1916.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 668
+# Number of entries: 670
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 applicationinsights.azure.com
@@ -430,6 +430,7 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 www.msads.net
+0.0.0.0 fp.msedge.net
 0.0.0.0 win10-trt.msedge.net
 0.0.0.0 ad.msn.com
 0.0.0.0 adevents.msn.com
@@ -649,6 +650,7 @@
 0.0.0.0 analytics-dev-lleap-events.servicebus.windows.net
 0.0.0.0 analytics-dev-simpad-events.servicebus.windows.net
 0.0.0.0 analyticsehnwe.servicebus.windows.net
+0.0.0.0 analyticsiot-prod-simpad-ehn.servicebus.windows.net
 0.0.0.0 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 0.0.0.0 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 0.0.0.0 citrixanalyticseh.servicebus.windows.net
