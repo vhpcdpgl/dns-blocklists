@@ -1,5 +1,5 @@
 name: Allowlist Request
-description: Report incorrectly blocked domain(s).
+description: Report domains that are incorrectly blocked.
 labels: ["allow"]
 assignees: 
   - hagezi
@@ -7,9 +7,9 @@ body:
   - type: dropdown
     id: adblocker
     attributes:
-      label: Which AdBlocker/DNS cloud service do you use?
+      label: Which AdBlocker or DNS cloud service do you use?
       description: |
-        If the AdBlocker/DNS cloud service is not listed, please select "Other" and enter its name in the comment field below.
+        Choose the AdBlocker or DNS cloud service you are using. If it’s not listed, select Other and specify its name in the comments section below.
       multiple: true
       options:
         - AdGuard
@@ -29,34 +29,36 @@ body:
     id: other
     attributes:
       label: Other
+      description: |
+        If you selected Other, please enter the name here.
     validations:
       required: false
   - type: checkboxes
     attributes:
       label: ControlD users
       description: |
-        If you are using ControlD, make sure that the Block Response in the profile settings is not set to Custom or Branded to ensure that the problem is not caused by this feature! 
+        If you are using ControlD, make sure the Block Response in the profile settings is not set to Custom or Branded to rule out this feature as the cause of the issue.
       options:
-        - label: IMPORTANT - I assure that I have not set the Block Response in ControlD to Custom or Branded and can confirm that the problem still occurs.
+        - label: IMPORTANT - I confirm that the Block Response is not set to Custom or Branded, and the issue persists.
           required: false
   - type: checkboxes
     attributes:
       label: NextDNS users
       description: |
-        If you use NextDNS, make sure that the block page is disabled in the settings to ensure that the problem is not caused by this feature!
+        If you are using NextDNS, make sure the block page is disabled in the settings to rule out this feature as the cause of the issue.
       options:
-        - label: IMPORTANT - I can assure that I disabled the block page in NextDNS and can confirm that the problem still occurs.
+        - label: IMPORTANT - I confirm that the bock page is disabled, and the issue persists.
           required: false
   
   - type: dropdown
     id: blocklists
     attributes:
-      label: With which block list(s) does the problem occur?
+      label: Which blocklist(s) caused the issue?
       multiple: true
       options:
         - Multi LIGHT
-        - Multi NORMAL 
-        - Multi PRO 
+        - Multi NORMAL
+        - Multi PRO
         - Multi PRO mini
         - Multi PRO++
         - Multi PRO++ mini
@@ -66,6 +68,7 @@ body:
         - Pop-Up Ads
         - Threat Intelligence Feeds
         - Threat Intelligence Feeds medium
+        - Threat Intelligence Feeds mini
         - Threat Intelligence Feeds IPs
         - DoH/VPN/TOR/Proxy Bypass
         - DoH Bypass
@@ -84,7 +87,9 @@ body:
   - type: textarea
     id: domains
     attributes:
-      label: Which domain(s) should be unblocked?
+      label: Which domain(s) need to be unblocked?
+      description: |
+        List the domain(s) you believe are being incorrectly blocked.
     validations:
       required: true
   
@@ -93,15 +98,27 @@ body:
     attributes:
       label: Why should the domain(s) be unblocked?
       description: |
-        Provide as many details as possible to avoid unnecessary enquiries. If necessary, please describe the steps to reproduce. You can also add screenshots.
+        Provide a detailed justification for the allowlist request, including the steps to reproduce the issue and any relevant screenshots, if available.
     validations:
       required: true
+
+  - type: checkboxes
+    id: allowed
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have verified that the domain(s) are blocked by these blocklists and that the issue is not caused by any other additional blocklists in use.
+          required: true
+        - label: I have verified that the unblocking of the domain(s) has not been declined in any existing issue.
+          required: true
+        - label: I have provided sufficient details to verify the need for unblocking the domain(s).
+          required: true
 
   - type: checkboxes
     id: terms
     attributes:
       label: Privacy
-      description: By submitting this issue, you agree that the report will not contain any private information.
+      description: By submitting this request, you confirm that the report does not include any private or sensitive information.
       options:
-        - label: I confirm that the report does not contain any private information.
+        - label: I confirm that the report does not contain any private or sensitive information.
           required: true
