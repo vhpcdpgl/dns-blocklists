@@ -1,5 +1,8 @@
 # Domains to be added only to the ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4900
+applicationinsights.io
+
 # https://github.com/hagezi/dns-blocklists/issues/2676
 # https://github.com/hagezi/dns-blocklists/issues/2791
 # https://github.com/hagezi/dns-blocklists/issues/2803
