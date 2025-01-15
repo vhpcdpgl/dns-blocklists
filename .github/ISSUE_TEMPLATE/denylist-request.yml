@@ -1,5 +1,5 @@
 name: Denylist Request
-description: Report domain(s) that should be added to the denylist.
+description: Report the domain(s) that should be added to the denylist.
 labels: ["deny"]
 assignees: 
   - hagezi
@@ -9,7 +9,7 @@ body:
     attributes:
       label: Which domain(s) should be blocked?
       description: |
-         Provide the domains that should be blocked. Ensure you include only pure domains (e.g., example.com). Do not include adblock rules, URLs, or other formats.
+        Provide the domains that should be blocked, ensuring you include only domain names (e.g., example.com). Do not include adblock rules, URLs, or other formats.
     validations:
       required: true
 
@@ -18,7 +18,7 @@ body:
     attributes:
       label: Why should these domain(s) be blocked?
       description: |
-        Clearly explain why each domain should be blocked. Include details such as tracking behavior, malicious activity, or where and how the domain is accessed.
+        Clearly explain why each domain should be blocked, including details such as tracking behavior, malicious activity, or how and where the domain is accessed.
     validations:
       required: true
   
@@ -27,18 +27,20 @@ body:
     attributes:
       label: Confirmation
       options:
-        - label: I have verified that no existing issue explains why the domain(s) were previously unblocked or the blocking was declined.
+        - label: I have verified that no existing issue explains why the domain(s) were previously unblocked or why the blocking request was declined.
           required: true
-        - label: I have checked that the domain(s) is/are not already blocked.
+        - label: I have verified that the domain(s) is/are not already blocked.
           required: true
-        - label: I have checked that the domain(s) is/are active and not dead.
+        - label: I have verified that the domain(s) is/are active and not inactive (dead).
+          required: true
+        - label: I have provided sufficient details to justify the need for blocking the domain(s).
           required: true
   
   - type: checkboxes
     id: terms
     attributes:
       label: Privacy
-      description: By submitting this request, you confirm that the report does not contain any private or sensitive information.
+      description: By submitting this request, you confirm that the report does not include any private or sensitive information.
       options:
         - label: I confirm that the report does not contain any private or sensitive information.
           required: true
