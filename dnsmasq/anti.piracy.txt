@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jan 2025 20:21 UTC
-# Version: 2025.0114.2021.15
+# Last modified: 15 Jan 2025 11:28 UTC
+# Version: 2025.0115.1128.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9710
+# Number of entries: 9707
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -7026,7 +7026,6 @@ local=/tracker.tntvillage.scambioetico.org/
 local=/scene-project.com/
 local=/scene-rls.net/
 local=/scene-rush.com/
-local=/sceneaccess.org/
 local=/scenefz.net/
 local=/scenehd.org/
 local=/scenenzb.com/
@@ -7198,7 +7197,6 @@ local=/share2downloads.com/
 local=/shareappscrack.com/
 local=/sharebb.me/
 local=/sharedtutor.com/
-local=/sharefilles.com/
 local=/sharego.net/
 local=/sharegroundz.com/
 local=/sharehitz.net/
@@ -7240,7 +7238,6 @@ local=/showflix.xyz/
 local=/showrss.info/
 local=/showtimebd.com/
 local=/shubt.net/
-local=/tracker.shuntv.net/
 local=/shush.se/
 local=/siambit.com/
 local=/siambt.com/

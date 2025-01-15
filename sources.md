@@ -50,6 +50,8 @@ https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
 https://hosts.tweedge.net/malicious.txt
+https://iplists.firehol.org/files/cybercrime.ipset"
+https://iplists.firehol.org/files/greensnow.ipset"
 https://lists.cyberhost.uk/malware.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
@@ -163,6 +165,7 @@ https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
 https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
@@ -177,6 +180,8 @@ https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/conf
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/jiayiming/jCleanList/master/jCleanList_all.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset
+https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level3.netset
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adkeeper-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admaven-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admeasures-domains.txt
@@ -427,6 +432,7 @@ https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
 https://www.globalantiscam.org/scam-websites
 https://www.i-dont-care-about-cookies.eu/abp/
+https://www.spamhaus.org/drop/drop.txt
 https://www.spamhaus.org/reputation-statistics/gtlds/domains/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.trustedshops.de/fake-shops/

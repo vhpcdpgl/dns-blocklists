@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736886060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736940480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jan 2025 20:21 UTC
-; Version: 2025.0114.2021.15
+; Last modified: 15 Jan 2025 11:28 UTC
+; Version: 2025.0115.1128.46
 ; Syntax: RPZ
-; Number of entries: 19420
+; Number of entries: 19414
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5957,8 +5957,6 @@ shareappscrack.com CNAME .
 *.shareappscrack.com CNAME .
 sharedtutor.com CNAME .
 *.sharedtutor.com CNAME .
-sharefilles.com CNAME .
-*.sharefilles.com CNAME .
 sharegroundz.com CNAME .
 *.sharegroundz.com CNAME .
 sharetrick.com CNAME .
@@ -12495,8 +12493,6 @@ showboxmovies.net CNAME .
 *.showboxmovies.net CNAME .
 shubt.net CNAME .
 *.shubt.net CNAME .
-tracker.shuntv.net CNAME .
-*.tracker.shuntv.net CNAME .
 simfileshare.net CNAME .
 *.simfileshare.net CNAME .
 sittingonclouds.net CNAME .
@@ -14525,8 +14521,6 @@ sabnzbd.org CNAME .
 *.sabnzbd.org CNAME .
 tracker.tntvillage.scambioetico.org CNAME .
 *.tracker.tntvillage.scambioetico.org CNAME .
-sceneaccess.org CNAME .
-*.sceneaccess.org CNAME .
 scenehd.org CNAME .
 *.scenehd.org CNAME .
 sceneunderground.org CNAME .

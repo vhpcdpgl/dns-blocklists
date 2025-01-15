@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736898240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736927220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jan 2025 23:44 UTC
-; Version: 2025.0114.2344.30
+; Last modified: 15 Jan 2025 07:47 UTC
+; Version: 2025.0115.0747.29
 ; Syntax: RPZ
 ; Number of entries: 20758
 ;
@@ -61,6 +61,8 @@ immediateevista.app CNAME .
 *.immediateevista.app CNAME .
 immediateproair.app CNAME .
 *.immediateproair.app CNAME .
+spontaneous-bubblegum-6d5740.netlify.app CNAME .
+*.spontaneous-bubblegum-6d5740.netlify.app CNAME .
 pdfmaster.app CNAME .
 *.pdfmaster.app CNAME .
 webtrader.profitwave.app CNAME .
@@ -879,8 +881,6 @@ fruechtepfluecken.ch CNAME .
 *.fruechtepfluecken.ch CNAME .
 punkrave.ch CNAME .
 *.punkrave.ch CNAME .
-sadlergruppe.ch CNAME .
-*.sadlergruppe.ch CNAME .
 schnelle-losung.ch CNAME .
 *.schnelle-losung.ch CNAME .
 swissassetsmanagement.ch CNAME .
@@ -4597,6 +4597,8 @@ favoritelakeside.com CNAME .
 *.favoritelakeside.com CNAME .
 favoritepaintball.com CNAME .
 *.favoritepaintball.com CNAME .
+fbconseil-pro.com CNAME .
+*.fbconseil-pro.com CNAME .
 fbsmen.com CNAME .
 *.fbsmen.com CNAME .
 febbondb.com CNAME .
@@ -4811,6 +4813,8 @@ followeron.com CNAME .
 *.followeron.com CNAME .
 fonciere-cronos-immo.com CNAME .
 *.fonciere-cronos-immo.com CNAME .
+fontis-livret.com CNAME .
+*.fontis-livret.com CNAME .
 footjoy-suomi.com CNAME .
 *.footjoy-suomi.com CNAME .
 footjoygolfshoesuk.com CNAME .
@@ -4837,6 +4841,8 @@ foret-mareuillaise.com CNAME .
 *.foret-mareuillaise.com CNAME .
 forextradition.com CNAME .
 *.forextradition.com CNAME .
+formationtradingenligne.com CNAME .
+*.formationtradingenligne.com CNAME .
 fortnomics.com CNAME .
 *.fortnomics.com CNAME .
 fortuna-invest.com CNAME .
@@ -9595,8 +9601,6 @@ retaileropenair.com CNAME .
 *.retaileropenair.com CNAME .
 returnpotentialonline.com CNAME .
 *.returnpotentialonline.com CNAME .
-reuterstoday.com CNAME .
-*.reuterstoday.com CNAME .
 revolutionfsl.com CNAME .
 *.revolutionfsl.com CNAME .
 revolutionraceinc.com CNAME .
@@ -9763,8 +9767,6 @@ russellbromleydeutschland.com CNAME .
 *.russellbromleydeutschland.com CNAME .
 russellnbromleycanada.com CNAME .
 *.russellnbromleycanada.com CNAME .
-russiannewstoday.com CNAME .
-*.russiannewstoday.com CNAME .
 rusty-surf.com CNAME .
 *.rusty-surf.com CNAME .
 rvfrance.com CNAME .
@@ -9869,8 +9871,6 @@ saleoutdoorgear.com CNAME .
 *.saleoutdoorgear.com CNAME .
 salercsite.com CNAME .
 *.salercsite.com CNAME .
-snipes.sales-eu.com CNAME .
-*.snipes.sales-eu.com CNAME .
 salesceramic.com CNAME .
 *.salesceramic.com CNAME .
 saleschildseat.com CNAME .
@@ -9931,8 +9931,6 @@ salomonenucuz.com CNAME .
 *.salomonenucuz.com CNAME .
 salomonfinland.com CNAME .
 *.salomonfinland.com CNAME .
-salomonfinlandoutlet.com CNAME .
-*.salomonfinlandoutlet.com CNAME .
 salomonoutletireland.com CNAME .
 *.salomonoutletireland.com CNAME .
 salomonoutletstoresusa.com CNAME .
@@ -9965,8 +9963,6 @@ same-academy.com CNAME .
 *.same-academy.com CNAME .
 samielataseven.com CNAME .
 *.samielataseven.com CNAME .
-samixpart.com CNAME .
-*.samixpart.com CNAME .
 samsonitebag.com CNAME .
 *.samsonitebag.com CNAME .
 fr.samtradefx.com CNAME .
@@ -10071,8 +10067,6 @@ sclothesbrand.com CNAME .
 *.sclothesbrand.com CNAME .
 scopesaccessories.com CNAME .
 *.scopesaccessories.com CNAME .
-scotlandnewstoday.com CNAME .
-*.scotlandnewstoday.com CNAME .
 sdk-transport.com CNAME .
 *.sdk-transport.com CNAME .
 sears-de.com CNAME .
@@ -10119,8 +10113,6 @@ selltotesbelts.com CNAME .
 *.selltotesbelts.com CNAME .
 semahomesale.com CNAME .
 *.semahomesale.com CNAME .
-semprykbikes.com CNAME .
-*.semprykbikes.com CNAME .
 sendrabootsosterreich.com CNAME .
 *.sendrabootsosterreich.com CNAME .
 sensuawear.com CNAME .
@@ -10157,8 +10149,6 @@ shaftcoins.com CNAME .
 *.shaftcoins.com CNAME .
 shapecertain.com CNAME .
 *.shapecertain.com CNAME .
-sharamiz.com CNAME .
-*.sharamiz.com CNAME .
 shares2win.com CNAME .
 *.shares2win.com CNAME .
 sharkbitesale.com CNAME .
@@ -11777,6 +11767,8 @@ traderminds.com CNAME .
 *.traderminds.com CNAME .
 traderplace.com CNAME .
 *.traderplace.com CNAME .
+tradersformation.com CNAME .
+*.tradersformation.com CNAME .
 tradershome.com CNAME .
 *.tradershome.com CNAME .
 tradersking.com CNAME .
@@ -11795,6 +11787,8 @@ trading-fashion.com CNAME .
 *.trading-fashion.com CNAME .
 tradingbotpro.com CNAME .
 *.tradingbotpro.com CNAME .
+tradingcryp.com CNAME .
+*.tradingcryp.com CNAME .
 tradingpointuk.com CNAME .
 *.tradingpointuk.com CNAME .
 tradingrugby.com CNAME .
@@ -17341,6 +17335,8 @@ capitalfrance.fr CNAME .
 *.capitalfrance.fr CNAME .
 cles-du-patrimoine.fr CNAME .
 *.cles-du-patrimoine.fr CNAME .
+cmtrading.fr CNAME .
+*.cmtrading.fr CNAME .
 creditatlas.fr CNAME .
 *.creditatlas.fr CNAME .
 dehens.fr CNAME .
@@ -18481,6 +18477,8 @@ anhaengers.online CNAME .
 *.anhaengers.online CNAME .
 autocryptooptions.online CNAME .
 *.autocryptooptions.online CNAME .
+b-group.online CNAME .
+*.b-group.online CNAME .
 best-apotheke.online CNAME .
 *.best-apotheke.online CNAME .
 brennholzundpellets.online CNAME .
@@ -20567,6 +20565,8 @@ trustfx.trade CNAME .
 *.trustfx.trade CNAME .
 bitcoineer.tv CNAME .
 *.bitcoineer.tv CNAME .
+chariot-sport.uk CNAME .
+*.chariot-sport.uk CNAME .
 bidabc.co.uk CNAME .
 *.bidabc.co.uk CNAME .
 fitnesstogether.co.uk CNAME .
