@@ -116,5 +116,5 @@ body:
       options:
         - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
           required: true
-        - label: I confirm that the request does not contain any clickable links to malicious sites and that I have obfuscated such domains using defanging (e.g., malicious-domain[.]top).
+        - label: I confirm that the request does not contain any clickable links to malicious sites and that I have obfuscated malicious domains using defanging (e.g., malicious-domain[.]top).
           required: true
