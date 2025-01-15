@@ -204,7 +204,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Privacy
+      label: Terms
       description: By submitting this request, you confirm that the report does not contain any sexually explicit material or private/sensitive information.
       options:
         - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
