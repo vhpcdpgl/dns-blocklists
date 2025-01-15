@@ -4,22 +4,85 @@ labels: ["deny"]
 assignees: 
   - hagezi
 body:
+  - type: dropdown
+    id: blocklists
+    attributes:
+      label: Which blocklist(s) do you use?
+      multiple: true
+      options:
+        - Multi LIGHT
+        - Multi NORMAL
+        - Multi PRO
+        - Multi PRO mini
+        - Multi PRO++
+        - Multi PRO++ mini
+        - Multi ULTIMATE
+        - Multi ULTIMATE mini
+        - Fake
+        - Pop-Up Ads
+        - Threat Intelligence Feeds
+        - Threat Intelligence Feeds medium
+        - Threat Intelligence Feeds mini
+        - Threat Intelligence Feeds IPs
+        - DoH/VPN/TOR/Proxy Bypass
+        - DoH Bypass
+        - DoH Bypass IPs
+        - Safesearch not supported
+        - Dynamic DNS
+        - Badware Hoster
+        - Most Abused TLDs
+        - Anti Piracy
+        - Gambling
+        - Native Tracker
+        - Allowlist Referral
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Which category do the domain(s) to be blocked belong to?
+      description: |
+        Specify the categories to which the domains to be blocked belong. If it’s not listed, select Other and specify the category in the comments section below.
+      multiple: true
+      options:
+        - Ads
+        - Pop-Up Ads
+        - Tracking
+        - Bug/Error tracking
+        - Analytics/Metrics/Telemetry
+        - Malware/Badware/Phishing/Scam
+        - Gambling
+        - Piracy
+        - DoH/VPN/TOR/Proxy DNS bypass 
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_category
+    attributes:
+      label: Other category
+      description: |
+        If you selected Other, please enter the category here.
+    validations:
+      required: false
+
   - type: textarea
     id: domains
     attributes:
       label: Which domain(s) should be blocked?
       description: |
         Provide the domains that should be blocked, ensuring you include only domain names (e.g., example.com). Do not include adblock rules, URLs, or other formats.
-        IMPORTANT: Ensure that you defang dangerous domains, such as "malicious-domain[.]top," to safeguard against the potential ban of your GitHub account.
+        IMPORTANT: No clickable links and ensure that you defang malicious domains, such as "malicious-domain[.]top," to safeguard against the potential ban of your GitHub account.
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: source
     attributes:
       label: Which website or app accesses the domain(s)?
       description: |
-        Provide the website(s) or app(s) where this domain is accessed.
+        Specify the websites or apps through which the domains are accessed.
     validations:
       required: true
  
@@ -28,7 +91,7 @@ body:
     attributes:
       label: Why should these domain(s) be blocked?
       description: |
-        Clearly explain why each domain should be blocked, including details such as tracking behavior, malicious activity, or how and where the domain is accessed.
+        Clearly explain why each domain should be blocked, including details such as tracking behavior, malicious activity, or how the domain is accessed.
     validations:
       required: true
   
@@ -50,7 +113,8 @@ body:
     id: terms
     attributes:
       label: Terms
-      description: By submitting this request, you confirm that the report does not contain any sexually explicit material or private/sensitive information.
       options:
         - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
+          required: true
+        - label: I confirm that the request does not contain any clickable links to malicious sites and that I have obfuscated such domains using defanging (e.g., malicious-domain[.]top).
           required: true
