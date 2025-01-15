@@ -1,5 +1,5 @@
 name: Denylist Request
-description: Report the domain(s) that should be added to the denylist.
+description: Report the domains that should be blocked.
 labels: ["deny"]
 assignees: 
   - hagezi
