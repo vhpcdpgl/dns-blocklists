@@ -4,6 +4,19 @@ labels: ["allow"]
 assignees: 
   - hagezi
 body:
+
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: |
+        To prevent invalid requests, please verify and confirm the following points.
+      options:
+        - label: I use the current version of the lists.
+          required: true
+        - label: Disabling these lists resolves the issue.
+          required: true
+  
   - type: dropdown
     id: devicetype
     attributes:
@@ -192,7 +205,7 @@ body:
     id: terms
     attributes:
       label: Privacy
-      description: By submitting this request, you confirm that the report does not include any private or sensitive information.
+      description: By submitting this request, you confirm that the report does not contain any sexually explicit material or private/sensitive information.
       options:
-        - label: I confirm that the report does not contain any private or sensitive information.
+        - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
           required: true
