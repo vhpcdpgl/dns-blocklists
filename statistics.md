@@ -10,7 +10,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
   2 |      75% |  17% |      8% | Denylist Personal
-  3 |      66% |   3% |     31% | Extracted Wildcard Rules
+  3 |      67% |   3% |     30% | Extracted Wildcard Rules
   4 |      46% |   0% |     54% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      61% |   0% |     39% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |      77% |   0% |     23% | Native Tracker Huawei (Devices)
@@ -35,7 +35,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
   2 |      77% |  17% |      6% | Denylist Personal
-  3 |      86% |   3% |     11% | Extracted Wildcard Rules
+  3 |      87% |   3% |     10% | Extracted Wildcard Rules
   4 |      58% |   0% |     42% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      90% |   0% |     10% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
@@ -80,7 +80,7 @@
  17 |      90% |  10% |      0% | Balanced Extension
  18 |      86% |   8% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 20 |      88% |   5% |      7% | Advanced Extension
+ 20 |      87% |   5% |      8% | Advanced Extension
  21 |      75% |  23% |      2% | Denylist Community Threat Intelligence Feeds
  22 |      68% |  22% |     10% | Denylist Community Advanced
  23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -111,7 +111,7 @@
  17 |      90% |  10% |      0% | Balanced Extension
  18 |      86% |   8% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      95% |   4% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 20 |      89% |   5% |      6% | Advanced Extension
+ 20 |      88% |   5% |      7% | Advanced Extension
  21 |      75% |  23% |      2% | Denylist Community Threat Intelligence Feeds
  22 |      68% |  22% |     10% | Denylist Community Advanced
  23 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -122,5 +122,5 @@
  28 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  29 |      91% |   6% |      3% | Ultimate Extension
  30 |      87% |   7% |      6% | Denylist Aggressive
- 31 |      71% |  26% |      3% | Denylist Community Ultimate
+ 31 |      70% |  26% |      4% | Denylist Community Ultimate
 ```

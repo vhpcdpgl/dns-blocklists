@@ -4,12 +4,19 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2025 19:16 UTC
-# Version: 2025.0115.1916.29
+# Last modified: 16 Jan 2025 10:41 UTC
+# Version: 2025.0116.1041.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 336
+# Number of entries: 342
 #
 in.appcenter.ms
+js.cdn.applicationinsights.io
+js0.cdn.applicationinsights.io
+js1.cdn.applicationinsights.io
+js2.cdn.applicationinsights.io
+js0.tst.applicationinsights.io
+js1.tst.applicationinsights.io
+js2.tst.applicationinsights.io
 applicationinsights.azure.com
 dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.us
@@ -34,7 +41,6 @@ c.bing.com
 commerce.bing.com
 g.bing.com
 raka.bing.com
-js.monitor.azure.com.com
 measure.office.net.edgesuite.net
 collector.azure.eaglex.ic.gov
 analytics.live.com

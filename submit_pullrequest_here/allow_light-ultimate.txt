@@ -163,10 +163,6 @@ api.onesignal.com
 # Xiaomi app "Widget Feed"
 *.brs.api.intl.miui.com
 
-# https://github.com/hagezi/dns-blocklists/issues/3621
-api.applicationinsights.io
-api.loganalytics.io
-
 # https://github.com/hagezi/dns-blocklists/issues/3620
 uobsoe.com
 benelph.de

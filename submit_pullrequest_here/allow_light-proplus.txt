@@ -1,5 +1,9 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/3621
+api.applicationinsights.io
+api.loganalytics.io
+
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2588346367
 footprints-pa.googleapis.com
 

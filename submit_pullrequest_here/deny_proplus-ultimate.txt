@@ -1,5 +1,15 @@
 # Domains to be added only to the pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4900
+js.monitor.azure.com
+js0.cdn.applicationinsights.io
+js0.tst.applicationinsights.io
+js1.cdn.applicationinsights.io
+js1.tst.applicationinsights.io
+js2.cdn.applicationinsights.io
+js2.tst.applicationinsights.io
+js.cdn.applicationinsights.io
+
 # https://github.com/hagezi/dns-blocklists/issues/4897
 growth-performance.revolut.com
 

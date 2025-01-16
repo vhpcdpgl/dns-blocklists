@@ -157,7 +157,6 @@ ad-aspi.s3.ap-southeast-2.amazonaws.com
 firehose.ca-central-1.amazonaws.com
 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
-elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 firehose.eu-central-1.amazonaws.com
 3fzst3kk8h.execute-api.eu-west-1.amazonaws.com
 6n2x6wg3fc.execute-api.eu-west-1.amazonaws.com
@@ -186,7 +185,6 @@ ckxj10om5j.execute-api.us-east-2.amazonaws.com
 firehose.us-east-2.amazonaws.com
 firehose.us-west-1.amazonaws.com
 firehose.us-west-2.amazonaws.com
-explore.amd.com
 omns.americanexpress.com
 amgload.net
 amlg.io
@@ -219,17 +217,13 @@ appldnld.apple.com
 doh.dns.apple.com
 stats.gc.apple.com
 mesu.apple.com
-stats.gc.fe.apple-dns.net
 assets-secure.applicaster.com
-applicationinsights.io
-www.applicationinsights.io
 art-analytics.appspot.com
 mailfoogae.appspot.com
 apxor.com
 archer.com
 www.archer.com
 tracker.archiveteam.org
-hbbtv.ardmediathek.de
 arttrk.com
 track-and-trace.cxc.arvato-scs.digital
 sdk.asapp.com
@@ -256,7 +250,6 @@ shepherd.ff.avast.com
 ipmcdn.avast.com
 ncc.avast.com
 player.avplayer.com
-us-east-1.route-1000.000webhost.awex.io
 web.diagnostic.networking.aws.dev
 vp-event-receiver.userdata-prod.aws-cbc.cloud
 awxcdn.com
@@ -273,6 +266,7 @@ ads-throttle-sharkue1.aylanetworks.com
 metric-field-1a2039d9.aylanetworks.com
 azol.de
 olmprodpowerlift-cdn.azureedge.net
+jobs.b-ite.com
 loc.map.baidu.com
 t10.baidu.com
 t11.baidu.com
@@ -505,10 +499,10 @@ endpoint.mms.shopee.co.id
 endpoint.mms.shopee.co.th
 sanalytics.skinny.co.nz
 collector1.sooplive.co.kr
+eip.telegraph.co.uk
 cf.eip.telegraph.co.uk
 check2.tsb.co.uk
 ns11.whois.co.kr
-xtra.co.nz
 pvtag.yahoo.co.jp
 komachi.yomiuri.co.jp
 codeanyapp.com
@@ -542,7 +536,6 @@ tms.nab.com.au
 secure.nch.com.au
 adc.api.nine.com.au
 statics.olx.com.tr
-tracking.pos.com.my
 cdn.privacytools.com.br
 cvf.shopee.com.br
 cvf.shopee.com.my
@@ -791,7 +784,6 @@ mobile-sdk-config.gservice.emarsys.net
 emb-api.com
 tracking.emons.de
 dnsseed.emzy.de
-engagement.ai
 enhance.com
 enter-system.com
 envato.market
@@ -860,7 +852,6 @@ consent.faz.net
 instagram.fcdg1-1.fna.fbcdn.net
 instagram.felp1-1.fna.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
-fc-lc.com
 feature.fm
 tracking.feedpress.com
 feedsportal.com
@@ -1054,6 +1045,8 @@ cdn.duurzaam.greenchoice.nl
 gremimedia.pl
 greylabeldelivery.com
 group-ib.ru
+growthbook.io
+www.growthbook.io
 gsght.com
 csi.gstatic.com
 metric.gstatic.com
@@ -1467,7 +1460,6 @@ llnw.net
 bellvps1.content.video.llnw.net
 lnks.gd
 localbitcoins.com
-api.loganalytics.io
 loggly.com
 www.loggly.com
 loginfra.com
@@ -1594,7 +1586,6 @@ moshimo.com
 www.moshimo.com
 clarity.cummins-cps.moventus.com
 clarity.cummins-dbu.moventus.com
-clarity.cummins-it.moventus.com
 clarity.cummins-vpc.moventus.com
 clarity.cummins-vpi.moventus.com
 clarity.cvshealth.moventus.com
@@ -1931,9 +1922,7 @@ telemetry.ca-montreal-1.oci.oraclecloud.com
 telemetry.eu-madrid-1.oci.oraclecloud.com
 telemetry.us-ashburn-1.oci.oraclecloud.com
 analytics.ocp.oraclecloud.com
-telemetry.ocs.oraclecloud.com
 telemetry.sa-bogota-1.oraclecloud.com
-telemetry.oraclecloud.com
 telemetry.uk-cardiff-1.oraclecloud.com
 telemetry.uk-london-1.oraclecloud.com
 telemetry.us-ashburn-1.oraclecloud.com
@@ -2056,7 +2045,6 @@ uixie.porkbun.com
 videos.porndig.com
 pornrabbit.com
 postclickmarketing.com
-tracking.postnord.com
 app.powerwatch.io
 go.powunity.com
 ppcprotect.com
@@ -2217,6 +2205,8 @@ roistat.com
 cloud.roistat.com
 captive.roku.com
 tracking.rosettastone.com
+t1p-adtech.aws.route71.net
+orchestrator-adtech-prod-joyn.t1p-adtech.aws.route71.net
 rpxnow.com
 widget-cdn.rpxnow.com
 dg-fa.rspcdn.net
@@ -2236,7 +2226,6 @@ sdk-metrics.rudderstack.com
 www.rudderstack.com
 run.place
 rusmedserv.com
-track.ryder.com
 s1search.co
 s3blog.org
 sajari.com
@@ -2411,7 +2400,6 @@ softwareadvice.com
 www.softwareadvice.com
 images.sohu.com
 api.solvvy.com
-cdn.solvvy.com
 hbbtvapp.sonnenklar.tv
 soso.com
 www.soso.com
@@ -2457,6 +2445,7 @@ stormgain.com
 storyly.io
 ad-im-cmg.streamguys1.com
 cmg.streamguys1.com
+streamoptim.com
 streamsb.net
 m.stripe.com
 r.stripe.com
@@ -2552,7 +2541,6 @@ webcast-boot.tiktokv.com
 tinypass.com
 cdn.tinypass.com
 titulky.com
-piwik.sp01.csa1.tivo.com
 tmz.com
 www.tmz.com
 tns-sifo.se
@@ -2637,7 +2625,6 @@ typekit.net
 data.ubi.com
 tracking.ubisoft.com
 ublock.org
-ucoz.com
 ui-portal.de
 ultimedia.com
 www.ultimedia.com
@@ -2656,6 +2643,7 @@ www.updatestar.com
 upload.cc
 uplynk.com
 wallet-api.urbanairship.com
+tracking.urbn.com
 urkoolwear.com
 tubestatic.usco1621-b.com
 usercentrics.eu
@@ -2843,6 +2831,8 @@ js.zi-scripts.com
 ziffstatic.com
 cdn.ziffstatic.com
 zijieapi.com
+zinspilot.de
+www.zinspilot.de
 zmags.com
 zmctrack.net
 znctrack.net
