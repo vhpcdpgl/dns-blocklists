@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 01:02 UTC
-# Version: 2025.0111.0102.51
+# Last modified: 16 Jan 2025 15:13 UTC
+# Version: 2025.0116.1513.20
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 573
+# Number of entries: 572
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -111,7 +111,6 @@ advertising.amazon.it
 advertising.amazon.nl
 advertising.amazon.sa
 advertising-api-eu.amazon.com
-adx-bids.apse.rtb.axp.amazon-adsystem.com
 aes.ap-southeast.3px.axp.amazon-adsystem.com
 aes-beta.axp.amazon-adsystem.com
 aes.eu-west.3px.axp.amazon-adsystem.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736968980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737057000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jan 2025 19:23 UTC
-; Version: 2025.0115.1923.08
+; Last modified: 16 Jan 2025 19:50 UTC
+; Version: 2025.0116.1950.14
 ; Syntax: RPZ
-; Number of entries: 19402
+; Number of entries: 19404
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -817,8 +817,6 @@ thoptvofficial.buzz CNAME .
 *.thoptvofficial.buzz CNAME .
 unblckd.buzz CNAME .
 *.unblckd.buzz CNAME .
-unblockit.buzz CNAME .
-*.unblockit.buzz CNAME .
 jsb.by CNAME .
 *.jsb.by CNAME .
 yahor.of.by CNAME .
@@ -6957,8 +6955,6 @@ vpnmentor.com CNAME .
 *.vpnmentor.com CNAME .
 serpb.vpsburti.com CNAME .
 *.serpb.vpsburti.com CNAME .
-tracker.vraphim.com CNAME .
-*.tracker.vraphim.com CNAME .
 vuze.com CNAME .
 *.vuze.com CNAME .
 9xdownloadz.vze.com CNAME .
@@ -9465,6 +9461,8 @@ guardaserie.irish CNAME .
 *.1337x.is CNAME .
 1377x.is CNAME .
 *.1377x.is CNAME .
+1movies.is CNAME .
+*.1movies.is CNAME .
 open.8a.is CNAME .
 *.open.8a.is CNAME .
 audiobookbay.is CNAME .
@@ -9685,8 +9683,6 @@ altadefinizione.kim CNAME .
 *.altadefinizione.kim CNAME .
 gomovies.kim CNAME .
 *.gomovies.kim CNAME .
-newalbumreleases.unblockit.kim CNAME .
-*.newalbumreleases.unblockit.kim CNAME .
 altadefinizione.kitchen CNAME .
 *.altadefinizione.kitchen CNAME .
 tracker1.bt.moack.co.kr CNAME .
@@ -9885,8 +9881,6 @@ serien.link CNAME .
 *.serien.link CNAME .
 srstop.link CNAME .
 *.srstop.link CNAME .
-newalbumreleases.unblockit.link CNAME .
-*.newalbumreleases.unblockit.link CNAME .
 0123movies.live CNAME .
 *.0123movies.live CNAME .
 5movies.live CNAME .
@@ -10753,8 +10747,6 @@ trackeropenbittorrent.uni.me CNAME .
 *.trackeropenbittorrent.uni.me CNAME .
 upeer.me CNAME .
 *.upeer.me CNAME .
-uploadgig.me CNAME .
-*.uploadgig.me CNAME .
 vidlox.me CNAME .
 *.vidlox.me CNAME .
 vidsrc.me CNAME .
@@ -15219,6 +15211,8 @@ cb01.press CNAME .
 *.cb01.press CNAME .
 thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
+123moviesfull.pro CNAME .
+*.123moviesfull.pro CNAME .
 123moviesto.pro CNAME .
 *.123moviesto.pro CNAME .
 123myflixer.pro CNAME .
@@ -16723,6 +16717,8 @@ altadefinizione.style CNAME .
 *.altadefinizione.style CNAME .
 putlocker.style CNAME .
 *.putlocker.style CNAME .
+123moviesgo.su CNAME .
+*.123moviesgo.su CNAME .
 catflix.su CNAME .
 *.catflix.su CNAME .
 cb01.su CNAME .
@@ -16849,6 +16845,8 @@ serienjunkies.team CNAME .
 *.serienjunkies.team CNAME .
 streamingcommunity.team CNAME .
 *.streamingcommunity.team CNAME .
+123movieshub.tech CNAME .
+*.123movieshub.tech CNAME .
 altadefinizione.tech CNAME .
 *.altadefinizione.tech CNAME .
 eurostreaming.tech CNAME .
@@ -17599,6 +17597,8 @@ streamingcommunity.tube CNAME .
 *.streamingcommunity.tube CNAME .
 01streaming.tv CNAME .
 *.01streaming.tv CNAME .
+0ffbug.tv CNAME .
+*.0ffbug.tv CNAME .
 10kol.tv CNAME .
 *.10kol.tv CNAME .
 123moviesgo.tv CNAME .
@@ -17611,6 +17611,8 @@ streamingcommunity.tube CNAME .
 *.4k-hd-movies.tv CNAME .
 4kvod.tv CNAME .
 *.4kvod.tv CNAME .
+6streams.tv CNAME .
+*.6streams.tv CNAME .
 9goal.tv CNAME .
 *.9goal.tv CNAME .
 abcmovies.tv CNAME .
@@ -18301,8 +18303,6 @@ torrent9.uno CNAME .
 *.torrent9.uno CNAME .
 newalbumreleases.unblockit.uno CNAME .
 *.newalbumreleases.unblockit.uno CNAME .
-vedohd.uno CNAME .
-*.vedohd.uno CNAME .
 vexmovies.uno CNAME .
 *.vexmovies.uno CNAME .
 yomovies.uno CNAME .
@@ -19035,6 +19035,8 @@ w.wwwww.wtf CNAME .
 *.w.wwwww.wtf CNAME .
 atrack-asia-s1.114913.xyz CNAME .
 *.atrack-asia-s1.114913.xyz CNAME .
+123movieonline.xyz CNAME .
+*.123movieonline.xyz CNAME .
 1337xto.xyz CNAME .
 *.1337xto.xyz CNAME .
 t.213891.xyz CNAME .

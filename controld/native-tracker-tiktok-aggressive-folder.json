@@ -78,13 +78,6 @@
       }
     },
     {
-      "PK": "ads-imapi.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads-sg.tiktok.com",
       "action": {
         "do": 0,
@@ -737,6 +730,13 @@
     },
     {
       "PK": "log22-normal-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log22-normal-c-alisg.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1

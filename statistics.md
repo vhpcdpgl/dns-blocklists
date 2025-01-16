@@ -41,7 +41,7 @@
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      83% |   0% |     17% | Native Tracker TikTok (Fingerprinting)
-  9 |      63% |   0% |     37% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      62% |   0% |     38% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      74% |  12% |     14% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      91% |   9% |      0% | Denylist Community non-Aggressive
@@ -122,5 +122,5 @@
  28 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  29 |      91% |   6% |      3% | Ultimate Extension
  30 |      87% |   7% |      6% | Denylist Aggressive
- 31 |      70% |  26% |      4% | Denylist Community Ultimate
+ 31 |      71% |  26% |      3% | Denylist Community Ultimate
 ```

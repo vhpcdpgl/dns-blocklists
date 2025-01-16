@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1736969280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737057300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jan 2025 19:28 UTC
-; Version: 2025.0115.1928.25
+; Last modified: 16 Jan 2025 19:55 UTC
+; Version: 2025.0116.1955.34
 ; Syntax: RPZ
-; Number of entries: 7486
+; Number of entries: 7476
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3652,8 +3652,6 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
-dns.auapi.fun CNAME .
-*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -4326,8 +4324,6 @@ nova-is.so-gorgeo.us.kg CNAME .
 *.nova-is.so-gorgeo.us.kg CNAME .
 sitha-is.so-gorgeo.us.kg CNAME .
 *.sitha-is.so-gorgeo.us.kg CNAME .
-tetty-is.so-gorgeo.us.kg CNAME .
-*.tetty-is.so-gorgeo.us.kg CNAME .
 yussy-is.so-gorgeo.us.kg CNAME .
 *.yussy-is.so-gorgeo.us.kg CNAME .
 dns.eliv.kr CNAME .
@@ -4372,8 +4368,6 @@ onion.link CNAME .
 *.onion.link CNAME .
 vpn.rynet.link CNAME .
 *.vpn.rynet.link CNAME .
-unblockit.link CNAME .
-*.unblockit.link CNAME .
 webbrowser.live CNAME .
 *.webbrowser.live CNAME .
 v2.xx3210766.live CNAME .
@@ -6762,8 +6756,6 @@ videoproxy.site CNAME .
 *.videoproxy.site CNAME .
 vpnproxy.site CNAME .
 *.vpnproxy.site CNAME .
-vtcuong.site CNAME .
-*.vtcuong.site CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 surfshark.sk CNAME .
@@ -7164,8 +7156,6 @@ unblockme.us CNAME .
 *.unblockme.us CNAME .
 unblockproxy.us CNAME .
 *.unblockproxy.us CNAME .
-unblockwebsites.us CNAME .
-*.unblockwebsites.us CNAME .
 untraceable.us CNAME .
 *.untraceable.us CNAME .
 videocollage.us CNAME .

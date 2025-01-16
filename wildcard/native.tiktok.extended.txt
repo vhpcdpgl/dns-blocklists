@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jan 2025 01:10 UTC
-# Version: 2025.0111.0110.59
+# Last modified: 16 Jan 2025 15:24 UTC
+# Version: 2025.0116.1524.40
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 353
 #
@@ -85,7 +85,6 @@
 *.ads.tiktok.tv
 *.ads-api.tiktok.com
 *.ads-frontier.tiktok.com
-*.ads-imapi.tiktok.com
 *.ads-sg.tiktok.com
 *.ads-useast2a.tiktok.com
 *.analytics.tiktok.com
@@ -176,6 +175,7 @@
 *.log22-applog-useast2a.tiktokv.com
 *.log22-normal.tiktokv.com
 *.log22-normal-alisg.tiktokv.com
+*.log22-normal-c-alisg.tiktokv.com
 *.log22-normal-useast1a.tiktokv.com
 *.log22-normal-useast2a.tiktokv.com
 *.log3-normal-c-alisg.tiktokv.com
