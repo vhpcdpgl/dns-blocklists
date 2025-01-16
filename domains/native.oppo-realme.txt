@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2025 20:02 UTC
-# Version: 2025.0115.2002.11
+# Last modified: 19 Dec 2024 22:43 UTC
+# Version: 2024.1219.2243.33
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 322
+# Number of entries: 318
 #
 calculator-api-fr.allawnos.com
 calculator-api-in.allawnos.com
@@ -124,8 +124,6 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 moa-upload-online-in.coloros.com
-finosfin.com
-www.finosfin.com
 appconf-ocs-sgp.heytapdl.com
 appconf-sgp.heytapdl.com
 conf-in-dc.heytapdl.com
@@ -306,8 +304,6 @@ bsf.sc.heytapmobile.com
 slb-apisnd-in.heytapmobile.com
 api-id.theme.heytapmobile.com
 report-sg.uc.heytapmobile.com
-hizonetech.com
-www.hizonetech.com
 ads.oppomobile.com
 adx.ads.oppomobile.com
 adx-id.ads.oppomobile.com

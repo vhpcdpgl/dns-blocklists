@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 11:46 UTC
-# Version: 2025.0116.1146.27
+# Last modified: 15 Jan 2025 19:28 UTC
+# Version: 2025.0115.1928.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3738
+# Number of entries: 3743
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -283,6 +283,7 @@ local=/adguardhome.atakorah.com/
 local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -3319,6 +3320,7 @@ local=/unblockfreeproxy.com/
 local=/unblockit.app/
 local=/unblockit.club/
 local=/unblockit.foo/
+local=/unblockit.link/
 local=/unblockit.ltd/
 local=/unblockit.meme/
 local=/unblockit.one/
@@ -3356,6 +3358,7 @@ local=/unblockweb.one/
 local=/unblockweb.org/
 local=/unblockwebsite.online/
 local=/unblockwebsites.com/
+local=/unblockwebsites.us/
 local=/unblockyouku.com/
 local=/unblockyouku.org/
 local=/unblockyoutube.co/
@@ -3401,6 +3404,7 @@ local=/nindy-is.so-gorgeo.us.kg/
 local=/nora-is.so-gorgeo.us.kg/
 local=/nova-is.so-gorgeo.us.kg/
 local=/sitha-is.so-gorgeo.us.kg/
+local=/tetty-is.so-gorgeo.us.kg/
 local=/yussy-is.so-gorgeo.us.kg/
 local=/webproxy.us.com/
 local=/us-proxy.org/
@@ -3552,6 +3556,7 @@ local=/vpnwebsite.com/
 local=/vpnwelt.com/
 local=/antispam.vpsvpn.com/
 local=/go.vrpyourself.online/
+local=/vtcuong.site/
 local=/vyprvpn.com/
 local=/dns.w3ctag.org/
 local=/dns.wahr.top/

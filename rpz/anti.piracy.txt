@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737027600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1736968980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jan 2025 11:40 UTC
-; Version: 2025.0116.1140.56
+; Last modified: 15 Jan 2025 19:23 UTC
+; Version: 2025.0115.1923.08
 ; Syntax: RPZ
-; Number of entries: 19390
+; Number of entries: 19402
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -817,6 +817,8 @@ thoptvofficial.buzz CNAME .
 *.thoptvofficial.buzz CNAME .
 unblckd.buzz CNAME .
 *.unblckd.buzz CNAME .
+unblockit.buzz CNAME .
+*.unblockit.buzz CNAME .
 jsb.by CNAME .
 *.jsb.by CNAME .
 yahor.of.by CNAME .
@@ -6955,6 +6957,8 @@ vpnmentor.com CNAME .
 *.vpnmentor.com CNAME .
 serpb.vpsburti.com CNAME .
 *.serpb.vpsburti.com CNAME .
+tracker.vraphim.com CNAME .
+*.tracker.vraphim.com CNAME .
 vuze.com CNAME .
 *.vuze.com CNAME .
 9xdownloadz.vze.com CNAME .
@@ -9681,6 +9685,8 @@ altadefinizione.kim CNAME .
 *.altadefinizione.kim CNAME .
 gomovies.kim CNAME .
 *.gomovies.kim CNAME .
+newalbumreleases.unblockit.kim CNAME .
+*.newalbumreleases.unblockit.kim CNAME .
 altadefinizione.kitchen CNAME .
 *.altadefinizione.kitchen CNAME .
 tracker1.bt.moack.co.kr CNAME .
@@ -9879,6 +9885,8 @@ serien.link CNAME .
 *.serien.link CNAME .
 srstop.link CNAME .
 *.srstop.link CNAME .
+newalbumreleases.unblockit.link CNAME .
+*.newalbumreleases.unblockit.link CNAME .
 0123movies.live CNAME .
 *.0123movies.live CNAME .
 5movies.live CNAME .
@@ -10745,6 +10753,8 @@ trackeropenbittorrent.uni.me CNAME .
 *.trackeropenbittorrent.uni.me CNAME .
 upeer.me CNAME .
 *.upeer.me CNAME .
+uploadgig.me CNAME .
+*.uploadgig.me CNAME .
 vidlox.me CNAME .
 *.vidlox.me CNAME .
 vidsrc.me CNAME .
@@ -18291,6 +18301,8 @@ torrent9.uno CNAME .
 *.torrent9.uno CNAME .
 newalbumreleases.unblockit.uno CNAME .
 *.newalbumreleases.unblockit.uno CNAME .
+vedohd.uno CNAME .
+*.vedohd.uno CNAME .
 vexmovies.uno CNAME .
 *.vexmovies.uno CNAME .
 yomovies.uno CNAME .

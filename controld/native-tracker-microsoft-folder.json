@@ -1247,56 +1247,14 @@
       }
     },
     {
-      "PK": "js0.cdn.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "js0.tst.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "js1.cdn.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "js1.tst.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "js2.cdn.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "js2.tst.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "js.cdn.applicationinsights.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "js.monitor.azure.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "js.monitor.azure.com.com",
       "action": {
         "do": 0,
         "status": 1

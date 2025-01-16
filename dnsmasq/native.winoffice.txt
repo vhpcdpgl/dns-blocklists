@@ -4,19 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 10:41 UTC
-# Version: 2025.0116.1041.27
+# Last modified: 15 Jan 2025 19:16 UTC
+# Version: 2025.0115.1916.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 342
+# Number of entries: 336
 #
 local=/in.appcenter.ms/
-local=/js.cdn.applicationinsights.io/
-local=/js0.cdn.applicationinsights.io/
-local=/js1.cdn.applicationinsights.io/
-local=/js2.cdn.applicationinsights.io/
-local=/js0.tst.applicationinsights.io/
-local=/js1.tst.applicationinsights.io/
-local=/js2.tst.applicationinsights.io/
 local=/applicationinsights.azure.com/
 local=/dc.applicationinsights.azure.cn/
 local=/dc.applicationinsights.azure.us/
@@ -41,6 +34,7 @@ local=/c.bing.com/
 local=/commerce.bing.com/
 local=/g.bing.com/
 local=/raka.bing.com/
+local=/js.monitor.azure.com.com/
 local=/measure.office.net.edgesuite.net/
 local=/collector.azure.eaglex.ic.gov/
 local=/analytics.live.com/
