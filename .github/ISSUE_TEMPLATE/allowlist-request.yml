@@ -1,0 +1,210 @@
+name: Allowlist Request
+description: Report the domains that should be unblocked. 
+labels: ["allow"]
+assignees: 
+  - hagezi
+body:
+
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: |
+        To prevent invalid requests, please verify and confirm the following points.
+      options:
+        - label: I use the current version of the lists.
+          required: true
+        - label: Disabling these lists resolves the issue.
+          required: true
+  
+  - type: dropdown
+    id: devicetype
+    attributes:
+      label: Which device type do you use?
+      description: |
+        Choose the device type you are using. If it’s not listed, select Other and specify its name in the comments section below.
+      multiple: true
+      options:
+        - Desktop
+        - Mobile
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_device
+    attributes:
+      label: Other device
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: operatingsystem
+    attributes:
+      label: What is the operating system of the device?
+      description: |
+        Choose the operating system under which the device is running. If it’s not listed, select Other and specify its name in the comments section below.
+      multiple: true
+      options:
+        - Android
+        - iOS/macOS/tvOS/watchOS
+        - Linux
+        - Windows
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_os
+    attributes:
+      label: Other operating system
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Which browser or app are you using?
+      description: |
+        Choose the browser you are using. If it’s not listed or the issue occurs with an app, select Other and specify its name in the comments section below.
+      multiple: true
+      options:
+        - Brave
+        - Chrome
+        - Firefox
+        - Microsoft Edge
+        - Opera
+        - Safari
+        - Vivaldi
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_browser
+    attributes:
+      label: Other browser or app
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+  
+  - type: dropdown
+    id: adblocker
+    attributes:
+      label: Which AdBlocker or DNS cloud service do you use?
+      description: |
+        Choose the AdBlocker or DNS cloud service you are using. If it’s not listed, select Other and specify its name in the comments section below.
+      multiple: true
+      options:
+        - AdGuard
+        - AdGuard DNS
+        - AdGuard Home
+        - Pi-hole
+        - uBlock Origin
+        - adblock-lean
+        - ControlD
+        - DNSwarden
+        - NextDNS
+        - RethinkDNS
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other_adblocker
+    attributes:
+      label: Other AdBlocker or DNS cloud service
+      description: |
+        If you selected Other, please enter the name here.
+    validations:
+      required: false
+      
+  - type: checkboxes
+    attributes:
+      label: ControlD users
+      description: |
+        If you are using ControlD, make sure the Block Response in the profile settings is not set to Custom or Branded to rule out this feature as the cause of the issue.
+      options:
+        - label: IMPORTANT - I confirm that the Block Response is not set to Custom or Branded, and the issue persists.
+          required: false
+  - type: checkboxes
+    attributes:
+      label: NextDNS users
+      description: |
+        If you are using NextDNS, make sure the block page is disabled in the settings to rule out this feature as the cause of the issue.
+      options:
+        - label: IMPORTANT - I confirm that the bock page is disabled, and the issue persists.
+          required: false
+  
+  - type: dropdown
+    id: blocklists
+    attributes:
+      label: Which blocklist(s) caused the issue?
+      multiple: true
+      options:
+        - Multi LIGHT
+        - Multi NORMAL
+        - Multi PRO
+        - Multi PRO mini
+        - Multi PRO++
+        - Multi PRO++ mini
+        - Multi ULTIMATE
+        - Multi ULTIMATE mini
+        - Fake
+        - Pop-Up Ads
+        - Threat Intelligence Feeds
+        - Threat Intelligence Feeds medium
+        - Threat Intelligence Feeds mini
+        - Threat Intelligence Feeds IPs
+        - DoH/VPN/TOR/Proxy Bypass
+        - DoH Bypass
+        - DoH Bypass IPs
+        - Safesearch not supported
+        - Dynamic DNS
+        - Badware Hoster
+        - Most Abused TLDs
+        - Anti Piracy
+        - Gambling
+        - Native Tracker
+        - Allowlist Referral
+    validations:
+      required: true
+
+  - type: textarea
+    id: domains
+    attributes:
+      label: Which domain(s) need to be unblocked?
+      description: |
+        List the domain(s) you believe are being incorrectly blocked.
+    validations:
+      required: true
+  
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should the domain(s) be unblocked?
+      description: |
+        Provide a detailed justification for the allowlist request, including the steps to reproduce the issue and any relevant screenshots, if available.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: allowed
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have verified that the domain(s) are blocked by these blocklists and that the issue is not caused by any other additional blocklists in use.
+          required: true
+        - label: I have verified that the unblocking of the domain(s) has not been declined in any existing issue.
+          required: true
+        - label: I have provided sufficient details to verify the need for unblocking the domain(s).
+          required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
+          required: true

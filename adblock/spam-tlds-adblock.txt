@@ -1,0 +1,127 @@
+[Adblock Plus]
+! Title: HaGeZi's The World's Most Abused TLDs
+! Description: The Top Most Abused Top Level Domains. Only TLDs that do not have any exclusions!
+! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
+!         https://radar.cloudflare.com/email-security
+!         https://trends.netcraft.com/cybercrime/tlds
+!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+!         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: 1 day
+! Last modified: 19 Jan 2025 03:30 UTC
+! Version: 2025.0119.0330.16
+! Syntax: AdBlock
+! Number of latin TLDs: 110/220
+!
+||actor^
+||auction^
+||baby^
+||band^
+||bet^
+||bid^
+||bingo^
+||black^
+||blue^
+||boats^
+||bond^
+||boo^
+||boston^
+||boutique^
+||builders^
+||business^
+||cam^
+||care^
+||careers^
+||cash^
+||casino^
+||charity^
+||christmas^
+||claims^
+||clothing^
+||coupons^
+||cymru^
+||dance^
+||dental^
+||expert^
+||fashion^
+||finance^
+||financial^
+||fishing^
+||fitness^
+||forsale^
+||fund^
+||gent^
+||gives^
+||giving^
+||gold^
+||golf^
+||gratis^
+||green^
+||hair^
+||haus^
+||healthcare^
+||international^
+||irish^
+||kim^
+||lat^
+||llp^
+||loan^
+||loans^
+||locker^
+||love^
+||luxe^
+||management^
+||markets^
+||mba^
+||miami^
+||moda^
+||mom^
+||motorcycles^
+||name^
+||navy^
+||non^
+||okinawa^
+||ong^
+||parts^
+||photo^
+||pink^
+||plus^
+||poker^
+||post^
+||promo^
+||realtor^
+||recipes^
+||rehab^
+||ren^
+||restaurant^
+||review^
+||rich^
+||rodeo^
+||rugby^
+||sale^
+||schule^
+||sew^
+||shopping^
+||sport^
+||style^
+||sydney^
+||tattoo^
+||tax^
+||taxi^
+||tokyo^
+||trading^
+||uno^
+||vacations^
+||vegas^
+||ventures^
+||vin^
+||vision^
+||vlaanderen^
+||voto^
+||wang^
+||webcam^
+||wedding^
+||xin^
+||you^
