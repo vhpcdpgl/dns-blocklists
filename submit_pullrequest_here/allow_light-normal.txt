@@ -1,5 +1,9 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/4928
+*.siteintercept.qualtrics.com
+api.segment.io
+
 # Joyn: Stream buffers a few seconds when commercials are played?
 # Advertising is still blocked
 joyn.somquery.sqrt-5041.de
