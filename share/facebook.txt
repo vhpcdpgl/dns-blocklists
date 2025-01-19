@@ -1,4 +1,5 @@
 # Facebook/Messenger App Android/iOS (Comments, Messages)
+# Instagram App story videos
 b-graph-fallback.facebook.com
 b-graph.facebook.com
 graph-fallback.facebook.com
@@ -22,3 +23,5 @@ graph.whatsapp.net
 # Not blocked, but essential
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
+star-mini.c10r.facebook.com
+star-mini.fallback.c10r.facebook.com

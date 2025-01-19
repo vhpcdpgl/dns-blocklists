@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:35 UTC
-# Version: 2025.0116.2335.12
+# Last modified: 19 Jan 2025 11:46 UTC
+# Version: 2025.0119.1146.18
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 674
+# Number of entries: 675
 #
 in.appcenter.ms
 js.cdn.applicationinsights.io
@@ -114,7 +114,6 @@ azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
 adsdkprod.azureedge.net
-adsdkprprod.azureedge.net
 adsdkprod.afd.azureedge.net
 location-microsoft-com.b-0005.b-msedge.net
 a4.bing.com
@@ -129,6 +128,8 @@ commerce.bing.com
 g.bing.com
 r.g.bing.com
 raka.bing.com
+insights.cloud.microsoft
+analysis.insights.cloud.microsoft
 measure.office.net.edgesuite.net
 nel.measure.office.net.edgesuite.net
 nelsdf.measure.office.net.edgesuite.net
