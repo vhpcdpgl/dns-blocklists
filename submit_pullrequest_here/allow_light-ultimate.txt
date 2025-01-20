@@ -2,6 +2,7 @@
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
 # Facebook, essential
+facebook.com
 star.c10r.facebook.com
 star.fallback.c10r.facebook.com
 star-mini.c10r.facebook.com
@@ -21,8 +22,6 @@ track.connect.travelaudience.com
 
 # https://github.com/hagezi/dns-blocklists/issues/4656
 accountscenter.facebook.com
-star.c10r.facebook.com
-star.fallback.c10r.facebook.com
 
 # https://github.com/hagezi/dns-blocklists/pull/4582
 indystar.com
