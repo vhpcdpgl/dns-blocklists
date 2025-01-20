@@ -15,6 +15,20 @@
       }
     },
     {
+      "PK": "ac2.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ac3.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "activity.windows.com",
       "action": {
         "do": 0,
@@ -58,6 +72,20 @@
     },
     {
       "PK": "adsdk.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdkpreprod.afd.azureedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdkpreprod.azureedge.net",
       "action": {
         "do": 0,
         "status": 1
@@ -183,13 +211,6 @@
       }
     },
     {
-      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "analytics-listener.trafficmanager.net",
       "action": {
         "do": 0,
@@ -260,6 +281,41 @@
       }
     },
     {
+      "PK": "arc1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "arc2.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "arc3.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "arc9.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "arc-emea.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "arc.msn.com",
       "action": {
         "do": 0,
@@ -282,13 +338,6 @@
     },
     {
       "PK": "azsc-bingads-westus.westus.cloudapp.azure.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com",
       "action": {
         "do": 0,
         "status": 1
@@ -645,6 +694,13 @@
       }
     },
     {
+      "PK": "cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "clarity.microsoft.com",
       "action": {
         "do": 0,
@@ -835,6 +891,13 @@
     },
     {
       "PK": "dec-visio-telemetry.officeapps.live.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "diagnostics.office.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1611,13 +1674,6 @@
       }
     },
     {
-      "PK": "pgtsg1-word-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "pgtus1-excel-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
@@ -2165,6 +2221,13 @@
     },
     {
       "PK": "telemetry.urs.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "telemetry.visualstudio.microsoft.com",
       "action": {
         "do": 0,
         "status": 1

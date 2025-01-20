@@ -15,7 +15,21 @@
       }
     },
     {
-      "PK": "*.applicationinsights.io",
+      "PK": "api.diagnostics.office.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "api.msa.diagnostics.office.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "applicationinsights.io",
       "action": {
         "do": 1,
         "status": 1
@@ -64,6 +78,27 @@
       }
     },
     {
+      "PK": "cjs.diagnostics.office.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "diagnostics.office.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "edge.activity.windows.com",
       "action": {
         "do": 1,
@@ -92,7 +127,21 @@
       }
     },
     {
+      "PK": "entitlement.diagnostics.office.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "in.appcenter.ms",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "incidents.diagnostics.office.com",
       "action": {
         "do": 1,
         "status": 1
@@ -106,7 +155,21 @@
       }
     },
     {
-      "PK": "*.loganalytics.io",
+      "PK": "loganalytics.io",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logging.diagnostics.office.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "msa.diagnostics.office.com",
       "action": {
         "do": 1,
         "status": 1
@@ -170,6 +233,13 @@
     },
     {
       "PK": "settings-win-ppe.data.microsoft.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "supportexperience.diagnostics.office.com",
       "action": {
         "do": 1,
         "status": 1

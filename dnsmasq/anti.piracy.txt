@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jan 2025 03:19 UTC
-# Version: 2025.0120.0319.33
+# Last modified: 20 Jan 2025 20:11 UTC
+# Version: 2025.0120.2011.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9849
+# Number of entries: 9846
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -6125,7 +6125,6 @@ local=/olamovies.autos/
 local=/olamovies.hair/
 local=/old-games.ru/
 local=/oldgamesdownload.com/
-local=/oldgamesfinder.com/
 local=/oleoo.com/
 local=/olevod.com/
 local=/olevod.eu/
@@ -6495,7 +6494,6 @@ local=/pirlotv.fr/
 local=/pirvox.net/
 local=/pisexy.org/
 local=/pitbulltorrent.eu/
-local=/pitkini.org/
 local=/tracker.pixelcove.me/
 local=/pjointe.com/
 local=/pl1.com/
@@ -6921,7 +6919,6 @@ local=/redditmlbstreams.live/
 local=/redditnbastreams.org/
 local=/redditnflstreams.net/
 local=/redditnhlstreams.com/
-local=/redecanais.tv/
 local=/ica1616.redirectme.net/
 local=/marshilltorrents.redirectme.net/
 local=/redlist-ultimate.be/

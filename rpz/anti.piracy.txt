@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737343140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737403860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Jan 2025 03:19 UTC
-; Version: 2025.0120.0319.33
+; Last modified: 20 Jan 2025 20:11 UTC
+; Version: 2025.0120.2011.35
 ; Syntax: RPZ
-; Number of entries: 19698
+; Number of entries: 19692
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5427,8 +5427,6 @@ oklivetv.com CNAME .
 *.oklivetv.com CNAME .
 oldgamesdownload.com CNAME .
 *.oldgamesdownload.com CNAME .
-oldgamesfinder.com CNAME .
-*.oldgamesfinder.com CNAME .
 oleoo.com CNAME .
 *.oleoo.com CNAME .
 olevod.com CNAME .
@@ -14585,8 +14583,6 @@ piratic.org CNAME .
 *.piratic.org CNAME .
 pisexy.org CNAME .
 *.pisexy.org CNAME .
-pitkini.org CNAME .
-*.pitkini.org CNAME .
 planete-bd.org CNAME .
 *.planete-bd.org CNAME .
 bt.poletracker.org CNAME .
@@ -18259,8 +18255,6 @@ quantus.tv CNAME .
 *.quantus.tv CNAME .
 rebellyon.tv CNAME .
 *.rebellyon.tv CNAME .
-redecanais.tv CNAME .
-*.redecanais.tv CNAME .
 regarder-serie.tv CNAME .
 *.regarder-serie.tv CNAME .
 retrovision.tv CNAME .

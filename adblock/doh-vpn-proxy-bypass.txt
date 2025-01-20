@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 20 Jan 2025 03:24 UTC
-! Version: 2025.0120.0324.41
+! Last modified: 20 Jan 2025 20:16 UTC
+! Version: 2025.0120.2016.41
 ! Syntax: AdBlock
-! Number of entries: 3757
+! Number of entries: 3755
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -2476,7 +2476,6 @@
 ||proxy.red^
 ||proxy.rocks^
 ||proxy.sh^
-||proxy.sx^
 ||proxy.yt^
 ||proxy-123.com^
 ||proxy-2014.com^
@@ -2713,7 +2712,6 @@
 ||rvpn.ws^
 ||dns1.ryan-palmer.com^
 ||vpn.rynet.link^
-||ryuto07219.site^
 ||s4m.tech^
 ||s4m.xyz^
 ||safe-inet.com^
