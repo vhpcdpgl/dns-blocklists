@@ -55,3 +55,16 @@ settingsfd-ppe.trafficmanager.net
 # Microsoft’s Application Insights, also used for "Real User Monitoring", see: https://github.com/hagezi/dns-blocklists/issues/4900
 *.applicationinsights.io
 *.loganalytics.io
+
+# Feedback & Diagnostics: Used to collect diagnostic information and logs for Microsoft Office products and to analyze problems. It is mainly used in support and troubleshooting processes. 
+# https://learn.microsoft.com/en-us/deployedge/microsoft-edge-security-endpoints#feedback-and-diagnostics
+api.diagnostics.office.com
+api.msa.diagnostics.office.com
+cjs.diagnostics.office.com
+cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
+diagnostics.office.com
+entitlement.diagnostics.office.com
+incidents.diagnostics.office.com
+logging.diagnostics.office.com
+msa.diagnostics.office.com
+supportexperience.diagnostics.office.com

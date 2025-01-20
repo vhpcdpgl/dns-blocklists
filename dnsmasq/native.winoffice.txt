@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jan 2025 11:46 UTC
-# Version: 2025.0119.1146.18
+# Last modified: 20 Jan 2025 11:18 UTC
+# Version: 2025.0120.1118.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 342
+# Number of entries: 351
 #
 local=/in.appcenter.ms/
 local=/js.cdn.applicationinsights.io/
@@ -25,12 +25,14 @@ local=/in.applicationinsights.azure.us/
 local=/inference-app-gateway.eastus2.cloudapp.azure.com/
 local=/inference-app-gateway.koreacentral.cloudapp.azure.com/
 local=/inference-app-gateway.northeurope.cloudapp.azure.com/
-local=/azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com/
 local=/azsc-bingads-westus.westus.cloudapp.azure.com/
 local=/collector.azure.cn/
 local=/js.monitor.azure.com/
+local=/adsdkpreprod.azureedge.net/
 local=/adsdkprod.azureedge.net/
+local=/adsdkpreprod.afd.azureedge.net/
 local=/adsdkprod.afd.azureedge.net/
+local=/cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net/
 local=/location-microsoft-com.b-0005.b-msedge.net/
 local=/a4.bing.com/
 local=/ads.bing.com/
@@ -90,7 +92,6 @@ local=/pgtmx1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtmx1-word-telemetry-vip.officeapps.live.com/
 local=/pgtsg1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtsg1-powerpoint-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-word-telemetry-vip.officeapps.live.com/
 local=/pgtus1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtus1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtus1-word-telemetry-vip.officeapps.live.com/
@@ -171,6 +172,7 @@ local=/telecommandsvc.microsoft.com/
 local=/telemetry.microsoft.com/
 local=/telemetrycollector.microsoft.com/
 local=/telemetry.urs.microsoft.com/
+local=/telemetry.visualstudio.microsoft.com/
 local=/watson.microsoft.com/
 local=/statsfe1.ws.microsoft.com/
 local=/statsfe2.ws.microsoft.com/
@@ -178,6 +180,8 @@ local=/gateway.bingviz.microsoftapp.net/
 local=/msads.net/
 local=/fp.msedge.net/
 local=/win10-trt.msedge.net/
+local=/ac2.msn.com/
+local=/ac3.msn.com/
 local=/ad.msn.com/
 local=/adevents.msn.com/
 local=/ads.msn.com/
@@ -188,6 +192,11 @@ local=/analytics.msn.com/
 local=/metric.appex-rf.msn.com/
 local=/c.ar.msn.com/
 local=/arc.msn.com/
+local=/arc-emea.msn.com/
+local=/arc1.msn.com/
+local=/arc2.msn.com/
+local=/arc3.msn.com/
+local=/arc9.msn.com/
 local=/c.at.msn.com/
 local=/c.be.msn.com/
 local=/c.br.msn.com/
@@ -251,6 +260,7 @@ local=/udc.msn.com/
 local=/c.uk.msn.com/
 local=/c.za.msn.com/
 local=/zmetrics.msn.com/
+local=/diagnostics.office.com/
 local=/measure.office.com/
 local=/measure.office.net/
 local=/hubblecontent.osi.office.net/
@@ -322,7 +332,6 @@ local=/sa.windows.com/
 local=/analytics-dev-lleap-events.servicebus.windows.net/
 local=/analytics-dev-simpad-events.servicebus.windows.net/
 local=/analyticsehnwe.servicebus.windows.net/
-local=/analyticsiot-prod-simpad-ehn.servicebus.windows.net/
 local=/btv-du-dev-eventhub-streamanalytics.servicebus.windows.net/
 local=/btv-du-prod-eventhub-streamanalytics.servicebus.windows.net/
 local=/citrixanalyticseh.servicebus.windows.net/
