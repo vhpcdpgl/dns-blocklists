@@ -78,13 +78,6 @@
       }
     },
     {
-      "PK": "adsdkprprod.azureedge.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "adsdk.trafficmanager.net",
       "action": {
         "do": 0,
@@ -1220,6 +1213,13 @@
     },
     {
       "PK": "inference-location-livenet.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "insights.cloud.microsoft",
       "action": {
         "do": 0,
         "status": 1

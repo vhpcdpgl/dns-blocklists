@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737257280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737343440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jan 2025 03:28 UTC
-; Version: 2025.0119.0328.54
+; Last modified: 20 Jan 2025 03:24 UTC
+; Version: 2025.0120.0324.41
 ; Syntax: RPZ
-; Number of entries: 7506
+; Number of entries: 7514
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -378,6 +378,8 @@ dot.quickline.ch CNAME .
 *.dot.quickline.ch CNAME .
 dns.sheggi.ch CNAME .
 *.dns.sheggi.ch CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 sitenable.ch CNAME .
 *.sitenable.ch CNAME .
 surfshark.ch CNAME .
@@ -1290,16 +1292,12 @@ freedomproxy.com CNAME .
 *.freedomproxy.com CNAME .
 freeeuroproxy.com CNAME .
 *.freeeuroproxy.com CNAME .
-freeme1001.com CNAME .
-*.freeme1001.com CNAME .
 freemicvpn.com CNAME .
 *.freemicvpn.com CNAME .
 freenewslinks.com CNAME .
 *.freenewslinks.com CNAME .
 freeopenproxy.com CNAME .
 *.freeopenproxy.com CNAME .
-freeproxyaccess.com CNAME .
-*.freeproxyaccess.com CNAME .
 freeproxyunblockyoutube.com CNAME .
 *.freeproxyunblockyoutube.com CNAME .
 freeproxyupdate.com CNAME .
@@ -1328,8 +1326,6 @@ french-vpn.com CNAME .
 *.french-vpn.com CNAME .
 frootvpn.com CNAME .
 *.frootvpn.com CNAME .
-frysprinters.com CNAME .
-*.frysprinters.com CNAME .
 gabstorm.com CNAME .
 *.gabstorm.com CNAME .
 dns.gamban.com CNAME .
@@ -2452,6 +2448,8 @@ eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
+proxy3.startpage.com CNAME .
+*.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
@@ -2534,6 +2532,8 @@ swiftshieldvpn.com CNAME .
 *.swiftshieldvpn.com CNAME .
 switchvpn.com CNAME .
 *.switchvpn.com CNAME .
+swordvpn.com CNAME .
+*.swordvpn.com CNAME .
 dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
 t-dz.com CNAME .
@@ -3464,6 +3464,8 @@ cluster-1.gac.edu CNAME .
 *.cluster-1.gac.edu CNAME .
 dns.cert.ee CNAME .
 *.dns.cert.ee CNAME .
+ahoj.email CNAME .
+*.ahoj.email CNAME .
 mabuktogel.enterprises CNAME .
 *.mabuktogel.enterprises CNAME .
 proxyweb.com.es CNAME .
@@ -4086,6 +4088,8 @@ vpneasy.info CNAME .
 *.vpneasy.info CNAME .
 vpnfree.info CNAME .
 *.vpnfree.info CNAME .
+webypass.info CNAME .
+*.webypass.info CNAME .
 wildproxy.info CNAME .
 *.wildproxy.info CNAME .
 ylink.info CNAME .
@@ -4430,6 +4434,8 @@ unbl4you.lol CNAME .
 *.unbl4you.lol CNAME .
 unkn0wngb.lol CNAME .
 *.unkn0wngb.lol CNAME .
+www-bruh.xenon.lol CNAME .
+*.www-bruh.xenon.lol CNAME .
 doyouremember.love CNAME .
 *.doyouremember.love CNAME .
 unblocked.love CNAME .
@@ -4620,6 +4626,8 @@ stopcensoring.me CNAME .
 *.stopcensoring.me CNAME .
 ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
+ihctw.synology.me CNAME .
+*.ihctw.synology.me CNAME .
 telleport.me CNAME .
 *.telleport.me CNAME .
 theproxy.me CNAME .
@@ -5108,8 +5116,6 @@ gizlen.net CNAME .
 *.gizlen.net CNAME .
 globalssh.net CNAME .
 *.globalssh.net CNAME .
-dns-tunnel-check.googlezip.net CNAME .
-*.dns-tunnel-check.googlezip.net CNAME .
 greenproxy.net CNAME .
 *.greenproxy.net CNAME .
 guardianvpn.net CNAME .
@@ -5482,6 +5488,8 @@ clientdns3.softcom.net CNAME .
 *.clientdns3.softcom.net CNAME .
 solidproxy.net CNAME .
 *.solidproxy.net CNAME .
+sshagan.net CNAME .
+*.sshagan.net CNAME .
 sshdropbear.net CNAME .
 *.sshdropbear.net CNAME .
 sshmax.net CNAME .

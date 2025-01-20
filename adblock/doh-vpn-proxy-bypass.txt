@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Jan 2025 03:28 UTC
-! Version: 2025.0119.0328.54
+! Last modified: 20 Jan 2025 03:24 UTC
+! Version: 2025.0120.0324.41
 ! Syntax: AdBlock
-! Number of entries: 3753
+! Number of entries: 3757
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -169,6 +169,7 @@
 ||ahadns.net^
 ||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
+||ahoj.email^
 ||airdns.org^
 ||airvpn.org^
 ||apple-relay.akamaized.net^
@@ -1224,7 +1225,6 @@
 ||freehiddenvpn.gq^
 ||freehollandproxy.nl^
 ||freelux.world^
-||freeme1001.com^
 ||freemicvpn.com^
 ||freenewslinks.com^
 ||freeopenproxy.com^
@@ -1235,7 +1235,6 @@
 ||freeproxy.me^
 ||freeproxy.top^
 ||freeproxy.win^
-||freeproxyaccess.com^
 ||freeproxyserver.co^
 ||freeproxysites.co^
 ||freeproxyunblockyoutube.com^
@@ -1268,7 +1267,6 @@
 ||dns.freyja.pw^
 ||frootvpn.com^
 ||dns.froth.zone^
-||frysprinters.com^
 ||awan.ftp.sh^
 ||fun4school.store^
 ||doh.funil.de^
@@ -1370,7 +1368,6 @@
 ||dns.google.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
-||dns-tunnel-check.googlezip.net^
 ||goosevpn.com^
 ||goproxy.asia^
 ||performance.gosami.xyz^
@@ -2829,6 +2826,7 @@
 ||dns.silentlybren.com^
 ||simpleproxy.us^
 ||simplevpn.net^
+||dns.simplylinux.ch^
 ||dns.sindominio.net^
 ||sinesprox.cloud^
 ||dnsovertls.sinodun.com^
@@ -2904,6 +2902,7 @@
 ||sriedmueadguard.casa^
 ||adguard.sscw.win^
 ||ssh-free.com^
+||sshagan.net^
 ||sshdropbear.net^
 ||sshkit.com^
 ||sshmax.net^
@@ -2930,6 +2929,7 @@
 ||browse.startpage.com^
 ||eu-browse.startpage.com^
 ||eu2-browse.startpage.com^
+||proxy3.startpage.com^
 ||s4-us2.startpage.com^
 ||us2-browse.startpage.com^
 ||dns.startupstack.tech^
@@ -3012,9 +3012,11 @@
 ||switch.ch^
 ||switchvpn.com^
 ||switchvpn.net^
+||swordvpn.com^
 ||dns.sy.st^
 ||dns.syaifullah.com^
 ||ibksturm.synology.me^
+||ihctw.synology.me^
 ||doh.syshero.org^
 ||dns.szpadel.ovh^
 ||t-dz.com^
@@ -3616,6 +3618,7 @@
 ||webtunnel.org^
 ||webtunnelx.com^
 ||webxify.com^
+||webypass.info^
 ||dns.wechat.com^
 ||wellpoint.com^
 ||wevpn.com^
@@ -3669,6 +3672,7 @@
 ||doh.xcom.pro^
 ||xcomplus.com^
 ||xenergy.cc^
+||www-bruh.xenon.lol^
 ||doh.xfinity.com^
 ||dot.xfinity.com^
 ||doh2.gslb2.xfinity.com^

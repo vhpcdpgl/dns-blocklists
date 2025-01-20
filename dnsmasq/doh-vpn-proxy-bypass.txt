@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jan 2025 03:28 UTC
-# Version: 2025.0119.0328.54
+# Last modified: 20 Jan 2025 03:24 UTC
+# Version: 2025.0120.0324.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3753
+# Number of entries: 3757
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -168,6 +168,7 @@ local=/shield.afixer.app/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
+local=/ahoj.email/
 local=/airdns.org/
 local=/airvpn.org/
 local=/apple-relay.akamaized.net/
@@ -1223,7 +1224,6 @@ local=/freeeuroproxy.com/
 local=/freehiddenvpn.gq/
 local=/freehollandproxy.nl/
 local=/freelux.world/
-local=/freeme1001.com/
 local=/freemicvpn.com/
 local=/freenewslinks.com/
 local=/freeopenproxy.com/
@@ -1234,7 +1234,6 @@ local=/freeproxy.io/
 local=/freeproxy.me/
 local=/freeproxy.top/
 local=/freeproxy.win/
-local=/freeproxyaccess.com/
 local=/freeproxyserver.co/
 local=/freeproxysites.co/
 local=/freeproxyunblockyoutube.com/
@@ -1267,7 +1266,6 @@ local=/dns.freopc.fr/
 local=/dns.freyja.pw/
 local=/frootvpn.com/
 local=/dns.froth.zone/
-local=/frysprinters.com/
 local=/awan.ftp.sh/
 local=/fun4school.store/
 local=/doh.funil.de/
@@ -1369,7 +1367,6 @@ local=/goodssh.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
-local=/dns-tunnel-check.googlezip.net/
 local=/goosevpn.com/
 local=/goproxy.asia/
 local=/performance.gosami.xyz/
@@ -2828,6 +2825,7 @@ local=/dns.silen.org/
 local=/dns.silentlybren.com/
 local=/simpleproxy.us/
 local=/simplevpn.net/
+local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/sinesprox.cloud/
 local=/dnsovertls.sinodun.com/
@@ -2903,6 +2901,7 @@ local=/squidproxyserver.com/
 local=/sriedmueadguard.casa/
 local=/adguard.sscw.win/
 local=/ssh-free.com/
+local=/sshagan.net/
 local=/sshdropbear.net/
 local=/sshkit.com/
 local=/sshmax.net/
@@ -2929,6 +2928,7 @@ local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu2-browse.startpage.com/
+local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us2-browse.startpage.com/
 local=/dns.startupstack.tech/
@@ -3011,9 +3011,11 @@ local=/swissvpn.net/
 local=/switch.ch/
 local=/switchvpn.com/
 local=/switchvpn.net/
+local=/swordvpn.com/
 local=/dns.sy.st/
 local=/dns.syaifullah.com/
 local=/ibksturm.synology.me/
+local=/ihctw.synology.me/
 local=/doh.syshero.org/
 local=/dns.szpadel.ovh/
 local=/t-dz.com/
@@ -3615,6 +3617,7 @@ local=/webtester.cc/
 local=/webtunnel.org/
 local=/webtunnelx.com/
 local=/webxify.com/
+local=/webypass.info/
 local=/dns.wechat.com/
 local=/wellpoint.com/
 local=/wevpn.com/
@@ -3668,6 +3671,7 @@ local=/xbcpb668.com/
 local=/doh.xcom.pro/
 local=/xcomplus.com/
 local=/xenergy.cc/
+local=/www-bruh.xenon.lol/
 local=/doh.xfinity.com/
 local=/dot.xfinity.com/
 local=/doh2.gslb2.xfinity.com/

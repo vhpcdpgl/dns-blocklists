@@ -5,7 +5,7 @@ arc.msn.com
 arc.trafficmanager.net
 
 # Microsoft 365 and Office: Blocking this domain could disrupt the ability to save documents to the cloud 
-# or access recently used files and might hinder the performance of these Office applications.​
+# or access recently used files and might hinder the performance of these Office applications.
 # Also used for telemetry.
 self.events.data.microsoft.com
 # CNAME

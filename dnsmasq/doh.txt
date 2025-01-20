@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jan 2025 03:27 UTC
-# Version: 2025.0119.0327.42
+# Last modified: 20 Jan 2025 03:23 UTC
+# Version: 2025.0120.0323.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1478
+# Number of entries: 1481
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -83,6 +83,7 @@ local=/shield.afixer.app/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
+local=/ahoj.email/
 local=/apple-relay.akamaized.net/
 local=/dns.albony.xyz/
 local=/dns.alekberg.net/
@@ -1282,6 +1283,7 @@ local=/adguard.shutgaming.net/
 local=/doh.sidnlabs.nl/
 local=/dns.silen.org/
 local=/dns.silentlybren.com/
+local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/dnsovertls.sinodun.com/
 local=/dnsovertls1.sinodun.com/
@@ -1326,6 +1328,7 @@ local=/switch.ch/
 local=/dns.sy.st/
 local=/dns.syaifullah.com/
 local=/ibksturm.synology.me/
+local=/ihctw.synology.me/
 local=/doh.syshero.org/
 local=/dns.szpadel.ovh/
 local=/dns.t-ipnet.de/
