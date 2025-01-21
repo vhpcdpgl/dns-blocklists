@@ -176,7 +176,7 @@ body:
     attributes:
       label: Which domain(s) need to be unblocked?
       description: |
-        List the domain(s) you believe are being incorrectly blocked.
+        List the domain/subdomains(s) you believe are being incorrectly blocked.
       placeholder: |
         example.com
         a.example.org
