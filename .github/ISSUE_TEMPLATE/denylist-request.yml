@@ -72,11 +72,11 @@ body:
     attributes:
       label: Which domain(s) should be blocked?
       description: |
-        Provide the domains that should be blocked, ensuring you include only domain names (e.g., example.com). Do not include adblock rules, URLs, or other formats.
+        Provide the domains that should be blocked, ensuring you include only domain/subdomain names (e.g. example.com, a.example.com). Do not include adblock rules, URLs, or other formats.
       placeholder: |
         example.com
-        example.org
-        example.net
+        a.example.org
+        a.b.example.net
       render: yaml
     validations:
       required: true
