@@ -73,7 +73,11 @@ body:
       label: Which domain(s) should be blocked?
       description: |
         Provide the domains that should be blocked, ensuring you include only domain names (e.g., example.com). Do not include adblock rules, URLs, or other formats.
-        IMPORTANT: No clickable links and ensure that you defang malicious domains, such as "malicious-domain[.]top," to safeguard against the potential ban of your GitHub account.
+      placeholder: |
+        example.com
+        example.org
+        example.net
+      render: yaml
     validations:
       required: true
 
@@ -83,6 +87,7 @@ body:
       label: Which website or app accesses the domain(s)?
       description: |
         Specify the websites or apps through which the domains are accessed.
+      render: yaml
     validations:
       required: true
  
@@ -115,6 +120,4 @@ body:
       label: Terms
       options:
         - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
-          required: true
-        - label: I confirm that the request does not contain any clickable links to malicious sites and that I have obfuscated malicious domains using defanging (e.g., malicious-domain[.]top).
           required: true
