@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737403860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737515640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Jan 2025 20:11 UTC
-; Version: 2025.0120.2011.35
+; Last modified: 22 Jan 2025 03:14 UTC
+; Version: 2025.0122.0314.06
 ; Syntax: RPZ
-; Number of entries: 19692
+; Number of entries: 19678
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -79,8 +79,6 @@ rezka.ag CNAME .
 *.rezka.ag CNAME .
 tvbox.ag CNAME .
 *.tvbox.ag CNAME .
-voirfilms.ag CNAME .
-*.voirfilms.ag CNAME .
 yesmovies.ag CNAME .
 *.yesmovies.ag CNAME .
 yts.ag CNAME .
@@ -955,8 +953,6 @@ thepiratebay.cam CNAME .
 *.thepiratebay.cam CNAME .
 torrentkitty.cam CNAME .
 *.torrentkitty.cam CNAME .
-unblockit.cam CNAME .
-*.unblockit.cam CNAME .
 zalukaj.cam CNAME .
 *.zalukaj.cam CNAME .
 cb01.camp CNAME .
@@ -6325,8 +6321,6 @@ stuckgamer.com CNAME .
 *.stuckgamer.com CNAME .
 studentsharez.com CNAME .
 *.studentsharez.com CNAME .
-ddoser-online.studyfund.com CNAME .
-*.ddoser-online.studyfund.com CNAME .
 su-data.com CNAME .
 *.su-data.com CNAME .
 warez.sub-france.com CNAME .
@@ -6827,8 +6821,6 @@ ttxunlei.com CNAME .
 *.ttxunlei.com CNAME .
 tudoubt.com CNAME .
 *.tudoubt.com CNAME .
-tuhinenterprise.com CNAME .
-*.tuhinenterprise.com CNAME .
 tulsapost.com CNAME .
 *.tulsapost.com CNAME .
 anwer8.tumblr.com CNAME .
@@ -9003,8 +8995,6 @@ videospider.in CNAME .
 *.videospider.in CNAME .
 vumoo.in CNAME .
 *.vumoo.in CNAME .
-watchwrestling.in CNAME .
-*.watchwrestling.in CNAME .
 kinogo.inc CNAME .
 *.kinogo.inc CNAME .
 abcvg.info CNAME .
@@ -14997,8 +14987,6 @@ tvshows4mobile.org CNAME .
 *.tvshows4mobile.org CNAME .
 two-movies.org CNAME .
 *.two-movies.org CNAME .
-ucsdir.org CNAME .
-*.ucsdir.org CNAME .
 uhdbits.org CNAME .
 *.uhdbits.org CNAME .
 uhdmv.org CNAME .
@@ -17117,8 +17105,6 @@ torrent.tdjs.tech CNAME .
 *.torrent.tdjs.tech CNAME .
 torrentclub.tech CNAME .
 *.torrentclub.tech CNAME .
-wawacity.tech CNAME .
-*.wawacity.tech CNAME .
 yesmovies.tech CNAME .
 *.yesmovies.tech CNAME .
 altadefinizione01.tel CNAME .

@@ -126,7 +126,6 @@ footprints-pa.googleapis.com
 
 # Already blocked via the base domains in the build DB
 playmoviesdfe-pa.googleapis.com
-semanticlocation-pa.googleapis.com
 userlocation.googleapis.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2730

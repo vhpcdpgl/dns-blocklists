@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jan 2025 20:11 UTC
-# Version: 2025.0120.2011.35
+# Last modified: 22 Jan 2025 03:14 UTC
+# Version: 2025.0122.0314.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9846
+# Number of entries: 9839
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -7823,7 +7823,6 @@ local=/stressit.club/
 local=/strumyk.tv/
 local=/stuckgamer.com/
 local=/studentsharez.com/
-local=/ddoser-online.studyfund.com/
 local=/su-data.com/
 local=/warez.sub-france.com/
 local=/subsplease.org/
@@ -8661,7 +8660,6 @@ local=/tuaserie.net/
 local=/tudoubt.com/
 local=/tufan.live/
 local=/tugaleech.net/
-local=/tuhinenterprise.com/
 local=/tulsapost.com/
 local=/anwer8.tumblr.com/
 local=/bigeyes2015-1watchonline.tumblr.com/
@@ -8764,7 +8762,6 @@ local=/dowm-movies.ucoz.net/
 local=/movi.ucoz.ro/
 local=/psyfp.ucoz.ru/
 local=/ucrak.com/
-local=/ucsdir.org/
 local=/xbox.udp.at/
 local=/udush.com/
 local=/dashunika07.ueuo.com/
@@ -8920,7 +8917,6 @@ local=/unblocker.cc/
 local=/unblocker.win/
 local=/unblockit.bz/
 local=/unblockit.ca/
-local=/unblockit.cam/
 local=/unblockit.id/
 local=/unblockit.llc/
 local=/unblockit.pro/
@@ -9208,7 +9204,6 @@ local=/voidboost.tv/
 local=/voir-seriestreaming.org/
 local=/voirdrama.org/
 local=/voirfilm.vip/
-local=/voirfilms.ag/
 local=/voirfilms.al/
 local=/voirfilms.io/
 local=/voirfilms.tel/
@@ -9385,7 +9380,6 @@ local=/watchsomuchtorrents.com/
 local=/watchstream.site/
 local=/watchtvepisodes.me/
 local=/watchug.com/
-local=/watchwrestling.in/
 local=/watchwrestling.la/
 local=/watchwrestling24.net/
 local=/wawa-mania.cc/
@@ -9398,7 +9392,6 @@ local=/wawacity.one/
 local=/wawacity.red/
 local=/wawacity.rsvp/
 local=/wawacity.su/
-local=/wawacity.tech/
 local=/wawacity.tv/
 local=/wawacity.vip/
 local=/wawacity.ws/
