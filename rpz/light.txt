@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737545520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737567540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Jan 2025 11:32 UTC
-; Version: 2025.0122.1132.37
+; Last modified: 22 Jan 2025 17:39 UTC
+; Version: 2025.0122.1739.27
 ; Syntax: RPZ
 ; Number of entries: 142964
 ;
