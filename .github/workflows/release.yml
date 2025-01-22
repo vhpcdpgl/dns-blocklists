@@ -20,7 +20,7 @@ jobs:
       - name: Generate release tag
         run: |
           repo_age=$(( $(date -u +"%Y") - $(curl -s -H "Accept: application/vnd.github+json" https://api.github.com/repos/${{ github.repository }} | jq -r .created_at | cut -c 1-4) ))
-          repo_version=$(date +'%Y.%j').$((`date +%s` % 86400 ))
+          repo_version=$(date +'%Y.%-j').$((`date +%s` % 86400 ))
           echo "release_tag=$repo_age$repo_version" >> $GITHUB_ENV
       - name: Generate issue list
         run: echo "issue_list=$(gh issue list -l fixed-pending-release  | cut -f1 | sed 's/^/#/' | sed 's/$/ /' | tr -d '\n\t\r')" >> $GITHUB_ENV
