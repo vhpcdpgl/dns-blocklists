@@ -9,7 +9,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
-  2 |      75% |  17% |      8% | Denylist Personal
+  2 |      74% |  18% |      8% | Denylist Personal
   3 |      65% |   3% |     32% | Extracted Wildcard Rules
   4 |      46% |   0% |     54% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      61% |   0% |     39% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -29,7 +29,7 @@
  19 |      90% |   0% |     10% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | native.roku.txt
  21 |      61% |  35% |      4% | Analytics/Metrics Extension
- 22 |      89% |  11% |      0% | Balanced Extension
+ 22 |      93% |   7% |      0% | Balanced Extension
 ```
 #### PRO
 ```
@@ -53,7 +53,7 @@
  17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
  18 |      99% |   0% |      1% | native.roku.txt
  19 |      61% |  35% |      4% | Analytics/Metrics Extension
- 20 |      89% |  11% |      0% | Balanced Extension
+ 20 |      93% |   7% |      0% | Balanced Extension
  21 |      84% |   8% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  23 |      86% |   5% |      9% | Advanced Extension
@@ -80,10 +80,10 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | native.roku.txt
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
- 18 |      89% |  11% |      0% | Balanced Extension
+ 18 |      93% |   7% |      0% | Balanced Extension
  19 |      86% |   8% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      87% |   5% |      8% | Advanced Extension
+ 21 |      86% |   6% |      8% | Advanced Extension
  22 |      76% |  22% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      68% |  22% |     10% | Denylist Community Advanced
  24 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -112,10 +112,10 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | native.roku.txt
  17 |      64% |  35% |      1% | Analytics/Metrics Extension
- 18 |      89% |  11% |      0% | Balanced Extension
+ 18 |      93% |   7% |      0% | Balanced Extension
  19 |      86% |   8% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 21 |      88% |   5% |      7% | Advanced Extension
+ 21 |      87% |   6% |      7% | Advanced Extension
  22 |      76% |  22% |      2% | Denylist Community Threat Intelligence Feeds
  23 |      68% |  22% |     10% | Denylist Community Advanced
  24 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -124,7 +124,7 @@
  27 |      85% |   8% |      7% | Aggressive Extension
  28 |      98% |   1% |      1% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
- 30 |      91% |   6% |      3% | Ultimate Extension
+ 30 |      92% |   5% |      3% | Ultimate Extension
  31 |      87% |   7% |      6% | Denylist Aggressive
  32 |      71% |  26% |      3% | Denylist Community Ultimate
 ```
