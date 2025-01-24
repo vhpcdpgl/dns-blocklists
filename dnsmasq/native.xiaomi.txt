@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:47 UTC
-# Version: 2025.0116.2347.47
+# Last modified: 24 Jan 2025 17:34 UTC
+# Version: 2025.0124.1734.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 360
+# Number of entries: 359
 #
 local=/traffic-media.co.uk/
 local=/ad.intl.xiaomi.com.edgesuite.net/
@@ -264,7 +264,6 @@ local=/tv.app.migc.xiaomi.com/
 local=/invoice.netroam.mihome.xiaomi.net/
 local=/abtest.mistat.xiaomi.com/
 local=/data.mistat.xiaomi.com/
-local=/ident.mistat.xiaomi.com/
 local=/storeconfig.mistat.xiaomi.com/
 local=/file.cdn.mvideo.xiaomi.com/
 local=/image.cdn.mvideo.xiaomi.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737688620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737737100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jan 2025 03:17 UTC
-; Version: 2025.0124.0317.52
+; Last modified: 24 Jan 2025 16:45 UTC
+; Version: 2025.0124.1645.44
 ; Syntax: RPZ
-; Number of entries: 3706
+; Number of entries: 3720
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -757,6 +757,8 @@ cfm-id72049123.com CNAME .
 *.cfm-id72049123.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
+doc.checkiteasy.com CNAME .
+*.doc.checkiteasy.com CNAME .
 chez.com CNAME .
 *.chez.com CNAME .
 cixx6.com CNAME .
@@ -1393,8 +1395,12 @@ rozblog.com CNAME .
 *.rozblog.com CNAME .
 rssing.com CNAME .
 *.rssing.com CNAME .
+hcck.ru.com CNAME .
+*.hcck.ru.com CNAME .
 runhosting.com CNAME .
 *.runhosting.com CNAME .
+pkjn.sa.com CNAME .
+*.pkjn.sa.com CNAME .
 schoolrack.com CNAME .
 *.schoolrack.com CNAME .
 seite.com CNAME .
@@ -1583,6 +1589,8 @@ vidublog.com CNAME .
 *.vidublog.com CNAME .
 vip-blog.com CNAME .
 *.vip-blog.com CNAME .
+dev.vtoshop.com CNAME .
+*.dev.vtoshop.com CNAME .
 vxub.com CNAME .
 *.vxub.com CNAME .
 wallinside.com CNAME .
@@ -1631,6 +1639,8 @@ widblog.com CNAME .
 *.widblog.com CNAME .
 wifeo.com CNAME .
 *.wifeo.com CNAME .
+firmwareck.wikaba.com CNAME .
+*.firmwareck.wikaba.com CNAME .
 win-blog.com CNAME .
 *.win-blog.com CNAME .
 wix.com CNAME .
@@ -1689,6 +1699,8 @@ yuku.com CNAME .
 *.yuku.com CNAME .
 awi.za.com CNAME .
 *.awi.za.com CNAME .
+ishg.za.com CNAME .
+*.ishg.za.com CNAME .
 zamsblog.com CNAME .
 *.zamsblog.com CNAME .
 zeblog.com CNAME .
@@ -2691,6 +2703,8 @@ nl.kg CNAME .
 *.nl.kg CNAME .
 pt.kg CNAME .
 *.pt.kg CNAME .
+putrivpn.us.kg CNAME .
+*.putrivpn.us.kg CNAME .
 de.ki CNAME .
 *.de.ki CNAME .
 eu.ki CNAME .

@@ -154,7 +154,6 @@ firehose.ap-south-1.amazonaws.com
 firehose.ap-southeast-1.amazonaws.com
 kinesis.ap-southeast-1.amazonaws.com
 firehose.ap-southeast-2.amazonaws.com
-ad-aspi.s3.ap-southeast-2.amazonaws.com
 firehose.ca-central-1.amazonaws.com
 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
@@ -225,7 +224,6 @@ apxor.com
 archer.com
 www.archer.com
 tracker.archiveteam.org
-hbbtv.ardmediathek.de
 arttrk.com
 track-and-trace.cxc.arvato-scs.digital
 sdk.asapp.com
@@ -400,6 +398,7 @@ cdn-zeptoapps.com
 1115546720.rsc.cdn77.org
 cydia.saurik.com.cdngc.net
 filebroker-cdn.lazada.co.id.9d2b5122.cdnhwcchh18.com
+filebroker-cdn.lazada.com.my.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.com.ph.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.sg.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.co.th.9d2b5122.cdnhwcchh18.com
@@ -478,7 +477,6 @@ cnstrc.com
 accesstrade.co.id
 ad.accesstrade.co.id
 click.accesstrade.co.id
-db.accesstrade.co.id
 appx.transient.amazon.co.uk
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 dmgmediaprivacy.co.uk
@@ -548,8 +546,6 @@ medrx.telstra.com.au
 data.crm-edm.thsrc.com.tw
 ipcheck.tmgrup.com.tr
 uedas.com.tr
-uedaspwire.uedas.com.tr
-www.uedas.com.tr
 www.com.com
 widget.yenimedya.com.tr
 comagic.ru
@@ -880,6 +876,7 @@ use.fvr.to
 fwmrm.net
 v.fwmrm.net
 2a7e9.v.fwmrm.net
+2ecd5.v.fwmrm.net
 7caa2.v.fwmrm.net
 7cbf2.v.fwmrm.net
 7cf6e.v.fwmrm.net
@@ -1065,13 +1062,13 @@ mdp-appconf-apc.heytapdl.com
 mdp-appconf-ar.heytapdl.com
 mdp-appconf-at.heytapdl.com
 mdp-appconf-au.heytapdl.com
-mdp-appconf-ba.heytapdl.com
 mdp-appconf-bd.heytapdl.com
 mdp-appconf-be.heytapdl.com
 mdp-appconf-bh.heytapdl.com
 mdp-appconf-bo.heytapdl.com
 mdp-appconf-br.heytapdl.com
 mdp-appconf-by.heytapdl.com
+mdp-appconf-ca.heytapdl.com
 mdp-appconf-ch.heytapdl.com
 mdp-appconf-chl.heytapdl.com
 mdp-appconf-cn.heytapdl.com
@@ -1086,7 +1083,6 @@ mdp-appconf-eg.heytapdl.com
 mdp-appconf-es.heytapdl.com
 mdp-appconf-eu.heytapdl.com
 mdp-appconf-euex.heytapdl.com
-mdp-appconf-export.heytapdl.com
 mdp-appconf-fr.heytapdl.com
 mdp-appconf-gb.heytapdl.com
 mdp-appconf-gr.heytapdl.com
@@ -1104,7 +1100,6 @@ mdp-appconf-jo.heytapdl.com
 mdp-appconf-jp.heytapdl.com
 mdp-appconf-ke.heytapdl.com
 mdp-appconf-kh.heytapdl.com
-mdp-appconf-kw.heytapdl.com
 mdp-appconf-kz.heytapdl.com
 mdp-appconf-la.heytapdl.com
 mdp-appconf-latam.heytapdl.com
@@ -1119,7 +1114,6 @@ mdp-appconf-my.heytapdl.com
 mdp-appconf-ng.heytapdl.com
 mdp-appconf-nl.heytapdl.com
 mdp-appconf-np.heytapdl.com
-mdp-appconf-null.heytapdl.com
 mdp-appconf-nz.heytapdl.com
 mdp-appconf-oca.heytapdl.com
 mdp-appconf-om.heytapdl.com
@@ -2490,7 +2484,6 @@ termly.io
 app.termly.io
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
-test-app.link
 tf1.fr
 www.tf1.fr
 tfogc.com
@@ -2528,6 +2521,7 @@ pitaya-va.tiktokv.com
 rtlog-boot.tiktokv.com
 vcs-boot.tiktokv.com
 webcast-boot.tiktokv.com
+data.promo.timhortons.ca
 tinypass.com
 cdn.tinypass.com
 titulky.com
@@ -2684,6 +2678,7 @@ voodoo.io
 www.voodoo.io
 voodoo-tech.io
 fy.v.vrv.co
+sgp1.vultrobjects.com
 vxcash.net
 vxcdn.com
 vxxx.com

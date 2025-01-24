@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 23:38 UTC
-# Version: 2025.0116.2338.41
+# Last modified: 24 Jan 2025 17:23 UTC
+# Version: 2025.0124.1723.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 278
+# Number of entries: 279
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -201,6 +201,7 @@
 0.0.0.0 mssdk-ru.tiktokv.com
 0.0.0.0 mssdk-sg.tiktokv.com
 0.0.0.0 mssdk-va-useast2a.tiktokv.com
+0.0.0.0 rtc-logger.tiktokv.com
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu

@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 20 Jan 2025 03:21 UTC
-! Version: 2025.0120.0321.09
+! Last modified: 24 Jan 2025 16:42 UTC
+! Version: 2025.0124.1642.11
 ! Syntax: AdBlock
-! Number of entries: 1478
+! Number of entries: 1479
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -302,6 +302,7 @@
 ||dns-auth.net^
 ||dns-cloud.net^
 ||dns-dns.com^
+||dns-dynamic.net^
 ||dns-report.com^
 ||dns-stuff.com^
 ||dns04.com^

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jan 2025 03:21 UTC
-# Version: 2025.0120.0321.09
+# Last modified: 24 Jan 2025 16:42 UTC
+# Version: 2025.0124.1642.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1478
+# Number of entries: 1479
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -301,6 +301,7 @@ local=/dns-auth.com/
 local=/dns-auth.net/
 local=/dns-cloud.net/
 local=/dns-dns.com/
+local=/dns-dynamic.net/
 local=/dns-report.com/
 local=/dns-stuff.com/
 local=/dns04.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jan 2025 11:18 UTC
-# Version: 2025.0120.1118.19
+# Last modified: 24 Jan 2025 17:20 UTC
+# Version: 2025.0124.1720.18
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 692
+# Number of entries: 693
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 js.cdn.applicationinsights.io
@@ -673,6 +673,7 @@
 0.0.0.0 analytics-dev-lleap-events.servicebus.windows.net
 0.0.0.0 analytics-dev-simpad-events.servicebus.windows.net
 0.0.0.0 analyticsehnwe.servicebus.windows.net
+0.0.0.0 analyticsiot-prod-simpad-ehn.servicebus.windows.net
 0.0.0.0 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 0.0.0.0 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 0.0.0.0 citrixanalyticseh.servicebus.windows.net

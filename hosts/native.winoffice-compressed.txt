@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jan 2025 11:18 UTC
-# Version: 2025.0120.1118.19
+# Last modified: 24 Jan 2025 17:20 UTC
+# Version: 2025.0124.1720.18
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 77
 #
@@ -82,7 +82,7 @@
 0.0.0.0 telemetry-lcp.trafficmanager.net tenmax-ads.trafficmanager.net tm-analytics-pr.trafficmanager.net tm-enrollment-telemetry-datacore.trafficmanager.net euc-excel-telemetry.wac.trafficmanager.net euc-powerpoint-telemetry.wac.trafficmanager.net euc-word-telemetry.wac.trafficmanager.net excel-telemetry.wac.trafficmanager.net powerpoint-telemetry.wac.trafficmanager.net
 0.0.0.0 ppc-excel-telemetry.wac.trafficmanager.net ppc-powerpoint-telemetry.wac.trafficmanager.net ppc-word-telemetry.wac.trafficmanager.net word-telemetry.wac.trafficmanager.net win-global-asimov-leafs-events-data.trafficmanager.net dc.services.visualstudio.com activity.windows.com assets.activity.windows.com canary.activity.windows.com
 0.0.0.0 edge.activity.windows.com edge-enterprise.activity.windows.com enterprise.activity.windows.com enterprise-eudb.activity.windows.com ppe.activity.windows.com ceuswatcab01.blob.core.windows.net ceuswatcab02.blob.core.windows.net eaus2watcab01.blob.core.windows.net eaus2watcab02.blob.core.windows.net
-0.0.0.0 weus2watcab01.blob.core.windows.net weus2watcab02.blob.core.windows.net cache.datamart.windows.com sa.windows.com analytics-dev-lleap-events.servicebus.windows.net analytics-dev-simpad-events.servicebus.windows.net analyticsehnwe.servicebus.windows.net btv-du-dev-eventhub-streamanalytics.servicebus.windows.net btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
-0.0.0.0 citrixanalyticseh.servicebus.windows.net citrixanalyticseh-alias.servicebus.windows.net citrixanalyticseh2.servicebus.windows.net citrixanalyticseh2-alias.servicebus.windows.net citrixanalyticsehaps.servicebus.windows.net citrixanalyticsehaps-alias.servicebus.windows.net citrixanalyticseheu.servicebus.windows.net citrixanalyticseheu-alias.servicebus.windows.net citrixtelemetryeh.servicebus.windows.net
-0.0.0.0 citrixtelemetryeh-alias.servicebus.windows.net citrixtelemetryeheu.servicebus.windows.net citrixtelemetryeheu-alias.servicebus.windows.net ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net hme-live-loganalytics-namespace.servicebus.windows.net nexxtv-events.servicebus.windows.net ppm-licensingtelemetry.servicebus.windows.net prod-eh-v1-analytics.servicebus.windows.net prod-eventhub-analytics.servicebus.windows.net
-0.0.0.0 production-jobactivity-analytics.servicebus.windows.net rawtelemetry-east.servicebus.windows.net rawtelemetry-west.servicebus.windows.net ss-telemetry.servicebus.windows.net wayfinderanalytics.servicebus.windows.net c.xbox.com o.xbox.com beacons.xboxlive.com 
+0.0.0.0 weus2watcab01.blob.core.windows.net weus2watcab02.blob.core.windows.net cache.datamart.windows.com sa.windows.com analytics-dev-lleap-events.servicebus.windows.net analytics-dev-simpad-events.servicebus.windows.net analyticsehnwe.servicebus.windows.net analyticsiot-prod-simpad-ehn.servicebus.windows.net btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
+0.0.0.0 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net citrixanalyticseh.servicebus.windows.net citrixanalyticseh-alias.servicebus.windows.net citrixanalyticseh2.servicebus.windows.net citrixanalyticseh2-alias.servicebus.windows.net citrixanalyticsehaps.servicebus.windows.net citrixanalyticsehaps-alias.servicebus.windows.net citrixanalyticseheu.servicebus.windows.net citrixanalyticseheu-alias.servicebus.windows.net
+0.0.0.0 citrixtelemetryeh.servicebus.windows.net citrixtelemetryeh-alias.servicebus.windows.net citrixtelemetryeheu.servicebus.windows.net citrixtelemetryeheu-alias.servicebus.windows.net ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net hme-live-loganalytics-namespace.servicebus.windows.net nexxtv-events.servicebus.windows.net ppm-licensingtelemetry.servicebus.windows.net prod-eh-v1-analytics.servicebus.windows.net
+0.0.0.0 prod-eventhub-analytics.servicebus.windows.net production-jobactivity-analytics.servicebus.windows.net rawtelemetry-east.servicebus.windows.net rawtelemetry-west.servicebus.windows.net ss-telemetry.servicebus.windows.net wayfinderanalytics.servicebus.windows.net c.xbox.com o.xbox.com beacons.xboxlive.com

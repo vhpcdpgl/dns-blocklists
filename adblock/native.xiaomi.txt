@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jan 2025 23:47 UTC
-! Version: 2025.0116.2347.47
+! Last modified: 24 Jan 2025 17:34 UTC
+! Version: 2025.0124.1734.08
 ! Syntax: AdBlock
-! Number of entries: 360
+! Number of entries: 359
 !
 ||traffic-media.co.uk^
 ||ad.intl.xiaomi.com.edgesuite.net^
@@ -265,7 +265,6 @@
 ||invoice.netroam.mihome.xiaomi.net^
 ||abtest.mistat.xiaomi.com^
 ||data.mistat.xiaomi.com^
-||ident.mistat.xiaomi.com^
 ||storeconfig.mistat.xiaomi.com^
 ||file.cdn.mvideo.xiaomi.com^
 ||image.cdn.mvideo.xiaomi.com^

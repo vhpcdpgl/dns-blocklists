@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 03:17 UTC
-# Version: 2025.0124.0317.52
+# Last modified: 24 Jan 2025 16:45 UTC
+# Version: 2025.0124.1645.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1853
+# Number of entries: 1860
 #
 local=/000a.de/
 local=/000space.com/
@@ -571,6 +571,7 @@ local=/ch2.eu/
 local=/chamberecommerce.com/
 local=/chat.dj/
 local=/chat3.de/
+local=/doc.checkiteasy.com/
 local=/chez.com/
 local=/city.tl/
 local=/cixx6.com/
@@ -1433,10 +1434,12 @@ local=/ru.cm/
 local=/ru.gg/
 local=/ru.gp/
 local=/ru.nu/
+local=/hcck.ru.com/
 local=/rumahweb.org/
 local=/runhosting.com/
 local=/s.gp/
 local=/sa.gp/
+local=/pkjn.sa.com/
 local=/safe-ws.de/
 local=/kwid9.safetravel.xyz/
 local=/sblog.cz/
@@ -1654,6 +1657,7 @@ local=/uploader.eu/
 local=/urlaub.lc/
 local=/us.nf/
 local=/us.st/
+local=/putrivpn.us.kg/
 local=/usa.gg/
 local=/usafreespace.com/
 local=/usclargo.com/
@@ -1681,6 +1685,7 @@ local=/vollidiot.net/
 local=/vollsten.de/
 local=/voten.in/
 local=/vpswala.org/
+local=/dev.vtoshop.com/
 local=/vxub.com/
 local=/vz.lc/
 local=/wallinside.blog/
@@ -1778,6 +1783,7 @@ local=/werite.net/
 local=/widblog.com/
 local=/widezone.net/
 local=/wifeo.com/
+local=/firmwareck.wikaba.com/
 local=/wiki.lc/
 local=/will-dich.eu/
 local=/win-blog.com/
@@ -1851,6 +1857,7 @@ local=/z.gp/
 local=/za.gp/
 local=/za.net/
 local=/awi.za.com/
+local=/ishg.za.com/
 local=/zamsblog.com/
 local=/zavod.xyz/
 local=/zeblog.com/
