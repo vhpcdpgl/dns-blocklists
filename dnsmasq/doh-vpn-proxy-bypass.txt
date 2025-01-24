@@ -5,14 +5,13 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jan 2025 03:19 UTC
-# Version: 2025.0122.0319.11
+# Last modified: 24 Jan 2025 03:20 UTC
+# Version: 2025.0124.0320.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3755
+# Number of entries: 3754
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
-local=/052419.xyz/
 local=/0ms.dev/
 local=/dns.0ooo.icu/
 local=/0x3d.lu/
@@ -286,6 +285,7 @@ local=/atlasvpn.com/
 local=/atozproxy.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -1066,6 +1066,7 @@ local=/study.englishpapers.online/
 local=/stufy.englishpapers.online/
 local=/sutausfjsajfas.englishpapers.online/
 local=/home.enjoymylife.net/
+local=/enproxy.com/
 local=/enrollkirgo.com/
 local=/dns.enzonix.com/
 local=/epicbrowser.com/
@@ -1999,7 +2000,6 @@ local=/au-syd-w-f-1.nashkan.net/
 local=/de-fra-w-p-1.nashkan.net/
 local=/de-fsn-w-p-1.nashkan.net/
 local=/fi-hel-w-f-2.nashkan.net/
-local=/fr-gra-w-f-1.nashkan.net/
 local=/fr-gra-w-p-1.nashkan.net/
 local=/gb-cov-w-f-1.nashkan.net/
 local=/gb-cov-w-p-1.nashkan.net/
@@ -3759,7 +3759,6 @@ local=/zorrovpn.io/
 local=/zougloub.eu/
 local=/zpath.net/
 local=/zpn.im/
-local=/a.zpn.me/
 local=/zproxy.de/
 local=/zproxy.org/
 local=/zscalertwo.net/

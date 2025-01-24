@@ -5,14 +5,13 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jan 2025 03:18 UTC
-# Version: 2025.0122.0318.00
+# Last modified: 24 Jan 2025 03:19 UTC
+# Version: 2025.0124.0319.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1645
+# Number of entries: 1643
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
-0.0.0.0 052419.xyz
 0.0.0.0 0ms.dev
 0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
@@ -171,6 +170,7 @@
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
+0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -1071,7 +1071,6 @@
 0.0.0.0 de-fra-w-p-1.nashkan.net
 0.0.0.0 de-fsn-w-p-1.nashkan.net
 0.0.0.0 fi-hel-w-f-2.nashkan.net
-0.0.0.0 fr-gra-w-f-1.nashkan.net
 0.0.0.0 fr-gra-w-p-1.nashkan.net
 0.0.0.0 gb-cov-w-f-1.nashkan.net
 0.0.0.0 gb-cov-w-p-1.nashkan.net
@@ -1653,5 +1652,4 @@
 0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org
 0.0.0.0 zougloub.eu
-0.0.0.0 a.zpn.me
 0.0.0.0 dns.zzuhacker.cn

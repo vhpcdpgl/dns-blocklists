@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jan 2025 03:26 UTC
-# Version: 2025.0119.0326.30
+# Last modified: 24 Jan 2025 03:17 UTC
+# Version: 2025.0124.0317.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1854
+# Number of entries: 1853
 #
 local=/000a.de/
 local=/000space.com/
@@ -749,7 +749,6 @@ local=/dynamicboard.de/
 local=/e.gp/
 local=/e-monsite.com/
 local=/easy4blog.com/
-local=/easyfreehosting.com/
 local=/eazylaunch.com/
 local=/eb2a.com/
 local=/eblogmall.com/

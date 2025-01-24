@@ -5,14 +5,13 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jan 2025 03:18 UTC
-# Version: 2025.0122.0318.00
+# Last modified: 24 Jan 2025 03:19 UTC
+# Version: 2025.0124.0319.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1481
+# Number of entries: 1479
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
-local=/052419.xyz/
 local=/0ms.dev/
 local=/dns.0ooo.icu/
 local=/dns.0x55.net/
@@ -132,6 +131,7 @@ local=/dns.asysec.com/
 local=/adguardhome.atakorah.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/africa.avastdns.com/
 local=/secure.avastdns.com/
 local=/adguard.avdkishore.dev/
@@ -943,7 +943,6 @@ local=/au-syd-w-f-1.nashkan.net/
 local=/de-fra-w-p-1.nashkan.net/
 local=/de-fsn-w-p-1.nashkan.net/
 local=/fi-hel-w-f-2.nashkan.net/
-local=/fr-gra-w-f-1.nashkan.net/
 local=/fr-gra-w-p-1.nashkan.net/
 local=/gb-cov-w-f-1.nashkan.net/
 local=/gb-cov-w-p-1.nashkan.net/
@@ -1489,5 +1488,4 @@ local=/adguard-kartoffel.zernico.de/
 local=/dns.zfsystem.tech/
 local=/doh.zknt.org/
 local=/zougloub.eu/
-local=/a.zpn.me/
 local=/dns.zzuhacker.cn/
