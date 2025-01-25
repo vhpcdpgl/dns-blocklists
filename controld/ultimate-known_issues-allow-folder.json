@@ -8,6 +8,13 @@
   },
   "rules": [
     {
+      "PK": "ad-ipd.sxp.smartclip.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ast.bild.de.greylabeldelivery.com",
       "action": {
         "do": 1,
@@ -23,6 +30,13 @@
     },
     {
       "PK": "cdn.opecloud.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "des.smartclip.net",
       "action": {
         "do": 1,
         "status": 1
@@ -65,6 +79,20 @@
     },
     {
       "PK": "tags.tiqcdn.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "te.ip-prod.aws-cbc.cloud",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "te.technical-service.net",
       "action": {
         "do": 1,
         "status": 1
