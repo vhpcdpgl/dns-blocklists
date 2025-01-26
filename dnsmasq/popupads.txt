@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jan 2025 23:42 UTC
-# Version: 2025.0125.2342.17
+# Last modified: 26 Jan 2025 11:42 UTC
+# Version: 2025.0126.1142.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 86686
+# Number of entries: 86691
 #
 local=/0.beer/
 local=/0.club/
@@ -551,6 +551,7 @@ local=/02068.net/
 local=/0207.org/
 local=/02072.com/
 local=/0208.trade/
+local=/02085170.xyz/
 local=/020cn.com/
 local=/020edu.com/
 local=/020fc.com/
@@ -4265,6 +4266,7 @@ local=/465713.com/
 local=/468.surf/
 local=/4690y10pvpq8.com/
 local=/46f4vjo86.com/
+local=/47206262.xyz/
 local=/47235645.xyz/
 local=/47296536.xyz/
 local=/47415889.xyz/
@@ -4610,6 +4612,7 @@ local=/61t2ll6yy.com/
 local=/61zdn1c9.skin/
 local=/622613.com/
 local=/62325a.com/
+local=/62842068.xyz/
 local=/629cgw10.cc/
 local=/62h.site/
 local=/62kjjhg.com/
@@ -4625,6 +4628,7 @@ local=/peerclick.64ecomm.com/
 local=/64p3am9x95ct.com/
 local=/65010191910guide-sgstoping.fr/
 local=/65035033.xyz/
+local=/65122038.xyz/
 local=/652e8747f20895c12e9afa926ba03f24.online/
 local=/6565flo.xyz/
 local=/656f1ba3.xyz/
@@ -11294,7 +11298,6 @@ local=/awkwardtelegram.com/
 local=/awl.red/
 local=/awlaxvnpyf.com/
 local=/awldcupu.com/
-local=/awledconside.xyz/
 local=/awljfawar.com/
 local=/awltovhc.com/
 local=/awmabjspazur.com/
@@ -19420,6 +19423,7 @@ local=/blindsnz.co.nz/
 local=/bluecheese.co.in/
 local=/bluemango.co.in/
 local=/blueskyaviation.co.in/
+local=/bobreward.co.in/
 local=/bodyworkrepairsmanchester.co.uk/
 local=/boilerrepairsoldham.co.uk/
 local=/boo-boo-kits.co.uk/
@@ -21630,6 +21634,7 @@ local=/coqfsqikizcd.com/
 local=/coquetteboutiquehouston.com/
 local=/cor8ni3shwerex.com/
 local=/coraclespensionersreproduced.monster/
+local=/coractions.com/
 local=/corange.ninja/
 local=/corcovadodesign.com/
 local=/cordclck.cc/
