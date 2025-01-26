@@ -1891,6 +1891,13 @@
       }
     },
     {
+      "PK": "l.lefigaro.fr",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "l.neqty.net",
       "action": {
         "do": 1,
@@ -2053,6 +2060,13 @@
     },
     {
       "PK": "newslink.reuters.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "njih.net",
       "action": {
         "do": 1,
         "status": 1

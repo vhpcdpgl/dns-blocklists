@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jan 2025 00:28 UTC
-# Version: 2025.0125.0028.56
+# Last modified: 26 Jan 2025 03:17 UTC
+# Version: 2025.0126.0317.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3753
+# Number of entries: 3754
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1459,6 +1459,7 @@ local=/hideoxy.com/
 local=/hideproxy.me/
 local=/hidessh.com/
 local=/hidester.com/
+local=/hidester.one/
 local=/hidesurf.us/
 local=/hidetheinternet.com/
 local=/hidethisip.net/
