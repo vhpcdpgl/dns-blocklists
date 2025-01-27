@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jan 2025 03:16 UTC
-# Version: 2025.0127.0316.51
+# Last modified: 27 Jan 2025 15:13 UTC
+# Version: 2025.0127.1513.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1641
+# Number of entries: 1640
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1502,7 +1502,6 @@
 0.0.0.0 dns.theres.one
 0.0.0.0 dns.therifleman.name
 0.0.0.0 blocker.thethorsens.org
-0.0.0.0 doh.thio.me
 0.0.0.0 doh.tiar.app
 0.0.0.0 dot.tiar.app
 0.0.0.0 jp.tiar.app

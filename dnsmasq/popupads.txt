@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jan 2025 23:44 UTC
-# Version: 2025.0126.2344.11
+# Last modified: 27 Jan 2025 11:44 UTC
+# Version: 2025.0127.1144.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 86096
+# Number of entries: 86097
 #
 local=/0.beer/
 local=/0.club/
@@ -5329,6 +5329,7 @@ local=/abelekidr.com/
 local=/abelestheca.com/
 local=/abelia.ca/
 local=/abenityhomeloan.com/
+local=/abeonetworks.com/
 local=/abesofaer.com/
 local=/abetcattle.com/
 local=/abethow.com/
@@ -5586,6 +5587,7 @@ local=/accelerateswitch.com/
 local=/acceleratetomb.com/
 local=/acceleronpharmaceutical.com/
 local=/accellyze.com/
+local=/accendereit.co/
 local=/accentneglectporter.com/
 local=/acceptable-perception.com/
 local=/acceptablearablezoological.com/
@@ -23639,7 +23641,6 @@ local=/debitcrebit669.com/
 local=/debitslopenoncommittal.com/
 local=/deblur.me/
 local=/deboers.ca/
-local=/debonairway.com/
 local=/debrecenonfood.com/
 local=/debrisstern.com/
 local=/debsoaftist.com/
@@ -28215,7 +28216,6 @@ local=/encouraginghangover.com/
 local=/encouragingpistolassemble.com/
 local=/encouragingsnake.com/
 local=/encouragingthread.com/
-local=/encouragingwilderness.com/
 local=/encroachbuzzing.com/
 local=/encroachcivilian.com/
 local=/encrochat.ch/
@@ -30562,6 +30562,7 @@ local=/festivalcasketfrench.com/
 local=/festivaldecine.cc/
 local=/festivalgnaoua.info/
 local=/festivalofphones.online/
+local=/festivalsinestesico.com/
 local=/festivecollections.com/
 local=/festivegiftstudio.ca/
 local=/festivegiftstudio.com/
@@ -31116,6 +31117,7 @@ local=/fixittoday.biz/
 local=/fixitymetabit.website/
 local=/fixm.xyz/
 local=/fixmysocialcreditscoregame.com/
+local=/fixmywagonaz.com/
 local=/fixnrun.com/
 local=/fixpass.net/
 local=/fizu.app/
@@ -32778,7 +32780,6 @@ local=/fw2a7lvgo.com/
 local=/fwbejnuplyuxufm.xyz/
 local=/fwbntw.com/
 local=/fwdcpa.net/
-local=/fwealjdmeptu.com/
 local=/fwecargurha.com/
 local=/fwilmdact.com/
 local=/fwjwhiaitrgi.xyz/
@@ -50447,6 +50448,7 @@ local=/moilizoi.com/
 local=/moistblank.com/
 local=/moistcargo.com/
 local=/moistenmanoc.com/
+local=/moistlyfroliceton.com/
 local=/moizen.xyz/
 local=/moj-admin.info/
 local=/mojavesaltstudio.com/
@@ -57236,7 +57238,6 @@ local=/paravaprese.com/
 local=/paraxpress.com/
 local=/parcagrobiotech.com/
 local=/parcelstoppage.com/
-local=/parchedangle.com/
 local=/parchedscrew.pro/
 local=/parchedsofa.com/
 local=/parchedvisit.com/
@@ -69009,7 +69010,6 @@ local=/simplexinternational.com/
 local=/simplifinow.com/
 local=/simpliigenius.com/
 local=/simpliisustainable.com/
-local=/simplistic-king.pro/
 local=/simplisustainable.com/
 local=/simplyabjection.com/
 local=/simplyaccessable.io/
@@ -77034,6 +77034,7 @@ local=/trazendoaarca.com/
 local=/trazgki.com/
 local=/trbinnace.com/
 local=/trblocked.com/
+local=/trbx-l1.online/
 local=/trc85.com/
 local=/trccmpnlnk.com/
 local=/trcklks.com/
