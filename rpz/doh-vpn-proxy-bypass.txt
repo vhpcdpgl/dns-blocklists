@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737861420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737947880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jan 2025 03:17 UTC
-; Version: 2025.0126.0317.55
+; Last modified: 27 Jan 2025 03:18 UTC
+; Version: 2025.0127.0318.03
 ; Syntax: RPZ
-; Number of entries: 7508
+; Number of entries: 7492
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -506,8 +506,6 @@ ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
 uw-dns.rubyfish.cn CNAME .
 *.uw-dns.rubyfish.cn CNAME .
-topvpn.cn CNAME .
-*.topvpn.cn CNAME .
 dns.zzuhacker.cn CNAME .
 *.dns.zzuhacker.cn CNAME .
 astrovpn.co CNAME .
@@ -1160,8 +1158,6 @@ droidvpn.com CNAME .
 *.droidvpn.com CNAME .
 duapps.com CNAME .
 *.duapps.com CNAME .
-resolver2.dyndnsinternetguide.com CNAME .
-*.resolver2.dyndnsinternetguide.com CNAME .
 earnapp.com CNAME .
 *.earnapp.com CNAME .
 earthvpn.com CNAME .
@@ -1372,8 +1368,6 @@ getvpnx.com CNAME .
 *.getvpnx.com CNAME .
 getxvpn.com CNAME .
 *.getxvpn.com CNAME .
-getxweb.com CNAME .
-*.getxweb.com CNAME .
 gfwvpn.com CNAME .
 *.gfwvpn.com CNAME .
 ghostpath.com CNAME .
@@ -1854,8 +1848,6 @@ ninjabrowse.com CNAME .
 *.ninjabrowse.com CNAME .
 ninjacloak.com CNAME .
 *.ninjacloak.com CNAME .
-nntime.com CNAME .
-*.nntime.com CNAME .
 pi1.node15.com CNAME .
 *.pi1.node15.com CNAME .
 noodlevpn.com CNAME .
@@ -2388,8 +2380,6 @@ snapxs.com CNAME .
 *.snapxs.com CNAME .
 snowproxy.com CNAME .
 *.snowproxy.com CNAME .
-dove.soapagent.com CNAME .
-*.dove.soapagent.com CNAME .
 dove.soapclient.com CNAME .
 *.dove.soapclient.com CNAME .
 www-proxy.sodemc.com CNAME .
@@ -2534,8 +2524,6 @@ swiftshieldvpn.com CNAME .
 *.swiftshieldvpn.com CNAME .
 switchvpn.com CNAME .
 *.switchvpn.com CNAME .
-swordvpn.com CNAME .
-*.swordvpn.com CNAME .
 dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
 t-dz.com CNAME .
@@ -2814,8 +2802,6 @@ veripn.com CNAME .
 *.veripn.com CNAME .
 viatun.com CNAME .
 *.viatun.com CNAME .
-videounblocked.com CNAME .
-*.videounblocked.com CNAME .
 vidproxy.com CNAME .
 *.vidproxy.com CNAME .
 vikingvpn.com CNAME .
@@ -3564,8 +3550,6 @@ ukwebproxy.eu CNAME .
 *.ukwebproxy.eu CNAME .
 unasw.eu CNAME .
 *.unasw.eu CNAME .
-unblockfacebook.eu CNAME .
-*.unblockfacebook.eu CNAME .
 usaip.eu CNAME .
 *.usaip.eu CNAME .
 workhost.eu CNAME .

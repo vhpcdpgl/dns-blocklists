@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 16:42 UTC
-# Version: 2025.0124.1642.11
+# Last modified: 27 Jan 2025 03:14 UTC
+# Version: 2025.0127.0314.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1479
+# Number of entries: 1471
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -252,7 +252,6 @@ local=/dark-byte.net/
 local=/darksair.org/
 local=/darktech.org/
 local=/davidsagar.com/
-local=/dd-dns.de/
 local=/ddns.cam/
 local=/ddns.info/
 local=/ddns.me/
@@ -351,7 +350,6 @@ local=/dougtreadwell.com/
 local=/doyleandprendergast.com/
 local=/dp76.com/
 local=/dpcube.com/
-local=/dray-dns.de/
 local=/drayddns.com/
 local=/draydns.de/
 local=/dropfiles.net/
@@ -495,7 +493,6 @@ local=/etowns.org/
 local=/eurotank.ro/
 local=/eva.hk/
 local=/everton.com/
-local=/evils.in/
 local=/expired-dns.com/
 local=/ez-ip.net/
 local=/ezua.com/
@@ -966,8 +963,6 @@ local=/mudchute.com/
 local=/musterihizmetleri.com/
 local=/mwop.net/
 local=/my.to/
-local=/my-vigor.de/
-local=/my-wan.de/
 local=/my03.com/
 local=/myactivedirectory.com/
 local=/myaddr.dev/
@@ -1329,8 +1324,6 @@ local=/surak.kz/
 local=/surfnet.ca/
 local=/suroot.com/
 local=/swtest.ru/
-local=/syno-ds.de/
-local=/synology-diskstation.de/
 local=/synology-ds.de/
 local=/synoserver.com/
 local=/syntereo.com/
@@ -1478,7 +1471,6 @@ local=/z86.ru/
 local=/zaibar.ro/
 local=/zanity.net/
 local=/zapto.org/
-local=/zapto.xyz/
 local=/ze.am/
 local=/zelslonik.info/
 local=/zneth.com/

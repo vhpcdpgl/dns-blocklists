@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jan 2025 03:17 UTC
-# Version: 2025.0126.0317.55
+# Last modified: 27 Jan 2025 03:18 UTC
+# Version: 2025.0127.0318.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3754
+# Number of entries: 3746
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1017,7 +1017,6 @@ local=/dutchproxy.nl/
 local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
-local=/resolver2.dyndnsinternetguide.com/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
 local=/dnscache.e-utp.net/
@@ -1320,7 +1319,6 @@ local=/gettwifi.com/
 local=/getusvpn.com/
 local=/getvpnx.com/
 local=/getxvpn.com/
-local=/getxweb.com/
 local=/gfwvpn.com/
 local=/ghadrboland.ir/
 local=/www-croxy.ghgi.site/
@@ -2097,7 +2095,6 @@ local=/ny1.nixnet.xyz/
 local=/doh.niyawe.de/
 local=/njal.la/
 local=/njtzzrvg0lwj3bsn.info/
-local=/nntime.com/
 local=/nocensor.work/
 local=/pi1.node15.com/
 local=/nodepay.ai/
@@ -2865,7 +2862,6 @@ local=/smartydns.com/
 local=/snapxs.com/
 local=/snowproxy.com/
 local=/guard.sntrk.ru/
-local=/dove.soapagent.com/
 local=/dove.soapclient.com/
 local=/socialnetworkinfo.us/
 local=/socks-proxy.net/
@@ -3009,7 +3005,6 @@ local=/swissvpn.net/
 local=/switch.ch/
 local=/switchvpn.com/
 local=/switchvpn.net/
-local=/swordvpn.com/
 local=/dns.sy.st/
 local=/dns.syaifullah.com/
 local=/ibksturm.synology.me/
@@ -3134,7 +3129,6 @@ local=/topsecure.info/
 local=/topsun.pw/
 local=/toptip.cc/
 local=/topvpn.cc/
-local=/topvpn.cn/
 local=/topvpnguides.com/
 local=/tor-gateways.de/
 local=/tor2web.fi/
@@ -3328,7 +3322,6 @@ local=/unblockedv4.com/
 local=/unblockedwarez.com/
 local=/unblocker.net/
 local=/unblocker.us/
-local=/unblockfacebook.eu/
 local=/unblockfav.com/
 local=/unblockfreeproxy.com/
 local=/unblockit.app/
@@ -3456,7 +3449,6 @@ local=/videocollage.us/
 local=/videomy.online/
 local=/videonew.online/
 local=/videoproxy.site/
-local=/videounblocked.com/
 local=/videounblocker.net/
 local=/vidproxy.com/
 local=/viewyoutube.net/
