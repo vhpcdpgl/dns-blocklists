@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jan 2025 23:48 UTC
-# Version: 2025.0127.2348.17
+# Last modified: 28 Jan 2025 11:56 UTC
+# Version: 2025.0128.1156.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10559
+# Number of entries: 10572
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -181,6 +181,7 @@ local=/agros-dynamics.com/
 local=/aguasco.com/
 local=/ahapunkt.at/
 local=/ahwui.xyz/
+local=/ai-assets.net/
 local=/aido-gooders.com/
 local=/aigleoutletuk.com/
 local=/aiglewien.at/
@@ -694,6 +695,7 @@ local=/axelarigatojapan.net/
 local=/axelarigatomilano.it/
 local=/axelarigatooslo.com/
 local=/axelarigatotenisice.com/
+local=/axetradecapital.com/
 local=/axicp.net/
 local=/axiogenesis.com/
 local=/axlelinkbikede.com/
@@ -710,6 +712,7 @@ local=/azr-capital.com/
 local=/azzunto.de/
 local=/gamer-held.b-cdn.net/
 local=/b-group.online/
+local=/b-group.pro/
 local=/b-tinvest.com/
 local=/b2arbeitsvermittlung.com/
 local=/b2b-consulting.net/
@@ -1181,6 +1184,7 @@ local=/bitconnect.co/
 local=/bitcore-surge.org/
 local=/bitcostar.com/
 local=/bitengecko.com/
+local=/bitfinancial.info/
 local=/bitflyset.com/
 local=/biticodes.com/
 local=/bitindexai.org/
@@ -2778,6 +2782,7 @@ local=/elipolyse.de/
 local=/elisaluna-handel24.de/
 local=/elisehassoun.com/
 local=/elite-real-estate.com/
+local=/eliteai-t.com/
 local=/elitecloth.store/
 local=/elitwelpen.de/
 local=/elizazara.com/
@@ -3950,6 +3955,7 @@ local=/gourmandebusy.com/
 local=/goviva-kaffee.de/
 local=/gpt-chatt.com/
 local=/gpt-definity.com/
+local=/gpt-immediate.com/
 local=/gpt-investor.de/
 local=/gpt-reichtum.de/
 local=/gpt-trader.de/
@@ -4790,6 +4796,7 @@ local=/intesa-gestion.com/
 local=/intimewatches.de/
 local=/introtrade.pro/
 local=/inuikii-schweiz.com/
+local=/investbridge-capital.com/
 local=/investcapitalmarkets.com/
 local=/de.oil-profit.investerscorp.com/
 local=/tesler.investerscorp.com/
@@ -5606,6 +5613,7 @@ local=/lorinthewild.com/
 local=/lornajanesuomi.com/
 local=/lornajanesuomi.net/
 local=/lorryspottingshop.com/
+local=/web.lotradecoin.net/
 local=/lotsfx.com/
 local=/lottoargentina.net/
 local=/lottoaustralia.org/
@@ -5693,6 +5701,7 @@ local=/luxefetch.com/
 local=/luxfewo.de/
 local=/luxnoo.de/
 local=/luxozza.com/
+local=/luxtious.com/
 local=/luxuryholidaysvilla.com/
 local=/luxuryvetements.com/
 local=/luxusuhren.to/
@@ -6600,6 +6609,7 @@ local=/notfall-herzinfarkt.de/
 local=/notfall-installateur.at/
 local=/nouveauveloventefr.com/
 local=/nouvelle-epargne-livret.com/
+local=/nova-finance.net/
 local=/novadeal.de/
 local=/novafinanz.de/
 local=/novak24.com/
@@ -8382,6 +8392,7 @@ local=/sieker-versand.de/
 local=/sierke24.de/
 local=/sifs-finance.de/
 local=/silkstocking.de/
+local=/silverfleetcapital.pro/
 local=/simaholz.com/
 local=/simpledancing.com/
 local=/simplejuicing.net/
@@ -10015,6 +10026,7 @@ local=/virgoexpress.com/
 local=/virtualcapitaltraders.com/
 local=/virtuelle-analysen.de/
 local=/virtuellerassistentt.com/
+local=/vision-fs.com/
 local=/visionfancyclothing.com/
 local=/visionfx.me/
 local=/visitaserbia.com/
@@ -10100,6 +10112,7 @@ local=/vrtil.com/
 local=/vswatches.net/
 local=/vtmarkets.net/
 local=/eu.vtmarkets.com/
+local=/vtmarketsfr.com/
 local=/vttaccueilsolids.com/
 local=/vuelex.com/
 local=/vulcanus.at/
