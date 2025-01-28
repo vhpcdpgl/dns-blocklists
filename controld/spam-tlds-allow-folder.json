@@ -386,6 +386,13 @@
       }
     },
     {
+      "PK": "canonn.science",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "casey.prof",
       "action": {
         "do": 1,
@@ -2172,6 +2179,13 @@
     },
     {
       "PK": "proven.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qr-code.click",
       "action": {
         "do": 1,
         "status": 1

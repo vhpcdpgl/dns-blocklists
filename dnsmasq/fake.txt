@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jan 2025 23:50 UTC
-# Version: 2025.0126.2350.09
+# Last modified: 27 Jan 2025 23:48 UTC
+# Version: 2025.0127.2348.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10561
+# Number of entries: 10559
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -160,7 +160,6 @@ local=/aerosolesshoesoutlets.com/
 local=/aersix.com/
 local=/aetos-deutschland.de/
 local=/aetrexoutletfactory.com/
-local=/aeydeschuhe.de/
 local=/afara.de/
 local=/affen-park.de/
 local=/affenzahn-exclusive.shop/
@@ -2174,7 +2173,6 @@ local=/dasrichtigeholz.com/
 local=/daswirthshaus.com/
 local=/datapprove-gmbh.com/
 local=/datook-de.com/
-local=/daunenjacken-shop.com/
 local=/daveamor.us/
 local=/daveintheshop.com/
 local=/davidkimboyle.net/

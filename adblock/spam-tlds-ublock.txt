@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 Jan 2025 15:16 UTC
-! Version: 2025.0127.1516.37
+! Last modified: 28 Jan 2025 02:25 UTC
+! Version: 2025.0128.0225.14
 ! Syntax: uBlock
 ! Number of latin TLDs: 220 - non-latin TLDs: 151
 !
@@ -57,7 +57,7 @@
 ||church^$doc,domain=~life.church|~online.church
 ||city^$doc,domain=~bypass.city|~ops.city
 ||claims^$doc
-||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~ravelin.click|~xcine.click
+||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click|~xcine.click
 ||clothing^$doc
 ||club^$doc,domain=~baby-beamup.club|~clovius.club|~digipres.club|~hd-olimpo.club|~mbcherohub.club|~pdfmagazines.club|~skin.club|~thelemmy.club
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
@@ -186,7 +186,7 @@
 ||sale^$doc
 ||sbs^$doc,domain=~ecopulse.sbs
 ||schule^$doc
-||science^$doc,domain=~hal.science|~wander.science
+||science^$doc,domain=~canonn.science|~hal.science|~wander.science
 ||sew^$doc
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
 ||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~grnk.shop|~grog.shop|~henssler.shop|~munu.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
