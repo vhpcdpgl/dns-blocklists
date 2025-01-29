@@ -89,7 +89,7 @@
  24 |      78% |  15% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  25 |     100% |   0% |      0% | Pop-Up Ads
  26 |      83% |   0% |     17% | Native Tracker TikTok Extended (Fingerprinting)
- 27 |      84% |   8% |      8% | Aggressive Extension
+ 27 |      85% |   8% |      7% | Aggressive Extension
  28 |      98% |   1% |      1% | Denylist Community Aggressive
 ```
 #### ULTIMATE

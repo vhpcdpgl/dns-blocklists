@@ -151,7 +151,6 @@ restapi.amap.com
 mas-sdk.amazon.com
 mas-ssr-eu-ad.amazon.com
 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
-devicemessaging.us-east-1.amazon.com
 firehose.ap-northeast-1.amazonaws.com
 firehose.ap-northeast-2.amazonaws.com
 firehose.ap-south-1.amazonaws.com
@@ -191,6 +190,7 @@ firehose.us-west-1.amazonaws.com
 firehose.us-west-2.amazonaws.com
 omns.americanexpress.com
 amgload.net
+amiami.jp
 amlg.io
 amospalla.es
 angolotesti.it
@@ -411,6 +411,8 @@ filebroker-cdn.lazada.sg.9d2b5122.cdnhwcchh18.com
 filebroker-cdn.lazada.co.th.9d2b5122.cdnhwcchh18.com
 platform.cdninstagram.com
 cdntips.net
+cedexis.com
+www.cedexis.com
 tracker.ceph.com
 creative-services.ceros.com
 tr.notification.cetelem.fr
@@ -1168,8 +1170,6 @@ homepage-baukasten.de
 hoodline.com
 hosteagle.club
 www.hosteagle.club
-hosting24.com
-www.hosting24.com
 bifrost-api.hotstar.com
 howsmyssl.com
 www.howsmyssl.com
@@ -1178,7 +1178,6 @@ hs-sites.com
 www.hs-sites.com
 hsdn.org
 hsforms.com
-hsforms.net
 js.hsforms.net
 hubspot.net
 academy.hubspot.com
@@ -1203,6 +1202,7 @@ ig.me
 www.ig.me
 de.ign.com
 ihreapotheken.de
+iili.io
 ikohs.com
 ec3.images-amazon.com
 e.imguol.com
@@ -1368,7 +1368,6 @@ log22-normal-alisg.lemon8-app.com
 log22-normal-useast1a.lemon8-app.com
 lenta.ru
 l.leparisien.fr
-ibs.lgappstv.com
 us.ibs.lgappstv.com
 gb.lgrecommends.lgappstv.com
 aic-ngfts.lge.com
@@ -1377,10 +1376,8 @@ info.lgsmartad.com
 us.info.lgsmartad.com
 vn.info.lgsmartad.com
 www.lgsmartad.com
-lgtvcommon.com
 gb.lgtvsdp.com
 kr.lgtvsdp.com
-rdx2.lgtvsdp.com
 ar.rdx2.lgtvsdp.com
 at.rdx2.lgtvsdp.com
 au.rdx2.lgtvsdp.com
@@ -1541,7 +1538,6 @@ f2.market.mi-img.com
 f3.market.mi-img.com
 f4.market.mi-img.com
 f5.market.mi-img.com
-choice.microsoft.com
 crl.microsoft.com
 dds.microsoft.com
 continuum.dds.microsoft.com
@@ -1930,6 +1926,7 @@ heartbeat.dm.origin.com
 cmp.osano.com
 locale.cmp.osano.com
 oshi.at
+ota-goods.info
 cdn.otstatic.com
 api-h.outgrow.co
 api-live.outgrow.co
@@ -2160,7 +2157,6 @@ recoco.it
 jsv3.recruitics.com
 recursos-tpnet.es
 qm.redbull.com
-hbbtv.redbutton.de
 redbutton-adproxy-lb-prod.redbutton.de
 im.rediff.com
 redventures.io
@@ -2213,7 +2209,6 @@ dg-fa.rspcdn.net
 dg-fa-h1.rspcdn.net
 9-2-2.p.dpplr-g.rspcdn.net
 monitor.ns1-s.rspcdn.net
-hbbtv.rtl2.de
 rtoaster.jp
 rudderstack.com
 api.rudderstack.com
@@ -2395,7 +2390,6 @@ softwareadvice.com
 www.softwareadvice.com
 images.sohu.com
 api.solvvy.com
-hbbtvapp.sonnenklar.tv
 soso.com
 www.soso.com
 ccpa.sp-prod.net
@@ -2414,7 +2408,6 @@ damoh.spiegel.de
 auth.split.io
 cdn.split.io
 sdk.split.io
-hbbtv.sport1.de
 api-2-0.spot.im
 seo.spot.im
 heads-fa.spotify.com
@@ -2566,7 +2559,6 @@ static-v2.trbo.com
 www.trbo.com
 treehousei.com
 log.tresorit.com
-ak-d.tripcdn.com
 tripple.at
 analytics.tripwireinteractive.com
 trust-provider.com
@@ -2635,7 +2627,6 @@ uobsoe.com
 secure.upc.ua
 updatestar.com
 www.updatestar.com
-upload.cc
 uplynk.com
 wallet-api.urbanairship.com
 tracking.urbn.com
@@ -2743,7 +2734,6 @@ wizrocketmail.net
 wiztube.xyz
 netu.wiztube.xyz
 www.wiztube.xyz
-wmflabs.org
 cdn.wolf-327b.com
 cbs.wondershare.com
 macplatform.wondershare.com
@@ -2815,7 +2805,6 @@ location.api.yuppcdn.net
 z4a.net
 zachej.sk
 zbiornik.com
-hbbtv.zdf.de
 za.zdn.vn
 zenaps.com
 www.zenaps.com
