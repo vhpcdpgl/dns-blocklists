@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738076520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738119540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jan 2025 15:02 UTC
-; Version: 2025.0128.1502.07
+; Last modified: 29 Jan 2025 02:59 UTC
+; Version: 2025.0129.0259.11
 ; Syntax: RPZ
-; Number of entries: 152282
+; Number of entries: 152274
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -6221,8 +6221,6 @@ cactuscasino-vop.buzz CNAME .
 *.cactuscasino-vop.buzz CNAME .
 cactuscasino809.buzz CNAME .
 *.cactuscasino809.buzz CNAME .
-casino-arkada-live.buzz CNAME .
-*.casino-arkada-live.buzz CNAME .
 casino-arkada-thl.buzz CNAME .
 *.casino-arkada-thl.buzz CNAME .
 casino-arkada12.buzz CNAME .
@@ -82347,8 +82345,6 @@ with-casino.com CNAME .
 *.with-casino.com CNAME .
 withcasinobonus.com CNAME .
 *.withcasinobonus.com CNAME .
-withplum.com CNAME .
-*.withplum.com CNAME .
 withslots.com CNAME .
 *.withslots.com CNAME .
 wixstars.com CNAME .
@@ -86287,8 +86283,6 @@ zeturf.fr CNAME .
 *.7ballbet.fun CNAME .
 7k-casino.fun CNAME .
 *.7k-casino.fun CNAME .
-7k-casino-live.fun CNAME .
-*.7k-casino-live.fun CNAME .
 7k-casino-online.fun CNAME .
 *.7k-casino-online.fun CNAME .
 7k-casino51.fun CNAME .
@@ -104519,8 +104513,6 @@ oliver-casino.online CNAME .
 *.oliver-casino.online CNAME .
 olivercasino.online CNAME .
 *.olivercasino.online CNAME .
-on-x-casino-live.online CNAME .
-*.on-x-casino-live.online CNAME .
 on-x-casino1.online CNAME .
 *.on-x-casino1.online CNAME .
 one-casino.online CNAME .

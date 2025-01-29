@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jan 2025 11:56 UTC
-# Version: 2025.0128.1156.41
+# Last modified: 28 Jan 2025 23:50 UTC
+# Version: 2025.0128.2350.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10572
+# Number of entries: 10568
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1078,7 +1078,6 @@ local=/bikenabende.com/
 local=/bikenstock.shop/
 local=/bikepanoplyde.com/
 local=/bikepartsale.com/
-local=/biker-kids.de/
 local=/bikerabatt.com/
 local=/bikerherz.com/
 local=/bikesequipment.com/
@@ -2697,7 +2696,6 @@ local=/einkaufsglueckde.de/
 local=/einkaufsheldde.de/
 local=/einkaufskaiser.de/
 local=/einkaufsrausch.de/
-local=/eintracht-fechten.de/
 local=/einzelfahrrad.de/
 local=/einzu.de/
 local=/eiroshop.lv/
@@ -5157,7 +5155,6 @@ local=/kickerssuomi.com/
 local=/kiddy-bikes.uk/
 local=/kidebro.com/
 local=/kidgames.life/
-local=/kidinix.uk/
 local=/kids-premium.com/
 local=/kidsimply.shop/
 local=/kidstriderite.com/
@@ -5207,7 +5204,6 @@ local=/klarsteinhaushaltspar.com/
 local=/klasei-handel.de/
 local=/klassischesfahrradneu.com/
 local=/klax24.de/
-local=/kleidermafia.shop/
 local=/kleidungliebe.de/
 local=/kleinezeitung.co/
 local=/klgm-eiche.de/
