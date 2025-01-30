@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jan 2025 03:12 UTC
-# Version: 2025.0130.0312.44
+# Last modified: 30 Jan 2025 15:34 UTC
+# Version: 2025.0130.1534.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1473
+# Number of entries: 1474
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -508,6 +508,7 @@ local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
+local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/

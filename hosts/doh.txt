@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jan 2025 03:12 UTC
-# Version: 2025.0130.0312.44
+# Last modified: 30 Jan 2025 15:34 UTC
+# Version: 2025.0130.1534.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1637
+# Number of entries: 1638
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -623,6 +623,7 @@
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 home27.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
+0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jan 2025 23:48 UTC
-# Version: 2025.0129.2348.10
+# Last modified: 30 Jan 2025 11:50 UTC
+# Version: 2025.0130.1150.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10597
+# Number of entries: 10598
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -5838,6 +5838,7 @@ local=/marketusgear.com/
 local=/marketussports.com/
 local=/markisenrabatt.com/
 local=/markmale.de/
+local=/markt.life/
 local=/markt-elektro.com/
 local=/markt-forschung.com/
 local=/markt-shop.com/
