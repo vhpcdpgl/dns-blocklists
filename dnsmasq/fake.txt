@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jan 2025 11:49 UTC
-# Version: 2025.0129.1149.29
+# Last modified: 29 Jan 2025 23:48 UTC
+# Version: 2025.0129.2348.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10596
+# Number of entries: 10597
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -6261,7 +6261,6 @@ local=/motorrad-2023.com/
 local=/motorrad-levy-elsa.com/
 local=/motorrad70.com/
 local=/motorraderhelme.de/
-local=/motorraders.de/
 local=/motorsensen-shop.com/
 local=/motzenerdistribution.com/
 local=/motzkus-sport24.de/
@@ -6821,6 +6820,7 @@ local=/onlinekamagrastore.org/
 local=/onlinekmnwi.com/
 local=/onlinekuche.com/
 local=/onlineladywear.com/
+local=/app.onlinelebenslauf.com/
 local=/onlinemaripe.com/
 local=/onlinemensdenim.com/
 local=/onlinemotorrad.com/
@@ -10563,6 +10563,7 @@ local=/zerogrid.shop/
 local=/zesavi-tech.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
+local=/app.zety.de/
 local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/
 local=/zidnjlamp.com/
