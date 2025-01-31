@@ -1604,6 +1604,13 @@
       }
     },
     {
+      "PK": "malware.expert",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "manson.wiki",
       "action": {
         "do": 1,

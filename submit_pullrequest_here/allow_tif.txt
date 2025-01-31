@@ -1,5 +1,10 @@
 # Domains to be removed from the tif and tif medium/mini list.
 
+# https://github.com/hagezi/dns-blocklists/issues/5046
+usw-tencentclb.net
+trk.newpowerads.com
+trk.thinkbigmediax.com
+
 # https://github.com/hagezi/dns-blocklists/issues/3385
 crash.syncthing.net
 
