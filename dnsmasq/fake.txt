@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jan 2025 11:50 UTC
-# Version: 2025.0130.1150.19
+# Last modified: 30 Jan 2025 23:48 UTC
+# Version: 2025.0130.2348.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10598
+# Number of entries: 10592
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1855,7 +1855,6 @@ local=/burton.co.at/
 local=/deuter.co.at/
 local=/diesel.co.at/
 local=/digitalinfo.co.kr/
-local=/drewhouse.co.za/
 local=/drscholls.co.za/
 local=/duneshoesouthafrica.co.za/
 local=/emporioarmanisouthafrica.co.za/
@@ -5041,7 +5040,6 @@ local=/kajambo-tech.de/
 local=/kalamataolivenoel.de/
 local=/kaloszehunter.com/
 local=/kamagra.at/
-local=/kamagra-online-bestellen.com/
 local=/kamagra-shqip.com/
 local=/kamagra-trade.de/
 local=/kamagrabestellenshop.to/
@@ -5382,7 +5380,6 @@ local=/lambergkapital.com/
 local=/lambing-kauf.de/
 local=/lamofaria.de/
 local=/lampenbillig.com/
-local=/lampenshoppe.com/
 local=/lampshades-official.com/
 local=/lampslightsshop.com/
 local=/lampsstyle.com/
@@ -5566,6 +5563,7 @@ local=/linear-antrieb.de/
 local=/linens-chic.com/
 local=/linevo.de/
 local=/link-handel24.de/
+local=/linknook.com/
 local=/linodo.de/
 local=/linuma-tech.de/
 local=/lion-universe.com/
@@ -5819,7 +5817,6 @@ local=/marianwade.shop/
 local=/marinadecoration.com/
 local=/marinepartdepots.com/
 local=/marionmaurer.com/
-local=/mariplum.com/
 local=/market-discounts.com/
 local=/market24prime.shop/
 local=/marketbarogmbh.de/
@@ -7440,7 +7437,6 @@ local=/produkttester-anmeldung.com/
 local=/proeuromeds.com/
 local=/profi-rasenmaher.com/
 local=/profibikes.de/
-local=/profikauf.com/
 local=/profitmarket.org/
 local=/profiton.pro/
 local=/webtrader.profitwave.app/
@@ -9374,7 +9370,6 @@ local=/todo-para-embarcaciones.com/
 local=/todswien.at/
 local=/togclothes.com/
 local=/togetherrxacces.com/
-local=/realgermany.tohesokshopping.com/
 local=/tohlers.de/
 local=/token-trust.ltd/
 local=/tollergarten.com/
@@ -9604,7 +9599,6 @@ local=/true-drugstore.com/
 local=/true-tab.com/
 local=/trueandraven.shop/
 local=/truedrugz.com/
-local=/truepillz.com/
 local=/truffis.com/
 local=/trustedallovertheworld.com/
 local=/trustedeumeds.com/
