@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jan 2025 11:31 UTC
-# Version: 2025.0131.1131.50
+# Last modified: 31 Jan 2025 23:10 UTC
+# Version: 2025.0131.2310.46
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 806
+# Number of entries: 813
 #
 l.1mp.ru
 t.1und1.de
@@ -64,13 +64,10 @@ aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
-aax-eu.amazon.pl
 aax-eu.amazon.sa
-aax-eu.amazon.se
 aax-eu-dub.amazon.com
 aax-eu-retail-rtb.amazon.com
 aax-fe.amazon.com
-aax-fe.amazon.sg
 aax-fe-pdx-direct.amazon.com
 aax-fe-retail-rtb.amazon.com
 aax-us-east-retail-direct.amazon.com
@@ -79,7 +76,6 @@ aax-us-iad.amazon.com
 aax-dtb-cf.amazon-adsystem.amazon.com
 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.amazon.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.amazon.com
 aax-us-ott.amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
@@ -206,6 +202,7 @@ createsend.com
 createsend1.com
 click.mc.crimsontrace.com
 links.email.crunchbase.com
+m-6hcq7.custobar.com
 track.customer.io
 track-eu.customer.io
 track-sdk.customer.io
@@ -255,23 +252,22 @@ api.elasticemail.com
 hs.eloqua.com
 list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
-suite-dashboard.gservice.emarsys.net
-suite.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
-suite15.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
+suite22.emarsys.net
 suite24.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
-suite36.emarsys.net
+suite34.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
+suite44.emarsys.net
 suite45.emarsys.net
-suite52.emarsys.net
+suite47-cf.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
@@ -290,10 +286,13 @@ secure.everyaction.com
 evyy.net
 m.exactag.com
 tp-emea.exactag.com
+s1.login.exacttarget.com
 s10.login.exacttarget.com
+s12.login.exacttarget.com
 s1.exacttarget.com
 inbound.s1.exacttarget.com
 inbound-reply.s1.exacttarget.com
+mc.s1.exacttarget.com
 s10.exacttarget.com
 bounce.s10.exacttarget.com
 click.s10.exacttarget.com
@@ -329,6 +328,7 @@ reply.s13.exacttarget.com
 virt.s13.exacttarget.com
 click.virt.s13.exacttarget.com
 s4.exacttarget.com
+click.s4.exacttarget.com
 inbound.s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -340,8 +340,6 @@ bounce.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
-reply.s50.exacttarget.com
-view.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
 click.s51.exacttarget.com
@@ -349,6 +347,7 @@ mc.s51.exacttarget.com
 s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
+inbound-reply.s6.exacttarget.com
 mc.s6.exacttarget.com
 members.s6.exacttarget.com
 virt.s6.exacttarget.com
@@ -371,7 +370,6 @@ cdn.exponea.com
 cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
-ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
 l.facebook.com
@@ -504,7 +502,7 @@ goto.jet.com
 judge.me
 click.justwatch.com
 www.kdukvh.com
-uk-go.kelkoogroup.net
+de-go.kelkoogroup.net
 us-go.kelkoogroup.net
 click.klarna.de
 l.klarna.com
@@ -559,31 +557,32 @@ click.email.microsoftonline.com
 www.click.email.microsoftonline.com
 image.email.microsoftonline.com
 www.image.email.microsoftonline.com
+mkto-ab010012.com
 mkto-ab010169.com
 mkto-ab040115.com
 mkto-ab040147.com
-mkto-ab060134.com
+mkto-ab070017.com
+mkto-ab100016.com
 mkto-ab110171.com
 mkto-ab180008.com
-mkto-ab190087.com
-mkto-ab200065.com
 mkto-ab220178.com
 mkto-ab220193.com
 mkto-ab240112.com
 mkto-ab250105.com
-mkto-ab280126.com
+mkto-ab270090.com
 mkto-ab300154.com
 mkto-ab310115.com
-mkto-ab330006.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab340124.com
 mkto-ab420081.com
+mkto-ab420140.com
+mkto-ab440025.com
+mkto-ab460120.com
 mkto-ab470148.com
 mkto-ab480047.com
 mkto-ab520004.com
 mkto-ab530057.com
-mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550140.com
 mkto-ab560068.com
@@ -591,40 +590,45 @@ mkto-ab570013.com
 mkto-ab570110.com
 mkto-ab580004.com
 mkto-ab630144.com
+mkto-ab640193.com
 mkto-ab650097.com
 mkto-ab660121.com
 mkto-ab690180.com
+mkto-abd0206.com
 mkto-abj0022.com
 mkto-abm0229.com
 mkto-d0170.com
 mkto-g0180.com
 mkto-lon030291.com
-mkto-lon040102.com
 mkto-lon040152.com
 mkto-lon050200.com
+mkto-lon060131.com
+mkto-lon080188.com
 mkto-nld1040060.com
 mkto-nld1040186.com
 mkto-sj010104.com
-mkto-sj020159.com
 mkto-sj030214.com
 mkto-sj040136.com
 mkto-sj040252.com
+mkto-sj040261.com
 mkto-sj090132.com
 mkto-sj100029.com
-mkto-sj110048.com
-mkto-sj130243.com
+mkto-sj140007.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj200192.com
 mkto-sj230006.com
 mkto-sj240021.com
+mkto-sj250145.com
+mkto-sj250187.com
 mkto-sj270080.com
-mkto-sj300120.com
 mkto-sj320047.com
 mkto-sj330006.com
+mkto-sj340004.com
 mkto-sj360142.com
 mkto-sj370181.com
-mkto-sj390192.com
+mkto-sj390067.com
+mkto-sjg0056.com
 mkto-test.com
 sjqe.mkto-test.com
 mktoweb.com
@@ -717,6 +721,9 @@ newslink.reuters.com
 rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
+r5siqu4ab.cc.rs6.net
+rdr9bzpab.cc.rs6.net
+rgllca6ab.cc.rs6.net
 r20.rs6.net
 tracking.s24.com
 click.e.safelite.com
@@ -739,6 +746,7 @@ track.shoparize.com
 tag.shopping-feed.com
 t.sidekickopen01.com
 t.sidekickopen07.com
+t.sidekickopen10.com
 app.e.sigsauer.com
 go.skimresources.com
 a.slashdotmedia.com
@@ -810,7 +818,6 @@ t.xfin.me
 xg4ken.com
 sdk.us.xtremepush.com
 redirect.appmetrica.yandex.com
-10267.redirect.appmetrica.yandex.com
 clck.yandex.ru
 t.yesware.com
 tracker.yoncamarket.com

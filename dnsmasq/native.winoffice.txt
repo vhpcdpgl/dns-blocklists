@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 17:20 UTC
-# Version: 2025.0124.1720.18
+# Last modified: 01 Feb 2025 00:11 UTC
+# Version: 2025.0201.0011.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 352
+# Number of entries: 351
 #
 local=/in.appcenter.ms/
 local=/js.cdn.applicationinsights.io/
@@ -30,7 +30,6 @@ local=/collector.azure.cn/
 local=/js.monitor.azure.com/
 local=/adsdkpreprod.azureedge.net/
 local=/adsdkprod.azureedge.net/
-local=/adsdkpreprod.afd.azureedge.net/
 local=/adsdkprod.afd.azureedge.net/
 local=/cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net/
 local=/location-microsoft-com.b-0005.b-msedge.net/
@@ -133,6 +132,7 @@ local=/ssw.live.com/
 local=/watson.live.com/
 local=/ads.microsoft.com/
 local=/adsdk.microsoft.com/
+local=/adsstatic.microsoft.com/
 local=/advertising.microsoft.com/
 local=/analyticspixel.microsoft.com/
 local=/applicationinsights.microsoft.com/
@@ -273,7 +273,6 @@ local=/beacons.trafficmanager.net/
 local=/bf-analytics-tracker-tm.trafficmanager.net/
 local=/bf-tracker-release-tm.trafficmanager.net/
 local=/bingads.trafficmanager.net/
-local=/cas-telemetry.trafficmanager.net/
 local=/collector-main.trafficmanager.net/
 local=/tracker.flightview.com.trafficmanager.net/
 local=/events.data.trafficmanager.net/

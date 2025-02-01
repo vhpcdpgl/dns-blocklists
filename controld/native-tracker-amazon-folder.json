@@ -764,6 +764,13 @@
       }
     },
     {
+      "PK": "ateu.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "atfe.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -1542,13 +1549,6 @@
     },
     {
       "PK": "monitoring.me-south-1.amazonaws.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "monitoring.prod.cloudwatch.amazonaws.com",
       "action": {
         "do": 0,
         "status": 1

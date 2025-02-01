@@ -43,13 +43,6 @@
       }
     },
     {
-      "PK": "ad-instantpage-ttp2.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ad-instantpage-va.tiktokv.com",
       "action": {
         "do": 0,
@@ -72,6 +65,13 @@
     },
     {
       "PK": "ads-ie.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-service.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1401,6 +1401,13 @@
       }
     },
     {
+      "PK": "rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "rtlog16-normal-ind.tiktokv.com",
       "action": {
         "do": 0,
@@ -1423,6 +1430,13 @@
     },
     {
       "PK": "rtlog16-normal-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net",
       "action": {
         "do": 0,
         "status": 1

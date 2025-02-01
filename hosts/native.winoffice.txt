@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 17:20 UTC
-# Version: 2025.0124.1720.18
+# Last modified: 01 Feb 2025 00:11 UTC
+# Version: 2025.0201.0011.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 693
+# Number of entries: 692
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 js.cdn.applicationinsights.io
@@ -114,7 +114,6 @@
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 adsdkpreprod.azureedge.net
 0.0.0.0 adsdkprod.azureedge.net
-0.0.0.0 adsdkpreprod.afd.azureedge.net
 0.0.0.0 adsdkprod.afd.azureedge.net
 0.0.0.0 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 0.0.0.0 location-microsoft-com.b-0005.b-msedge.net
@@ -246,6 +245,7 @@
 0.0.0.0 ucm.ads.microsoft.com
 0.0.0.0 ui.ads.microsoft.com
 0.0.0.0 adsdk.microsoft.com
+0.0.0.0 adsstatic.microsoft.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 community.advertising.microsoft.com
 0.0.0.0 fp.advertising.microsoft.com
@@ -578,7 +578,6 @@
 0.0.0.0 bf-tracker-release-tm.trafficmanager.net
 0.0.0.0 bingads.trafficmanager.net
 0.0.0.0 azure.bingads.trafficmanager.net
-0.0.0.0 cas-telemetry.trafficmanager.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 tracker.flightview.com.trafficmanager.net
 0.0.0.0 events.data.trafficmanager.net

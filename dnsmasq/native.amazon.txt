@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 17:18 UTC
-# Version: 2025.0124.1718.38
+# Last modified: 01 Feb 2025 00:09 UTC
+# Version: 2025.0201.0009.55
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 335
 #
@@ -117,6 +117,7 @@ local=/assoc-msdk-cn.amazon-adsystem.com/
 local=/assoc-msdk-eu.amazon-adsystem.com/
 local=/assoc-msdk-us.amazon-adsystem.com/
 local=/at-beta.amazon-adsystem.com/
+local=/ateu.amazon-adsystem.com/
 local=/atfe.amazon-adsystem.com/
 local=/at-gamma-us-east.amazon-adsystem.com/
 local=/atue.amazon-adsystem.com/
@@ -229,7 +230,6 @@ local=/monitoring.eu-west-3.amazonaws.com/
 local=/monitoring.il-central-1.amazonaws.com/
 local=/monitoring.me-central-1.amazonaws.com/
 local=/monitoring.me-south-1.amazonaws.com/
-local=/monitoring.prod.cloudwatch.amazonaws.com/
 local=/monitoring.sa-east-1.amazonaws.com/
 local=/monitoring.us-east-1.amazonaws.com/
 local=/monitoring.us-east-2.amazonaws.com/
