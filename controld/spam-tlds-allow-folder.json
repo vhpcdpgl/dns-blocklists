@@ -869,6 +869,13 @@
       }
     },
     {
+      "PK": "fastmail.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fbsmarthome.site",
       "action": {
         "do": 1,
@@ -1892,6 +1899,13 @@
     },
     {
       "PK": "nostr.wine",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "notebookcheck.biz",
       "action": {
         "do": 1,
         "status": 1

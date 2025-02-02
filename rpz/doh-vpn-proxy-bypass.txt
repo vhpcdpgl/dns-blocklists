@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738366500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738466340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Jan 2025 23:35 UTC
-; Version: 2025.0131.2335.27
+; Last modified: 02 Feb 2025 03:19 UTC
+; Version: 2025.0202.0319.25
 ; Syntax: RPZ
-; Number of entries: 7508
+; Number of entries: 7506
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -5846,8 +5846,6 @@ dns.52306.org CNAME .
 *.dns.52306.org CNAME .
 9w9.org CNAME .
 *.9w9.org CNAME .
-zone.actsministries.org CNAME .
-*.zone.actsministries.org CNAME .
 airdns.org CNAME .
 *.airdns.org CNAME .
 airvpn.org CNAME .
@@ -5904,8 +5902,6 @@ dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 dontblockme.org CNAME .
 *.dontblockme.org CNAME .
-ns1.dotls.org CNAME .
-*.ns1.dotls.org CNAME .
 home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
@@ -7224,6 +7220,8 @@ dns.watch CNAME .
 *.dns.watch CNAME .
 polisitogel.webcam CNAME .
 *.polisitogel.webcam CNAME .
+777schoolutilities.website CNAME .
+*.777schoolutilities.website CNAME .
 siteunblocked.website CNAME .
 *.siteunblocked.website CNAME .
 unblock2.website CNAME .

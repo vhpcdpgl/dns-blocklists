@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jan 2025 03:12 UTC
-# Version: 2025.0127.0312.49
+# Last modified: 02 Feb 2025 03:14 UTC
+# Version: 2025.0202.0314.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9790
+# Number of entries: 9791
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4077,6 +4077,7 @@ local=/shizzle.hammetjus.nl/
 local=/handygirl.tv/
 local=/hanjutv2020.com/
 local=/happy-mod.com/
+local=/tracker.happyfappy.org/
 local=/happyhippo.net/
 local=/happymod.com/
 local=/happymod.pro/

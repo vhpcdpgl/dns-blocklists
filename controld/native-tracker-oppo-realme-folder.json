@@ -176,7 +176,28 @@
       }
     },
     {
+      "PK": "appconf-ocs-eu.heytapdl.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "appconf-ocs-in.heytapdl.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "appconf-ocs-sgp.heytapdl.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "appconf-ocs-us.heytapdl.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1423,6 +1444,27 @@
     },
     {
       "PK": "push.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "report-eu.uc.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "report-in.opay.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "report-in.uc.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1

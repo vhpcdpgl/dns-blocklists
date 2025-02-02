@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jan 2025 22:27 UTC
-# Version: 2025.0128.2227.55
+# Last modified: 01 Feb 2025 09:01 UTC
+# Version: 2025.0201.0901.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 323
+# Number of entries: 329
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -126,7 +126,10 @@
 0.0.0.0 moa-upload-online-in.coloros.com
 0.0.0.0 finosfin.com
 0.0.0.0 www.finosfin.com
+0.0.0.0 appconf-ocs-eu.heytapdl.com
+0.0.0.0 appconf-ocs-in.heytapdl.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
+0.0.0.0 appconf-ocs-us.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 conf-in-dc.heytapdl.com
 0.0.0.0 conf-sg-dc.heytapdl.com
@@ -294,6 +297,7 @@
 0.0.0.0 obus-jssdk-sg.heytapmobile.com
 0.0.0.0 obus-jssdk-us.heytapmobile.com
 0.0.0.0 omes-sec.heytapmobile.com
+0.0.0.0 report-in.opay.heytapmobile.com
 0.0.0.0 report-sg.opay.heytapmobile.com
 0.0.0.0 api-id.play.heytapmobile.com
 0.0.0.0 push.heytapmobile.com
@@ -306,6 +310,8 @@
 0.0.0.0 bsf.sc.heytapmobile.com
 0.0.0.0 slb-apisnd-in.heytapmobile.com
 0.0.0.0 api-id.theme.heytapmobile.com
+0.0.0.0 report-eu.uc.heytapmobile.com
+0.0.0.0 report-in.uc.heytapmobile.com
 0.0.0.0 report-sg.uc.heytapmobile.com
 0.0.0.0 hizonetech.com
 0.0.0.0 www.hizonetech.com

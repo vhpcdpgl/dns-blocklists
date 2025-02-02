@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jan 2025 23:35 UTC
-# Version: 2025.0131.2335.27
+# Last modified: 02 Feb 2025 03:19 UTC
+# Version: 2025.0202.0319.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3754
+# Number of entries: 3753
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -100,6 +100,7 @@ local=/kids.5ososea.com/
 local=/dns.688447.xyz/
 local=/71745718.online/
 local=/7713.info/
+local=/777schoolutilities.website/
 local=/777surfer.info/
 local=/dns.7vpn.com/
 local=/87826100.xyz/
@@ -139,7 +140,6 @@ local=/acevpn.com/
 local=/acrea.cz/
 local=/activpn.com/
 local=/actmobile.com/
-local=/zone.actsministries.org/
 local=/adblockersite.com/
 local=/adblockluna.com/
 local=/adl.adfilter.net/
@@ -991,7 +991,6 @@ local=/dontfilter.us/
 local=/dns.dooks.uk/
 local=/doomshadow.com/
 local=/dot.pub/
-local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/dotvpn.com/
 local=/doublehop.me/
