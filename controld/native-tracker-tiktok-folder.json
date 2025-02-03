@@ -974,6 +974,27 @@
       }
     },
     {
+      "PK": "mcs-tiktok.byteoversea.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mcs.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mcs.tiktokw.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mcs-ttp2.tiktokv.us",
       "action": {
         "do": 0,
@@ -1100,6 +1121,13 @@
       }
     },
     {
+      "PK": "mon.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-useast2a.tiktokv.com",
       "action": {
         "do": 0,
@@ -1199,6 +1227,20 @@
     },
     {
       "PK": "mssdk.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk.tiktokw.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1401,13 +1443,6 @@
       }
     },
     {
-      "PK": "rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "rtlog16-normal-ind.tiktokv.com",
       "action": {
         "do": 0,
@@ -1430,13 +1465,6 @@
     },
     {
       "PK": "rtlog16-normal-useast1a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1731,6 +1759,13 @@
     },
     {
       "PK": "sdfp.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sf16-telemetry-proxy-oci.tiktokcdn-us.com",
       "action": {
         "do": 0,
         "status": 1

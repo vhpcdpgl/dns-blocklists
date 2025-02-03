@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Feb 2025 03:16 UTC
-# Version: 2025.0203.0316.34
+# Last modified: 03 Feb 2025 15:34 UTC
+# Version: 2025.0203.1534.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3747
+# Number of entries: 3743
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1047,7 +1047,6 @@ local=/dns.ellichua.com/
 local=/emban-networks.com/
 local=/emeraldeyex.dev/
 local=/dns.emiliyan.com/
-local=/ems115.shop/
 local=/encrypt.me/
 local=/endente.com/
 local=/adguard.ender.fr/
@@ -1086,7 +1085,6 @@ local=/expressvpn.com/
 local=/expressvpn.net/
 local=/dns.extrawdw.net/
 local=/fra1.eyecay.xyz/
-local=/dns.ezyss.id/
 local=/f0lga.tech/
 local=/dns.f4a.fun/
 local=/f4fp.com/
@@ -1188,7 +1186,6 @@ local=/fortniters.info/
 local=/forwardproxie.com/
 local=/fproxy.net/
 local=/francis-proxy.top/
-local=/explore.francomedia.net/
 local=/frandcomfort.us/
 local=/free-proxy.com/
 local=/free-proxy.cz/
@@ -1257,7 +1254,6 @@ local=/dns.freopc.fr/
 local=/dns.freyja.pw/
 local=/frootvpn.com/
 local=/dns.froth.zone/
-local=/awan.ftp.sh/
 local=/fun4school.store/
 local=/doh.funil.de/
 local=/doh.funtopia.tv/
@@ -1318,7 +1314,6 @@ local=/ghostpath.com/
 local=/gibblets.top/
 local=/adguard.maison.gifino.fr/
 local=/gifttrees.us/
-local=/gingerbread.design/
 local=/dns.ginovs.nl/
 local=/gipvpn.com/
 local=/dns.girino.org/
@@ -1587,6 +1582,7 @@ local=/ipchanging.com/
 local=/ipfreely.io/
 local=/ipinator.com/
 local=/ipoac.nl/
+local=/ipprotectionauth.goog/
 local=/ipredator.se/
 local=/iprivatevpn.com/
 local=/iprovpn.com/

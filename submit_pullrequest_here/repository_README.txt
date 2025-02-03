@@ -730,6 +730,14 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
+#### :department_store: **SCHONET DNS (Germany) - free** <a name="schonetdns"></a>
+
+[SCHONET DNS (Germany)](https://schonet-dns.de/) uses my Multi Pro++ in combination with the TIF blocklist and [@xRuffKez](https://github.com/xRuffKez/NRD) NRD 30.
+
+| Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
+|:-----------|:---------------|:------------------|:-----------|
+| Pro plus + TIF + NRD | `https://schonet-dns.de/dns-query` | `schonet-dns.de` | 77.90.46.99<br>2a09:6301:0:49d:74f5:a78c:c412:1397 |
+
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
 [OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Multi Pro in combination with the TIF blocklist.

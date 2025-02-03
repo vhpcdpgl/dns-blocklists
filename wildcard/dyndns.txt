@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jan 2025 15:31 UTC
-# Version: 2025.0130.1531.39
+# Last modified: 03 Feb 2025 15:31 UTC
+# Version: 2025.0203.1531.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1472
+# Number of entries: 1471
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -481,7 +481,6 @@
 *.eptechguys.com
 *.esmtp.biz
 *.essentialventure.com
-*.essexregional.org
 *.est-a-la-maison.com
 *.est-a-la-masion.com
 *.est-le-patron.com

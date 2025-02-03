@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738552260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738596540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Feb 2025 03:11 UTC
-; Version: 2025.0203.0311.01
+; Last modified: 03 Feb 2025 15:29 UTC
+; Version: 2025.0203.1529.20
 ; Syntax: RPZ
-; Number of entries: 19548
+; Number of entries: 19532
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -711,8 +711,6 @@ kinox.unblockit.black CNAME .
 *.123movie.blog CNAME .
 cb01.blog CNAME .
 *.cb01.blog CNAME .
-filmpertutti.blog CNAME .
-*.filmpertutti.blog CNAME .
 filmsenzalimiti.blog CNAME .
 *.filmsenzalimiti.blog CNAME .
 pelisplus.blog CNAME .
@@ -3721,8 +3719,6 @@ eprojectfreetv.com CNAME .
 *.eprojectfreetv.com CNAME .
 eshiel.com CNAME .
 *.eshiel.com CNAME .
-esporteone.com CNAME .
-*.esporteone.com CNAME .
 estrenoslatinos.com CNAME .
 *.estrenoslatinos.com CNAME .
 etproxy.com CNAME .
@@ -3921,8 +3917,6 @@ fmoviesz-to.com CNAME .
 *.fmoviesz-to.com CNAME .
 fn-bd.com CNAME .
 *.fn-bd.com CNAME .
-fnetctg.com CNAME .
-*.fnetctg.com CNAME .
 fnfonlinebd.com CNAME .
 *.fnfonlinebd.com CNAME .
 focusflix.com CNAME .
@@ -4045,8 +4039,6 @@ fullfileaccess.com CNAME .
 *.fullfileaccess.com CNAME .
 fullmoviehd4k.com CNAME .
 *.fullmoviehd4k.com CNAME .
-fullpcsoftware.com CNAME .
-*.fullpcsoftware.com CNAME .
 fullprogramlarindir.com CNAME .
 *.fullprogramlarindir.com CNAME .
 fullreleasez.com CNAME .
@@ -7599,8 +7591,6 @@ altadefinizione.dance CNAME .
 *.altadefinizione.dance CNAME .
 cb01.dance CNAME .
 *.cb01.dance CNAME .
-eurostreaming.dance CNAME .
-*.eurostreaming.dance CNAME .
 filmpertutti.dance CNAME .
 *.filmpertutti.dance CNAME .
 guardaserie.dance CNAME .
@@ -11673,8 +11663,6 @@ dpstream.net CNAME .
 *.dpstream.net CNAME .
 dpstreamiz.net CNAME .
 *.dpstreamiz.net CNAME .
-mikrotik2.draatman.net CNAME .
-*.mikrotik2.draatman.net CNAME .
 dragons-den.net CNAME .
 *.dragons-den.net CNAME .
 dramaqu.net CNAME .
@@ -11899,8 +11887,6 @@ tk2.greedland.net CNAME .
 *.tk2.greedland.net CNAME .
 greek-torrent.net CNAME .
 *.greek-torrent.net CNAME .
-greekshare.net CNAME .
-*.greekshare.net CNAME .
 guardaserie.net CNAME .
 *.guardaserie.net CNAME .
 guiks.net CNAME .
@@ -13377,8 +13363,6 @@ filmpertutti.online CNAME .
 *.filmpertutti.online CNAME .
 filmstreaming.online CNAME .
 *.filmstreaming.online CNAME .
-filmzenstream.online CNAME .
-*.filmzenstream.online CNAME .
 gidonlinehd.online CNAME .
 *.gidonlinehd.online CNAME .
 guardaserie.online CNAME .

@@ -4,15 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Feb 2025 00:16 UTC
-# Version: 2025.0201.0016.58
+# Last modified: 03 Feb 2025 11:16 UTC
+# Version: 2025.0203.1116.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 356
+# Number of entries: 362
 #
-local=/log16-normal-alisg.tiktokv.com.bytewlb.akadns.net/
-local=/log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net/
-local=/rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net/
-local=/rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net/
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
 local=/gplog-va.byteoversea.com/
@@ -27,6 +23,7 @@ local=/log15.byteoversea.com/
 local=/log16.byteoversea.com/
 local=/maliva-mcs.byteoversea.com/
 local=/maliva-mcs-useast2a.byteoversea.com/
+local=/mcs-tiktok.byteoversea.net/
 local=/mon.byteoversea.com/
 local=/mon-csj-maliva-ios.byteoversea.com/
 local=/mon-va.byteoversea.com/
@@ -120,6 +117,7 @@ local=/mcs.us.tiktok.com/
 local=/mcs-ttp2.us.tiktok.com/
 local=/mssdk.us.tiktok.com/
 local=/mssdk-ttp2.us.tiktok.com/
+local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com/
 local=/ad.tiktokv.com/
 local=/ad.tiktokv.us/
 local=/ad-instantpage.tiktokv.us/
@@ -202,11 +200,13 @@ local=/log77-normal-c-alisg.tiktokv.com/
 local=/log77-normal-c-useast1a.tiktokv.com/
 local=/log9-normal-c-useast1a.tiktokv.com/
 local=/logbk.tiktokv.com/
+local=/mcs.tiktokv.us/
 local=/mcs-sg.tiktokv.com/
 local=/mcs-ttp2.tiktokv.us/
 local=/mcs-va.tiktokv.com/
 local=/mcs-va-useast2a.tiktokv.com/
 local=/mon.tiktokv.com/
+local=/mon.tiktokv.eu/
 local=/mon-i18n.tiktokv.com/
 local=/mon-phx.tiktokv.com/
 local=/mon-ru.tiktokv.com/
@@ -226,7 +226,10 @@ local=/mon16-normal.tiktokv.com/
 local=/mon16-normal-alisg.tiktokv.com/
 local=/mon16-normal-c-useast1a.tiktokv.com/
 local=/mon16-normal-c-useast2a.tiktokv.com/
+local=/mon16-normal-no1a.tiktokv.eu/
 local=/mon16-normal-useast1a.tiktokv.com/
+local=/mon16-normal-useast5.tiktokv.us/
+local=/mon16-normal-useast8.tiktokv.us/
 local=/mon16-normal-zr-useast1a.tiktokv.com/
 local=/mon16-platform-ycru.tiktokv.com/
 local=/mon16-tmp-normal-useast1a.tiktokv.com/
@@ -361,7 +364,10 @@ local=/analytics-ie.tiktokw.eu/
 local=/analytics-ipv6.tiktokw.us/
 local=/analytics-ttp2.tiktokw.eu/
 local=/location.tiktokw.us/
+local=/mcs.tiktokw.us/
 local=/mcs-ie.tiktokw.eu/
 local=/mcs-ie2.tiktokw.eu/
 local=/mcs16-normal-no1a.tiktokw.eu/
+local=/mssdk.tiktokw.eu/
+local=/mssdk.tiktokw.us/
 local=/mssdk-ttp2.tiktokw.us/

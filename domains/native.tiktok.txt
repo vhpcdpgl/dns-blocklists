@@ -4,13 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Feb 2025 00:15 UTC
-# Version: 2025.0201.0015.01
+# Last modified: 03 Feb 2025 11:13 UTC
+# Version: 2025.0203.1113.47
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 281
+# Number of entries: 286
 #
-rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net
-rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -25,6 +23,7 @@ log15.byteoversea.com
 log16.byteoversea.com
 maliva-mcs.byteoversea.com
 maliva-mcs-useast2a.byteoversea.com
+mcs-tiktok.byteoversea.net
 mon.byteoversea.com
 mon-csj-maliva-ios.byteoversea.com
 mon-va.byteoversea.com
@@ -116,6 +115,7 @@ mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
 mssdk-ttp2.us.tiktok.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
 ad-instantpage.tiktokv.us
@@ -187,10 +187,12 @@ log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
+mcs.tiktokv.us
 mcs-ttp2.tiktokv.us
 mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mon.tiktokv.com
+mon.tiktokv.eu
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
@@ -287,6 +289,9 @@ analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
 location.tiktokw.us
+mcs.tiktokw.us
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
+mssdk.tiktokw.eu
+mssdk.tiktokw.us
 mssdk-ttp2.tiktokw.us
