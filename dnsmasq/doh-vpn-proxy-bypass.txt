@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Feb 2025 03:19 UTC
-# Version: 2025.0202.0319.25
+# Last modified: 03 Feb 2025 03:16 UTC
+# Version: 2025.0203.0316.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3753
+# Number of entries: 3747
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -209,7 +209,6 @@ local=/ammmae150.news/
 local=/doh.amonsul.net/
 local=/anachem.online/
 local=/ananoos.com/
-local=/anatomical.design/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
 local=/androvpn.com/
@@ -357,7 +356,6 @@ local=/betterproxy.net/
 local=/bettervpn.com/
 local=/bgvpn.com/
 local=/bi-tree.ru/
-local=/bidehshomali.top/
 local=/proxyduke.bingle.pw/
 local=/ns3.bit-trail.nl/
 local=/bit123.biz/
@@ -474,7 +472,6 @@ local=/callies-online.site/
 local=/tor.calyxinstitute.org/
 local=/cantblockthis.org/
 local=/cantfindme.org/
-local=/caproxies.info/
 local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
 local=/carebuzz.io/
@@ -706,7 +703,6 @@ local=/confirmedvpn.com/
 local=/dns1.conne.net/
 local=/dns.connect.fail/
 local=/connectionvpn.com/
-local=/constitutional.design/
 local=/contassh.com/
 local=/contentabc.com/
 local=/dns.controld.com/
@@ -767,7 +763,6 @@ local=/cyberghostvpn.com/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cybertruck.design/
 local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
@@ -823,7 +818,6 @@ local=/dns1.digitale-gesellschaft.ch/
 local=/dns2.digitale-gesellschaft.ch/
 local=/dns.digitalsize.net/
 local=/directoryproxy.info/
-local=/disciplinary.design/
 local=/disconnect.me/
 local=/doh.disconnect.app/
 local=/fdns1.dismail.de/
@@ -982,7 +976,6 @@ local=/doh.lv/
 local=/doh.pub/
 local=/doh.sb/
 local=/doh.xyz/
-local=/dolopo.net/
 local=/domainownership.us/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
@@ -1653,6 +1646,7 @@ local=/vps2.jnraptor.net/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
 local=/adguard.johanliebert.top/
+local=/johneldenring.lol/
 local=/joker81fansbase.site/
 local=/opencdn.jomodns.com/
 local=/jongserver.xyz/

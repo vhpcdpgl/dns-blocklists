@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738366620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738552380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Jan 2025 23:37 UTC
-; Version: 2025.0131.2337.55
+; Last modified: 03 Feb 2025 03:13 UTC
+; Version: 2025.0203.0313.51
 ; Syntax: RPZ
-; Number of entries: 3722
+; Number of entries: 3720
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -669,8 +669,6 @@ blogsmine.com CNAME .
 *.blogsmine.com CNAME .
 blogsome.com CNAME .
 *.blogsome.com CNAME .
-blogsource.com CNAME .
-*.blogsource.com CNAME .
 blogspirit.com CNAME .
 *.blogspirit.com CNAME .
 blogspot.com CNAME .
@@ -705,8 +703,6 @@ blogunteer.com CNAME .
 *.blogunteer.com CNAME .
 blogvivi.com CNAME .
 *.blogvivi.com CNAME .
-blogyx.com CNAME .
-*.blogyx.com CNAME .
 blogzag.com CNAME .
 *.blogzag.com CNAME .
 blogzet.com CNAME .
@@ -1307,6 +1303,8 @@ onesmablog.com CNAME .
 *.onesmablog.com CNAME .
 onmbl.com CNAME .
 *.onmbl.com CNAME .
+onrender.com CNAME .
+*.onrender.com CNAME .
 onwebbox.com CNAME .
 *.onwebbox.com CNAME .
 onzeblog.com CNAME .

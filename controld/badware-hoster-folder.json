@@ -3123,13 +3123,6 @@
       }
     },
     {
-      "PK": "blogsource.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "blogspace.fr",
       "action": {
         "do": 0,
@@ -3775,13 +3768,6 @@
     },
     {
       "PK": "blogvivi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogyx.com",
       "action": {
         "do": 0,
         "status": 1
@@ -9123,6 +9109,13 @@
     },
     {
       "PK": "onmbl.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "onrender.com",
       "action": {
         "do": 0,
         "status": 1
