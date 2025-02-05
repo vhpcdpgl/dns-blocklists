@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Feb 2025 15:33 UTC
-# Version: 2025.0203.1533.26
+# Last modified: 05 Feb 2025 03:33 UTC
+# Version: 2025.0205.0333.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1472
+# Number of entries: 1471
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -261,7 +261,6 @@ local=/dns.cmrg.net/
 local=/pope.cnblw.me/
 local=/doh.cnetwork.cloud/
 local=/pihole.datamatter.co.za/
-local=/www.dnsadguard.co.uk/
 local=/dns.gayanalysing.co.uk/
 local=/dns.gi.co.id/
 local=/ag.hostme.co.il/

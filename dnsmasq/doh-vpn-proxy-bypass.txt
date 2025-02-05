@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Feb 2025 15:34 UTC
-# Version: 2025.0203.1534.39
+# Last modified: 05 Feb 2025 03:34 UTC
+# Version: 2025.0205.0334.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3743
+# Number of entries: 3738
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -73,6 +73,7 @@ local=/2fastsurfer.eu/
 local=/2fastsurfer.us/
 local=/2proxy.de/
 local=/2proxyweb.com/
+local=/30t.online/
 local=/doh.30x.me/
 local=/351242444.xyz/
 local=/dns.354688.xyz/
@@ -619,7 +620,6 @@ local=/clearvpn.co.uk/
 local=/pihole.datamatter.co.za/
 local=/ddelay.co.uk/
 local=/diskcrmvpn.co.cc/
-local=/www.dnsadguard.co.uk/
 local=/englandproxy.co.uk/
 local=/dns.gayanalysing.co.uk/
 local=/dns.gi.co.id/
@@ -1252,6 +1252,7 @@ local=/freeyoutube.net/
 local=/french-vpn.com/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
+local=/frlolyt.site/
 local=/frootvpn.com/
 local=/dns.froth.zone/
 local=/fun4school.store/
@@ -1291,6 +1292,7 @@ local=/get-x-web-link2.com/
 local=/get-xmore-link3s.com/
 local=/get-xmore-links8.com/
 local=/getcloak.com/
+local=/getcloser-websocket.com/
 local=/getdnsapi.net/
 local=/getflix.com/
 local=/getfoxyproxy.org/
@@ -1509,7 +1511,6 @@ local=/dns.huas.me/
 local=/dns.hujiayucc.cn/
 local=/doth.huque.com/
 local=/dns.huseynov.work/
-local=/hustlersuniversity.pro/
 local=/ad.huyct.net/
 local=/dns.huyhoangit.net/
 local=/hyperbyte.net/
@@ -2019,7 +2020,6 @@ local=/us-saj-w-f-1.nashkan.net/
 local=/us-saj-w-p-1.nashkan.net/
 local=/natfrp.cloud/
 local=/nathanielgavin.lol/
-local=/nb66.me/
 local=/vpn.nbvalente.fr/
 local=/vpn.ncapi.io/
 local=/ne1.ca/
@@ -2043,7 +2043,6 @@ local=/cube.neubsi.at/
 local=/dns.neubsi.at/
 local=/dns.neutopia.org/
 local=/newads-cdn.com/
-local=/help.newhopes.info/
 local=/newipnow.com/
 local=/newshosting.com/
 local=/doh.luigi.nexific.it/
@@ -2110,7 +2109,6 @@ local=/core-vpn.norton.com/
 local=/o2comm-prd.norton.com/
 local=/spoc.norton.com/
 local=/dns.norvig.dk/
-local=/notartclass.design/
 local=/dns.notjakob.com/
 local=/notlong.com/
 local=/notvpn.io/
@@ -2161,7 +2159,6 @@ local=/onestreaming.org/
 local=/onevanalla.site/
 local=/onion.am/
 local=/onion.cab/
-local=/onion.casa/
 local=/onion.city/
 local=/onion.direct/
 local=/onion.dog/
@@ -2286,7 +2283,6 @@ local=/personalvpn.biz/
 local=/personalvpn.com/
 local=/personaly.click/
 local=/dns.pesaventofilippo.com/
-local=/petergriffin.design/
 local=/dns.petqa.ru/
 local=/adguard.pggns.de/
 local=/dns.phillipjberry.net/
@@ -2369,7 +2365,6 @@ local=/sundalandia.pp.ua/
 local=/virga.pp.ua/
 local=/zxcvb.pp.ua/
 local=/ppira.com/
-local=/pplsearcher.com/
 local=/pq7hdf.com/
 local=/pr0xy.com/
 local=/dns.pragmasec.nl/

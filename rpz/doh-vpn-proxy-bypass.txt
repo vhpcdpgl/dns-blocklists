@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738596840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738726440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Feb 2025 15:34 UTC
-; Version: 2025.0203.1534.39
+; Last modified: 05 Feb 2025 03:34 UTC
+; Version: 2025.0205.0334.45
 ; Syntax: RPZ
-; Number of entries: 7486
+; Number of entries: 7476
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -262,8 +262,6 @@ html.cafe CNAME .
 *.html.cafe CNAME .
 mabuktogel.cards CNAME .
 *.mabuktogel.cards CNAME .
-onion.casa CNAME .
-*.onion.casa CNAME .
 sriedmueadguard.casa CNAME .
 *.sriedmueadguard.casa CNAME .
 yui.cat CNAME .
@@ -1350,6 +1348,8 @@ get-xmore-links8.com CNAME .
 *.get-xmore-links8.com CNAME .
 getcloak.com CNAME .
 *.getcloak.com CNAME .
+getcloser-websocket.com CNAME .
+*.getcloser-websocket.com CNAME .
 getflix.com CNAME .
 *.getflix.com CNAME .
 getoutunblock.com CNAME .
@@ -2064,8 +2064,6 @@ portssh.com CNAME .
 *.portssh.com CNAME .
 ppira.com CNAME .
 *.ppira.com CNAME .
-pplsearcher.com CNAME .
-*.pplsearcher.com CNAME .
 pq7hdf.com CNAME .
 *.pq7hdf.com CNAME .
 pr0xy.com CNAME .
@@ -3354,10 +3352,6 @@ zproxy.de CNAME .
 *.zproxy.de CNAME .
 mabuktogel.degree CNAME .
 *.mabuktogel.degree CNAME .
-notartclass.design CNAME .
-*.notartclass.design CNAME .
-petergriffin.design CNAME .
-*.petergriffin.design CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 dns.applewebkit.dev CNAME .
@@ -3976,8 +3970,6 @@ myproxy.info CNAME .
 *.myproxy.info CNAME .
 mzhlhrfr8z.info CNAME .
 *.mzhlhrfr8z.info CNAME .
-help.newhopes.info CNAME .
-*.help.newhopes.info CNAME .
 njtzzrvg0lwj3bsn.info CNAME .
 *.njtzzrvg0lwj3bsn.info CNAME .
 onconnect.info CNAME .
@@ -4560,8 +4552,6 @@ dns.mihanentalpo.me CNAME .
 *.dns.mihanentalpo.me CNAME .
 www-nsc.moebh.me CNAME .
 *.www-nsc.moebh.me CNAME .
-nb66.me CNAME .
-*.nb66.me CNAME .
 neonos.me CNAME .
 *.neonos.me CNAME .
 dns.nodoa.me CNAME .
@@ -5746,6 +5736,8 @@ unblockit.onl CNAME .
 *.unblockit.onl CNAME .
 1010000.online CNAME .
 *.1010000.online CNAME .
+30t.online CNAME .
+*.30t.online CNAME .
 71745718.online CNAME .
 *.71745718.online CNAME .
 adguard-vpn.online CNAME .
@@ -6300,8 +6292,6 @@ dns.burgas.pro CNAME .
 *.dns.burgas.pro CNAME .
 g-a-y.pro CNAME .
 *.g-a-y.pro CNAME .
-hustlersuniversity.pro CNAME .
-*.hustlersuniversity.pro CNAME .
 math.isreally.pro CNAME .
 *.math.isreally.pro CNAME .
 smellyal.isreally.pro CNAME .
@@ -6720,6 +6710,8 @@ callies-online.site CNAME .
 *.callies-online.site CNAME .
 firstcontact.site CNAME .
 *.firstcontact.site CNAME .
+frlolyt.site CNAME .
+*.frlolyt.site CNAME .
 www-croxy.ghgi.site CNAME .
 *.www-croxy.ghgi.site CNAME .
 hiddendragon.site CNAME .
@@ -6990,8 +6982,6 @@ clearvpn.co.uk CNAME .
 *.clearvpn.co.uk CNAME .
 ddelay.co.uk CNAME .
 *.ddelay.co.uk CNAME .
-www.dnsadguard.co.uk CNAME .
-*.www.dnsadguard.co.uk CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
 dns.gayanalysing.co.uk CNAME .

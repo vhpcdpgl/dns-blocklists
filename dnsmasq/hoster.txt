@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Feb 2025 15:32 UTC
-# Version: 2025.0203.1532.12
+# Last modified: 05 Feb 2025 03:32 UTC
+# Version: 2025.0205.0332.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1859
+# Number of entries: 1858
 #
 local=/000a.de/
 local=/000space.com/
@@ -237,6 +237,7 @@ local=/anschiessen.de/
 local=/answerblogs.com/
 local=/kwid9.appsoft.xyz/
 local=/ar.gp/
+local=/ar1i1.net/
 local=/arcadepages.com/
 local=/arcor-ip.net/
 local=/arien.cl/
@@ -1020,7 +1021,6 @@ local=/i.gp/
 local=/iamarrows.com/
 local=/ibiz.cc/
 local=/iblogger.org/
-local=/iblogs.com/
 local=/id.gp/
 local=/idblogmaker.com/
 local=/idblogz.com/
@@ -1150,6 +1150,8 @@ local=/livebloggs.com/
 local=/livedoor.biz/
 local=/livedoor.jp/
 local=/livehost.fr/
+local=/llli1i.net/
+local=/llliww.cloud/
 local=/logdown.com/
 local=/loggy.nl/
 local=/loginblogin.com/
@@ -1211,7 +1213,6 @@ local=/musik.lc/
 local=/mw.hu/
 local=/mx.gp/
 local=/my.gp/
-local=/inclaim.my.id/
 local=/jekar.my.id/
 local=/melayuu.my.id/
 local=/xzf.my.id/
@@ -1262,7 +1263,6 @@ local=/inter.net.il/
 local=/netspace.net.au/
 local=/prima.net.ar/
 local=/vpn.net.br/
-local=/net84.net/
 local=/netai.net/
 local=/netcipia.com/
 local=/netfast.org/
@@ -1314,7 +1314,6 @@ local=/online.tc/
 local=/online-net.de/
 local=/onlineweb.shop/
 local=/onlinewebshop.net/
-local=/only4u.eu/
 local=/onmbl.com/
 local=/onrender.com/
 local=/ontheweb.nu/
