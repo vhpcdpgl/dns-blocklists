@@ -526,6 +526,13 @@
       }
     },
     {
+      "PK": "commonspirit.careers",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "community.zip",
       "action": {
         "do": 1,
@@ -2585,6 +2592,13 @@
     },
     {
       "PK": "srv.rent",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "static.pub",
       "action": {
         "do": 1,
         "status": 1
