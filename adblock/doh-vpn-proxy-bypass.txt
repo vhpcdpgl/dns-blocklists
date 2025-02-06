@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Feb 2025 03:34 UTC
-! Version: 2025.0205.0334.45
+! Last modified: 06 Feb 2025 03:25 UTC
+! Version: 2025.0206.0325.12
 ! Syntax: AdBlock
-! Number of entries: 3738
+! Number of entries: 3734
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1675,7 +1675,6 @@
 ||keenow.com^
 ||keepanonymous.com^
 ||dns.keke125.com^
-||doh.kekew.info^
 ||doh.kel.pe^
 ||kepard.com^
 ||dns.kerekes.xyz^
@@ -2942,7 +2941,6 @@
 ||dns.stvsk.ml^
 ||doh.suche.org^
 ||dns.suhaila.dev^
-||suissl.com^
 ||resolver.sunet.se^
 ||sunnygyl.com^
 ||doh.sunoaki.net^
@@ -3031,7 +3029,6 @@
 ||uk.teradns.org^
 ||terraleads.cloud^
 ||dns.soldier.terumi.club^
-||teruteruteruko.com^
 ||dns.tesem.dog^
 ||cloud.tezoi.com^
 ||thankvpn.com^
@@ -3123,7 +3120,6 @@
 ||toptip.cc^
 ||topvpn.cc^
 ||topvpnguides.com^
-||tor-gateways.de^
 ||tor2web.fi^
 ||tor2web.in^
 ||tor2web.io^

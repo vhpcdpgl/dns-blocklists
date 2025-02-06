@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738726440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738812300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Feb 2025 03:34 UTC
-; Version: 2025.0205.0334.45
+; Last modified: 06 Feb 2025 03:25 UTC
+; Version: 2025.0206.0325.12
 ; Syntax: RPZ
-; Number of entries: 7476
+; Number of entries: 7468
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2476,8 +2476,6 @@ studysurf.com CNAME .
 *.studysurf.com CNAME .
 stupidproxy.com CNAME .
 *.stupidproxy.com CNAME .
-suissl.com CNAME .
-*.suissl.com CNAME .
 sunnygyl.com CNAME .
 *.sunnygyl.com CNAME .
 super123proxy.com CNAME .
@@ -2552,8 +2550,6 @@ rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
 tenta.com CNAME .
 *.tenta.com CNAME .
-teruteruteruko.com CNAME .
-*.teruteruteruko.com CNAME .
 cloud.tezoi.com CNAME .
 *.cloud.tezoi.com CNAME .
 thankvpn.com CNAME .
@@ -3326,8 +3322,6 @@ dns.telekom.de CNAME .
 *.dns.telekom.de CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
-tor-gateways.de CNAME .
-*.tor-gateways.de CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
 *.doh.ibr.cs.tu-bs.de CNAME .
 ines.zfn.uni-bremen.de CNAME .
@@ -3944,8 +3938,6 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .

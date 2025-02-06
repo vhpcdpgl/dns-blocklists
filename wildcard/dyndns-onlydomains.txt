@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Feb 2025 03:31 UTC
-# Version: 2025.0205.0331.07
+# Last modified: 06 Feb 2025 03:21 UTC
+# Version: 2025.0206.0321.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 1472
+# Number of entries: 1471
 #
 0000000000000000000000.com
 0rg.us
@@ -1447,7 +1447,6 @@ worse-than.tv
 writesthisblog.com
 www1.biz
 wwwhost.biz
-wwwhost.us
 x24hr.com
 x443.pw
 xddns.de
