@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2025 03:19 UTC
-# Version: 2025.0206.0319.47
+# Last modified: 06 Feb 2025 15:21 UTC
+# Version: 2025.0206.1521.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9724
+# Number of entries: 9723
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -9680,7 +9680,6 @@ local=/zetracker.net/
 local=/zeus-net.pw/
 local=/zhongzicili.com/
 local=/zhongzishenqi.com/
-local=/zionapp.live/
 local=/zipcodeshop.com/
 local=/zipcomic.com/
 local=/zipcomics.net/
