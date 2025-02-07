@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738854300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738897320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Feb 2025 15:05 UTC
-; Version: 2025.0206.1505.49
+; Last modified: 07 Feb 2025 03:02 UTC
+; Version: 2025.0207.0302.38
 ; Syntax: RPZ
-; Number of entries: 143880
+; Number of entries: 143892
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -4711,6 +4711,8 @@ bullsbet.bet.br CNAME .
 *.bullsbet.bet.br CNAME .
 cassino.bet.br CNAME .
 *.cassino.bet.br CNAME .
+donald.bet.br CNAME .
+*.donald.bet.br CNAME .
 h2.bet.br CNAME .
 *.h2.bet.br CNAME .
 mrjack.bet.br CNAME .
@@ -4787,6 +4789,8 @@ cqc777.com.br CNAME .
 *.cqc777.com.br CNAME .
 csc777.com.br CNAME .
 *.csc777.com.br CNAME .
+donaldbet.com.br CNAME .
+*.donaldbet.com.br CNAME .
 drpierreresendevascular.com.br CNAME .
 *.drpierreresendevascular.com.br CNAME .
 egolapostas.com.br CNAME .
@@ -23233,6 +23237,8 @@ fseer.58sinverify.com CNAME .
 *.6171bet168.com CNAME .
 6176b.com CNAME .
 *.6176b.com CNAME .
+61betonred66.com CNAME .
+*.61betonred66.com CNAME .
 61xbet.com CNAME .
 *.61xbet.com CNAME .
 62000012.com CNAME .
@@ -42171,6 +42177,8 @@ dailyforex.com CNAME .
 *.dailyforex.com CNAME .
 dailyrecordbingo.com CNAME .
 *.dailyrecordbingo.com CNAME .
+dailyspins.com CNAME .
+*.dailyspins.com CNAME .
 daisyslots.com CNAME .
 *.daisyslots.com CNAME .
 dalangberi.com CNAME .
@@ -56001,6 +56009,8 @@ lex-casino39.com CNAME .
 *.lex-casino39.com CNAME .
 lex-casino776.com CNAME .
 *.lex-casino776.com CNAME .
+lex-casinovip.com CNAME .
+*.lex-casinovip.com CNAME .
 leyoubets.com CNAME .
 *.leyoubets.com CNAME .
 cdn.lfastcdn.com CNAME .
@@ -69555,6 +69565,8 @@ sgcasino2.com CNAME .
 *.sgcasino2.com CNAME .
 sgcasino3.com CNAME .
 *.sgcasino3.com CNAME .
+sgcasino533196.com CNAME .
+*.sgcasino533196.com CNAME .
 sgcasinoaus.com CNAME .
 *.sgcasinoaus.com CNAME .
 sgcasinocity.com CNAME .

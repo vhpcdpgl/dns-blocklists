@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738855560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738898520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Feb 2025 15:26 UTC
-; Version: 2025.0206.1526.25
+; Last modified: 07 Feb 2025 03:22 UTC
+; Version: 2025.0207.0322.04
 ; Syntax: RPZ
-; Number of entries: 7466
+; Number of entries: 7464
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -314,8 +314,6 @@ proxy.cc CNAME .
 *.proxy.cc CNAME .
 proxysite.cc CNAME .
 *.proxysite.cc CNAME .
-v.qdev.cc CNAME .
-*.v.qdev.cc CNAME .
 seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
 theproxy.cc CNAME .

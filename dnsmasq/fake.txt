@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2025 11:48 UTC
-# Version: 2025.0206.1148.18
+# Last modified: 06 Feb 2025 23:49 UTC
+# Version: 2025.0206.2349.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10534
+# Number of entries: 10540
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2016,6 +2016,7 @@ local=/cozyfishing.com/
 local=/cozyhomeus.com/
 local=/cozysapparels.com/
 local=/cp24.pl/
+local=/coh.cpayc.top/
 local=/crafts-sewing.com/
 local=/craftsmansale.com/
 local=/crankangebote.com/
@@ -3915,6 +3916,7 @@ local=/goodheatsk.best/
 local=/goodidealshop.com/
 local=/goodjutear.live/
 local=/goodmedsshops.com/
+local=/goodpolysk.best/
 local=/goodpricedrugs.com/
 local=/goodqualitypot.com/
 local=/goodsfunmk.best/
@@ -3922,6 +3924,7 @@ local=/goodssite.online/
 local=/goodstuffshoes.com/
 local=/goodstuffsport.com/
 local=/goodstufftool.com/
+local=/goodtunask.best/
 local=/goodvishet.shop/
 local=/goos-heizoel.de/
 local=/gopandoo.shop/
@@ -4592,6 +4595,7 @@ local=/hunterregenlaarzen.com/
 local=/huntersstiefel.at/
 local=/hunterstiefel.at/
 local=/huntingfishingsale.com/
+local=/hurican.net/
 local=/hurleyshop.at/
 local=/hurst-iwde.shop/
 local=/hurtiglane-shop.com/
@@ -5734,6 +5738,7 @@ local=/malen-und-reisen.de/
 local=/malerbedarf-sales.com/
 local=/malisen.de/
 local=/mall-outdoors.com/
+local=/malls-36.top/
 local=/malschule-wetzlar.de/
 local=/mamiblockshop.shop/
 local=/mammutwien.at/
@@ -7444,6 +7449,7 @@ local=/pumaosterreich.at/
 local=/pumpeprada.com/
 local=/punkrave.ch/
 local=/puntoblancoshop.com/
+local=/puotsovf.com/
 local=/puppenhauser.com/
 local=/puppyrope.shop/
 local=/fr.puprime.net/

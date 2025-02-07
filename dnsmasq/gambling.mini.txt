@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2025 15:05 UTC
-# Version: 2025.0206.1505.49
+# Last modified: 07 Feb 2025 03:02 UTC
+# Version: 2025.0207.0302.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 71940
+# Number of entries: 71946
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -11182,6 +11182,7 @@ local=/6171bet103.com/
 local=/6171bet168.com/
 local=/6176b.com/
 local=/61929.poker/
+local=/61betonred66.com/
 local=/61xbet.com/
 local=/62000012.com/
 local=/62000016.com/
@@ -18512,6 +18513,7 @@ local=/casinoclubonline.bet.ar/
 local=/cassino.bet.br/
 local=/codere.bet.ar/
 local=/delrio.bet.ar/
+local=/donald.bet.br/
 local=/guazubet.bet.ar/
 local=/h2.bet.br/
 local=/mrjack.bet.br/
@@ -29743,6 +29745,7 @@ local=/dabble.com.au/
 local=/damacai.com.my/
 local=/diamondbet.com.au/
 local=/dogelexusvip.com.co/
+local=/donaldbet.com.br/
 local=/doxxbet.com.lr/
 local=/draftstars.com.au/
 local=/dragonslots.com.pt/
@@ -30998,6 +31001,7 @@ local=/dailybets.in/
 local=/dailydropswins.com/
 local=/dailyforex.com/
 local=/dailyrecordbingo.com/
+local=/dailyspins.com/
 local=/daisyslots.com/
 local=/dalangberi.com/
 local=/dalanghebat.com/
@@ -45327,6 +45331,7 @@ local=/lex-casino-uke1.ru/
 local=/lex-casino-uke2.ru/
 local=/lex-casino39.com/
 local=/lex-casino776.com/
+local=/lex-casinovip.com/
 local=/lex288.id/
 local=/lexcasino.fi/
 local=/lexcasino-ast1.ru/
@@ -60793,6 +60798,7 @@ local=/sgcasino.pro/
 local=/sgcasino1.com/
 local=/sgcasino2.com/
 local=/sgcasino3.com/
+local=/sgcasino533196.com/
 local=/sgcasinoaus.com/
 local=/sgcasinocity.com/
 local=/sgcplayrtp.homes/

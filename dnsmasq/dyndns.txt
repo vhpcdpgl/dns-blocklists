@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2025 03:21 UTC
-# Version: 2025.0206.0321.30
+# Last modified: 07 Feb 2025 03:18 UTC
+# Version: 2025.0207.0318.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1471
+# Number of entries: 1473
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -717,6 +717,7 @@ local=/imexsac.com/
 local=/imprendum.com/
 local=/in-the-band.net/
 local=/independentonline.ro/
+local=/inet2.org/
 local=/inflict.us/
 local=/info.gf/
 local=/info.tm/
@@ -1447,6 +1448,7 @@ local=/worse-than.tv/
 local=/writesthisblog.com/
 local=/www1.biz/
 local=/wwwhost.biz/
+local=/wwwhost.us/
 local=/x24hr.com/
 local=/x443.pw/
 local=/xddns.de/

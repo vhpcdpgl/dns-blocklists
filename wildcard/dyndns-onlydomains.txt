@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2025 03:21 UTC
-# Version: 2025.0206.0321.30
+# Last modified: 07 Feb 2025 03:18 UTC
+# Version: 2025.0207.0318.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 1471
+# Number of entries: 1473
 #
 0000000000000000000000.com
 0rg.us
@@ -717,6 +717,7 @@ imexsac.com
 imprendum.com
 in-the-band.net
 independentonline.ro
+inet2.org
 inflict.us
 info.gf
 info.tm
@@ -1447,6 +1448,7 @@ worse-than.tv
 writesthisblog.com
 www1.biz
 wwwhost.biz
+wwwhost.us
 x24hr.com
 x443.pw
 xddns.de
