@@ -68,3 +68,23 @@ incidents.diagnostics.office.com
 logging.diagnostics.office.com
 msa.diagnostics.office.com
 supportexperience.diagnostics.office.com
+
+# OPTIONAL
+# There are reports that the SSO (AD) login of various Microsoft apps does not work on Android - could not be reproduced and confirmed so far: https://github.com/hagezi/dns-blocklists/issues/5118
+# Also used for various Microsoft telemetry: https://github.com/microsoft/cpp_client_telemetry/blob/main/docs/EUDB-compliance.md
+# Code: https://github.com/search?q=repo%3Amicrosoft%2Fcpp_client_telemetry%20mobile.events.data.microsoft.com&type=code
+mobile.events.data.microsoft.com
+au-mobile.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+in-mobile.events.data.microsoft.com
+jp-mobile.events.data.microsoft.com
+uk-mobile.events.data.microsoft.com
+us-mobile.events.data.microsoft.com
+# CNAMES
+mobile.events.data.trafficmanager.net
+au.events.data.trafficmanager.net
+eu.events.data.trafficmanager.net
+in.events.data.trafficmanager.net
+jp.events.data.trafficmanager.net
+uk.events.data.trafficmanager.net
+us.events.data.trafficmanager.net

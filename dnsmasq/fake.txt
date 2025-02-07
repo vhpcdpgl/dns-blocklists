@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Feb 2025 23:49 UTC
-# Version: 2025.0206.2349.44
+# Last modified: 07 Feb 2025 11:52 UTC
+# Version: 2025.0207.1152.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10540
+# Number of entries: 10537
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1426,6 +1426,7 @@ local=/btceprex.net/
 local=/btceprex360.com/
 local=/btcswing.com/
 local=/btop24.de/
+local=/btvtransport.com/
 local=/buceplantde.shop/
 local=/buchholzs.de/
 local=/buchverlag-scholz.de/
@@ -2016,7 +2017,6 @@ local=/cozyfishing.com/
 local=/cozyhomeus.com/
 local=/cozysapparels.com/
 local=/cp24.pl/
-local=/coh.cpayc.top/
 local=/crafts-sewing.com/
 local=/craftsmansale.com/
 local=/crankangebote.com/
@@ -3916,7 +3916,6 @@ local=/goodheatsk.best/
 local=/goodidealshop.com/
 local=/goodjutear.live/
 local=/goodmedsshops.com/
-local=/goodpolysk.best/
 local=/goodpricedrugs.com/
 local=/goodqualitypot.com/
 local=/goodsfunmk.best/
@@ -4595,7 +4594,6 @@ local=/hunterregenlaarzen.com/
 local=/huntersstiefel.at/
 local=/hunterstiefel.at/
 local=/huntingfishingsale.com/
-local=/hurican.net/
 local=/hurleyshop.at/
 local=/hurst-iwde.shop/
 local=/hurtiglane-shop.com/
@@ -7449,7 +7447,6 @@ local=/pumaosterreich.at/
 local=/pumpeprada.com/
 local=/punkrave.ch/
 local=/puntoblancoshop.com/
-local=/puotsovf.com/
 local=/puppenhauser.com/
 local=/puppyrope.shop/
 local=/fr.puprime.net/
@@ -7497,7 +7494,6 @@ local=/quayparis.com/
 local=/quaysouthafrica.net/
 local=/quaysstore.com/
 local=/quaysuomeksi.com/
-local=/queen-sparkles.com/
 local=/queenofarticle.com/
 local=/queensgaa.com/
 local=/quendora.com/
@@ -7727,6 +7723,7 @@ local=/retouren-produkte-retten.net/
 local=/retrogamingshop.de/
 local=/returnpotentialonline.com/
 local=/revemotode.shop/
+local=/reviewpunt.nl/
 local=/revolutionfsl.com/
 local=/revolutionraceclothes.com/
 local=/revolutionraceinc.com/

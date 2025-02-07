@@ -29,13 +29,13 @@
  19 |      90% |   0% |     10% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      61% |  35% |      4% | Analytics/Metrics Extension
- 22 |      88% |  12% |      0% | Balanced Extension
+ 22 |      87% |  13% |      0% | Balanced Extension
 ```
 #### PRO
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
-  2 |      75% |  19% |      6% | Denylist Personal
+  2 |      76% |  18% |      6% | Denylist Personal
   3 |      87% |   3% |     10% | Extracted Wildcard Rules
   4 |      58% |   0% |     42% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      90% |   0% |     10% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -53,7 +53,7 @@
  17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
  18 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  19 |      61% |  35% |      4% | Analytics/Metrics Extension
- 20 |      88% |  12% |      0% | Balanced Extension
+ 20 |      87% |  13% |      0% | Balanced Extension
  21 |      83% |   9% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  23 |      90% |   5% |      5% | Advanced Extension
@@ -64,7 +64,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
-  2 |      76% |  19% |      5% | Denylist Personal
+  2 |      77% |  18% |      5% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |      59% |   0% |     41% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -80,7 +80,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
- 18 |      88% |  12% |      0% | Balanced Extension
+ 18 |      87% |  13% |      0% | Balanced Extension
  19 |      85% |   9% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      90% |   5% |      5% | Advanced Extension
@@ -96,7 +96,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
-  2 |      77% |  19% |      4% | Denylist Personal
+  2 |      78% |  18% |      4% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |     100% |   0% |      0% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -112,7 +112,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      64% |  35% |      1% | Analytics/Metrics Extension
- 18 |      88% |  12% |      0% | Balanced Extension
+ 18 |      87% |  13% |      0% | Balanced Extension
  19 |      85% |   9% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      92% |   5% |      3% | Advanced Extension
