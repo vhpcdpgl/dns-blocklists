@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Feb 2025 00:11 UTC
-# Version: 2025.0201.0011.36
+# Last modified: 08 Feb 2025 00:10 UTC
+# Version: 2025.0208.0010.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 351
+# Number of entries: 352
 #
+measure.office.com.akamaized.net
 in.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
@@ -30,6 +31,7 @@ collector.azure.cn
 js.monitor.azure.com
 adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
+adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -132,7 +134,6 @@ ssw.live.com
 watson.live.com
 ads.microsoft.com
 adsdk.microsoft.com
-adsstatic.microsoft.com
 advertising.microsoft.com
 analyticspixel.microsoft.com
 applicationinsights.microsoft.com

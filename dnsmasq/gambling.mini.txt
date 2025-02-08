@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Feb 2025 15:13 UTC
-# Version: 2025.0207.1513.52
+# Last modified: 07 Feb 2025 23:52 UTC
+# Version: 2025.0207.2352.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 71397
+# Number of entries: 71408
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -131,10 +131,12 @@ local=/00slots8.com/
 local=/00vipj88.com/
 local=/00win33.com/
 local=/00xwin.com/
+local=/010p6.com/
 local=/011880.com/
 local=/0119t.com/
 local=/0123win.com/
 local=/012gggg.com/
+local=/012pxj.com/
 local=/0133win.com/
 local=/013806.app/
 local=/0139.com/
@@ -924,6 +926,7 @@ local=/144betcasino.com/
 local=/1451joycasino.com/
 local=/1453joycasino.com/
 local=/1455joycasino.com/
+local=/146superph.com/
 local=/147722.com/
 local=/148.casino/
 local=/1486joycasino.com/
@@ -11227,6 +11230,7 @@ local=/658bet8.com/
 local=/658k8.com/
 local=/659618.com/
 local=/65bet999.bet/
+local=/65phdream.net/
 local=/660261.com/
 local=/66066.club/
 local=/660718.com/
@@ -11479,6 +11483,7 @@ local=/68kub.cc/
 local=/68lottery1.com/
 local=/68merryph.com/
 local=/68phcash.com/
+local=/68slotsgo.club/
 local=/68winbet.com/
 local=/690863.com/
 local=/692789.com/
@@ -11494,6 +11499,7 @@ local=/6981.com/
 local=/698bet.xyz/
 local=/698k8.com/
 local=/699888.vip/
+local=/69aceph.club/
 local=/69casino.top/
 local=/69games.cz/
 local=/69gg9.com/
@@ -20100,6 +20106,7 @@ local=/betx9.com/
 local=/betxxpoker.com/
 local=/betybet.com/
 local=/betyoner.casino/
+local=/betz.casino/
 local=/betzard.com/
 local=/betzardcasino.de/
 local=/betzardcasinos.com/
@@ -29317,6 +29324,7 @@ local=/cokecasino.com/
 local=/coktogelcs2.com/
 local=/colarpg.com/
 local=/colcasinos.com/
+local=/cole1111.com/
 local=/colemannow.com/
 local=/ipv4.colgagnez.org/
 local=/ipv6.colgagnez.org/
@@ -34787,7 +34795,6 @@ local=/freshcasinoz.top/
 local=/freshcoolcasino.com/
 local=/freshforex.org/
 local=/freshkazino-slots.com/
-local=/euc-widget.freshworks.com/
 local=/frevo777slots-entrar.pro/
 local=/freybets.com/
 local=/freybets.xyz/
@@ -46318,6 +46325,8 @@ local=/luz777.vip/
 local=/lv-0030.com/
 local=/lv166.com/
 local=/lv177.net/
+local=/lv177slot.net/
+local=/lv177thai.com/
 local=/lv68.bet/
 local=/lv68.org/
 local=/lv681.com/
@@ -58420,6 +58429,7 @@ local=/rkcasino.tw/
 local=/rksporte.net/
 local=/rm66.com/
 local=/rm66thai.com/
+local=/rm6game.com/
 local=/rmas.club/
 local=/rmmo6m.ink/
 local=/rnbdskpol.life/
@@ -59005,6 +59015,7 @@ local=/royalspincasino.casino/
 local=/royalspincasino.com/
 local=/royalspins.casino/
 local=/royalspinz.com/
+local=/royalspinz.xyz/
 local=/royalstarscasino.com/
 local=/royalstarscasino.info/
 local=/royalswipe.com/

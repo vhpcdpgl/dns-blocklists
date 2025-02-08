@@ -883,13 +883,6 @@
       }
     },
     {
-      "PK": "fbsmarthome.site",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "fedi.directory",
       "action": {
         "do": 1,
@@ -898,6 +891,13 @@
     },
     {
       "PK": "fedi.monster",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fedi.surf",
       "action": {
         "do": 1,
         "status": 1
@@ -2221,13 +2221,6 @@
     },
     {
       "PK": "proven.lol",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "qr-code.click",
       "action": {
         "do": 1,
         "status": 1

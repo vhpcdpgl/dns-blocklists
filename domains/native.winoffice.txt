@@ -4,11 +4,14 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Feb 2025 00:11 UTC
-# Version: 2025.0201.0011.36
+# Last modified: 08 Feb 2025 00:10 UTC
+# Version: 2025.0208.0010.47
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 692
+# Number of entries: 691
 #
+measure.office.com.akamaized.net
+fp.measure.office.com.akamaized.net
+upload2.fp.measure.office.com.akamaized.net
 in.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
@@ -114,6 +117,7 @@ collector.azure.cn
 js.monitor.azure.com
 adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
+adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -245,10 +249,8 @@ status.ads.microsoft.com
 ucm.ads.microsoft.com
 ui.ads.microsoft.com
 adsdk.microsoft.com
-adsstatic.microsoft.com
 advertising.microsoft.com
 community.advertising.microsoft.com
-fp.advertising.microsoft.com
 sts.advertising.microsoft.com
 analyticspixel.microsoft.com
 applicationinsights.microsoft.com
@@ -432,7 +434,6 @@ statsfe2.ws.microsoft.com
 gateway.bingviz.microsoftapp.net
 msads.net
 ads1.msads.net
-a.ads1.msads.net
 ads2.msads.net
 a.ads2.msads.net
 b.ads2.msads.net
@@ -447,8 +448,6 @@ ads.msn.com
 ads1.msn.com
 ads2.msn.com
 adsyndication.msn.com
-images.adsyndication.msn.com
-images-ppe.adsyndication.msn.com
 analytics.msn.com
 metric.appex-rf.msn.com
 c.ar.msn.com

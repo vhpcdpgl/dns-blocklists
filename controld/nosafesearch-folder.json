@@ -505,13 +505,6 @@
       }
     },
     {
-      "PK": "search.bus-hit.me",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.cronobox.one",
       "action": {
         "do": 0,
@@ -702,13 +695,6 @@
     },
     {
       "PK": "search.privacytools.io",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "search.projectsegfau.lt",
       "action": {
         "do": 0,
         "status": 1
@@ -1129,13 +1115,6 @@
     },
     {
       "PK": "searxng.no-logs.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.nightmare.life",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1738941180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1738972320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Feb 2025 15:13 UTC
-; Version: 2025.0207.1513.52
+; Last modified: 07 Feb 2025 23:52 UTC
+; Version: 2025.0207.2352.28
 ; Syntax: RPZ
-; Number of entries: 142794
+; Number of entries: 142816
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -8951,6 +8951,8 @@ betwithfriends.casino CNAME .
 *.betwithfriends.casino CNAME .
 betyoner.casino CNAME .
 *.betyoner.casino CNAME .
+betz.casino CNAME .
+*.betz.casino CNAME .
 beymenslot.casino CNAME .
 *.beymenslot.casino CNAME .
 beyond.casino CNAME .
@@ -14485,6 +14487,10 @@ zulacasino.cloud CNAME .
 *.57plusph.club CNAME .
 66066.club CNAME .
 *.66066.club CNAME .
+68slotsgo.club CNAME .
+*.68slotsgo.club CNAME .
+69aceph.club CNAME .
+*.69aceph.club CNAME .
 777pc.club CNAME .
 *.777pc.club CNAME .
 77dragon.club CNAME .
@@ -16703,6 +16709,8 @@ sobatjp.college CNAME .
 *.00win33.com CNAME .
 00xwin.com CNAME .
 *.00xwin.com CNAME .
+010p6.com CNAME .
+*.010p6.com CNAME .
 011880.com CNAME .
 *.011880.com CNAME .
 0119t.com CNAME .
@@ -16711,6 +16719,8 @@ sobatjp.college CNAME .
 *.0123win.com CNAME .
 012gggg.com CNAME .
 *.012gggg.com CNAME .
+012pxj.com CNAME .
+*.012pxj.com CNAME .
 0133win.com CNAME .
 *.0133win.com CNAME .
 0139.com CNAME .
@@ -18025,6 +18035,8 @@ www.12312305.com CNAME .
 *.1453joycasino.com CNAME .
 1455joycasino.com CNAME .
 *.1455joycasino.com CNAME .
+146superph.com CNAME .
+*.146superph.com CNAME .
 147722.com CNAME .
 *.147722.com CNAME .
 1486joycasino.com CNAME .
@@ -40783,6 +40795,8 @@ colarpg.com CNAME .
 *.colarpg.com CNAME .
 colcasinos.com CNAME .
 *.colcasinos.com CNAME .
+cole1111.com CNAME .
+*.cole1111.com CNAME .
 colemannow.com CNAME .
 *.colemannow.com CNAME .
 coliseubets.com CNAME .
@@ -46011,8 +46025,6 @@ freshcoolcasino.com CNAME .
 *.freshcoolcasino.com CNAME .
 freshkazino-slots.com CNAME .
 *.freshkazino-slots.com CNAME .
-euc-widget.freshworks.com CNAME .
-*.euc-widget.freshworks.com CNAME .
 freybets.com CNAME .
 *.freybets.com CNAME .
 friendlybetscasino.com CNAME .
@@ -56999,6 +57011,8 @@ lv-0030.com CNAME .
 *.lv-0030.com CNAME .
 lv166.com CNAME .
 *.lv166.com CNAME .
+lv177thai.com CNAME .
+*.lv177thai.com CNAME .
 lv681.com CNAME .
 *.lv681.com CNAME .
 lv682.com CNAME .
@@ -67083,6 +67097,8 @@ rm66.com CNAME .
 *.rm66.com CNAME .
 rm66thai.com CNAME .
 *.rm66thai.com CNAME .
+rm6game.com CNAME .
+*.rm6game.com CNAME .
 ro-legalonlinecasinos.com CNAME .
 *.ro-legalonlinecasinos.com CNAME .
 roaring21.com CNAME .
@@ -93157,6 +93173,8 @@ windblowcasino.name CNAME .
 *.603.net CNAME .
 645lotto.net CNAME .
 *.645lotto.net CNAME .
+65phdream.net CNAME .
+*.65phdream.net CNAME .
 6680bet.net CNAME .
 *.6680bet.net CNAME .
 6686vn.net CNAME .
@@ -95537,6 +95555,8 @@ luxcasino.net CNAME .
 *.luxcasino.net CNAME .
 lv177.net CNAME .
 *.lv177.net CNAME .
+lv177slot.net CNAME .
+*.lv177slot.net CNAME .
 lytobetslot.net CNAME .
 *.lytobetslot.net CNAME .
 m789bet.net CNAME .
@@ -141803,6 +141823,8 @@ royal633nawala.xyz CNAME .
 *.royal633nawala.xyz CNAME .
 royalcasino-app.xyz CNAME .
 *.royalcasino-app.xyz CNAME .
+royalspinz.xyz CNAME .
+*.royalspinz.xyz CNAME .
 rrcasino.xyz CNAME .
 *.rrcasino.xyz CNAME .
 rtp-agpolajitu.xyz CNAME .

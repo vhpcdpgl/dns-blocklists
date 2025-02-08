@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Feb 2025 11:16 UTC
-# Version: 2025.0203.1116.06
+# Last modified: 08 Feb 2025 00:16 UTC
+# Version: 2025.0208.0016.14
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 362
 #
@@ -85,7 +85,7 @@ local=/ads.tiktok.in/
 local=/ads.tiktok.tv/
 local=/ads-api.tiktok.com/
 local=/ads-frontier.tiktok.com/
-local=/ads-service.tiktok.com/
+local=/ads-imapi.tiktok.com/
 local=/ads-sg.tiktok.com/
 local=/ads-useast2a.tiktok.com/
 local=/analytics.tiktok.com/

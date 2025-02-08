@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2025 16:41 UTC
-# Version: 2025.0124.1641.02
+# Last modified: 07 Feb 2025 23:31 UTC
+# Version: 2025.0207.2331.30
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 220
+# Number of entries: 217
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -34,7 +34,6 @@
 *.search.bluelock.org
 *.boomle.com
 *.search.bowlman.org
-*.search.bus-hit.me
 *.searx.catfluori.de
 *.sx.catgirl.cloud
 *.search.aol.co.uk
@@ -130,7 +129,6 @@
 *.searx.netzspielplatz.de
 *.nibblehole.com
 *.searxng.nicfab.eu
-*.searx.nightmare.life
 *.nigma.eu
 *.searx.nixnet.services
 *.searxng.no-logs.com
@@ -159,7 +157,6 @@
 *.whoogle.privacydev.net
 *.search.privacytools.io
 *.search.in.projectsegfau.lt
-*.search.projectsegfau.lt
 *.search.us.projectsegfau.lt
 *.searx.prvcy.eu
 *.librex.pufe.org

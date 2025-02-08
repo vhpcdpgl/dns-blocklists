@@ -78,6 +78,13 @@
       }
     },
     {
+      "PK": "adsdkpreprod.afd.azureedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adsdkpreprod.azureedge.net",
       "action": {
         "do": 0,
@@ -135,13 +142,6 @@
     },
     {
       "PK": "ads.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "adsstatic.microsoft.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1395,6 +1395,13 @@
     },
     {
       "PK": "measure.office.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "measure.office.com.akamaized.net",
       "action": {
         "do": 0,
         "status": 1
